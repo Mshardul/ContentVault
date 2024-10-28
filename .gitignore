@@ -1,0 +1,46 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# Node and React
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Log files
+*.log
+*.log.*
+
+# Build output
+build/
+dist/
+public/assets
+
+# Editor Directories and Files
+.idea/
+.vscode/
+
+# MacOS and system-specific files
+.Trashes
+*.swp
+._*
+.Spotlight-V100
+.DocumentRevisions-V100
+.fseventsd
+.TemporaryItems
+.apdisk
+
+# Coverage and test reports
+coverage/
+*.lcov
+*.lcov.*
+jest-html-reporters-*
