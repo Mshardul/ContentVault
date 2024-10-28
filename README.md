@@ -46,3 +46,43 @@ Articles are stored in a static JSON file within the app, with each article cont
   "publish_date": "YYYY-MM-DD",
   "read": true
 }
+```
+
+## Components
+
+### Core Components
+- Header: Contains the logo and the search button.
+  - Logo: Clickable, redirects to the homepage.
+  - Search: Multi-select dropdown to filter by tags with a search button.
+- Footer: links to About, Contact, and possibly a copyright notice.
+- ArticleCard: A component to display individual article information (title, tags, publication, authors, read status).
+  - Props:
+    - title, url, tags, authors, publication, read
+- TagList: A component to display tags for an article. Clickable tags to redirect to tag-specific pages.
+
+### Page Components
+- HomePage: Displays all articles with basic filters.
+  - Contains a list of ArticleCard components.
+  - Header with search and tag filtering options.
+- TagListPage: Shows a list of all tags.
+  - Each tag is clickable and redirects to its corresponding content page (TagContentPage).
+  - Could display the count of articles for each tag.
+- TagContentPage: Displays articles for a single tag.
+  - Header includes the tag name and count of articles.
+  - Contains a list of ArticleCard components filtered by the selected tag.
+- MultiTagContentPage: Divided layout with two sections:
+  - Left: Union of selected tags.
+  - Right: Intersection of selected tags.
+  - Each section has:
+    - Top articles with a “See All Union” / “See All Intersection” button.
+- AboutPage: A static page describing the app and its purpose.
+- SearchResultPage: Displays articles based on selected tags.
+  - Triggered by the search button in the header.
+  - Shows articles matching the selected tag criteria.
+  
+### Supporting Components
+- SearchDropdown: Multi-select dropdown for tags.
+  - Includes a “search” button to apply the selected tags.
+- UnionIntersectionButtons: Buttons for selecting the union or intersection views in MultiTagPage.
+- AuthorList: Renders a list of authors for each article.
+- PublicationLabel: Displays the publication source if available.

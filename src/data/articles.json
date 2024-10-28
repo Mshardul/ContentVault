@@ -1,0 +1,248 @@
+[
+  {
+    "title": "Why Is Redis a Distributed Swiss Army Knife",
+    "url": "https://newsletter.systemdesign.one/p/redis-use-cases",
+    "tags": ["System Design", "Redis"],
+    "read": true
+  },
+  {
+    "title": "How Halo Scaled to 11.6 Million Users Using the Saga Design Pattern",
+    "url": "https://newsletter.systemdesign.one/p/saga-design-pattern",
+    "tags": ["System Design", "Saga", "Database"],
+    "read": false
+  },
+  {
+    "title": "Back of the envelope in terms of Latency",
+    "url": "https://systemdesign.one/back-of-the-envelope/",
+    "tags": ["System Design", "Latency"],
+    "read": false
+  },
+  {
+    "title": "Consistent Hashing Explained",
+    "url": "https://systemdesign.one/consistent-hashing-explained/",
+    "thumbnail": "https://systemdesign.one/consistent-hashing-explained/What-is-consistent-hashing.webp",
+    "tags": ["System Design", "Hashing"],
+    "read": false
+  },
+  {
+    "title": "What Is Service Discovery?",
+    "url": "https://systemdesign.one/what-is-service-discovery/",
+    "tags": ["System Design", "Service Discovery"],
+    "read": false
+  },
+  {
+    "title": "Consistency Patterns",
+    "url": "https://systemdesign.one/consistency-patterns/",
+    "thumbnail": "https://systemdesign.one/consistency-patterns/consistency-patterns.webp",
+    "tags": ["System Design", "Consistency", "Database"],
+    "read": false
+  },
+  {
+    "title": "How to use Redis in System Design Interviews",
+    "url": "https://systemdesignnewsletter.substack.com/p/ep-16-how-to-use-redis-in-system",
+    "tags": ["System Design", "Redis", "Cache"],
+    "read": true
+  },
+  {
+    "title": "An Engineer’s Checklist of Logging Best Practices",
+    "url": "https://www.honeycomb.io/blog/engineers-checklist-logging-best-practices",
+    "thumbnail": "https://www.honeycomb.io/wp-content/uploads/2024/09/Blog-Logging_Best_Practices-FI-v1.jpg",
+    "tags": ["System Design", "Logs", "Debug"],
+    "read": true
+  },
+  {
+    "title": "How does OAuth2.0 work?",
+    "url": "https://newsletter.techworld-with-milan.com/p/how-does-oauth-20-work",
+    "tags": [
+      "System Design",
+      "Authentication",
+      "Authorization",
+      "Oauth 2.0"
+    ],
+    "read": false
+  },
+  {
+    "title": "Building a load balancer in Go part 1",
+    "url": "https://substack.com/home/post/p-148316783",
+    "tags": ["System Design", "Building from Scratch", "Load Balancer", "Golang"],
+    "read": false
+  },
+  {
+    "title": "Building a load balancer in Go part 2",
+    "url": "https://substack.com/home/post/p-148347428",
+    "tags": ["System Design", "Building from Scratch", "Load Balancer", "Golang"],
+    "read": false
+  },
+  {
+    "title": "Building a load balancer in Go part 3",
+    "url": "https://substack.com/home/post/p-148375153",
+    "tags": ["System Design", "Building from Scratch", "Load Balancer", "Golang"],
+    "read": false
+  },
+  {
+    "title": "Spotify",
+    "url": "https://blog.algomaster.io/p/design-spotify-system-design-interview",
+    "tags": ["System Design", "Building from Scratch", "Spotify Design"],
+    "read": false
+  },
+  {
+    "title": "Design a Scalable Notification Service",
+    "url": "https://blog.algomaster.io/p/design-a-scalable-notification-service",
+    "tags": ["System Design", "Building from Scratch", "Notification Service"],
+    "read": false
+  },
+  {
+    "title": "Live Comment System Design",
+    "url": "https://systemdesign.one/live-comment-system-design/",
+    "tags": ["System Design", "Building from Scratch", "Real Time", "Live Comment System"],
+    "read": false
+  },
+  {
+    "title": "Leaderboard System Design",
+    "url": "https://systemdesign.one/leaderboard-system-design/",
+    "tags": ["System Design", "Building from Scratch", "Leaderboard"],
+    "read": false
+  },
+  {
+    "title": "Distributed Counter System Design",
+    "url": "https://systemdesign.one/distributed-counter-system-design/",
+    "tags": ["System Design", "Building from Scratch", "Distributed Counter System"],
+    "read": false
+  },
+  {
+    "title": "URL Shortening System Design",
+    "url": "https://systemdesign.one/url-shortening-system-design/",
+    "tags": ["System Design", "Building from Scratch", "URL Shortening System", "Bitly"],
+    "read": false
+  },
+  {
+    "title": "80 Million Photos Daily : How Instagram Achieves Real Time Photo Sharing",
+    "url": "https://naina0405.substack.com/p/system-design-tech-case-study-pulse-ed6",
+    "tags": ["System Design", "System Design Case Study", "Scalability", "Instagram"],
+    "read": false
+  },
+  {
+    "title": "The Trillion Message Kafka setup at Walmart",
+    "url": "https://substack.com/home/post/p-149639785",
+    "tags": ["System Design", "System Design Case Study", "Scalability", "Kafka", "Walmart"],
+    "read": false
+  },
+  {
+    "title": "How Amazon S3 Achieves 99.999999999% Durability",
+    "url": "https://newsletter.systemdesign.one/p/amazon-s3-durability",
+    "tags": ["System Design", "System Design Case Study", "Durability", "Amazon Web Service (AWS)", "AWS S3"],
+    "read": false
+  },
+  {
+    "title": "How YouTube Was Able to Support 2.49 Billion Users With MySQL",
+    "url": "https://newsletter.systemdesign.one/p/vitess-mysql",
+    "tags": ["System Design", "System Design Case Study", "Scalability", "Youtube", "MySQL"],
+    "read": false
+  },
+  {
+    "title": "How Cloudflare Was Able to Support 55 Million Requests per Second With Only 15 Postgres Clusters",
+    "url": "https://newsletter.systemdesign.one/p/postgresql-scalability",
+    "tags": [
+      "System Design",
+      "System Design Case Study",
+      "Scalability",
+      "Cloudflare",
+      "Postgresql"
+    ],
+    "read": false
+  },
+  {
+    "title": "How Uber Computes ETA at Half a Million Requests per Second",
+    "url": "https://newsletter.systemdesign.one/p/uber-eta",
+    "tags": ["System Design", "System Design Case Study", "Scalability", "Uber"],
+    "read": false
+  },
+  {
+    "title": "How Stripe Prevents Double Payment Using Idempotent API",
+    "url": "https://newsletter.systemdesign.one/p/idempotent-api",
+    "tags": [
+      "System Design",
+      "System Design Case Study",
+      "Payments",
+      "Idempotent API",
+      "Idempotent Key",
+      "Stripe"
+    ],
+    "read": true
+  },
+  {
+    "title": "How Uber Finds Nearby Drivers at 1 Million Requests per Second",
+    "url": "https://newsletter.systemdesign.one/p/how-does-uber-find-nearby-drivers",
+    "tags": [
+      "System Design",
+      "System Design Case Study",
+      "Geolocation",
+      "Nearby Users",
+      "Uber"
+    ],
+    "read": false
+  },
+  {
+    "title": "How Amazon Lambda Works",
+    "url": "https://newsletter.systemdesign.one/p/how-does-aws-lambda-work",
+    "thumbnail": "https://substack-post-media.s3.amazonaws.com/public/images/531b744f-385b-4ae9-a70d-3d2e79ffbfed_1280x720.gif",
+    "tags": ["System Design", "System Design Case Study", "Scalability", "Amazon Web Service (AWS)", "AWS Lambda"],
+    "read": true
+  },
+  {
+    "title": "How to Scale an App to 10 Million Users on AWS",
+    "url": "https://newsletter.systemdesign.one/p/aws-scale",
+    "tags": ["System Design", "System Design Case Study", "Scalability", "Amazon Web Service (AWS)"],
+    "read": false
+  },
+  {
+    "title": "How Tinder Scaled to 1.6 Billion Swipes per Day",
+    "url": "https://newsletter.systemdesign.one/p/tinder-architecture",
+    "tags": ["System Design", "System Design Case Study", "Scalability", "Tinder"],
+    "read": false
+  },
+  {
+    "title": "How Google Search Works",
+    "url": "https://newsletter.systemdesign.one/p/search-engine-architecture",
+    "tags": [
+      "System Design",
+      "System Design Case Study",
+      "search_engine",
+      "Google",
+      "Google Search"
+    ],
+    "read": false
+  },
+  {
+    "title": "How Meta Achieves 99.99999999% Cache Consistency",
+    "url": "https://newsletter.systemdesign.one/p/cache-consistency",
+    "tags": ["System Design", "System Design Case Study", "Consistency", "Cache", "Meta"],
+    "read": false
+  },
+  {
+    "title": "Avoiding if-else Hell: The Functional Style",
+    "url": "https://lackofimagination.org/2024/09/avoiding-if-else-hell-the-functional-style",
+    "tags": ["Functional Programming", "If Else", "Programming"],
+    "read": true
+  },
+  {
+    "title": "Optimizing Postgres table layout for maximum efficiency",
+    "url": "https://r.ena.to/blog/optimizing-postgres-table-layout-for-maximum-efficiency/",
+    "thumbnail": "https://r.ena.to/blog/optimizing-postgres-table-layout-for-maximum-efficiency/cover.webp",
+    "tags": ["Prostgre SQL", "Database", "System Design"],
+    "read": false
+  },
+  {
+    "title": "Bloom Filters Explained",
+    "url": "https://systemdesign.one/bloom-filters-explained/",
+    "tags": ["System Design", "Bloom Filter"],
+    "read": false
+  },
+  {
+    "title": "How LinkedIn Adopted Protocol Buffers to Reduce Latency by 60%",
+    "url": "https://newsletter.systemdesign.one/p/protocol-buffers-vs-json",
+    "thumbnail": "https://substack-post-media.s3.amazonaws.com/public/images/3cd2544e-d467-455c-82b3-6483ea5e55e6_1280x720.png",
+    "tags": ["System Design", "Proto Buf", "JSON", "Scalability", "Latency"],
+    "read": false
+  }
+]
