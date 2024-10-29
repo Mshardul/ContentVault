@@ -1,58 +1,46 @@
-import React, { useContext, useState } from "react";
-import { Link } from "react-router-dom";
-import { FaSearch } from "react-icons/fa";
+import React, { useContext } from "react";
+import { Link, useNavigate } from "react-router-dom";
 import { AppContext } from "../context/AppContext";
 import TagDropdownSearch from "./TagDropdownSearch";
+import { FaTags, FaInfoCircle } from "react-icons/fa";
 
-const Header = ({ onSearch }) => {
+const Header = () => {
   const { tags } = useContext(AppContext);
-  const [selectedTags, setSelectedTags] = useState([]);
+  const navigate = useNavigate();
 
-  const removeTag = (tagToRemove) => {
-    setSelectedTags(selectedTags.filter((tag) => tag !== tagToRemove));
-  };
-
-  // Function to trigger search based on selected tags
-  const handleSearch = () => {
-    if (onSearch) {
-      onSearch(selectedTags);
-    }
+  // Function to handle search based on selected tags
+  const handleSearch = (selectedTags) => {
+    navigate("/tags/filter", { state: { selectedTagNames: selectedTags.map((tag) => tag.name) } });
   };
 
   return (
     <header className="flex items-center justify-between px-6 py-4 bg-white shadow-md">
-      {/* Logo */}
-      <Link
-        to="/"
-        className="text-2xl font-bold text-gray-800 hover:text-gray-600"
-      >
-        ContentVault
-      </Link>
+      {/* Left Side: Logo and Search */}
+      <div className="flex items-center space-x-4">
+        {/* Logo */}
+        <Link to="/" className="text-2xl font-bold text-gray-800 hover:text-gray-600">
+          ContentVault
+          {/* <img src="path-to-logo.png" alt="Logo" className="h-8 w-8" /> */}
+        </Link>
 
-      {/* Tag Dropdown Search */}
-      <div className="flex items-center space-x-2">
-        {/* Tag Dropdown Search */}
-        <TagDropdownSearch
-          tags={tags}
-          selectedTags={selectedTags}
-          setSelectedTags={setSelectedTags}
-          className="flex-1 h-10 p-2 border border-gray-300 rounded-md"
-        />
-
-        {/* Search Button */}
-        <button
-          onClick={handleSearch}
-          className="h-10 px-4 text-white bg-blue-500 rounded-md hover:bg-blue-600 flex items-center"
-        >
-          <FaSearch className="mr-2" />
-          Search
-        </button>
+        {/* Search Component */}
+        <div className="w-full max-w-md">
+          <TagDropdownSearch tags={tags} onSearch={handleSearch} />
+        </div>
       </div>
 
-      {/* About Us */}
-      <Link to="/about" className="text-gray-700 hover:text-gray-500">
-        About Us
-      </Link>
+      {/* Right Side: Navigation Icons */}
+      <div className="flex items-center space-x-4">
+        {/* Tags */}
+        <Link to="/tags/all" className="text-gray-800 hover:text-gray-600">
+          <FaTags size={30} />
+        </Link>
+
+        {/* About Us */}
+        <Link to="/about" className="text-gray-800 hover:text-gray-600">
+          <FaInfoCircle size={30} />
+        </Link>
+      </div>
     </header>
   );
 };

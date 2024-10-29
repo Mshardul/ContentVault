@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import ArticleList from '../components/ArticleList';
 import articlesData from '../data/articles.json'; 
+import PageTitle from '../components/PageTitle';
 
 const HomePage = () => {
   const [articles, setArticles] = useState([]);
@@ -11,8 +12,8 @@ const HomePage = () => {
   }, []);
 
   return (
-    <div className="container mx-auto px-4 py-6">
-      <h1 className="text-3xl font-semibold mb-6 text-gray-800">All Articles</h1>
+    <div className="container mx-auto">
+      <PageTitle title="All Content" />
       <ArticleList articles={articles} />
     </div>
   );

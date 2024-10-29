@@ -1,10 +1,8 @@
-// ArticleCard.jsx
-
 import React, { useContext, useEffect, useState } from "react";
 import { FaSpinner } from "react-icons/fa";
 import { AppContext } from '../context/AppContext';
 import TagColorContext from '../context/TagColorContext';
-import { darkenColor } from '../utils/colorUtils';
+import TagsList from '../components/TagsList';
 
 const CORS_PROXY = "https://api.allorigins.win/raw?url=";
 
@@ -12,6 +10,7 @@ const ArticleCard = ({ title, url, tags = [], thumbnail = "" }) => {
   const { thumbnailCache, setThumbnailCache } = useContext(AppContext);
   const [thumbnailUrl, setThumbnailUrl] = useState(thumbnailCache[url] || "");
   const [loading, setLoading] = useState(!thumbnailCache[url]);
+  const [selectedTags, setSelectedTags] = useState([]);
 
   // Access tagColorMap from TagColorContext
   const tagColorMap = useContext(TagColorContext);
@@ -22,6 +21,7 @@ const ArticleCard = ({ title, url, tags = [], thumbnail = "" }) => {
   console.log("Tag colors for this article:", tags.map((tag) => tagColorMap[tag]).join(", "));
 
   useEffect(() => {
+    setSelectedTags(tags.map(tag => {return {name: tag, count: 0}}));
     if (thumbnail) {
       setThumbnailUrl(thumbnail);
       setLoading(false);
@@ -54,7 +54,7 @@ const ArticleCard = ({ title, url, tags = [], thumbnail = "" }) => {
     };
 
     fetchThumbnail();
-  }, [url, thumbnail, thumbnailCache, setThumbnailCache]);
+  }, [tags, url, thumbnail, thumbnailCache, setThumbnailCache]);
 
   return (
     <div
@@ -88,25 +88,7 @@ const ArticleCard = ({ title, url, tags = [], thumbnail = "" }) => {
         </h3>
 
         {/* Tags */}
-        <div className="mt-3 flex flex-wrap gap-2">
-          {tagColorMap &&
-            tags.map((tag, index) => {
-              const tagColorClass = tagColorMap[tag] || 'bg-blue-500 text-white';
-              return (
-                <a
-                  key={index}
-                  href={`/tags/${tag}`}
-                  className={`rounded-full px-2 py-0.5 text-xs transition-colors tag ${tagColorClass}`}
-                  style={{
-                    '--hover-color': darkenColor(tagColorClass, 10),
-                  }}
-                  onClick={(e) => e.stopPropagation()}
-                >
-                  {tag}
-                </a>
-              );
-            })}
-        </div>
+        <TagsList size={"sm"} selectedTags={selectedTags} />
       </div>
     </div>
   );
