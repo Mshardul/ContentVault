@@ -14,6 +14,12 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  --primary-color: var(--primaryColor);
+  --secondary-color: var(--secondaryColor);
+  --accent-color: var(--accentColor);
+  --text-color: var(--textColor);
+  --background-color: var(--backgroundColor);
+  --card-background-color: var(--cardBackgroundColor);
   transition: background-color 0.3s ease, color 0.3s ease;
 }
 
@@ -22,57 +28,20 @@ code {
     monospace;
 }
 
-/* Base Theme Transitions */
 body {
-  transition: background-color 0.3s ease, color 0.3s ease;
+  background-color: var(--background-color);
+  color: var(--text-color);
 }
 
-/* Classic Theme */
-body.classic-theme {
-  background-color: #fdfdfd;
-  color: #222222;
+.header, .footer {
+  background-color: var(--secondary-color);
+  color: var(--text-color);
 }
 
-body.classic-theme .header, 
-body.classic-theme .footer {
-  background-color: #f5f5f5;
-  color: #333333;
-}
-
-/* Dark Theme */
-body.dark-theme {
-  background-color: #414242;
-  color: #e0e0e0;
-}
-
-body.dark-theme .header, 
-body.dark-theme .footer {
-  background-color: #333333;
-  color: #f0f0f0;
-}
-
-/* Light Theme */
-body.light-theme {
-  background-color: #ffffff;
-  color: #444444;
-}
-
-body.light-theme .header, 
-body.light-theme .footer {
-  background-color: #fafafa;
-  color: #555555;
-}
-
-/* Pastel Theme */
-body.pastel-theme {
-  background-color: #f7f5f2;
-  color: #4a4a4a;
-}
-
-body.pastel-theme .header, 
-body.pastel-theme .footer {
-  background-color: #e8ded1;
-  color: #5c5c5c;
+.card {
+  background-color: var(--card-background-color);
+  color: var(--text-color);
+  border: 1px solid var(--secondary-color);
 }
 
 /* Tag Component Styling */

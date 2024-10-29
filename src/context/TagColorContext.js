@@ -6,44 +6,49 @@ import { ThemeContext } from './ThemeContext';
 
 const TagColorContext = createContext();
 
-const getBackgroundColorHex = (colorHex, theme) => {
+const adjustBackgroundColor = (colorHex, theme) => {
   if (theme === 'light') return colorHex;
-  return 'white'
+  return 'transparent';
 }
 
-const getBorderColorHex = (colorHex, theme) => {
-  if (theme === 'light') return '';
-  return colorHex;
+const adjustBorderColor = (colorHex) => {
+  return colorHex; // 'dark' uses the color directly
 }
 
-const getTextColorHex = (colorHex, theme) => {
-  if (theme === 'light') return 'white';
-  return colorHex;
+const adjustTextColor = (colorHex, theme) => {
+  return theme === 'light' ? 'white' : colorHex;
 }
 
 export const TagColorProvider = ({ children }) => {
   const { tags } = useContext(AppContext);
   const { theme } = useContext(ThemeContext);
 
-  // Use useMemo to calculate tagColorMap only when tags change
-  const tagColorMap = useMemo(() => {
-    console.log("theme", theme);
+  // Generate a static base color map
+  const baseColorMap = useMemo(() => {
     const shuffledColors = shuffleArray(tagColors);
     const colorMap = {};
     tags.forEach((tag, index) => {
-      const baseColorHex = shuffledColors[index % shuffledColors.length];
-      colorMap[tag.name] = {
-        baseColorHex: baseColorHex,
-        backgroundColorHex: getBackgroundColorHex(baseColorHex, theme),
-        borderColorHex: getBorderColorHex(baseColorHex, theme),
-        textColorHex: getTextColorHex(baseColorHex, theme),
-      };
+      colorMap[tag.name] = shuffledColors[index % shuffledColors.length];
     });
     return colorMap;
-  }, [tags, theme]);
+  }, [tags]);
+
+  // Adjust colors based on the theme without reshuffling
+  const themedColorMap = useMemo(() => {
+    const adjustedMap = {};
+    Object.entries(baseColorMap).forEach(([tag, baseColorHex]) => {
+      adjustedMap[tag] = {
+        baseColorHex,
+        backgroundColorHex: adjustBackgroundColor(baseColorHex, theme),
+        borderColorHex: adjustBorderColor(baseColorHex),
+        textColorHex: adjustTextColor(baseColorHex, theme),
+      };
+    });
+    return adjustedMap;
+  }, [theme, baseColorMap]);
 
   return (
-    <TagColorContext.Provider value={tagColorMap}>
+    <TagColorContext.Provider value={themedColorMap}>
       {children}
     </TagColorContext.Provider>
   );

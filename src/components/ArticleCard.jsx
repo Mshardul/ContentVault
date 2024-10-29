@@ -50,7 +50,7 @@ const ArticleCard = ({ title, url, tags = [], thumbnail = "", statusIndicators =
 
   return (
     <div
-      className="max-w-sm bg-white rounded-lg shadow-md hover:shadow-lg transform hover:scale-105 transition-transform duration-200 ease-in-out p-5 mb-6"
+      className="card max-w-sm bg-white rounded-lg shadow-md hover:shadow-lg transform hover:scale-105 transition-transform duration-200 ease-in-out p-5 mb-6"
       onClick={(e) => {
         if (!e.target.closest(".tag")) {
           window.open(url, "_blank");
@@ -96,7 +96,7 @@ const ArticleCard = ({ title, url, tags = [], thumbnail = "", statusIndicators =
       {/* Content */}
       <div className="mt-4">
         {/* Title */}
-        <h3 className="text-lg font-semibold text-gray-800 hover:text-gray-600 transition-colors">
+        <h3 className="text-lg font-semibold transition-colors">
           {title}
         </h3>
 

@@ -27,11 +27,11 @@ const Header = () => {
   };
 
   return (
-    <header className="flex items-center justify-between px-6 py-4 bg-white shadow-md">
+    <header className="header flex items-center justify-between px-6 py-4 bg-white shadow-md">
       {/* Left Side: Logo and Search */}
       <div className="flex items-center space-x-4">
         {/* Logo */}
-        <Link to="/" className="text-2xl font-bold text-gray-800 hover:text-gray-600">
+        <Link to="/" className="text-2xl font-bold">
           ContentVault
           {/* <img src="path-to-logo.png" alt="Logo" className="h-8 w-8" /> */}
         </Link>
@@ -47,24 +47,24 @@ const Header = () => {
         {/* Theme Toggle Button */}
         <button
           onClick={handleThemeToggle}
-          className="p-2 rounded-full text-gray-800 hover:text-gray-600 focus:outline-none"
+          className="p-2 rounded-full focus:outline-none"
           aria-label="Toggle theme"
         >
           {theme === 'light' ? <FaMoon size={24} /> : <FaSun size={24} />}
         </button>
 
         {/* Tags */}
-        <Link to="/tags/all" className="text-gray-800 hover:text-gray-600">
+        <Link to="/tags/all" >
           <FaTags size={30} />
         </Link>
 
         {/* About Us */}
-        <Link to="/about" className="text-gray-800 hover:text-gray-600">
+        <Link to="/about">
           <FaInfoCircle size={30} />
         </Link>
 
         {/* Settings */}
-        <Link to="/settings" className="text-gray-700 hover:text-gray-500">
+        <Link to="/settings">
           <FaCog size={30} />
         </Link>
       </div>

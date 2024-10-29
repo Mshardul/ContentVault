@@ -3,7 +3,7 @@ import { ThemeContext } from '../context/ThemeContext';
 import { FontContext } from '../context/FontContext';
 import PageTitle from '../components/PageTitle';
 
-const themes = ['classic', 'dark', 'light', 'pastel'];
+const themes = ['classic', 'dark', 'light', 'pastel', 'green'];
 // Add the new font options in the `fonts` array.
 const fonts = ['Georgia', 'Merriweather', 'Times New Roman', 'Arial', 'Verdana', 'Palatino'];
 
