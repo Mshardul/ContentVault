@@ -1,213 +1,331 @@
 [
   {
+    "added_on": "",
+    "publication": "System Design One",
+    "published_on": "",
+    "read": true,
+    "statusIndicators": ["premium"],
+    "tags": [
+      "System Design",
+      "Redis"
+    ],
+    "thumbnail": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc890fe58-475a-4659-bcfe-0d08369f2d62_1280x720.gif",
     "title": "Why Is Redis a Distributed Swiss Army Knife",
-    "url": "https://newsletter.systemdesign.one/p/redis-use-cases",
-    "tags": ["System Design", "Redis"],
-    "publication": "System Design One",
-    "published_on": "",
-    "added_on": "",
-    "read": true
+    "url": "https://newsletter.systemdesign.one/p/redis-use-cases"
   },
   {
+    "added_on": "",
+    "publication": "System Design One",
+    "published_on": "",
+    "read": false,
+    "statusIndicators": ["unread"],
+    "tags": [
+      "System Design",
+      "Saga",
+      "Database"
+    ],
+    "thumbnail": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F67b350c1-3475-4192-a11d-45c685f7ea4f_1280x720.gif",
     "title": "How Halo Scaled to 11.6 Million Users Using the Saga Design Pattern",
-    "url": "https://newsletter.systemdesign.one/p/saga-design-pattern",
-    "tags": ["System Design", "Saga", "Database"],
-    "publication": "System Design One",
-    "published_on": "",
-    "added_on": "",
-    "read": false
+    "url": "https://newsletter.systemdesign.one/p/saga-design-pattern"
   },
   {
+    "added_on": "",
+    "publication": "System Design One",
+    "published_on": "",
+    "read": false,
+    "statusIndicators": ["popular"],
+    "tags": [
+      "System Design",
+      "Latency"
+    ],
+    "thumbnail": "https://systemdesign.one/back-of-the-envelope/back-of-the-envelope.webp",
     "title": "Back of the envelope calculation for Latency",
-    "url": "https://systemdesign.one/back-of-the-envelope/",
-    "tags": ["System Design", "Latency"],
-    "publication": "System Design One",
-    "published_on": "",
-    "added_on": "",
-    "read": false
+    "url": "https://systemdesign.one/back-of-the-envelope/"
   },
   {
-    "title": "Consistent Hashing Explained",
-    "url": "https://systemdesign.one/consistent-hashing-explained/",
+    "added_on": "",
+    "publication": "System Design One",
+    "published_on": "",
+    "read": false,
+    "statusIndicators": ["new"],
+    "tags": [
+      "System Design",
+      "Hashing"
+    ],
     "thumbnail": "https://systemdesign.one/consistent-hashing-explained/What-is-consistent-hashing.webp",
-    "tags": ["System Design", "Hashing"],
-    "publication": "System Design One",
-    "published_on": "",
-    "added_on": "",
-    "read": false
+    "title": "Consistent Hashing Explained",
+    "url": "https://systemdesign.one/consistent-hashing-explained/"
   },
   {
+    "added_on": "",
+    "publication": "System Design One",
+    "published_on": "",
+    "read": false,
+    "statusIndicators": ["new", "popular"],
+    "tags": [
+      "System Design",
+      "Service Discovery"
+    ],
+    "thumbnail": "https://systemdesign.one/what-is-service-discovery/service-discovery.webp",
     "title": "What Is Service Discovery?",
-    "url": "https://systemdesign.one/what-is-service-discovery/",
-    "tags": ["System Design", "Service Discovery"],
-    "publication": "System Design One",
-    "published_on": "",
-    "added_on": "",
-    "read": false
+    "url": "https://systemdesign.one/what-is-service-discovery/"
   },
   {
-    "title": "Consistency Patterns",
-    "url": "https://systemdesign.one/consistency-patterns/",
+    "added_on": "",
+    "publication": "System Design One",
+    "published_on": "",
+    "read": false,
+    "tags": [
+      "System Design",
+      "Consistency",
+      "Database"
+    ],
     "thumbnail": "https://systemdesign.one/consistency-patterns/consistency-patterns.webp",
-    "tags": ["System Design", "Consistency", "Database"],
-    "publication": "System Design One",
-    "published_on": "",
-    "added_on": "",
-    "read": false
+    "title": "Consistency Patterns",
+    "url": "https://systemdesign.one/consistency-patterns/"
   },
   {
+    "added_on": "",
+    "publication": "System Design One",
+    "published_on": "",
+    "read": true,
+    "tags": [
+      "System Design",
+      "Redis",
+      "Cache"
+    ],
+    "thumbnail": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8e65e961-b20b-4799-accf-9e89e1bf5db0_1473x1758.png",
     "title": "How to use Redis in System Design Interviews",
-    "url": "https://systemdesignnewsletter.substack.com/p/ep-16-how-to-use-redis-in-system",
-    "tags": ["System Design", "Redis", "Cache"],
-    "publication": "System Design One",
-    "published_on": "",
-    "added_on": "",
-    "read": true
+    "url": "https://systemdesignnewsletter.substack.com/p/ep-16-how-to-use-redis-in-system"
   },
   {
-    "title": "An Engineer’s Checklist of Logging Best Practices",
-    "url": "https://www.honeycomb.io/blog/engineers-checklist-logging-best-practices",
+    "added_on": "",
+    "publication": "System Design One",
+    "published_on": "",
+    "read": true,
+    "tags": [
+      "System Design",
+      "Logs",
+      "Debug"
+    ],
     "thumbnail": "https://www.honeycomb.io/wp-content/uploads/2024/09/Blog-Logging_Best_Practices-FI-v1.jpg",
-    "tags": ["System Design", "Logs", "Debug"],
-    "publication": "System Design One",
-    "published_on": "",
-    "added_on": "",
-    "read": true
+    "title": "An Engineer’s Checklist of Logging Best Practices",
+    "url": "https://www.honeycomb.io/blog/engineers-checklist-logging-best-practices"
   },
   {
-    "title": "How does OAuth2.0 work?",
-    "url": "https://newsletter.techworld-with-milan.com/p/how-does-oauth-20-work",
+    "added_on": "",
+    "publication": "System Design One",
+    "published_on": "",
+    "read": false,
     "tags": [
       "System Design",
       "Authentication",
       "Authorization",
       "Oauth 2.0"
     ],
-    "publication": "System Design One",
-    "published_on": "",
-    "added_on": "",
-    "read": false
+    "thumbnail": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1d3e44e7-ab05-451c-b018-550edee24791_3691x2135.png",
+    "title": "How does OAuth2.0 work?",
+    "url": "https://newsletter.techworld-with-milan.com/p/how-does-oauth-20-work"
   },
   {
+    "added_on": "",
+    "publication": "System Design One",
+    "published_on": "",
+    "read": false,
+    "tags": [
+      "System Design",
+      "Building from Scratch",
+      "Load Balancer",
+      "Golang"
+    ],
+    "thumbnail": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9dd77eb-fbeb-4166-9f84-0ecf0b81a693_1486x687.png",
     "title": "Building a load balancer in Go part 1",
-    "url": "https://substack.com/home/post/p-148316783",
-    "tags": ["System Design", "Building from Scratch", "Load Balancer", "Golang"],
-    "publication": "System Design One",
-    "published_on": "",
-    "added_on": "",
-    "read": false
+    "url": "https://substack.com/home/post/p-148316783"
   },
   {
+    "added_on": "",
+    "publication": "System Design One",
+    "published_on": "",
+    "read": false,
+    "tags": [
+      "System Design",
+      "Building from Scratch",
+      "Load Balancer",
+      "Golang"
+    ],
+    "thumbnail": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa3507bc8-713c-443b-8c08-25425f55e291_585x551.png",
     "title": "Building a load balancer in Go part 2",
-    "url": "https://substack.com/home/post/p-148347428",
-    "tags": ["System Design", "Building from Scratch", "Load Balancer", "Golang"],
-    "publication": "System Design One",
-    "published_on": "",
-    "added_on": "",
-    "read": false
+    "url": "https://substack.com/home/post/p-148347428"
   },
   {
+    "added_on": "",
+    "publication": "System Design One",
+    "published_on": "",
+    "read": false,
+    "tags": [
+      "System Design",
+      "Building from Scratch",
+      "Load Balancer",
+      "Golang"
+    ],
+    "thumbnail": "",
     "title": "Building a load balancer in Go part 3",
-    "url": "https://substack.com/home/post/p-148375153",
-    "tags": ["System Design", "Building from Scratch", "Load Balancer", "Golang"],
-    "publication": "System Design One",
-    "published_on": "",
-    "added_on": "",
-    "read": false
+    "url": "https://substack.com/home/post/p-148375153"
   },
   {
+    "added_on": "",
+    "publication": "System Design One",
+    "published_on": "",
+    "read": false,
+    "tags": [
+      "System Design",
+      "Building from Scratch",
+      "Spotify Design"
+    ],
+    "thumbnail": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feb15f23f-a99f-406b-add4-eaffe0d1633d_2332x2696.png",
     "title": "Spotify",
-    "url": "https://blog.algomaster.io/p/design-spotify-system-design-interview",
-    "tags": ["System Design", "Building from Scratch", "Spotify Design"],
-    "publication": "System Design One",
-    "published_on": "",
-    "added_on": "",
-    "read": false
+    "url": "https://blog.algomaster.io/p/design-spotify-system-design-interview"
   },
   {
+    "added_on": "",
+    "publication": "System Design One",
+    "published_on": "",
+    "read": false,
+    "tags": [
+      "System Design",
+      "Building from Scratch",
+      "Notification Service"
+    ],
+    "thumbnail": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa0b90044-5a6a-4df3-b743-4aab38fa4d92_1723x944.png",
     "title": "Design a Scalable Notification Service",
-    "url": "https://blog.algomaster.io/p/design-a-scalable-notification-service",
-    "tags": ["System Design", "Building from Scratch", "Notification Service"],
-    "publication": "System Design One",
-    "published_on": "",
-    "added_on": "",
-    "read": false
+    "url": "https://blog.algomaster.io/p/design-a-scalable-notification-service"
   },
   {
+    "added_on": "",
+    "publication": "System Design One",
+    "published_on": "",
+    "read": false,
+    "tags": [
+      "System Design",
+      "Building from Scratch",
+      "Real Time",
+      "Live Comment System"
+    ],
+    "thumbnail": "https://systemdesign.one/live-comment-system-design/live-comment.webp",
     "title": "Live Comment System Design",
-    "url": "https://systemdesign.one/live-comment-system-design/",
-    "tags": ["System Design", "Building from Scratch", "Real Time", "Live Comment System"],
-    "publication": "System Design One",
-    "published_on": "",
-    "added_on": "",
-    "read": false
+    "url": "https://systemdesign.one/live-comment-system-design/"
   },
   {
+    "added_on": "",
+    "publication": "System Design One",
+    "published_on": "",
+    "read": false,
+    "tags": [
+      "System Design",
+      "Building from Scratch",
+      "Leaderboard"
+    ],
+    "thumbnail": "https://systemdesign.one/leaderboard-system-design/leaderboard.webp",
     "title": "Leaderboard System Design",
-    "url": "https://systemdesign.one/leaderboard-system-design/",
-    "tags": ["System Design", "Building from Scratch", "Leaderboard"],
-    "publication": "System Design One",
-    "published_on": "",
-    "added_on": "",
-    "read": false
+    "url": "https://systemdesign.one/leaderboard-system-design/"
   },
   {
+    "added_on": "",
+    "publication": "System Design One",
+    "published_on": "",
+    "read": false,
+    "tags": [
+      "System Design",
+      "Building from Scratch",
+      "Distributed Counter System"
+    ],
+    "thumbnail": "https://systemdesign.one/distributed-counter-system-design/distributed-counter.webp",
     "title": "Distributed Counter System Design",
-    "url": "https://systemdesign.one/distributed-counter-system-design/",
-    "tags": ["System Design", "Building from Scratch", "Distributed Counter System"],
-    "publication": "System Design One",
-    "published_on": "",
-    "added_on": "",
-    "read": false
+    "url": "https://systemdesign.one/distributed-counter-system-design/"
   },
   {
+    "added_on": "",
+    "publication": "System Design One",
+    "published_on": "",
+    "read": false,
+    "tags": [
+      "System Design",
+      "Building from Scratch",
+      "URL Shortening System",
+      "Bitly"
+    ],
+    "thumbnail": "https://systemdesign.one/url-shortening-system-design/how-to-build-a-url-shortener.webp",
     "title": "URL Shortening System Design",
-    "url": "https://systemdesign.one/url-shortening-system-design/",
-    "tags": ["System Design", "Building from Scratch", "URL Shortening System", "Bitly"],
-    "publication": "System Design One",
-    "published_on": "",
-    "added_on": "",
-    "read": false
+    "url": "https://systemdesign.one/url-shortening-system-design/"
   },
   {
+    "added_on": "",
+    "publication": "",
+    "published_on": "",
+    "read": false,
+    "tags": [
+      "System Design",
+      "System Design Case Study",
+      "Scalability",
+      "Instagram"
+    ],
+    "thumbnail": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7d9cd1da-dd23-451d-8a71-da0c2336112a_1131x592.png",
     "title": "80 Million Photos Daily : How Instagram Achieves Real Time Photo Sharing",
-    "url": "https://naina0405.substack.com/p/system-design-tech-case-study-pulse-ed6",
-    "tags": ["System Design", "System Design Case Study", "Scalability", "Instagram"],
-    "publication": "",
-    "published_on": "",
-    "added_on": "",
-    "read": false
+    "url": "https://naina0405.substack.com/p/system-design-tech-case-study-pulse-ed6"
   },
   {
+    "added_on": "",
+    "publication": "",
+    "published_on": "",
+    "read": false,
+    "tags": [
+      "System Design",
+      "System Design Case Study",
+      "Scalability",
+      "Kafka",
+      "Walmart"
+    ],
+    "thumbnail": "",
     "title": "The Trillion Message Kafka setup at Walmart",
-    "url": "https://substack.com/home/post/p-149639785",
-    "tags": ["System Design", "System Design Case Study", "Scalability", "Kafka", "Walmart"],
-    "publication": "",
-    "published_on": "",
-    "added_on": "",
-    "read": false
+    "url": "https://substack.com/home/post/p-149639785"
   },
   {
+    "added_on": "",
+    "publication": "System Design One",
+    "published_on": "",
+    "read": false,
+    "tags": [
+      "System Design",
+      "System Design Case Study",
+      "Durability",
+      "Amazon Web Service (AWS)",
+      "AWS S3"
+    ],
+    "thumbnail": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3645f110-2311-45c9-8e01-e50ea90e94e0_1280x720.gif",
     "title": "How Amazon S3 Achieves 99.999999999% Durability",
-    "url": "https://newsletter.systemdesign.one/p/amazon-s3-durability",
-    "tags": ["System Design", "System Design Case Study", "Durability", "Amazon Web Service (AWS)", "AWS S3"],
-    "publication": "System Design One",
-    "published_on": "",
-    "added_on": "",
-    "read": false
+    "url": "https://newsletter.systemdesign.one/p/amazon-s3-durability"
   },
   {
+    "added_on": "",
+    "publication": "System Design One",
+    "published_on": "",
+    "read": false,
+    "tags": [
+      "System Design",
+      "System Design Case Study",
+      "Scalability",
+      "Youtube",
+      "MySQL"
+    ],
+    "thumbnail": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F20f4ccdb-88ae-44ce-9bf0-b2c83220f5d2_1280x720.gif",
     "title": "How YouTube Was Able to Support 2.49 Billion Users With MySQL",
-    "url": "https://newsletter.systemdesign.one/p/vitess-mysql",
-    "tags": ["System Design", "System Design Case Study", "Scalability", "Youtube", "MySQL"],
-    "publication": "System Design One",
-    "published_on": "",
-    "added_on": "",
-    "read": false
+    "url": "https://newsletter.systemdesign.one/p/vitess-mysql"
   },
   {
-    "title": "How Cloudflare Was Able to Support 55 Million Requests per Second With Only 15 Postgres Clusters",
-    "url": "https://newsletter.systemdesign.one/p/postgresql-scalability",
+    "added_on": "",
+    "publication": "System Design One",
+    "published_on": "",
+    "read": false,
     "tags": [
       "System Design",
       "System Design Case Study",
@@ -215,23 +333,30 @@
       "Cloudflare",
       "Postgresql"
     ],
-    "publication": "System Design One",
-    "published_on": "",
-    "added_on": "",
-    "read": false
+    "thumbnail": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fef97562a-380e-41fa-8f6d-747c86968e77_1280x720.gif",
+    "title": "How Cloudflare Was Able to Support 55 Million Requests per Second With Only 15 Postgres Clusters",
+    "url": "https://newsletter.systemdesign.one/p/postgresql-scalability"
   },
   {
+    "added_on": "",
+    "publication": "System Design One",
+    "published_on": "",
+    "read": false,
+    "tags": [
+      "System Design",
+      "System Design Case Study",
+      "Scalability",
+      "Uber"
+    ],
+    "thumbnail": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F24c00d06-7158-43d8-9815-067e3b9c725d_1280x720.gif",
     "title": "How Uber Computes ETA at Half a Million Requests per Second",
-    "url": "https://newsletter.systemdesign.one/p/uber-eta",
-    "tags": ["System Design", "System Design Case Study", "Scalability", "Uber"],
-    "publication": "System Design One",
-    "published_on": "",
-    "added_on": "",
-    "read": false
+    "url": "https://newsletter.systemdesign.one/p/uber-eta"
   },
   {
-    "title": "How Stripe Prevents Double Payment Using Idempotent API",
-    "url": "https://newsletter.systemdesign.one/p/idempotent-api",
+    "added_on": "",
+    "publication": "System Design One",
+    "published_on": "",
+    "read": true,
     "tags": [
       "System Design",
       "System Design Case Study",
@@ -240,14 +365,15 @@
       "Idempotent Key",
       "Stripe"
     ],
-    "publication": "System Design One",
-    "published_on": "",
-    "added_on": "",
-    "read": true
+    "thumbnail": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe205302f-4dce-42be-be58-a294e5a64e95_1280x720.gif",
+    "title": "How Stripe Prevents Double Payment Using Idempotent API",
+    "url": "https://newsletter.systemdesign.one/p/idempotent-api"
   },
   {
-    "title": "How Uber Finds Nearby Drivers at 1 Million Requests per Second",
-    "url": "https://newsletter.systemdesign.one/p/how-does-uber-find-nearby-drivers",
+    "added_on": "",
+    "publication": "System Design One",
+    "published_on": "",
+    "read": false,
     "tags": [
       "System Design",
       "System Design Case Study",
@@ -255,42 +381,61 @@
       "Nearby Users",
       "Uber"
     ],
-    "publication": "System Design One",
-    "published_on": "",
-    "added_on": "",
-    "read": false
+    "thumbnail": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1eac74fb-4f58-4723-8d82-7f9b7a178ae1_1280x720.gif",
+    "title": "How Uber Finds Nearby Drivers at 1 Million Requests per Second",
+    "url": "https://newsletter.systemdesign.one/p/how-does-uber-find-nearby-drivers"
   },
   {
-    "title": "How Amazon Lambda Works",
-    "url": "https://newsletter.systemdesign.one/p/how-does-aws-lambda-work",
+    "added_on": "",
+    "publication": "System Design One",
+    "published_on": "",
+    "read": true,
+    "tags": [
+      "System Design",
+      "System Design Case Study",
+      "Scalability",
+      "Amazon Web Service (AWS)",
+      "AWS Lambda"
+    ],
     "thumbnail": "https://substack-post-media.s3.amazonaws.com/public/images/531b744f-385b-4ae9-a70d-3d2e79ffbfed_1280x720.gif",
-    "tags": ["System Design", "System Design Case Study", "Scalability", "Amazon Web Service (AWS)", "AWS Lambda"],
-    "publication": "System Design One",
-    "published_on": "",
-    "added_on": "",
-    "read": true
+    "title": "How Amazon Lambda Works",
+    "url": "https://newsletter.systemdesign.one/p/how-does-aws-lambda-work"
   },
   {
+    "added_on": "",
+    "publication": "System Design One",
+    "published_on": "",
+    "read": false,
+    "tags": [
+      "System Design",
+      "System Design Case Study",
+      "Scalability",
+      "Amazon Web Service (AWS)"
+    ],
+    "thumbnail": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F80856407-8ea4-49b0-8d0c-eb9d303356c9_1280x720.gif",
     "title": "How to Scale an App to 10 Million Users on AWS",
-    "url": "https://newsletter.systemdesign.one/p/aws-scale",
-    "tags": ["System Design", "System Design Case Study", "Scalability", "Amazon Web Service (AWS)"],
-    "publication": "System Design One",
-    "published_on": "",
-    "added_on": "",
-    "read": false
+    "url": "https://newsletter.systemdesign.one/p/aws-scale"
   },
   {
+    "added_on": "",
+    "publication": "System Design One",
+    "published_on": "",
+    "read": false,
+    "tags": [
+      "System Design",
+      "System Design Case Study",
+      "Scalability",
+      "Tinder"
+    ],
+    "thumbnail": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fad4f699a-dc60-4921-a6c2-e40d861617c0_1280x720.gif",
     "title": "How Tinder Scaled to 1.6 Billion Swipes per Day",
-    "url": "https://newsletter.systemdesign.one/p/tinder-architecture",
-    "tags": ["System Design", "System Design Case Study", "Scalability", "Tinder"],
-    "publication": "System Design One",
-    "published_on": "",
-    "added_on": "",
-    "read": false
+    "url": "https://newsletter.systemdesign.one/p/tinder-architecture"
   },
   {
-    "title": "How Google Search Works",
-    "url": "https://newsletter.systemdesign.one/p/search-engine-architecture",
+    "added_on": "",
+    "publication": "System Design One",
+    "published_on": "",
+    "read": false,
     "tags": [
       "System Design",
       "System Design Case Study",
@@ -298,56 +443,81 @@
       "Google",
       "Google Search"
     ],
-    "publication": "System Design One",
-    "published_on": "",
-    "added_on": "",
-    "read": false
+    "thumbnail": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F931dac77-e59d-4100-86fb-111807a02c33_1280x720.gif",
+    "title": "How Google Search Works",
+    "url": "https://newsletter.systemdesign.one/p/search-engine-architecture"
   },
   {
+    "added_on": "",
+    "publication": "System Design One",
+    "published_on": "",
+    "read": false,
+    "tags": [
+      "System Design",
+      "System Design Case Study",
+      "Consistency",
+      "Cache",
+      "Meta"
+    ],
+    "thumbnail": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Febed29c8-85c5-4113-8c84-641989c14fea_1280x720.gif",
     "title": "How Meta Achieves 99.99999999% Cache Consistency",
-    "url": "https://newsletter.systemdesign.one/p/cache-consistency",
-    "tags": ["System Design", "System Design Case Study", "Consistency", "Cache", "Meta"],
-    "publication": "System Design One",
-    "published_on": "",
-    "added_on": "",
-    "read": false
+    "url": "https://newsletter.systemdesign.one/p/cache-consistency"
   },
   {
-    "title": "Avoiding if-else Hell: The Functional Style",
-    "url": "https://lackofimagination.org/2024/09/avoiding-if-else-hell-the-functional-style",
-    "tags": ["Functional Programming", "If Else", "Programming"],
+    "added_on": "",
     "publication": "Lack of Imagination",
     "published_on": "",
-    "added_on": "",
-    "read": true
+    "read": true,
+    "tags": [
+      "Functional Programming",
+      "If Else",
+      "Programming"
+    ],
+    "thumbnail": "https://lackofimagination.org/images/marc-szeglat-VbP9v1rh-sc-unsplash.jpg",
+    "title": "Avoiding if-else Hell: The Functional Style",
+    "url": "https://lackofimagination.org/2024/09/avoiding-if-else-hell-the-functional-style"
   },
   {
-    "title": "Optimizing Postgres table layout for maximum efficiency",
-    "url": "https://r.ena.to/blog/optimizing-postgres-table-layout-for-maximum-efficiency/",
-    "thumbnail": "https://r.ena.to/blog/optimizing-postgres-table-layout-for-maximum-efficiency/cover.webp",
-    "tags": ["Prostgre SQL", "Database", "System Design"],
+    "added_on": "",
     "publication": "Ena",
     "published_on": "",
-    "added_on": "",
-    "read": false
+    "read": false,
+    "tags": [
+      "Prostgre SQL",
+      "Database",
+      "System Design"
+    ],
+    "thumbnail": "https://r.ena.to/blog/optimizing-postgres-table-layout-for-maximum-efficiency/cover.webp",
+    "title": "Optimizing Postgres table layout for maximum efficiency",
+    "url": "https://r.ena.to/blog/optimizing-postgres-table-layout-for-maximum-efficiency/"
   },
   {
+    "added_on": "",
+    "publication": "System Design One",
+    "published_on": "",
+    "read": false,
+    "tags": [
+      "System Design",
+      "Bloom Filter"
+    ],
+    "thumbnail": "https://systemdesign.one/bloom-filters-explained/bloom-filter.webp",
     "title": "Bloom Filters Explained",
-    "url": "https://systemdesign.one/bloom-filters-explained/",
-    "tags": ["System Design", "Bloom Filter"],
-    "publication": "System Design One",
-    "published_on": "",
-    "added_on": "",
-    "read": false
+    "url": "https://systemdesign.one/bloom-filters-explained/"
   },
   {
-    "title": "How LinkedIn Adopted Protocol Buffers to Reduce Latency by 60%",
-    "url": "https://newsletter.systemdesign.one/p/protocol-buffers-vs-json",
-    "thumbnail": "https://substack-post-media.s3.amazonaws.com/public/images/3cd2544e-d467-455c-82b3-6483ea5e55e6_1280x720.png",
-    "tags": ["System Design", "Proto Buf", "JSON", "Scalability", "Latency"],
+    "added_on": "",
     "publication": "System Design One",
     "published_on": "",
-    "added_on": "",
-    "read": false
+    "read": false,
+    "tags": [
+      "System Design",
+      "Proto Buf",
+      "JSON",
+      "Scalability",
+      "Latency"
+    ],
+    "thumbnail": "https://substack-post-media.s3.amazonaws.com/public/images/3cd2544e-d467-455c-82b3-6483ea5e55e6_1280x720.png",
+    "title": "How LinkedIn Adopted Protocol Buffers to Reduce Latency by 60%",
+    "url": "https://newsletter.systemdesign.one/p/protocol-buffers-vs-json"
   }
 ]

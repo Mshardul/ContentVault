@@ -1,24 +1,16 @@
 import React, { useContext, useEffect, useState } from "react";
 import { FaSpinner } from "react-icons/fa";
 import { AppContext } from '../context/AppContext';
-import TagColorContext from '../context/TagColorContext';
 import TagsList from '../components/TagsList';
+import statusIconConfig from '../config/statusIconConfig';
 
 const CORS_PROXY = "https://api.allorigins.win/raw?url=";
 
-const ArticleCard = ({ title, url, tags = [], thumbnail = "" }) => {
+const ArticleCard = ({ title, url, tags = [], thumbnail = "", statusIndicators = [] }) => {
   const { thumbnailCache, setThumbnailCache } = useContext(AppContext);
   const [thumbnailUrl, setThumbnailUrl] = useState(thumbnailCache[url] || "");
   const [loading, setLoading] = useState(!thumbnailCache[url]);
   const [selectedTags, setSelectedTags] = useState([]);
-
-  // Access tagColorMap from TagColorContext
-  const tagColorMap = useContext(TagColorContext);
-
-  // Log tagColorMap and tags to confirm color availability
-  console.log("tagColorMap in ArticleCard:", tagColorMap);
-  console.log("Tags for this article:", tags.join(", "));
-  console.log("Tag colors for this article:", tags.map((tag) => tagColorMap[tag]).join(", "));
 
   useEffect(() => {
     setSelectedTags(tags.map(tag => {return {name: tag, count: 0}}));
@@ -65,6 +57,27 @@ const ArticleCard = ({ title, url, tags = [], thumbnail = "" }) => {
         }
       }}
     >
+      {/* Status Icons */}
+      <div className="absolute top-2 left-2 flex space-x-2 z-10">
+        {statusIndicators.map((status, index) => {
+          const StatusIcon = statusIconConfig[status]?.icon;
+          const colorClass = statusIconConfig[status]?.color;
+          const tooltip = statusIconConfig[status]?.tooltip;
+
+          return (
+            StatusIcon && (
+              <div 
+                key={index} 
+                className={`relative ${colorClass}`} 
+                title={tooltip}
+              >
+                <StatusIcon className="w-7 h-7" />
+              </div>
+            )
+          );
+        })}
+      </div>
+
       {/* Thumbnail */}
       <div className="relative w-full h-48 rounded-lg overflow-hidden">
         {loading ? (

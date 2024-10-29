@@ -7,7 +7,6 @@ const TagListPage = () => {
   const { tags } = useContext(AppContext); // List of all tags with counts
 
   const sortedTags = [...tags].sort((a, b) => b.count - a.count);
-  console.log("TagListPage/sortedTags", sortedTags);
 
   return (
     <div className="container mx-auto">
