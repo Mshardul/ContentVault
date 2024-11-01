@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { useLocation } from 'react-router-dom';
 import ArticleList from '../components/ArticleList';
-import articlesData from '../data/articles.json';
+import articlesData from '../data/tech_articles.json';
 import PageTitle from '../components/PageTitle';
 import TagsList from '../components/TagsList';
 

@@ -1,5 +1,5 @@
 import React, { createContext, useState, useEffect } from 'react';
-import articlesData from '../data/articles.json';
+import articlesData from '../data/tech_articles.json';
 
 const LOCAL_STORAGE_KEYS = {
   THEME: 'app_theme',

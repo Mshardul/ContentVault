@@ -5,10 +5,7 @@
     "published_on": "",
     "read": true,
     "statusIndicators": ["premium"],
-    "tags": [
-      "System Design",
-      "Redis"
-    ],
+    "tags": ["System Design", "Redis"],
     "thumbnail": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc890fe58-475a-4659-bcfe-0d08369f2d62_1280x720.gif",
     "title": "Why Is Redis a Distributed Swiss Army Knife",
     "url": "https://newsletter.systemdesign.one/p/redis-use-cases"
@@ -19,11 +16,7 @@
     "published_on": "",
     "read": false,
     "statusIndicators": ["unread"],
-    "tags": [
-      "System Design",
-      "Saga",
-      "Database"
-    ],
+    "tags": ["System Design", "Saga", "Database"],
     "thumbnail": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F67b350c1-3475-4192-a11d-45c685f7ea4f_1280x720.gif",
     "title": "How Halo Scaled to 11.6 Million Users Using the Saga Design Pattern",
     "url": "https://newsletter.systemdesign.one/p/saga-design-pattern"
@@ -34,10 +27,7 @@
     "published_on": "",
     "read": false,
     "statusIndicators": ["popular"],
-    "tags": [
-      "System Design",
-      "Latency"
-    ],
+    "tags": ["System Design", "Latency"],
     "thumbnail": "https://systemdesign.one/back-of-the-envelope/back-of-the-envelope.webp",
     "title": "Back of the envelope calculation for Latency",
     "url": "https://systemdesign.one/back-of-the-envelope/"
@@ -48,10 +38,7 @@
     "published_on": "",
     "read": false,
     "statusIndicators": ["new"],
-    "tags": [
-      "System Design",
-      "Hashing"
-    ],
+    "tags": ["System Design", "Hashing"],
     "thumbnail": "https://systemdesign.one/consistent-hashing-explained/What-is-consistent-hashing.webp",
     "title": "Consistent Hashing Explained",
     "url": "https://systemdesign.one/consistent-hashing-explained/"
@@ -62,10 +49,7 @@
     "published_on": "",
     "read": false,
     "statusIndicators": ["new", "popular"],
-    "tags": [
-      "System Design",
-      "Service Discovery"
-    ],
+    "tags": ["System Design", "Service Discovery"],
     "thumbnail": "https://systemdesign.one/what-is-service-discovery/service-discovery.webp",
     "title": "What Is Service Discovery?",
     "url": "https://systemdesign.one/what-is-service-discovery/"
@@ -75,11 +59,7 @@
     "publication": "System Design One",
     "published_on": "",
     "read": false,
-    "tags": [
-      "System Design",
-      "Consistency",
-      "Database"
-    ],
+    "tags": ["System Design", "Consistency", "Database"],
     "thumbnail": "https://systemdesign.one/consistency-patterns/consistency-patterns.webp",
     "title": "Consistency Patterns",
     "url": "https://systemdesign.one/consistency-patterns/"
@@ -89,11 +69,7 @@
     "publication": "System Design One",
     "published_on": "",
     "read": true,
-    "tags": [
-      "System Design",
-      "Redis",
-      "Cache"
-    ],
+    "tags": ["System Design", "Redis", "Cache"],
     "thumbnail": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8e65e961-b20b-4799-accf-9e89e1bf5db0_1473x1758.png",
     "title": "How to use Redis in System Design Interviews",
     "url": "https://systemdesignnewsletter.substack.com/p/ep-16-how-to-use-redis-in-system"
@@ -103,13 +79,9 @@
     "publication": "System Design One",
     "published_on": "",
     "read": true,
-    "tags": [
-      "System Design",
-      "Logs",
-      "Debug"
-    ],
+    "tags": ["System Design", "Logs", "Debug"],
     "thumbnail": "https://www.honeycomb.io/wp-content/uploads/2024/09/Blog-Logging_Best_Practices-FI-v1.jpg",
-    "title": "An Engineer’s Checklist of Logging Best Practices",
+    "title": "An Engineer's Checklist of Logging Best Practices",
     "url": "https://www.honeycomb.io/blog/engineers-checklist-logging-best-practices"
   },
   {
@@ -117,12 +89,7 @@
     "publication": "System Design One",
     "published_on": "",
     "read": false,
-    "tags": [
-      "System Design",
-      "Authentication",
-      "Authorization",
-      "Oauth 2.0"
-    ],
+    "tags": ["System Design", "Authentication", "Authorization", "Oauth 2.0"],
     "thumbnail": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1d3e44e7-ab05-451c-b018-550edee24791_3691x2135.png",
     "title": "How does OAuth2.0 work?",
     "url": "https://newsletter.techworld-with-milan.com/p/how-does-oauth-20-work"
@@ -177,11 +144,7 @@
     "publication": "System Design One",
     "published_on": "",
     "read": false,
-    "tags": [
-      "System Design",
-      "Building from Scratch",
-      "Spotify Design"
-    ],
+    "tags": ["System Design", "Building from Scratch", "Spotify Design"],
     "thumbnail": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feb15f23f-a99f-406b-add4-eaffe0d1633d_2332x2696.png",
     "title": "Spotify",
     "url": "https://blog.algomaster.io/p/design-spotify-system-design-interview"
@@ -189,13 +152,9 @@
   {
     "added_on": "",
     "publication": "System Design One",
-    "published_on": "",
+    "published_on": "18th Sep 2024",
     "read": false,
-    "tags": [
-      "System Design",
-      "Building from Scratch",
-      "Notification Service"
-    ],
+    "tags": ["System Design", "Building from Scratch", "Notification Service"],
     "thumbnail": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa0b90044-5a6a-4df3-b743-4aab38fa4d92_1723x944.png",
     "title": "Design a Scalable Notification Service",
     "url": "https://blog.algomaster.io/p/design-a-scalable-notification-service"
@@ -220,11 +179,7 @@
     "publication": "System Design One",
     "published_on": "",
     "read": false,
-    "tags": [
-      "System Design",
-      "Building from Scratch",
-      "Leaderboard"
-    ],
+    "tags": ["System Design", "Building from Scratch", "Leaderboard"],
     "thumbnail": "https://systemdesign.one/leaderboard-system-design/leaderboard.webp",
     "title": "Leaderboard System Design",
     "url": "https://systemdesign.one/leaderboard-system-design/"
@@ -468,11 +423,7 @@
     "publication": "Lack of Imagination",
     "published_on": "",
     "read": true,
-    "tags": [
-      "Functional Programming",
-      "If Else",
-      "Programming"
-    ],
+    "tags": ["Functional Programming", "If Else", "Programming"],
     "thumbnail": "https://lackofimagination.org/images/marc-szeglat-VbP9v1rh-sc-unsplash.jpg",
     "title": "Avoiding if-else Hell: The Functional Style",
     "url": "https://lackofimagination.org/2024/09/avoiding-if-else-hell-the-functional-style"
@@ -482,11 +433,7 @@
     "publication": "Ena",
     "published_on": "",
     "read": false,
-    "tags": [
-      "Prostgre SQL",
-      "Database",
-      "System Design"
-    ],
+    "tags": ["Prostgre SQL", "Database", "System Design"],
     "thumbnail": "https://r.ena.to/blog/optimizing-postgres-table-layout-for-maximum-efficiency/cover.webp",
     "title": "Optimizing Postgres table layout for maximum efficiency",
     "url": "https://r.ena.to/blog/optimizing-postgres-table-layout-for-maximum-efficiency/"
@@ -496,10 +443,7 @@
     "publication": "System Design One",
     "published_on": "",
     "read": false,
-    "tags": [
-      "System Design",
-      "Bloom Filter"
-    ],
+    "tags": ["System Design", "Bloom Filter"],
     "thumbnail": "https://systemdesign.one/bloom-filters-explained/bloom-filter.webp",
     "title": "Bloom Filters Explained",
     "url": "https://systemdesign.one/bloom-filters-explained/"
@@ -509,15 +453,301 @@
     "publication": "System Design One",
     "published_on": "",
     "read": false,
-    "tags": [
-      "System Design",
-      "Proto Buf",
-      "JSON",
-      "Scalability",
-      "Latency"
-    ],
+    "tags": ["System Design", "Proto Buf", "JSON", "Scalability", "Latency"],
     "thumbnail": "https://substack-post-media.s3.amazonaws.com/public/images/3cd2544e-d467-455c-82b3-6483ea5e55e6_1280x720.png",
     "title": "How LinkedIn Adopted Protocol Buffers to Reduce Latency by 60%",
     "url": "https://newsletter.systemdesign.one/p/protocol-buffers-vs-json"
+  },
+  {
+    "added_on": "",
+    "authors": ["Neo Kim"],
+    "publication": "System Design One",
+    "published_on": "",
+    "read": true,
+    "tags": ["System Design", "Scalability", "Amazon Web Service (AWS)"],
+    "thumbnail": "",
+    "title": "How to Scale an App to 10 Million Users on AWS",
+    "url": "https://newsletter.systemdesign.one/p/aws-scale"
+  },
+  {
+    "added_on": "30th Oct 2024",
+    "authors": ["Aniket Singh"],
+    "publication": "System Design Almanac",
+    "published_on": "",
+    "read": false,
+    "tags": ["System Design", "Caching"],
+    "thumbnail": "",
+    "title": "A crash course on caching - Part 1/3",
+    "url": "https://systemdesignnewsletter.substack.com/p/ep-13-a-crash-course-on-caching-part"
+  },
+  {
+    "added_on": "30th Oct 2024",
+    "authors": ["Aniket Singh"],
+    "publication": "System Design Almanac",
+    "published_on": "02nd Oct 2024",
+    "read": false,
+    "tags": ["System Design", "Caching"],
+    "thumbnail": "",
+    "title": "A crash course on caching - Part 2/3",
+    "url": "https://systemdesignnewsletter.substack.com/p/ep-14-a-crash-course-on-caching-part"
+  },
+  {
+    "added_on": "30th Oct 2024",
+    "authors": ["Aniket Singh"],
+    "publication": "System Design Almanac",
+    "published_on": "09th Oct 2024",
+    "read": false,
+    "tags": ["System Design", "Caching"],
+    "thumbnail": "",
+    "title": "A crash course on caching - Part 2/3",
+    "url": "https://newsletter.systemdesign.one/p/aws-scale"
+  },
+  {
+    "added_on": "30th Oct 2024",
+    "authors": ["Aniket Singh"],
+    "publication": "System Design Almanac",
+    "published_on": "08th Sep 2024",
+    "read": false,
+    "tags": ["System Design", "Rate Limiters"],
+    "thumbnail": "",
+    "title": "What are rate limiters - Part 1/2",
+    "url": "https://systemdesignnewsletter.substack.com/p/ep-10-what-are-rate-limiters-part"
+  },
+  {
+    "added_on": "30th Oct 2024",
+    "authors": ["Aniket Singh"],
+    "publication": "System Design Almanac",
+    "published_on": "11th Sep 2024",
+    "read": false,
+    "tags": ["System Design", "Rate Limiters"],
+    "thumbnail": "",
+    "title": "What are rate limiters - Part 2/2",
+    "url": "https://systemdesignnewsletter.substack.com/p/ep-11-what-are-rate-limiters-part"
+  },
+  {
+    "added_on": "30th Oct 2024",
+    "authors": ["Aniket Singh"],
+    "publication": "System Design Almanac",
+    "published_on": "08th Aug 2024",
+    "read": false,
+    "tags": ["System Design", "Payments Service", "Airbnb"],
+    "thumbnail": "",
+    "title": "How Airbnb avoids double payments?",
+    "url": "https://systemdesignnewsletter.substack.com/p/ep-4-deep-dive-how-airbnb-avoids"
+  },
+  {
+    "added_on": "30th Oct 2024",
+    "authors": ["Ashish Pratap Singh"],
+    "publication": "Algomaster",
+    "published_on": "12th Sep 2024",
+    "read": false,
+    "tags": [
+      "System Design",
+      "Building from Scratch",
+      "Distributed Job Scheduler"
+    ],
+    "thumbnail": "",
+    "title": "Design a Distributed Job Scheduler",
+    "url": "https://systemdesignnewsletter.substack.com/p/ep-4-deep-dive-how-airbnb-avoids"
+  },
+  {
+    "added_on": "30th Oct 2024",
+    "authors": ["Raul Junco"],
+    "publication": "Algomaster",
+    "published_on": "16th Oct 2024",
+    "read": true,
+    "tags": [
+      "System Design",
+      "Asynchronous Programming",
+      "Message Queues",
+      "Topics"
+    ],
+    "thumbnail": "",
+    "title": "Queues, Topics, and Their Trade-offs",
+    "url": "https://newsletter.systemdesignclassroom.com/p/queues-topics-and-their-trade-offs"
+  },
+  {
+    "added_on": "30th Oct 2024",
+    "authors": ["Byte Byte Go"],
+    "publication": "Byte Byte Go",
+    "published_on": "29th Oct 2024",
+    "read": true,
+    "tags": [
+      "System Design",
+      "Asynchronous Programming",
+      "Message Queues",
+      "Kafka",
+      "Agoda"
+    ],
+    "thumbnail": "",
+    "title": "1.8 Trillion Events Per Day with Kafka: How Agoda Handles it",
+    "url": "https://blog.bytebytego.com/p/18-trillion-events-per-day-with-kafka?"
+  },
+  {
+    "added_on": "31st Oct 2024",
+    "authors": ["Martin Joo"],
+    "publication": "Computer Science Simplified",
+    "published_on": "29th Oct 2024",
+    "read": true,
+    "tags": ["System Design", "Scalability", "Kubernetes"],
+    "thumbnail": "",
+    "title": "Getting started with Kubernetes",
+    "url": "https://computersciencesimplified.substack.com/p/getting-started-with-kubernetes"
+  },
+  {
+    "added_on": "31st Oct 2024",
+    "authors": ["Saurabh Dashora"],
+    "publication": "System Design Codex",
+    "published_on": "29th Oct 2024",
+    "read": true,
+    "tags": ["System Design", "Oauth 2.0"],
+    "thumbnail": "",
+    "title": "Intro to OAuth 2",
+    "url": "https://newsletter.systemdesigncodex.com/p/intro-to-oauth-2"
+  },
+  {
+    "added_on": "31st Oct 2024",
+    "authors": ["Pavel Kruglov"],
+    "publication": "ClickHouse",
+    "published_on": "22nd Oct 2024",
+    "read": true,
+    "tags": ["System Design", "JSON", "Clickhouse"],
+    "thumbnail": "",
+    "title": "How we built a new powerful JSON data type for ClickHouse",
+    "url": "https://clickhouse.com/blog/a-new-powerful-json-data-type-for-clickhouse"
+  },
+  {
+    "added_on": "31st Oct 2024",
+    "authors": ["Austin Whyte"],
+    "publication": "Discord",
+    "published_on": "20th Sep 2024",
+    "read": true,
+    "tags": [
+      "System Design",
+      "Scalability",
+      "Real Time",
+      "Websocket",
+      "Clickhouse"
+    ],
+    "thumbnail": "",
+    "title": "How Discord reduced reduced Websocket traffic by 40%",
+    "url": "https://discord.com/blog/how-discord-reduced-websocket-traffic-by-40-percent"
+  },
+  {
+    "added_on": "31st Oct 2024",
+    "authors": ["Addy Osmani"],
+    "publication": "Medium / Dev Channel",
+    "published_on": "05th Nov 2018",
+    "read": true,
+    "tags": [
+      "System Design",
+      "Load time",
+      "React",
+      "Vanilla Javascript",
+      "Netflix"
+    ],
+    "thumbnail": "",
+    "title": "A Netflix Web Performance Case Study",
+    "url": "https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9"
+  },
+  {
+    "added_on": "31st Oct 2024",
+    "authors": ["Better Engineering"],
+    "publication": "Better Engineers",
+    "published_on": "14th Oct 2024",
+    "read": true,
+    "tags": ["System Design", "Design Pattern", "Microservice", "CQRS"],
+    "thumbnail": "",
+    "title": "Microservices Design Pattern - CQRS",
+    "url": "https://betterengineers.substack.com/p/cqrs"
+  },
+  {
+    "added_on": "31st Oct 2024",
+    "authors": ["Aniket Singh"],
+    "publication": "System Design Alamanac",
+    "published_on": "30th Oct 2024",
+    "read": false,
+    "tags": ["System Design", "Message Queues", "Kafka"],
+    "thumbnail": "",
+    "title": "What is Kafka? Part 1/2",
+    "url": "https://systemdesignnewsletter.substack.com/p/ep-18-what-is-kafka"
+  },
+  {
+    "added_on": "31st Oct 2024",
+    "authors": ["Aniket Singh"],
+    "publication": "System Design Alamanac",
+    "published_on": "30th Oct 2024",
+    "read": false,
+    "tags": ["System Design", "Proxy", "Forward Proxy", "Reverse Proxy"],
+    "thumbnail": "",
+    "title": "Proxy vs Reverse Proxy (Explained with Examples)",
+    "url": "https://blog.algomaster.io/p/proxy-vs-reverse-proxy-explained"
+  },
+  {
+    "added_on": "31st Oct 2024",
+    "authors": ["Aniket Singh"],
+    "publication": "System Design Alamanac",
+    "published_on": "23rd Oct 2024",
+    "read": false,
+    "tags": [
+      "Data Structures",
+      "Probabilistic Data Structures",
+      "Bloom Filter",
+      "Count-Min Sketch",
+      "Skip List"
+    ],
+    "thumbnail": "",
+    "title": "Probablistic Data Structures: A deep dive",
+    "url": "https://systemdesignnewsletter.substack.com/p/ep-17-probablistic-data-structures"
+  },
+  {
+    "added_on": "31st Oct 2024",
+    "authors": ["Sidharth"],
+    "publication": "The Scalable Thread",
+    "published_on": "05th Oct 2024",
+    "read": false,
+    "tags": [
+      "Database",
+      "NoSQL",
+      "Log Structured Merge (LSM) Tree",
+      "Count-Min Sketch",
+      "Skip List"
+    ],
+    "thumbnail": "",
+    "title": "How NoSQL Databases Speed-Up Write-Heavy Workloads?",
+    "url": "https://newsletter.scalablethread.com/p/how-lsm-trees-optimize-write-heavy"
+  },
+  {
+    "added_on": "31st Oct 2024",
+    "authors": ["Sidharth"],
+    "publication": "The Scalable Thread",
+    "published_on": "10th Aug 2024",
+    "read": false,
+    "tags": ["System Design", "Traffic", "Thundering Herd Problem"],
+    "thumbnail": "",
+    "title": "How to Handle Sudden Bursts of Traffic or \"Thundering Herd Problem\"?",
+    "url": "https://newsletter.scalablethread.com/p/how-to-handle-sudden-bursts-of-traffic"
+  },
+  {
+    "added_on": "31st Oct 2024",
+    "authors": ["Salam Shaik"],
+    "publication": "AWS Community Builders",
+    "published_on": "30th Oct 2024",
+    "read": false,
+    "tags": ["System Design", "Dockerfile", "Orchestration", "Kubernetes", "AWs EKS"],
+    "thumbnail": "",
+    "title": "Introduction to Kubernetes and AWS EKS - 1/2",
+    "url": "https://dev.to/aws-builders/introduction-to-kubernetes-and-aws-eks-part-1-19e5"
+  },
+  {
+    "added_on": "31st Oct 2024",
+    "authors": ["Saurabh Dashora"],
+    "publication": "System Design Codex",
+    "published_on": "22nd Oct 2024",
+    "read": false,
+    "tags": ["System Design", "Consistency", "Eventual Consistency", "Saga", "CQRS"],
+    "thumbnail": "",
+    "title": "Eventual Consistency is Tricky",
+    "url": "https://substack.com/home/post/p-150499549"
   }
 ]

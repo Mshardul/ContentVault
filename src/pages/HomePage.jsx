@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import ArticleList from '../components/ArticleList';
-import articlesData from '../data/articles.json'; 
+import articlesData from '../data/tech_articles.json'; 
 import PageTitle from '../components/PageTitle';
 
 const HomePage = () => {
