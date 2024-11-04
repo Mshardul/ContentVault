@@ -31,7 +31,7 @@ const TagsList = ({ size = "sm", selectedTags = [] }) => {
       {tagColorMap &&
         selectedTags.map((tag, index) => {
           const { backgroundColorHex, borderColorHex, textColorHex } = tagColorMap[tag.name] || {};
-          console.log(tag, backgroundColorHex, borderColorHex, textColorHex);
+
           return (
             <button
               key={index}
@@ -39,16 +39,28 @@ const TagsList = ({ size = "sm", selectedTags = [] }) => {
                 e.stopPropagation();
                 navigate(`/tags/filter`, { state: { selectedTagNames: [tag.name] } });
               }}
-              className={`rounded-full tag ${config.tagSizeClass} ${config.tagHoverClass}`}
+              className={`tag ${config.tagSizeClass} ${config.tagHoverClass} flex items-center`}
               style={{
                 backgroundColor: backgroundColorHex,
                 borderColor: borderColorHex,
                 color: textColorHex,
+                borderRadius: '999px',
               }}
             >
               <span>{tag.name}</span>
               {tag.count > 0 && (
-                <span className="ml-2 bg-gray-200 text-gray-800 rounded-full px-2 py-0.5 text-xs font-semibold">
+                <span 
+                  className="ml-2 bg-gray-200 text-gray-800 rounded-full px-1.5 py-0.5 text-xs font-normal flex items-center justify-center"
+                  style={{ 
+                    fontSize: '0.75rem', 
+                    height: '1.2rem',    // Fixed height for consistent alignment
+                    minWidth: '1.2rem',  // Fixed width for consistent centering
+                    padding: '0 0.4rem', // Horizontal padding for spacing
+                    fontWeight: 'normal', 
+                    lineHeight: '1',     // Line height of 1 for precise alignment
+                    textAlign: 'center'  // Center-align text within the badge
+                  }}
+                >
                   {tag.count}
                 </span>
               )}

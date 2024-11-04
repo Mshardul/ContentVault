@@ -1,20 +1,24 @@
 // themeConfig.js
 export const themeConfig = {
   light: {
-    primaryColor: "#1a73e8",        // Light blue for buttons, headers
-    secondaryColor: "#f1f3f4",      // Light gray for backgrounds
-    accentColor: "#34a853",         // Green for tags or highlights
-    textColor: "#202124",           // Dark text color for readability
-    backgroundColor: "#ffffff",     // White background
-    cardBackgroundColor: "#f5f5f5", // Light gray card background
+    primaryColor: "#0b79d0",         // Strong blue for buttons and headers
+    secondaryColor: "#f7f9fc",       // Very light blue-gray for backgrounds
+    accentColor: "#4caf50",          // Bright green for tags or highlights
+    textColor: "#202124",            // Dark gray text for readability
+    backgroundColor: "#ffffff",      // White background
+    cardBackgroundColor: "#fafafa",  // Slightly off-white for card backgrounds
+    titleColor: "#2c2c2c",           // Darker gray for titles
+    titleBackgroundColor: "#e0f7fa", // Light blue for title underline or background
   },
   dark: {
-    primaryColor: "#bb86fc",        // Purple for main accents
-    secondaryColor: "#121212",      // Dark background
-    accentColor: "#03dac6",         // Teal for tags/highlights
-    textColor: "#e0e0e0",           // Light text for readability
-    backgroundColor: "#1e1e1e",     // Darker gray for page background
-    cardBackgroundColor: "#333333", // Dark gray card background
+    primaryColor: "#bb86fc",         // Soft purple for main accents
+    secondaryColor: "#282828",       // Darker gray for header/footer backgrounds
+    accentColor: "#03dac5",          // Aqua-teal for tags/highlights
+    textColor: "#e0e0e0",            // Light gray text for readability
+    backgroundColor: "#121212",      // Dark background
+    cardBackgroundColor: "#1f1f1f",  // Dark gray for card backgrounds
+    titleColor: "#ffffff",           // White for titles
+    titleBackgroundColor: "#424242", // Darker gray for title underline or background
   },
   classic: {
     primaryColor: "#00796b",        // Deep green for primary elements

@@ -3,15 +3,10 @@
 @tailwind components;
 @tailwind utilities;
 
-/* .border-custom {
-  @apply border border-[color-variable];
-} */
-
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   --primary-color: var(--primaryColor);
@@ -20,34 +15,84 @@ body {
   --text-color: var(--textColor);
   --background-color: var(--backgroundColor);
   --card-background-color: var(--cardBackgroundColor);
+  --title-color: var(--titleColor);
+  --title-background-color: var(--titleBackgroundColor);
   transition: background-color 0.3s ease, color 0.3s ease;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
-
+/* Body Background */
 body {
   background-color: var(--background-color);
   color: var(--text-color);
 }
 
+/* Header and Footer Styling */
 .header, .footer {
   background-color: var(--secondary-color);
   color: var(--text-color);
+  padding: 1rem;
 }
 
+.header-icon {
+  transition: color 0.2s ease, transform 0.2s ease;
+}
+
+.header-icon:hover {
+  color: var(--primary-color);
+  transform: scale(1.1);
+}
+
+/* Page Title Styling */
+.page-title {
+  font-size: 2rem; /* Large font size */
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 1rem;
+  color: var(--title-color); /* Use a variable for easy theme adaptation */
+  position: relative;
+}
+
+/* Card Styling */
 .card {
   background-color: var(--card-background-color);
   color: var(--text-color);
   border: 1px solid var(--secondary-color);
+  padding: 1rem;
+  border-radius: 8px;
+  transition: box-shadow 0.2s ease;
 }
 
-/* Tag Component Styling */
+.card:hover {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Tags */
 .tag {
   border-width: 1px !important;
   border-style: solid;
+  border-color: var(--accent-color); /* Use accent color for tag borders */
+  background-color: var(--secondary-color);
+  color: var(--text-color);
+  padding: 0.25rem 0.75rem;
+  border-radius: 12px; /* Softer rounded edges */
+}
+
+/* Tag Hover Effect */
+.tag:hover {
+  background-color: var(--accent-color);
+  color: var(--background-color); /* Contrast text color */
+}
+
+/* Search Bar Style */
+.search-bar {
+  border-radius: 12px; /* Softer rounded edges */
+  transition: box-shadow 0.3s ease, border-color 0.3s ease;
+  border: 1px solid var(--secondary-color); /* Light border */
+  padding: 0.5rem 1rem;
+}
+
+.search-bar:focus {
+  border-color: var(--primary-color); /* Darker border on focus */
 }
 
 /* Font Classes */

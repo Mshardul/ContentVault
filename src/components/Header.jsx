@@ -47,25 +47,25 @@ const Header = () => {
         {/* Theme Toggle Button */}
         <button
           onClick={handleThemeToggle}
-          className="p-2 rounded-full focus:outline-none"
+          className="p-2 rounded-full focus:outline-none header-icon"
           aria-label="Toggle theme"
         >
           {theme === 'light' ? <FaMoon size={24} /> : <FaSun size={24} />}
         </button>
 
         {/* Tags */}
-        <Link to="/tags/all" >
-          <FaTags size={30} />
+        <Link to="/tags/all" className="header-icon">
+          <FaTags size={24} />
         </Link>
 
         {/* About Us */}
-        <Link to="/about">
-          <FaInfoCircle size={30} />
+        <Link to="/about" className="header-icon">
+          <FaInfoCircle size={24} />
         </Link>
 
         {/* Settings */}
-        <Link to="/settings">
-          <FaCog size={30} />
+        <Link to="/settings" className="header-icon">
+          <FaCog size={24} />
         </Link>
       </div>
     </header>
