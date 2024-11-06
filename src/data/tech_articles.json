@@ -1290,5 +1290,112 @@
     "url": "https://mbinjamil.dev/writings/understanding-async-io/",
     "language": "english",
     "type": "article"
+  },
+  {
+    "added_on": "06th Nov 2024",
+    "authors": ["Arpan KG"],
+    "publication": "Quastor",
+    "published_on": "28th Oct 2024",
+    "read": false,
+    "tags": [
+      "System Design",
+      "Payments Service",
+      "Stripe"
+    ],
+    "thumbnail": "",
+    "title": "How Stripe tracks Time in their Billing System",
+    "url": "https://blog.quastor.org/p/how-stripe-synchronizes-time-across-their-distributed-system",
+    "language": "english",
+    "type": "article"
+  },
+  {
+    "added_on": "06th Nov 2024",
+    "authors": ["Joël-Steve N."],
+    "publication": "AWS Tip",
+    "published_on": "20th Jun 2024",
+    "read": false,
+    "tags": [
+      "Python",
+      "Web Frameworks",
+      "Web Frameworks comparison",
+      "FastAPI",
+      "Django",
+      "Flask"
+    ],
+    "thumbnail": "",
+    "title": "Comparing FastAPI with Other Frameworks (Django, Flask)",
+    "url": "https://medium.com/aws-tip/comparing-fastapi-with-other-frameworks-django-flask-3cb5988fdc77",
+    "language": "english",
+    "type": "article"
+  },
+  {
+    "added_on": "06th Nov 2024",
+    "authors": ["Arpan KG"],
+    "publication": "Quastor",
+    "published_on": "20th Jun 2024",
+    "read": false,
+    "tags": [
+      "Payments Service",
+      "Distributed System",
+      "Stripe"
+    ],
+    "thumbnail": "",
+    "title": "How Stripe synchronizes time across their distributed system",
+    "url": "https://blog.quastor.org/p/how-stripe-synchronizes-time-across-their-distributed-system",
+    "language": "english",
+    "type": "article"
+  },
+  {
+    "added_on": "06th Nov 2024",
+    "authors": ["Safdar Ali"],
+    "publication": "dev.to",
+    "published_on": "4th Nov 2024",
+    "read": false,
+    "tags": [
+      "Authentication",
+      "JWT",
+      "Node.js",
+      "Mongo DB"
+    ],
+    "thumbnail": "",
+    "title": "9 Steps for JWT Authentication in Node.js Application",
+    "url": "https://dev.to/safdarali/9-steps-for-jwt-authentication-in-nodejs-application-cgk",
+    "language": "english",
+    "type": "article"
+  },
+  {
+    "added_on": "06th Nov 2024",
+    "authors": ["Jagroop Singh"],
+    "publication": "dev.to",
+    "published_on": "4th Nov 2024",
+    "read": true,
+    "tags": [
+      "Javascript",
+      "Javascript Concepts"
+    ],
+    "thumbnail": "",
+    "title": "20 Important JavaScript Concepts for Your Next Interview",
+    "url": "https://dev.to/jagroop2001/20-important-javascript-concepts-for-your-next-interview-2000",
+    "language": "english",
+    "type": "article"
+  },
+  {
+    "added_on": "06th Nov 2024",
+    "authors": ["Better Engineering"],
+    "publication": "Better Engineers",
+    "published_on": "5th Nov 2024",
+    "read": false,
+    "tags": [
+      "Database",
+      "Database Query Optimization",
+      "SQL",
+      "SQL Queries",
+      "SQL Query Optimization"
+    ],
+    "thumbnail": "",
+    "title": "Optimizing SQL Queries: Best Practices for Improved Performance",
+    "url": "https://betterengineers.substack.com/p/optimizing-sql-queries-best-practices",
+    "language": "english",
+    "type": "article"
   }
 ]
