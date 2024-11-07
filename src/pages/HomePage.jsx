@@ -1,48 +1,56 @@
-import React, { useCallback, useEffect, useRef, useState } from 'react';
+import React, { useCallback, useEffect, useState } from 'react';
+import axios from 'axios';
 import ArticleList from '../components/ArticleList';
-import articlesData from '../data/tech_articles.json'; 
 import PageTitle from '../components/PageTitle';
 
-const BATCH_SIZE = 10; // Number of articles to load per click
+const BATCH_SIZE = 10;
+const API_URL = 'https://6nq8by3vud.execute-api.us-east-2.amazonaws.com/prod/content';
 
 const HomePage = () => {
   const [articles, setArticles] = useState([]);
-  const [page, setPage] = useState(1);
+  const [lastEvaluatedKey, setLastEvaluatedKey] = useState(null);
   const [loading, setLoading] = useState(false);
   const [hasMore, setHasMore] = useState(true);
 
-  // Function to load the next set of articles based on the current page
-  const loadMoreArticles = useCallback(() => {
+  // Helper function to fetch articles from API
+  const fetchArticles = async () => {
+    const response = await axios.get(API_URL, {
+      params: {
+        limit: BATCH_SIZE,
+        lastEvaluatedKey: lastEvaluatedKey ? lastEvaluatedKey : null
+      }
+    });
+    const data = JSON.parse(response.data.body);
+    return {
+      newArticles: data.items,
+      newLastEvaluatedKey: data.lastEvaluatedKey ? encodeURIComponent(JSON.stringify(data.lastEvaluatedKey)) : null
+    };
+  };
+
+  // Function to load the next set of articles
+  const loadMoreArticles = useCallback(async () => {
     if (!hasMore || loading) return;
-
     setLoading(true);
-    const startIndex = (page - 1) * BATCH_SIZE;
-    const newArticles = articlesData.slice(startIndex, startIndex + BATCH_SIZE);
 
-    // Update articles and manage the hasMore state based on the new batch size
-    if (newArticles.length > 0) {
-      setArticles((prevArticles) => [...prevArticles, ...newArticles]);
-      setPage((prevPage) => prevPage + 1); // Increment page for next batch
-    }
+    try {
+      const { newArticles, newLastEvaluatedKey } = await fetchArticles();
 
-    // If fewer than BATCH_SIZE articles are loaded, we've reached the end
-    if (newArticles.length < BATCH_SIZE) {
+      // Update articles and pagination state
+      if (newArticles) setArticles((prevArticles) => [...prevArticles, ...newArticles]);
+      setLastEvaluatedKey(newLastEvaluatedKey);
+      setHasMore(!!newLastEvaluatedKey && newArticles.length >= BATCH_SIZE);
+
+    } catch (error) {
+      console.error("Error fetching articles:", error);
       setHasMore(false);
+    } finally {
+      setLoading(false);
     }
-
-    setLoading(false);
-  }, [page, hasMore, loading]);
-
-  // Store loadMoreArticles in a ref for a stable reference in useEffect
-  const loadMoreRef = useRef(loadMoreArticles);
+  }, [lastEvaluatedKey, hasMore, loading]);
 
   // Initial load of articles
   useEffect(() => {
-    loadMoreRef.current = loadMoreArticles;
-  }, [loadMoreArticles]);
-  // Use the stable ref in useEffect
-  useEffect(() => {
-    loadMoreRef.current();
+    loadMoreArticles();
   }, []); // Empty dependency array ensures it only runs once
 
   return (
