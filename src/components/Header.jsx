@@ -4,7 +4,7 @@ import { AppContext } from "../context/AppContext";
 import TagDropdownSearch from "./TagDropdownSearch";
 import { FaTags, FaInfoCircle, FaCog, FaSun, FaMoon } from "react-icons/fa";
 import { useThumbnailCache } from "../cache/ThumbnailCacheContext";
-import { ThemeContext } from "../context/ThemeContext";
+import ThemeContext from "../context/ThemeContext";
 
 const Header = () => {
   const { tags, thumbnailCache } = useContext(AppContext);

@@ -1,11 +1,20 @@
-import React, { useContext, useEffect, useState } from "react";
+import React, { useContext, useEffect, useRef, useState } from "react";
 import { FaSpinner } from "react-icons/fa";
 import { AppContext } from '../context/AppContext';
 import TagsList from '../components/TagsList';
 import statusIconConfig from '../config/statusIconConfig';
 import typeIconConfig from '../config/typeIconConfig';
 
-const CORS_PROXY = "https://api.allorigins.win/raw?url=";
+const CORS_PROXIES = [
+  "https://api.allorigins.win/raw?url=",
+  "https://cors-anywhere.herokuapp.com/",
+  "https://thingproxy.freeboard.io/fetch/",
+  "https://api.codetabs.com/v1/proxy?quest=",
+  "https://proxy.cors.sh/",
+  "https://corsproxy.io/?"
+];
+
+const CORS_PROXY = "https://thingproxy.freeboard.io/fetch/";
 
 const ArticleCard = ({ title, url, tags = [], thumbnail = "", statusIndicators = [], type = "" }) => {
   const { thumbnailCache, setThumbnailCache } = useContext(AppContext);
@@ -13,16 +22,28 @@ const ArticleCard = ({ title, url, tags = [], thumbnail = "", statusIndicators =
   const [loading, setLoading] = useState(!thumbnailCache[url]);
   const [selectedTags, setSelectedTags] = useState([]);
 
+  // Create refs to hold the current values of thumbnailCache and setThumbnailCache
+  const thumbnailCacheRef = useRef(thumbnailCache);
+  const setThumbnailCacheRef = useRef(setThumbnailCache);
+
+  // Keep refs in sync with the current values
   useEffect(() => {
-    setSelectedTags(tags.map(tag => {return {name: tag, count: 0}}));
+    thumbnailCacheRef.current = thumbnailCache;
+    setThumbnailCacheRef.current = setThumbnailCache;
+  }, [thumbnailCache, setThumbnailCache]);
+
+  useEffect(() => {
+    // Initialize selectedTags on mount
+    setSelectedTags(tags.map(tag => ({ name: tag, count: 0 })));
+
     if (thumbnail) {
       setThumbnailUrl(thumbnail);
       setLoading(false);
       return;
     }
 
-    if (thumbnailCache[url]) {
-      setThumbnailUrl(thumbnailCache[url]);
+    if (thumbnailCacheRef.current[url]) {
+      setThumbnailUrl(thumbnailCacheRef.current[url]);
       setLoading(false);
       return;
     }
@@ -35,26 +56,23 @@ const ArticleCard = ({ title, url, tags = [], thumbnail = "", statusIndicators =
         const doc = parser.parseFromString(text, "text/html");
         const ogImage = doc.querySelector('meta[property="og:image"]');
         const fetchedThumbnailUrl = ogImage ? ogImage.content : null;
+
         if (fetchedThumbnailUrl) {
-          const data = {
-            "type": "thumbnail_cache",
-            "url": url,
-            "fetchedThumbnailUrl": fetchedThumbnailUrl
-          }
-          console.log(JSON.stringify(data, null, 4));
+          setThumbnailUrl(fetchedThumbnailUrl);
+
+          // Use the ref’s current value of setThumbnailCache to avoid dependency re-renders
+          setThumbnailCacheRef.current(prev => ({ ...prev, [url]: fetchedThumbnailUrl }));
         }
-        setThumbnailUrl(fetchedThumbnailUrl);
-        setThumbnailCache((prev) => ({ ...prev, [url]: fetchedThumbnailUrl }));
       } catch (error) {
         console.error("Error fetching thumbnail:", error);
-        setThumbnailUrl(null);
+        setThumbnailUrl("");
       } finally {
         setLoading(false);
       }
     };
 
     fetchThumbnail();
-  }, [tags, url, thumbnail, thumbnailCache, setThumbnailCache]);
+  }, [url, thumbnail]);
 
   return (
     <div

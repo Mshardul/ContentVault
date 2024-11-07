@@ -1,5 +1,5 @@
 import React, { useContext, useState, useEffect } from 'react';
-import { ThemeContext } from '../context/ThemeContext';
+import ThemeContext from '../context/ThemeContext';
 import { FontContext } from '../context/FontContext';
 import PageTitle from '../components/PageTitle';
 

@@ -2,7 +2,7 @@ import React, { createContext, useMemo, useContext } from 'react';
 import { AppContext } from './AppContext';
 import { tagColors } from '../config/colorsConfig';
 import { shuffleArray } from '../utils/dataUtils';
-import { ThemeContext } from './ThemeContext';
+import ThemeContext from './ThemeContext';
 
 const TagColorContext = createContext();
 

@@ -7,11 +7,11 @@ import { ThumbnailCacheProvider } from './cache/ThumbnailCacheContext';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <React.StrictMode>
+  // <React.StrictMode>
     <ThumbnailCacheProvider>
       <App />
     </ThumbnailCacheProvider>
-  </React.StrictMode>
+  // </React.StrictMode>
 );
 
 reportWebVitals();

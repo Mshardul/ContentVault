@@ -851,7 +851,7 @@
       "Vanilla Javascript",
       "Netflix"
     ],
-    "thumbnail": "",
+    "thumbnail": "https://miro.medium.com/v2/resize:fit:1200/1*Pxmm24WKcYUqFC1Fsh_n7g.png",
     "title": "A Netflix Web Performance Case Study",
     "url": "https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9",
     "language": "english",
@@ -1165,7 +1165,7 @@
       "Build from Scratch",
       "Youtube"
     ],
-    "thumbnail": "",
+    "thumbnail": "https://bytebytego.com/social1.png",
     "title": "Design Youtube",
     "url": "https://bytebytego.com/courses/system-design-interview/design-youtube",
     "language": "english",
@@ -1250,7 +1250,7 @@
       "Build from Scratch",
       "Chat System"
     ],
-    "thumbnail": "",
+    "thumbnail": "https://bytebytego.com/social1.png",
     "title": "Design A Chat System",
     "url": "https://bytebytego.com/courses/system-design-interview/design-a-chat-system",
     "language": "english",
@@ -1266,7 +1266,7 @@
       "Database",
       "SQLite"
     ],
-    "thumbnail": "",
+    "thumbnail": "https://antonz.org/sqlite-is-not-a-toy-database/cover.png",
     "title": "SQLite is not a toy database",
     "url": "https://antonz.org/sqlite-is-not-a-toy-database",
     "language": "english",
@@ -1300,9 +1300,10 @@
     "tags": [
       "System Design",
       "Payments Service",
+      "Distributed System",
       "Stripe"
     ],
-    "thumbnail": "",
+    "thumbnail": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/993bc404-4763-4623-9565-dbbeb94f550f/4_graphics_-_5_7_2024-06.png?t=1715393448",
     "title": "How Stripe tracks Time in their Billing System",
     "url": "https://blog.quastor.org/p/how-stripe-synchronizes-time-across-their-distributed-system",
     "language": "english",
@@ -1322,26 +1323,9 @@
       "Django",
       "Flask"
     ],
-    "thumbnail": "",
+    "thumbnail": "https://miro.medium.com/v2/resize:fit:1200/1*LOZgruzs6i82_D2oMYG4bw.png",
     "title": "Comparing FastAPI with Other Frameworks (Django, Flask)",
     "url": "https://medium.com/aws-tip/comparing-fastapi-with-other-frameworks-django-flask-3cb5988fdc77",
-    "language": "english",
-    "type": "article"
-  },
-  {
-    "added_on": "06th Nov 2024",
-    "authors": ["Arpan KG"],
-    "publication": "Quastor",
-    "published_on": "20th Jun 2024",
-    "read": false,
-    "tags": [
-      "Payments Service",
-      "Distributed System",
-      "Stripe"
-    ],
-    "thumbnail": "",
-    "title": "How Stripe synchronizes time across their distributed system",
-    "url": "https://blog.quastor.org/p/how-stripe-synchronizes-time-across-their-distributed-system",
     "language": "english",
     "type": "article"
   },
@@ -1357,7 +1341,7 @@
       "Node.js",
       "Mongo DB"
     ],
-    "thumbnail": "",
+    "thumbnail": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft6sxl451qiyq8f2i6wvi.png",
     "title": "9 Steps for JWT Authentication in Node.js Application",
     "url": "https://dev.to/safdarali/9-steps-for-jwt-authentication-in-nodejs-application-cgk",
     "language": "english",
@@ -1373,7 +1357,7 @@
       "Javascript",
       "Javascript Concepts"
     ],
-    "thumbnail": "",
+    "thumbnail": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1q7phzzbo0ptri7m10o0.jpg",
     "title": "20 Important JavaScript Concepts for Your Next Interview",
     "url": "https://dev.to/jagroop2001/20-important-javascript-concepts-for-your-next-interview-2000",
     "language": "english",
@@ -1392,7 +1376,7 @@
       "SQL Queries",
       "SQL Query Optimization"
     ],
-    "thumbnail": "",
+    "thumbnail": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F798aab89-99cf-4216-a2df-ee95ea84abfa_1024x696.png",
     "title": "Optimizing SQL Queries: Best Practices for Improved Performance",
     "url": "https://betterengineers.substack.com/p/optimizing-sql-queries-best-practices",
     "language": "english",
