@@ -33,7 +33,6 @@ const ArticleCard = ({ title, url, tags = [], thumbnail = "", statusIndicators =
   }, [thumbnailCache, setThumbnailCache]);
 
   useEffect(() => {
-    // Initialize selectedTags on mount
     setSelectedTags(tags.map(tag => ({ name: tag, count: 0 })));
 
     if (thumbnail) {
@@ -58,6 +57,7 @@ const ArticleCard = ({ title, url, tags = [], thumbnail = "", statusIndicators =
         const fetchedThumbnailUrl = ogImage ? ogImage.content : null;
 
         if (fetchedThumbnailUrl) {
+          console.log("thumbnail_url", url, fetchedThumbnailUrl);
           setThumbnailUrl(fetchedThumbnailUrl);
 
           // Use the ref’s current value of setThumbnailCache to avoid dependency re-renders
@@ -72,7 +72,7 @@ const ArticleCard = ({ title, url, tags = [], thumbnail = "", statusIndicators =
     };
 
     fetchThumbnail();
-  }, [url, thumbnail]);
+  }, [url, thumbnail, tags]);
 
   return (
     <div
@@ -122,18 +122,23 @@ const ArticleCard = ({ title, url, tags = [], thumbnail = "", statusIndicators =
 
       {/* Thumbnail */}
       <div className="relative w-full h-48 rounded-lg overflow-hidden">
-        {loading ? (
-          <div className="flex items-center justify-center w-full h-full bg-gray-200 animate-pulse">
-            <FaSpinner className="text-gray-500 animate-spin" />
-          </div>
-        ) : thumbnailUrl ? (
-          <img src={thumbnailUrl} alt={title} className="w-full h-full object-cover" />
-        ) : (
-          <div className="flex items-center justify-center w-full h-full bg-gray-100 text-gray-400 font-semibold">
-            No Image Available
-          </div>
-        )}
-      </div>
+      {loading ? (
+        <div className="flex items-center justify-center w-full h-full bg-gray-200 animate-pulse">
+          <FaSpinner className="text-gray-500 animate-spin" />
+        </div>
+      ) : thumbnailUrl ? (
+        <img
+          src={thumbnailUrl}
+          alt={title}
+          className="w-full h-full object-cover"
+          onError={() => setThumbnailUrl("")} // Set thumbnailUrl to empty on error
+        />
+      ) : (
+        <div className="flex items-center justify-center w-full h-full bg-gray-100 text-gray-400 font-semibold">
+          No Image Available
+        </div>
+      )}
+    </div>
 
       {/* Content */}
       <div className="mt-4">

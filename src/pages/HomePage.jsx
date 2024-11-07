@@ -3,79 +3,64 @@ import ArticleList from '../components/ArticleList';
 import articlesData from '../data/tech_articles.json'; 
 import PageTitle from '../components/PageTitle';
 
-const BATCH_SIZE = 10; // Number of articles to load per scroll
+const BATCH_SIZE = 10; // Number of articles to load per click
 
 const HomePage = () => {
   const [articles, setArticles] = useState([]);
   const [page, setPage] = useState(1);
   const [loading, setLoading] = useState(false);
   const [hasMore, setHasMore] = useState(true);
-  const loadingRef = useRef(false);
 
-  // Function to load the next set of articles
-  const loadMoreArticles = useCallback(async () => {
-    console.log("loading more articles");
-    if (!hasMore || loadingRef.current) return;
+  // Function to load the next set of articles based on the current page
+  const loadMoreArticles = useCallback(() => {
+    if (!hasMore || loading) return;
 
-    loadingRef.current = true;
     setLoading(true);
+    const startIndex = (page - 1) * BATCH_SIZE;
+    const newArticles = articlesData.slice(startIndex, startIndex + BATCH_SIZE);
 
-    setTimeout(() => {
-      const startIndex = (page - 1) * BATCH_SIZE;
-      const newArticles = articlesData.slice(startIndex, startIndex + BATCH_SIZE);
-      console.log("startIndex: ", startIndex);
-      console.log("newArticles: ", newArticles.length, newArticles,);
+    // Update articles and manage the hasMore state based on the new batch size
+    if (newArticles.length > 0) {
+      setArticles((prevArticles) => [...prevArticles, ...newArticles]);
+      setPage((prevPage) => prevPage + 1); // Increment page for next batch
+    }
 
-      if (newArticles.length > 0) {
-        setArticles((prevArticles) => [...prevArticles, ...newArticles]);
-      }
+    // If fewer than BATCH_SIZE articles are loaded, we've reached the end
+    if (newArticles.length < BATCH_SIZE) {
+      setHasMore(false);
+    }
 
-      if (newArticles.length < BATCH_SIZE) {
-        setHasMore(false);
-      }
+    setLoading(false);
+  }, [page, hasMore, loading]);
 
-      setLoading(false);
-      loadingRef.current = false;
-    }, 500);
-  }, [page, hasMore]);
+  // Store loadMoreArticles in a ref for a stable reference in useEffect
+  const loadMoreRef = useRef(loadMoreArticles);
 
-  // Initial load of articles and load more when `page` changes
+  // Initial load of articles
   useEffect(() => {
-    loadMoreArticles();
+    loadMoreRef.current = loadMoreArticles;
   }, [loadMoreArticles]);
-
-  // Scroll event listener to detect if user is near bottom
+  // Use the stable ref in useEffect
   useEffect(() => {
-    let scrollingTimeout;
-
-    const handleScroll = () => {
-      if (scrollingTimeout) clearTimeout(scrollingTimeout);
-      scrollingTimeout = setTimeout(() => {
-        if (
-          window.innerHeight + document.documentElement.scrollTop >=
-          document.documentElement.offsetHeight * 0.9
-        ) {
-          setPage((prevPage) => prevPage + 1);
-        }
-      }, 200);
-    };
-    
-    window.addEventListener('scroll', handleScroll);
-    return () => {
-      window.removeEventListener('scroll', handleScroll);
-      if (scrollingTimeout) clearTimeout(scrollingTimeout);
-    };
-  }, []);
+    loadMoreRef.current();
+  }, []); // Empty dependency array ensures it only runs once
 
   return (
     <div className="container mx-auto">
       <PageTitle title="All Content" />
       <ArticleList articles={articles} />
-      {loading && (
-        <div className="fixed inset-0 bg-gray-800 bg-opacity-75 flex items-center justify-center z-50">
-          <div className="text-white text-lg font-semibold">Loading...</div>
-        </div>
-      )}
+
+      {/* Load More Button */}
+      <div className="flex justify-center mt-8">
+        <button
+          onClick={loadMoreArticles}
+          disabled={!hasMore || loading}
+          className={`w-full max-w-md px-4 py-2 font-semibold text-white rounded-md transition-all
+            ${hasMore ? 'bg-blue-600 hover:bg-blue-700' : 'bg-gray-400 cursor-not-allowed'}`}
+        >
+          {hasMore ? (loading ? "Loading..." : "Load More Content") : "That's all we have"}
+        </button>
+      </div>
     </div>
   );
 };
