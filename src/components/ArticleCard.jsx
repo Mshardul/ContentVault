@@ -83,8 +83,7 @@ const ArticleCard = ({ title, url, tags = [], thumbnail = "", statusIndicators =
         }
       }}
     >
-      {/* Status Icons - Top-Left */}
-      <div className="absolute top-2 left-2 flex space-x-2 z-10">
+      <div className="status-icon flex space-x-2 z-10">
         {statusIndicators.map((status, index) => {
           const StatusIcon = statusIconConfig[status]?.icon;
           const colorClass = statusIconConfig[status]?.color;
@@ -94,11 +93,8 @@ const ArticleCard = ({ title, url, tags = [], thumbnail = "", statusIndicators =
             StatusIcon && (
               <div
                 key={index}
-                className={`relative ${colorClass}`}
+                className={`relative ${colorClass} status-icon`}
                 title={tooltip}
-                style={{
-                  boxShadow: '0 2px 4px rgba(0, 0, 0, 0.15)', // Subtle shadow for visibility
-                }}
               >
                 <StatusIcon className="w-6 h-6" />
               </div>
@@ -120,35 +116,25 @@ const ArticleCard = ({ title, url, tags = [], thumbnail = "", statusIndicators =
         ) : null;
       })()}
 
-      {/* Thumbnail */}
-      <div className="relative w-full h-48 rounded-lg overflow-hidden">
-      {loading ? (
-        <div className="flex items-center justify-center w-full h-full bg-gray-200 animate-pulse">
-          <FaSpinner className="text-gray-500 animate-spin" />
-        </div>
-      ) : thumbnailUrl ? (
-        <img
-          src={thumbnailUrl}
-          alt={title}
-          className="w-full h-full object-cover"
-          onError={() => setThumbnailUrl("")} // Set thumbnailUrl to empty on error
-        />
-      ) : (
-        <div className="flex items-center justify-center w-full h-full bg-gray-100 text-gray-400 font-semibold">
-          No Image Available
-        </div>
-      )}
-    </div>
-
-      {/* Content */}
+      <div className="thumbnail-placeholder">
+        {loading ? (
+          <div className="flex items-center justify-center">
+            <FaSpinner className="animate-spin" />
+          </div>
+        ) : thumbnailUrl ? (
+          <img
+            src={thumbnailUrl}
+            alt={title}
+            className="w-full h-full object-cover"
+            onError={() => setThumbnailUrl("")}
+          />
+        ) : (
+          <div className="thumbnail-placeholder">No Image Available</div>
+        )}
+      </div>
       <div className="mt-4">
-        {/* Title */}
-        <h3 className="text-lg font-semibold transition-colors">
-          {title}
-        </h3>
-
-        {/* Tags */}
-        <TagsList size={"sm"} selectedTags={selectedTags} />
+        <h3 className="text-lg font-semibold">{title}</h3>
+        <TagsList size="sm" selectedTags={selectedTags} />
       </div>
     </div>
   );

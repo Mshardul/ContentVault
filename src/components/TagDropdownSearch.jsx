@@ -59,7 +59,7 @@ const TagDropdownSearch = ({ tags, onSearch }) => {
   return (
     <div className="relative max-w-full w-full">
       {/* Search Input with Clear All and Search button */}
-      <div className="flex items-center border border-gray-300 rounded-md search-bar">
+      <div className="flex items-center search-bar">
         <input
           type="text"
           value={searchText}

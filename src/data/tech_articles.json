@@ -1,5 +1,110 @@
 [
     {
+        "added_on": "08th Nov 2024",
+        "authors": [
+            "Ashish Pratap Singh"
+        ],
+        "publication": "AlgoMaster Newsletter",
+        "published_on": "03rd Nov 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Distributed System",
+            "Idempotency"
+        ],
+        "thumbnail": "",
+        "title": "What is Idempotency in Distributed Systems?",
+        "url": "https://blog.algomaster.io/p/idempotency-in-distributed-systems",
+        "language": "english",
+        "type": "article",
+        "id": "06928498-af67-4f4c-b7d7-44eff37b9be2"
+    },
+    {
+        "added_on": "08th Nov 2024",
+        "authors": [
+            "Robin Wieruch"
+        ],
+        "publication": "Robin Wieruch",
+        "published_on": "29th Oct 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Amazon Web Service (AWS)",
+            "Security",
+            "AWS Security Group"
+        ],
+        "thumbnail": "",
+        "title": "8 Best Practices When Using AWS Security Groups",
+        "url": "https://www.jit.io/blog/best-practices-for-aws-security-groups",
+        "language": "english",
+        "type": "article",
+        "id": "06928498-af67-4f4c-b7d7-44eff37b9be2"
+    },
+    {
+        "added_on": "08th Nov 2024",
+        "authors": [
+            "Robin Wieruch"
+        ],
+        "publication": "Robin Wieruch",
+        "published_on": "29th Oct 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Authentication",
+            "Javascript",
+            "Typescript"
+        ],
+        "thumbnail": "",
+        "title": "How to roll your own auth in JavaScript & TypeScript",
+        "url": "https://www.robinwieruch.de/how-to-roll-your-own-auth/",
+        "language": "english",
+        "type": "article",
+        "id": "06928498-af67-4f4c-b7d7-44eff37b9be2"
+    },
+    {
+        "added_on": "08th Nov 2024",
+        "authors": [
+            "Petar Ivanov"
+        ],
+        "publication": "Ignito",
+        "published_on": "03rd Nov 2024",
+        "read": false,
+        "tags": [
+            "Frontend",
+            "State Management",
+            "React",
+            "React Reducer"
+        ],
+        "thumbnail": "",
+        "title": "How to use Reducer in React for better State Management: 2 effective ways for simpler design and architecture",
+        "url": "https://thetshaped.dev/p/how-to-use-reducer-in-react-for-better-and-simpler-state-management",
+        "language": "english",
+        "type": "article",
+        "id": "06928498-af67-4f4c-b7d7-44eff37b9be2"
+    },
+    {
+        "added_on": "08th Nov 2024",
+        "authors": [
+            "Naina Chaturvedi"
+        ],
+        "publication": "Ignito",
+        "published_on": "03rd Jul 2024",
+        "read": true,
+        "tags": [
+            "System Design",
+            "Microservice",
+            "Distributed System",
+            "Microservice Communications",
+            "Message Brokers"
+        ],
+        "thumbnail": "",
+        "title": "How Microservices Work?",
+        "url": "https://naina0405.substack.com/p/wednesday-bytes-how-microservices",
+        "language": "english",
+        "type": "article",
+        "id": "06928498-af67-4f4c-b7d7-44eff37b9be2"
+    }, 
+    {
         "added_on": "06th Nov 2024",
         "authors": [
             "Arpan KG"
