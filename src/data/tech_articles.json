@@ -2,6 +2,66 @@
     {
         "added_on": "29th Nov 2024",
         "authors": [
+            "Sylvain Tiset"
+        ],
+        "publication": "Medium",
+        "published_on": "06th Nov 2024",
+        "read": false,
+        "tags": [
+            "API",
+            "REST",
+            "Best Practices"
+        ],
+        "thumbnail": "",
+        "title": "RESTful API Excellence: Best Practices for Design, Security, and Performance",
+        "url": "https://medium.com/@sylvain.tiset/restful-api-excellence-best-practices-for-design-security-and-performance-fa24c1360ab9",
+        "language": "english",
+        "type": "article",
+        "id": "24a4061d-514e-415a-b821-e6f85d742c4a"
+    },
+    {
+        "added_on": "29th Nov 2024",
+        "authors": [
+            "Aditi Mishra"
+        ],
+        "publication": "Dev Genius",
+        "published_on": "04th Jun 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Containerization",
+            "Docker",
+            "Best Practices"
+        ],
+        "thumbnail": "",
+        "title": "Docker Done Right: 10 Best Practices for Developers",
+        "url": "https://blog.devgenius.io/docker-done-right-10-best-practices-for-developers-12b7921e3725",
+        "language": "english",
+        "type": "article",
+        "id": "ae518533-5d32-44e6-b79d-b9e789722094"
+    },
+    {
+        "added_on": "29th Nov 2024",
+        "authors": [
+            "Aditi Mishra"
+        ],
+        "publication": "Medium",
+        "published_on": "21st Sep 2024",
+        "read": true,
+        "tags": [
+            "Python",
+            "GIL"
+        ],
+        "thumbnail": "",
+        "title": "Why is Python Considered Slow?",
+        "url": "https://medium.com/@aditimishra_541/why-is-python-considered-slow-033ad9be3272",
+        "language": "english",
+        "type": "article",
+        "id": "91b5e1e7-3f93-4af9-81cc-1cdad6090624"
+    },
+    {
+        "added_on": "29th Nov 2024",
+        "authors": [
             "Jefferey Cave"
         ],
         "publication": "Medium",
