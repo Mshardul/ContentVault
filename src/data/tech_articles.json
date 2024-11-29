@@ -1,5 +1,47 @@
 [
     {
+        "added_on": "29th Nov 2024",
+        "authors": [
+            "Jefferey Cave"
+        ],
+        "publication": "Medium",
+        "published_on": "18th Jan 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Distributed System",
+            "Unique Identifiers",
+            "Sequential Identifiers"
+        ],
+        "thumbnail": "",
+        "title": "The Evils of Sequential IDs",
+        "url": "https://jefferey-cave.medium.com/the-evils-of-sequential-ids-2d1b18b50fdb",
+        "language": "english",
+        "type": "article",
+        "id": "d0b14334-3c48-46cf-8957-86373f62f5de"
+    },
+    {
+        "added_on": "29th Nov 2024",
+        "authors": [
+            "Chris St. John"
+        ],
+        "publication": "Medium",
+        "published_on": "16th Oct 2024",
+        "read": true,
+        "tags": [
+            "System Design",
+            "Distributed System",
+            "Unique Identifiers",
+            "UUID"
+        ],
+        "thumbnail": "",
+        "title": "UUID Alternatives for Cloud Apps",
+        "url": "https://medium.com/@csjcode/uuid-alternatives-for-cloud-apps-9410f194b4d1",
+        "language": "english",
+        "type": "article",
+        "id": "aa224dfb-86d9-4003-acde-7873929310d6"
+    },
+    {
         "added_on": "08th Nov 2024",
         "authors": [
             "Ashish Pratap Singh"
@@ -17,7 +59,7 @@
         "url": "https://blog.algomaster.io/p/idempotency-in-distributed-systems",
         "language": "english",
         "type": "article",
-        "id": "06928498-af67-4f4c-b7d7-44eff37b9be2"
+        "id": "3c4d63f5-f17f-4ec3-b3a1-9cb1b2773a57"
     },
     {
         "added_on": "08th Nov 2024",
@@ -38,7 +80,7 @@
         "url": "https://www.jit.io/blog/best-practices-for-aws-security-groups",
         "language": "english",
         "type": "article",
-        "id": "06928498-af67-4f4c-b7d7-44eff37b9be2"
+        "id": "d4c77979-6c4a-41ee-8ff3-5e6e36fea754"
     },
     {
         "added_on": "08th Nov 2024",
@@ -59,7 +101,7 @@
         "url": "https://www.robinwieruch.de/how-to-roll-your-own-auth/",
         "language": "english",
         "type": "article",
-        "id": "06928498-af67-4f4c-b7d7-44eff37b9be2"
+        "id": "a231ecdf-e178-425e-9b4c-a043472138b7"
     },
     {
         "added_on": "08th Nov 2024",
@@ -80,7 +122,7 @@
         "url": "https://thetshaped.dev/p/how-to-use-reducer-in-react-for-better-and-simpler-state-management",
         "language": "english",
         "type": "article",
-        "id": "06928498-af67-4f4c-b7d7-44eff37b9be2"
+        "id": "3ab24a99-e003-43d0-b404-5ebda0fa92e4"
     },
     {
         "added_on": "08th Nov 2024",
@@ -102,7 +144,7 @@
         "url": "https://naina0405.substack.com/p/wednesday-bytes-how-microservices",
         "language": "english",
         "type": "article",
-        "id": "06928498-af67-4f4c-b7d7-44eff37b9be2"
+        "id": "4b2b5474-e659-47e6-b593-89c58b01a431"
     }, 
     {
         "added_on": "06th Nov 2024",
