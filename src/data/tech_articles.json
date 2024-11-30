@@ -1,5 +1,45 @@
 [
     {
+        "added_on": "30th Nov 2024",
+        "authors": [
+            "Dilip Kumar"
+        ],
+        "publication": "Medium",
+        "published_on": "14th Jul 2024",
+        "read": true,
+        "tags": [
+            "System Design",
+            "Trending Hashtag"
+        ],
+        "thumbnail": "",
+        "title": "Trending hashtag system design",
+        "url": "https://dilipkumar.medium.com/trending-hashtag-system-design-79123799e30f",
+        "language": "english",
+        "type": "article",
+        "id": "d0bc0916-2a27-46a9-8933-0c43fc3ee147"
+    },
+    {
+        "added_on": "30th Nov 2024",
+        "authors": [
+            "Pavlo Kolodka"
+        ],
+        "publication": "Level Up Coding",
+        "published_on": "02nd Sep 2024",
+        "read": true,
+        "tags": [
+            "Database",
+            "Database Management",
+            "Performance",
+            "Best Practices"
+        ],
+        "thumbnail": "",
+        "title": "In Search of Improving Database Performance: A Comprehensive Guide with 8 Key Strategies",
+        "url": "https://levelup.gitconnected.com/in-search-of-improving-database-performance-a-comprehensive-guide-with-8-key-strategies-3496f2262cdb",
+        "language": "english",
+        "type": "article",
+        "id": "9a46b586-2031-4009-8ca8-bf0e2d75c7a8"
+    },
+    {
         "added_on": "29th Nov 2024",
         "authors": [
             "Sylvain Tiset"
