@@ -2,11 +2,128 @@
     {
         "added_on": "30th Nov 2024",
         "authors": [
+            "Yash"
+        ],
+        "publication": "Medium",
+        "published_on": "17th Aug 2024",
+        "read": false,
+        "tags": [
+            "Javascript",
+            "Node.js"
+        ],
+        "thumbnail": "",
+        "title": "Top 30 Node.js Interview Questions | One Stop Solution",
+        "url": "https://medium.com/@yashwanthnandam/top-30-node-js-interview-questions-one-stop-solution-d5cdd80b36ac",
+        "language": "english",
+        "type": "article",
+        "id": "96f371ad-6409-4d76-80ba-5b95d98b57dd"
+    },
+    {
+        "added_on": "30th Nov 2024",
+        "authors": [
+            "Roma Gordeev"
+        ],
+        "publication": "Medium",
+        "published_on": "20th Jun 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "API Design",
+            "Pagination"
+        ],
+        "thumbnail": "",
+        "title": "How to Perform Pagination in API Design",
+        "url": "https://medium.com/@roma.gordeev/how-to-perform-pagination-in-api-design-ae55d2ff720a",
+        "language": "english",
+        "type": "article",
+        "id": "7a950562-6b89-48a0-85e8-0cf82e9d9d15"
+    },
+    {
+        "added_on": "30th Nov 2024",
+        "authors": [
+            "Joël-Steve N."
+        ],
+        "publication": "Stackademic",
+        "published_on": "02nd Jul 2024",
+        "read": false,
+        "tags": [
+            "Exception Handling",
+            "Python",
+            "FastAPI"
+        ],
+        "thumbnail": "",
+        "title": "Error and Exception Handling in FastAPI",
+        "url": "https://blog.stackademic.com/error-and-exception-handling-in-fastapi-c0949bb42e1b",
+        "language": "english",
+        "type": "article",
+        "id": "8975e463-0051-4c56-ae44-b46e42680a8b"
+    },
+    {
+        "added_on": "30th Nov 2024",
+        "authors": [
+            "Hayk Simonyan"
+        ],
+        "publication": "Javascript in plain English",
+        "published_on": "22nd Aug 2024",
+        "read": true,
+        "tags": [
+            "Javascript"
+        ],
+        "thumbnail": "",
+        "title": "How JavaScript is Executed",
+        "url": "https://javascript.plainenglish.io/how-javascript-is-executed-fc73871e1d9c",
+        "language": "english",
+        "type": "article",
+        "id": "f0bf6cb3-f12b-46d8-bd65-cab76636f0c4"
+    },
+    {
+        "added_on": "30th Nov 2024",
+        "authors": [
+            "Oleksii Trekhleb"
+        ],
+        "publication": "IT Next",
+        "published_on": "15th Jul 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Build from Scratch"
+        ],
+        "thumbnail": "",
+        "title": "System Design Sketches",
+        "url": "https://itnext.io/system-design-sketches-d8cb8e1d539f",
+        "language": "english",
+        "type": "article",
+        "id": "4f3ffef3-a9ab-475e-8503-d75ebd583e6d"
+    },
+    {
+        "added_on": "30th Nov 2024",
+        "authors": [
+            "Aditi Mishra"
+        ],
+        "publication": "Medium",
+        "published_on": "11th Sep 2024",
+        "read": true,
+        "tags": [
+            "System Design",
+            "Message Brokers",
+            "Redis",
+            "Kafka"
+        ],
+        "thumbnail": "",
+        "title": "Redis Pub/Sub vs. Apache Kafka: Choosing the Right Messaging System",
+        "url": "https://medium.com/@aditimishra_541/redis-pub-sub-vs-apache-kafka-choosing-the-right-messaging-system-3e3130ac653c",
+        "language": "english",
+        "type": "article",
+        "id": "ab537b66-d763-4ac1-b2c8-0ee51fb2e6b9"
+    },
+    {
+        "added_on": "30th Nov 2024",
+        "authors": [
             "Dilip Kumar"
         ],
         "publication": "Medium",
         "published_on": "14th Jul 2024",
-        "read": true,
+        "read": false,
         "tags": [
             "System Design",
             "Trending Hashtag"
