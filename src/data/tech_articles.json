@@ -1,5 +1,462 @@
 [
     {
+        "added_on": "03rd Dec 2024",
+        "authors": [
+            "Aniket Singh"
+        ],
+        "publication": "Curious Engineer",
+        "published_on": "09th Nov 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Message Queue",
+            "Message Broker"
+        ],
+        "thumbnail": "",
+        "title": "Message Queues v/s Message Brokers",
+        "url": "https://vivekbansal.substack.com/p/message-queues-vs-message-brokers",
+        "language": "english",
+        "type": "article",
+        "id": "81c4a067-d67d-4fcb-a53f-6467a04421ca"
+    },
+    {
+        "added_on": "03rd Dec 2024",
+        "authors": [
+            "Aniket Singh"
+        ],
+        "publication": "System Design Newsletter",
+        "published_on": "30th Oct 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Caching",
+            "Kafka"
+        ],
+        "thumbnail": "",
+        "title": "What is Kafka? Key components explained",
+        "url": "https://read.systemdesignblueprint.com/p/introduction-to-kafka",
+        "language": "english",
+        "type": "article",
+        "id": "1d9da15d-9b2a-488e-bfa8-4000436d0b88"
+    },
+    {
+        "added_on": "03rd Dec 2024",
+        "authors": [
+            "Dr. Milan Milanovic"
+        ],
+        "publication": "Tech World With Milan",
+        "published_on": "14th Nov 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "API Design"
+        ],
+        "thumbnail": "",
+        "title": "How to learn API?",
+        "url": "https://newsletter.techworld-with-milan.com/p/how-to-learn-api",
+        "language": "english",
+        "type": "article",
+        "id": "54cd2b40-5acc-4171-8baa-42c42d037f98"
+    },
+    {
+        "added_on": "03rd Dec 2024",
+        "authors": [
+            "Better Engineering"
+        ],
+        "publication": "Better Engineering",
+        "published_on": "15th Aug 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Caching"
+        ],
+        "thumbnail": "",
+        "title": "Caching — The Only Guide You'll Ever Need",
+        "url": "https://betterengineers.substack.com/p/caching-techniques-in-distributed",
+        "language": "english",
+        "type": "article",
+        "id": "a1c5f110-a66c-4674-bd29-950e5cafe9df"
+    },
+    {
+        "added_on": "03rd Dec 2024",
+        "authors": [
+            "Better Engineering"
+        ],
+        "publication": "Better Engineering",
+        "published_on": "20th Nov 2024",
+        "read": true,
+        "tags": [
+            "System Design",
+            "Message Brokers"
+        ],
+        "thumbnail": "",
+        "title": "How Enterprise Applications Exchange Data Using Messaging",
+        "url": "https://substack.com/home/post/p-151755861",
+        "language": "english",
+        "type": "article",
+        "id": "18b542d2-70da-4e0c-aa24-a2f26f66031b"
+    },
+    {
+        "added_on": "01st Dec 2024",
+        "authors": [
+            "Aniket Singh"
+        ],
+        "publication": "System Design Newsletter",
+        "published_on": "06th Nov 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Message Brokers",
+            "Kafka"
+        ],
+        "thumbnail": "",
+        "title": "How to use Kafka in system design interviews?",
+        "url": "https://read.systemdesignblueprint.com/p/kafka-system-design-interview-guide",
+        "language": "english",
+        "type": "article",
+        "id": "67a766e9-b985-4d37-b079-7035f14712e3"
+    },
+    {
+        "added_on": "01st Dec 2024",
+        "authors": [
+            "Noah Hsu"
+        ],
+        "publication": "Level Up Coding",
+        "published_on": "23rd Nov 2023",
+        "read": true,
+        "tags": [
+            "System Design",
+            "Idempotency",
+            "Idempotent API"
+        ],
+        "thumbnail": "",
+        "title": "How to design an efficient Idempotency API",
+        "url": "https://levelup.gitconnected.com/how-to-design-an-efficient-idempotency-api-e664fa2954bb",
+        "language": "english",
+        "type": "article",
+        "id": "0e11a96c-7145-4725-9f73-87d994e35bd6"
+    },
+    {
+        "added_on": "01st Dec 2024",
+        "authors": [
+            "Aditi Mishra"
+        ],
+        "publication": "Medium",
+        "published_on": "28th Aug 2024",
+        "read": true,
+        "tags": [
+            "System Design",
+            "Database"
+        ],
+        "thumbnail": "",
+        "title": "How to Efficiently Check If a Username Exists Among Billions of Users",
+        "url": "https://medium.com/@aditimishra_541/how-to-efficiently-check-if-a-username-exists-among-billions-of-users-7ed1e5c60489",
+        "language": "english",
+        "type": "article",
+        "id": "ddb8c756-5a87-469a-9eb0-639ae06d44c7"
+    },
+    {
+        "added_on": "01st Dec 2024",
+        "authors": [
+            "Seliesh Jacob"
+        ],
+        "publication": "Dev Genius",
+        "published_on": "03rd Jun 2024",
+        "read": true,
+        "tags": [
+            "System Design",
+            "API Design"
+        ],
+        "thumbnail": "",
+        "title": "API Design: From Basics to Best Practices",
+        "url": "https://blog.devgenius.io/api-design-from-basics-to-best-practices-49bbb29cf696",
+        "language": "english",
+        "type": "article",
+        "id": "65d867cf-fcf6-479f-a7e8-51c3bf7b465a"
+    },
+    {
+        "added_on": "01st Dec 2024",
+        "authors": [
+            "Jake Page"
+        ],
+        "publication": "Medium",
+        "published_on": "11th Apr 2024",
+        "read": true,
+        "tags": [
+            "DevOps",
+            "Source Control Management",
+            "Git"
+        ],
+        "thumbnail": "",
+        "title": "The guide to Git I never had",
+        "url": "https://medium.com/@jake.page91/the-guide-to-git-i-never-had-a89048d4703a",
+        "language": "english",
+        "type": "article",
+        "id": "87b51a09-d7fa-42de-9318-9b096137ec40"
+    },
+    {
+        "added_on": "01st Dec 2024",
+        "authors": [
+            "Tharun Kumar Reddy Polu"
+        ],
+        "publication": "Medium",
+        "published_on": "04th Jul 2024",
+        "read": true,
+        "tags": [
+            "System Design",
+            "System Design Concepts"
+        ],
+        "thumbnail": "",
+        "title": "Top 50 System Design Terminologies You Must Know",
+        "url": "https://medium.com/@TharunKumarReddyPolu/top-50-system-design-terminologies-you-must-know-3c78f5fb99c1",
+        "language": "english",
+        "type": "article",
+        "id": "5523a1fb-1205-4f4b-b22c-0ba29e4a4f72"
+    },
+    {
+        "added_on": "01st Dec 2024",
+        "authors": [
+            "Aditi Mishra"
+        ],
+        "publication": "Medium",
+        "published_on": "15th Sep 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Caching",
+            "Redis",
+            "Threading"
+        ],
+        "thumbnail": "",
+        "title": "Why is Redis So Fast Despite Being Single-Threaded?",
+        "url": "https://medium.com/@aditimishra_541/why-is-redis-so-fast-despite-being-single-threaded-dc06ba33fc75",
+        "language": "english",
+        "type": "article",
+        "id": "1ec720e8-7216-4a98-ad96-a72113e0eae5"
+    },
+    {
+        "added_on": "01st Dec 2024",
+        "authors": [
+            "Joël-Steve N."
+        ],
+        "publication": "Level Up Coding",
+        "published_on": "07th Aug 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Distributed System",
+            "Notification Service"
+        ],
+        "thumbnail": "",
+        "title": "Building a Notification Service with FastAPI",
+        "url": "https://blog.stackademic.com/building-a-notification-service-with-fastapi-8cc51d2eb2a8",
+        "language": "english",
+        "type": "article",
+        "id": "c1b1498b-acf3-4c40-b5a9-dfa0b2caacb6"
+    },
+    {
+        "added_on": "01st Dec 2024",
+        "authors": [
+            "Rohit S"
+        ],
+        "publication": "Level Up Coding",
+        "published_on": "14th Oct 2024",
+        "read": false,
+        "tags": [
+            "Node.js",
+            "Threading"
+        ],
+        "thumbnail": "",
+        "title": "Node.js is not Single-Threaded",
+        "url": "https://levelup.gitconnected.com/node-js-is-not-single-threaded-ae3d2f698a99",
+        "language": "english",
+        "type": "article",
+        "id": "201e9fc5-8e8a-4998-b0d9-206f15a3d751"
+    },
+    {
+        "added_on": "01st Dec 2024",
+        "authors": [
+            "Sylvain Tiset"
+        ],
+        "publication": "Medium",
+        "published_on": "06th Nov 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "API Design",
+            "REST"
+        ],
+        "thumbnail": "",
+        "title": "RESTful API Excellence: Best Practices for Design, Security, and Performance",
+        "url": "https://medium.com/@sylvain.tiset/restful-api-excellence-best-practices-for-design-security-and-performance-fa24c1360ab9",
+        "language": "english",
+        "type": "article",
+        "id": "b577d1d4-27f4-4b8b-959d-63892685216f"
+    },
+    {
+        "added_on": "01st Dec 2024",
+        "authors": [
+            "Ege Aytin"
+        ],
+        "publication": "Permify Tech Blog",
+        "published_on": "05th Nov 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Distributed System",
+            "Authorization"
+        ],
+        "thumbnail": "",
+        "title": "How To Build Centralized Authorization System",
+        "url": "https://medium.com/permify-tech-blog/how-to-build-centralized-authorization-system-c6b180912aeb",
+        "language": "english",
+        "type": "article",
+        "id": "f8ed175a-e46b-47e7-a5e7-5dae883b6ea7"
+    },
+    {
+        "added_on": "01st Dec 2024",
+        "authors": [
+            "Hayk Simonyan"
+        ],
+        "publication": "Javascript in plain English",
+        "published_on": "03rd Sep 2024",
+        "read": true,
+        "tags": [
+            "Javascript",
+            "Best Practices"
+        ],
+        "thumbnail": "",
+        "title": "Variable Naming Best Practices in JavaScript",
+        "url": "https://javascript.plainenglish.io/variable-naming-best-practices-in-javascript-94af115f42cd",
+        "language": "english",
+        "type": "article",
+        "id": "972852f0-ff8b-464e-860d-76205a8c2cd4"
+    },
+    {
+        "added_on": "01st Dec 2024",
+        "authors": [
+            "Benjamin Cane"
+        ],
+        "publication": "Medium",
+        "published_on": "07th Oct 2024",
+        "read": true,
+        "tags": [
+            "System Design",
+            "API Design",
+            "gRPC"
+        ],
+        "thumbnail": "",
+        "title": "Why is gRPC so much faster than a JSON-based REST API?",
+        "url": "https://itnext.io/why-is-grpc-so-much-faster-than-a-json-based-rest-api-df09cb69fae5",
+        "language": "english",
+        "type": "article",
+        "id": "be8c83c7-2ad2-484c-94cf-ee05ed0e3a23"
+    },
+    {
+        "added_on": "01st Dec 2024",
+        "authors": [
+            "Sylvain Tiset"
+        ],
+        "publication": "Medium",
+        "published_on": "18th Sep 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Design Pattern",
+            "Microservice"
+        ],
+        "thumbnail": "",
+        "title": "Top 10 Microservices Design Patterns you should know",
+        "url": "https://medium.com/@sylvain.tiset/top-10-microservices-design-patterns-you-should-know-1bac6a7d6218",
+        "language": "english",
+        "type": "article",
+        "id": "e22b5f87-cd4f-4c88-aea9-b4721530f0d6"
+    },
+    {
+        "added_on": "01st Dec 2024",
+        "authors": [
+            "Hayk Simonyan"
+        ],
+        "publication": "Level Up Coding",
+        "published_on": "21st Feb 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Spotify",
+            "Build from Scratch"
+        ],
+        "thumbnail": "",
+        "title": "System Design Interview Question: Design Spotify",
+        "url": "https://levelup.gitconnected.com/system-design-interview-question-design-spotify-4a8a79697dda",
+        "language": "english",
+        "type": "article",
+        "id": "81cfee62-fac7-4699-a75f-046cc1b1bac5"
+    },
+    {
+        "added_on": "01st Dec 2024",
+        "authors": [
+            "David Mosyan"
+        ],
+        "publication": "Medium",
+        "published_on": "23rd May 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Authentication",
+            "JWT"
+        ],
+        "thumbnail": "",
+        "title": "JSON Web Tokens Explained",
+        "url": "https://medium.com/@dmosyan/json-web-tokens-explained-1ca3bd7dc7a0",
+        "language": "english",
+        "type": "article",
+        "id": "7a11f495-0f97-49ca-97be-dbdc52ea77af"
+    },
+    {
+        "added_on": "01st Dec 2024",
+        "authors": [
+            "CloudWay Digital Inc."
+        ],
+        "publication": "Level Up Coding",
+        "published_on": "17th May 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Distributed System",
+            "Caching",
+            "gRPC",
+            "SOAP"
+        ],
+        "thumbnail": "",
+        "title": "Mastering Caching in Distributed Applications",
+        "url": "https://levelup.gitconnected.com/mastering-caching-in-distributed-applications-e7449f4db399",
+        "language": "english",
+        "type": "article",
+        "id": "1678f981-e6fb-47ba-8bfc-a59c3754dd5e"
+    },
+    {
+        "added_on": "30th Nov 2024",
+        "authors": [
+            "Illia Halashko"
+        ],
+        "publication": "Medium",
+        "published_on": "07th Jul 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "API Design",
+            "REST",
+            "gRPC",
+            "SOAP"
+        ],
+        "thumbnail": "",
+        "title": "Architecture Cheet Sheet - API Design Styles",
+        "url": "https://medium.com/@ilia.galashko/architecture-cheet-sheet-api-design-styles-2d5bf38e10dd",
+        "language": "english",
+        "type": "article",
+        "id": "3d4b0390-a998-4456-9791-d3098f8888be"
+    },
+    {
         "added_on": "30th Nov 2024",
         "authors": [
             "Yash"
