@@ -2,6 +2,25 @@
     {
         "added_on": "03rd Dec 2024",
         "authors": [
+            "Raul Junco"
+        ],
+        "publication": "System Design Classroom",
+        "published_on": "18th Sep 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Database"
+        ],
+        "thumbnail": "",
+        "title": "Did they tell you how to split the Database?",
+        "url": "https://substack.com/home/post/p-148920955",
+        "language": "english",
+        "type": "article",
+        "id": "6db43dce-7a2b-4c09-bb3c-6975bae72738"
+    },
+    {
+        "added_on": "03rd Dec 2024",
+        "authors": [
             "Aniket Singh"
         ],
         "publication": "Curious Engineer",
