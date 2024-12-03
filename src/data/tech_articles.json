@@ -2,6 +2,384 @@
     {
         "added_on": "03rd Dec 2024",
         "authors": [
+            "Akash Nagpal"
+        ],
+        "publication": "Medium",
+        "published_on": "30th May 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Event-Driven Architecture",
+            "Interview Questions"
+        ],
+        "thumbnail": "",
+        "title": "How I Used Event-Driven Architecture in the Wrong Way",
+        "url": "https://medium.com/@shiiyan/how-i-failed-in-event-driven-architecture-86eb493082fa",
+        "language": "english",
+        "type": "article",
+        "id": "85d72a8f-04d7-4d59-9dc2-83ecdd1a2276"
+    },
+    {
+        "added_on": "03rd Dec 2024",
+        "authors": [
+            "Akash Nagpal"
+        ],
+        "publication": "Medium",
+        "published_on": "30th May 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Microservice",
+            "Interview Questions"
+        ],
+        "thumbnail": "",
+        "title": "36 Most Asked Microservice Interview Questions",
+        "url": "https://medium.com/@akashnagpal112/36-most-asked-microservice-interview-questions-3dcffe9bf97f",
+        "language": "english",
+        "type": "article",
+        "id": "a0e38e61-266d-401c-90e9-5e8e7ae99a37"
+    },
+    {
+        "added_on": "03rd Dec 2024",
+        "authors": [
+            "Isaac Adams"
+        ],
+        "publication": "Medium",
+        "published_on": "16th Nov 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Scalability"
+        ],
+        "thumbnail": "",
+        "title": "Part 2: From 1 to 1M — Scaling a Full-Stack Web Application Platform to Handle 1M Daily Visitors",
+        "url": "https://medium.com/@isaac.adams/part-2-from-1-to-1m-scaling-a-full-stack-web-application-platform-to-handle-1m-daily-visitors-24994ef1532b",
+        "language": "english",
+        "type": "article",
+        "id": "aae68325-26ca-4ef8-9556-924c00a7fe2d"
+    },
+    {
+        "added_on": "03rd Dec 2024",
+        "authors": [
+            "Vishal Lokam"
+        ],
+        "publication": "Medium",
+        "published_on": "17th Jun 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Netflix",
+            "Video processing",
+            "GraphQL",
+            "Advertising",
+            "Netflix Open Connect Program (OCP)"
+        ],
+        "thumbnail": "",
+        "title": "I just spent 5+ hours reading Netflix engineering blogs, so you don't have to",
+        "url": "https://medium.com/@devopswithvishal/i-just-spent-5-hours-reading-netflix-engineering-blogs-so-you-dont-have-to-9ead5549d477",
+        "language": "english",
+        "type": "article",
+        "id": "82977bd6-a4b8-4afb-a93f-c4da4f26a01e"
+    },
+    {
+        "added_on": "03rd Dec 2024",
+        "authors": [
+            "Nirjal Paudel"
+        ],
+        "publication": "Javascript in plain English",
+        "published_on": "26th Jun 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Database",
+            "PostgreSQL",
+            "JSONB"
+        ],
+        "thumbnail": "",
+        "title": "JSONB in PostgreSQL and Its Daily Uses",
+        "url": "https://javascript.plainenglish.io/jsonb-in-postgressql-and-its-daily-uses-3c14f486b6d4",
+        "language": "english",
+        "type": "article",
+        "id": "40c02d30-42a7-4243-a2f9-203268716dae"
+    },
+    {
+        "added_on": "03rd Dec 2024",
+        "authors": [
+            "Mykola"
+        ],
+        "publication": "IT Next",
+        "published_on": "03rd Jan 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Security",
+            "CORS"
+        ],
+        "thumbnail": "",
+        "title": "Understanding CORS",
+        "url": "https://itnext.io/understanding-cors-4157bf640e11",
+        "language": "english",
+        "type": "article",
+        "id": "e86a341d-1d7b-4be8-bbe2-ce01d35d64ea"
+    },
+    {
+        "added_on": "03rd Dec 2024",
+        "authors": [
+            "Sanil Khurana"
+        ],
+        "publication": "Towards Data Science",
+        "published_on": "29th Nov 2023",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Elasticsearch"
+        ],
+        "thumbnail": "",
+        "title": "System Design Cheatsheets: ElasticSearch",
+        "url": "https://towardsdatascience.com/system-design-cheatsheets-elasticsearch-673b98eebfff",
+        "language": "english",
+        "type": "article",
+        "id": "90201399-c9b1-41d4-8d8c-dd5e37f5379d"
+    },
+    {
+        "added_on": "03rd Dec 2024",
+        "authors": [
+            "Garrett James Cassar"
+        ],
+        "publication": "Level Up Coding",
+        "published_on": "04th Oct 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Microservice",
+            "Monolithic"
+        ],
+        "thumbnail": "",
+        "title": "Why you should never default to Microservices",
+        "url": "https://levelup.gitconnected.com/why-you-should-never-default-to-microservices-c952903fbcb6",
+        "language": "english",
+        "type": "article",
+        "id": "e29a951d-57b5-4fc8-a6ad-3027ab8a02b6"
+    },
+    {
+        "added_on": "03rd Dec 2024",
+        "authors": [
+            "Seetharamugn"
+        ],
+        "publication": "Medium",
+        "published_on": "13th Nov 2023",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Build from Scratch",
+            "Hotel Reservation System"
+        ],
+        "thumbnail": "",
+        "title": "Designing a Scalable and Resilient Hotel Reservation system Architecture",
+        "url": "https://medium.com/@seetharamugn/designing-a-scalable-and-resilient-hotel-reservation-system-architecture-4ede2916893b",
+        "language": "english",
+        "type": "article",
+        "id": "28122ec3-ee36-419d-ad59-3727878d7655"
+    },
+    {
+        "added_on": "03rd Dec 2024",
+        "authors": [
+            "Sandeep"
+        ],
+        "publication": "Medium",
+        "published_on": "18th Jul 2023",
+        "read": false,
+        "tags": [
+            "System Design",
+            "API Design",
+            "Golang"
+        ],
+        "thumbnail": "",
+        "title": "Build Fastest API with Golang",
+        "url": "https://medium.com/@ksandeeptech07/build-fastest-api-with-golang-78be1ea12d92",
+        "language": "english",
+        "type": "article",
+        "id": "d55f1bea-a9f1-4386-803f-4bc961e98c41"
+    },
+    {
+        "added_on": "03rd Dec 2024",
+        "authors": [
+            "Martin"
+        ],
+        "publication": "Martin Heinz dev",
+        "published_on": "02nd Oct 2023",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Caching",
+            "Database",
+            "PostgreSQL"
+        ],
+        "thumbnail": "",
+        "title": "You Don't Need a Dedicated Cache Service - PostgreSQL as a Cache",
+        "url": "https://martinheinz.dev/blog/105",
+        "language": "english",
+        "type": "article",
+        "id": "c7cf5deb-d962-458b-a979-3658daf1faf1"
+    },
+    {
+        "added_on": "03rd Dec 2024",
+        "authors": [
+            "Dilip Kumar"
+        ],
+        "publication": "Medium",
+        "published_on": "01st Sep 2024",
+        "read": false,
+        "tags": [
+            "Build from Scratch",
+            "Price drop tracker System"
+        ],
+        "thumbnail": "",
+        "title": "Price drop tracker system design",
+        "url": "https://dilipkumar.medium.com/price-drop-tracker-system-design-d2f9ed36a935",
+        "language": "english",
+        "type": "article",
+        "id": "71301a58-8137-4e07-913f-b02f638ba531"
+    },
+    {
+        "added_on": "03rd Dec 2024",
+        "authors": [
+            "Lucas Pereyra"
+        ],
+        "publication": "IT Next",
+        "published_on": "06th Jun 2024",
+        "read": false,
+        "tags": [
+            "Backend",
+            "Optimization"
+        ],
+        "thumbnail": "",
+        "title": "Optimizing Web Backends",
+        "url": "https://itnext.io/optimizing-web-backends-5a9ff96f555f",
+        "language": "english",
+        "type": "article",
+        "id": "0c837102-19ea-450b-90d4-5bdd659cd985"
+    },
+    {
+        "added_on": "03rd Dec 2024",
+        "authors": [
+            "Vitaliy Korzhenko"
+        ],
+        "publication": "Medium",
+        "published_on": "11th Sep 2024",
+        "read": false,
+        "tags": [
+            "Node.js",
+            "Roadmap",
+            "Resources"
+        ],
+        "thumbnail": "",
+        "title": "Roadmap for Node.js Developers. Guide to Mastering Node.js",
+        "url": "https://medium.com/@vitaliykorzenkoua/roadmap-for-node-js-developers-guide-to-mastering-node-js-c41eb13231de",
+        "language": "english",
+        "type": "article",
+        "id": "8f7f2d6f-237b-469b-acdd-a1d027a8faf2"
+    },
+    {
+        "added_on": "03rd Dec 2024",
+        "authors": [
+            "Mirza Leka"
+        ],
+        "publication": "Medium",
+        "published_on": "31st Jul 2024",
+        "read": false,
+        "tags": [
+            "Event-Driven Architecture",
+            "Node.js"
+        ],
+        "thumbnail": "",
+        "title": "Event-Driven Programming in Node.js",
+        "url": "https://mirzaleka.medium.com/even-driven-programming-in-node-js-008c64f61891",
+        "language": "english",
+        "type": "article",
+        "id": "81dcfd55-e389-4abc-aa92-b25a4b4b480b"
+    },
+    {
+        "added_on": "03rd Dec 2024",
+        "authors": [
+            "Priya Srivastava"
+        ],
+        "publication": "Medium",
+        "published_on": "24th Nov 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Latency"
+        ],
+        "thumbnail": "",
+        "title": "System Design Interview : How can you reduce the latency of the whole system architecture",
+        "url": "https://medium.com/@priyasrivastava18official/system-design-interview-how-can-you-reduce-the-latency-of-the-whole-system-architecture-18d9198892e9",
+        "language": "english",
+        "type": "article",
+        "id": "2b48f8cf-e302-4fb3-bd08-c5374a0a0413"
+    },
+    {
+        "added_on": "03rd Dec 2024",
+        "authors": [
+            "Roma Gordeev"
+        ],
+        "publication": "Medium",
+        "published_on": "16th Jul 2024",
+        "read": false,
+        "tags": [
+            "Database",
+            "PostgreSQL"
+        ],
+        "thumbnail": "",
+        "title": "Simplifying Your Tech Stack with PostgreSQL",
+        "url": "https://medium.com/@roma.gordeev/simplifying-your-tech-stack-with-postgresql-19030dc84f2c",
+        "language": "english",
+        "type": "article",
+        "id": "4d74bf31-1c88-42b3-bf11-cce98b638903"
+    },
+    {
+        "added_on": "03rd Dec 2024",
+        "authors": [
+            "Sidharth"
+        ],
+        "publication": "Medium",
+        "published_on": "28th Sep 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Data Structures",
+            "Bloom Filter",
+            "Latency"
+        ],
+        "thumbnail": "",
+        "title": "How Bloom Filters Make Checking Millions of Usernames Lightning Fast",
+        "url": "https://medium.com/@_sidharth_m_/how-bloom-filters-make-checking-millions-of-usernames-lightning-fast-71ed1dee3e5d",
+        "language": "english",
+        "type": "article",
+        "id": "5a342853-0007-458b-903f-cb4048465b68"
+    },
+    {
+        "added_on": "03rd Dec 2024",
+        "authors": [
+            "Hayk Simonyan"
+        ],
+        "publication": "Level Up Coding",
+        "published_on": "28th Nov 2024",
+        "read": true,
+        "tags": [
+            "System Design",
+            "Signle Point of Failure"
+        ],
+        "thumbnail": "",
+        "title": "Single Point of Failure (SPOF) in System Design",
+        "url": "https://levelup.gitconnected.com/single-point-of-failure-spof-in-system-design-c8bbac5af993",
+        "language": "english",
+        "type": "article",
+        "id": "bbe82786-c0bb-4276-9a8c-6bc7aa8df486"
+    },
+    {
+        "added_on": "03rd Dec 2024",
+        "authors": [
             "Raul Junco"
         ],
         "publication": "System Design Classroom",
@@ -1243,7 +1621,7 @@
             "Database",
             "Database Comparison",
             "Persistent Storage",
-            "Postgres"
+            "PostgreSQL"
         ],
         "thumbnail": "",
         "title": "Just use Postgres",
@@ -1338,7 +1716,7 @@
         "authors": [
             "Addy Osmani"
         ],
-        "publication": "Medium / Dev Channel",
+        "publication": "Dev Channel",
         "published_on": "05th Nov 2018",
         "read": true,
         "tags": [
@@ -2101,7 +2479,7 @@
             "System Design Case Study",
             "Scalability",
             "Cloudflare",
-            "Postgresql"
+            "PostgreSQL"
         ],
         "thumbnail": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fef97562a-380e-41fa-8f6d-747c86968e77_1280x720.gif",
         "title": "How Cloudflare Was Able to Support 55 Million Requests per Second With Only 15 Postgres Clusters",
