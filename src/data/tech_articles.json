@@ -1,5 +1,353 @@
 [
     {
+        "added_on": "06th Dec 2024",
+        "authors": [
+            "Onix React"
+        ],
+        "publication": "Medium",
+        "published_on": "13th Sep 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Build from Scratch",
+            "Chat System"
+        ],
+        "thumbnail": "",
+        "title": "System Design: Design a chat system",
+        "url": "https://medium.com/@ishwarya1011.hidkimath/system-design-design-a-chat-system-e0056fb093d1",
+        "language": "english",
+        "type": "article",
+        "id": "7bba6ff1-951d-42cf-a08f-8eb6ae9a4676"
+    },
+    {
+        "added_on": "06th Dec 2024",
+        "authors": [
+            "Onix React"
+        ],
+        "publication": "Medium",
+        "published_on": "13th Sep 2024",
+        "read": false,
+        "tags": [
+            "Programming Language",
+            "Javascript",
+            "Best Practices"
+        ],
+        "thumbnail": "",
+        "title": "Best Practices for Writing Clean JavaScript Code",
+        "url": "https://medium.com/@onix_react/best-practices-for-writing-clean-javascript-code-a4e5755de69a",
+        "language": "english",
+        "type": "article",
+        "id": "00b3e718-33c5-4d74-8b4a-26bf4efd4949"
+    },
+    {
+        "added_on": "06th Dec 2024",
+        "authors": [
+            "Chris St. John"
+        ],
+        "publication": "Cloud Cost Savings",
+        "published_on": "16th Oct 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Cloud Infrastructure",
+            "Amazon Web Service (AWS)",
+            "AWS Cost Alerts",
+            "Monitoring",
+            "Alerts"
+        ],
+        "thumbnail": "",
+        "title": "12 AWS Cost Alerts To Use Right Now",
+        "url": "https://medium.com/cloud-cost-savings/12-aws-cost-alerts-to-use-right-now-a082795f3858",
+        "language": "english",
+        "type": "article",
+        "id": "6ed3e845-349c-4d13-ac0a-eb51b61a7668"
+    },
+    {
+        "added_on": "06th Dec 2024",
+        "authors": [
+            "Vu Trinh"
+        ],
+        "publication": "Data Engineer Things",
+        "published_on": "06th Jul 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Message Brokers",
+            "Kafka"
+        ],
+        "thumbnail": "",
+        "title": "Apache Kafka - Overview",
+        "url": "https://blog.det.life/apache-kafka-overview-b04c4ab8ef49",
+        "language": "english",
+        "type": "article",
+        "id": "6264d572-13eb-4f90-b0d4-31793f1c5990"
+    },
+    {
+        "added_on": "06th Dec 2024",
+        "authors": [
+            "DinhNT"
+        ],
+        "publication": "Medium",
+        "published_on": "22nd Nov 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Scalability",
+            "Web Socket"
+        ],
+        "thumbnail": "",
+        "title": "System design: Scaling WebSocket Applications",
+        "url": "https://medium.com/@dinh.nt/system-design-scaling-websocket-applications-c7827ec82afb",
+        "language": "english",
+        "type": "article",
+        "id": "1c0cf778-9e8d-44cb-8cca-88f042041271"
+    },
+    {
+        "added_on": "06th Dec 2024",
+        "authors": [
+            "Dilip Kumar"
+        ],
+        "publication": "Medium",
+        "published_on": "20th Jul 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Build from Scratch",
+            "Distributed Job Scheduler"
+        ],
+        "thumbnail": "",
+        "title": "Distributed Job Scheduler system design",
+        "url": "https://dilipkumar.medium.com/distributed-job-scheduler-system-design-8ae13a8dee83",
+        "language": "english",
+        "type": "article",
+        "id": "ce0638e6-ffb6-4cb5-9f8a-39b24c719660"
+    },
+    {
+        "added_on": "06th Dec 2024",
+        "authors": [
+            "Ian Kiprono"
+        ],
+        "publication": "Stackademic",
+        "published_on": "04th Aug 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Kafka"
+        ],
+        "thumbnail": "",
+        "title": "Hashing, Encryption, and Encoding explained",
+        "url": "https://blog.stackademic.com/hashing-encryption-and-encoding-explained-37b19b85ac50",
+        "language": "english",
+        "type": "article",
+        "id": "059f450a-1838-4c6a-9f31-5bc64fb2a668"
+    },
+    {
+        "added_on": "06th Dec 2024",
+        "authors": [
+            "Manjula Piyumal"
+        ],
+        "publication": "Medium",
+        "published_on": "24th Aug 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Kafka"
+        ],
+        "thumbnail": "",
+        "title": "Mastering Kafka: Advanced Concepts Every Senior Software Engineer Should Know",
+        "url": "https://manjulapiyumal.medium.com/mastering-kafka-advanced-concepts-every-senior-software-engineer-should-know-9283664c99e1",
+        "language": "english",
+        "type": "article",
+        "id": "842b3dcd-8c9d-423f-80f2-7524ed9681f9"
+    },
+    {
+        "added_on": "06th Dec 2024",
+        "authors": [
+            "Sylvain Tiset"
+        ],
+        "publication": "Medium",
+        "published_on": "09th Oct 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Data Structures",
+            "Probabilistic Data Structures",
+            "Bloom Filter"
+        ],
+        "thumbnail": "",
+        "title": "Bloom Filters 101: The Power of Probabilistic Data Structures",
+        "url": "https://medium.com/@sylvain.tiset/bloom-filters-101-the-power-of-probabilistic-data-structures-ef1b4a422b0b",
+        "language": "english",
+        "type": "article",
+        "id": "10979c0e-a936-4403-a543-957f1d724f9b"
+    },
+    {
+        "added_on": "06th Dec 2024",
+        "authors": [
+            "Aditi Mishra"
+        ],
+        "publication": "Medium",
+        "published_on": "09th Aug 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "API Design",
+            "REST",
+            "gRPC",
+            "GraphQL"
+        ],
+        "thumbnail": "",
+        "title": "Choosing between gRPC, REST, and Graphql for designing and implementing APIs?",
+        "url": "https://blog.stackademic.com/choosing-between-grpc-rest-and-graphql-for-designing-and-implementing-apis-25df124848dc",
+        "language": "english",
+        "type": "article",
+        "id": "149906a9-51b5-4167-9554-f54edd938ccc"
+    },
+    {
+        "added_on": "06th Dec 2024",
+        "authors": [
+            "Aditi Mishra"
+        ],
+        "publication": "Medium",
+        "published_on": "09th Aug 2024",
+        "read": false,
+        "tags": [
+            "Programming language Concepts",
+            "Golang",
+            "Interfaces"
+        ],
+        "thumbnail": "",
+        "title": "Some interesting facts about Go interfaces",
+        "url": "https://medium.com/@aditimishra_541/some-interesting-facts-about-go-interfaces-55006e126f58",
+        "language": "english",
+        "type": "article",
+        "id": "2dbdd2a6-ee99-40ce-a51b-7485be15de1b"
+    },
+    {
+        "added_on": "06th Dec 2024",
+        "authors": [
+            "Ian Kiprono"
+        ],
+        "publication": "Stackademic",
+        "published_on": "19th Aug 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Caching",
+            "Redis"
+        ],
+        "thumbnail": "",
+        "title": "Why is Redis Fast?",
+        "url": "https://blog.stackademic.com/why-is-redis-fast-a8a2a0902755",
+        "language": "english",
+        "type": "article",
+        "id": "ade839df-fa28-4649-9435-ccc99dfe13c8"
+    },
+    {
+        "added_on": "06th Dec 2024",
+        "authors": [
+            "Vu Trinh"
+        ],
+        "publication": "Data Engineer Things",
+        "published_on": "06th Aug 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Database",
+            "Scalability",
+            "PostgreSQL",
+            "Data Lake"
+        ],
+        "thumbnail": "",
+        "title": "How does Notion handle 200 billion data entities?",
+        "url": "https://blog.det.life/how-does-notion-handle-200-billion-data-entities-919b238c2846",
+        "language": "english",
+        "type": "article",
+        "id": "01930cf2-9287-4dea-8585-40f51bcede4b"
+    },
+    {
+        "added_on": "06th Dec 2024",
+        "authors": [
+            "Rohit S"
+        ],
+        "publication": "Level Up Coding",
+        "published_on": "24th Sep 2012",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Backend for Frontend Architecture"
+        ],
+        "thumbnail": "",
+        "title": "Backend for Frontend (BFF) Architecture",
+        "url": "https://levelup.gitconnected.com/backend-for-frontend-bff-architecture-64fa9f316a5a",
+        "language": "english",
+        "type": "article",
+        "id": "638e42de-f694-43fd-85e9-c9ab644a47cd"
+    },
+    {
+        "added_on": "06th Dec 2024",
+        "authors": [
+            "Instagram Engineering"
+        ],
+        "publication": "Instagram Engineering",
+        "published_on": "30th Dec 2012",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Database Sharding",
+            "Unique Identifiers",
+            "Use Case",
+            "Instagram"
+        ],
+        "thumbnail": "",
+        "title": "Sharding & IDs at Instagram",
+        "url": "https://instagram-engineering.com/sharding-ids-at-instagram-1cf5a71e5a5c",
+        "language": "english",
+        "type": "article",
+        "id": "3ed05473-b139-4935-b135-7350d77a5d73"
+    },
+    {
+        "added_on": "06th Dec 2024",
+        "authors": [
+            "Rimon Tawadrous"
+        ],
+        "publication": "Medium",
+        "published_on": "20th Oct 2023",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Database",
+            "Indexing"
+        ],
+        "thumbnail": "",
+        "title": "Introduction To Database Indexing",
+        "url": "https://medium.com/@rtawadrous/introduction-to-database-indexes-9b488e243cc1",
+        "language": "english",
+        "type": "article",
+        "id": "d3cebaf1-3069-45cb-8a62-0b3d9bbd372e"
+    },
+    {
+        "added_on": "06th Dec 2024",
+        "authors": [
+            "Rimon Tawadrous"
+        ],
+        "publication": "IT Next",
+        "published_on": "16th Jan 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Unique Identifiers",
+            "UUID",
+            "RDBMS"
+        ],
+        "thumbnail": "",
+        "title": "Why UUID7 is better than UUID4 as clustered index in RDBMS",
+        "url": "https://itnext.io/why-uuid7-is-better-than-uuid4-as-clustered-index-edb02bf70056",
+        "language": "english",
+        "type": "article",
+        "id": "f8f36807-a1f3-4a4b-af51-2e74d0fe0bf8"
+    },
+    {
         "added_on": "03rd Dec 2024",
         "authors": [
             "Akash Nagpal"
@@ -86,7 +434,7 @@
         "authors": [
             "Nirjal Paudel"
         ],
-        "publication": "Javascript in plain English",
+        "publication": "Nirjal's Blog",
         "published_on": "26th Jun 2024",
         "read": false,
         "tags": [
@@ -97,7 +445,7 @@
         ],
         "thumbnail": "",
         "title": "JSONB in PostgreSQL and Its Daily Uses",
-        "url": "https://javascript.plainenglish.io/jsonb-in-postgressql-and-its-daily-uses-3c14f486b6d4",
+        "url": "https://nirjalpaudel.com.np/posts/@nirjalpaudel54312/jsonb-in-postgresql-and-its-daily-uses",
         "language": "english",
         "type": "article",
         "id": "40c02d30-42a7-4243-a2f9-203268716dae"
@@ -407,7 +755,7 @@
         "tags": [
             "System Design",
             "Message Queue",
-            "Message Broker"
+            "Message Brokers"
         ],
         "thumbnail": "",
         "title": "Message Queues v/s Message Brokers",
@@ -1244,7 +1592,7 @@
             "Joël-Steve N."
         ],
         "publication": "AWS Tip",
-        "published_on": "20th Jun 2024",
+        "published_on": "30th Jun 2024",
         "read": false,
         "tags": [
             "Python",
@@ -1256,7 +1604,7 @@
         ],
         "thumbnail": "https://miro.medium.com/v2/resize:fit:1200/1*LOZgruzs6i82_D2oMYG4bw.png",
         "title": "Comparing FastAPI with Other Frameworks (Django, Flask)",
-        "url": "https://medium.com/aws-tip/comparing-fastapi-with-other-frameworks-django-flask-3cb5988fdc77",
+        "url": "https://awstip.com/comparing-fastapi-with-other-frameworks-django-flask-3cb5988fdc77",
         "language": "english",
         "type": "article",
         "id": "2155f410-4d7f-48b6-b649-050cf9ab9fff"
