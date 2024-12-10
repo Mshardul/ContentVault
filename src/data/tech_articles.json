@@ -1,5 +1,525 @@
 [
     {
+        "added_on": "10th Dec 2024",
+        "authors": [
+            "David Mosyan"
+        ],
+        "publication": "Medium",
+        "published_on": "24th AUG 2024",
+        "read": false,
+        "tags": [
+            "Authentication",
+            "Authorization",
+            "Oauth 2.0",
+            "Open ID Connect (OIDC)"
+        ],
+        "thumbnail": "",
+        "title": "OpenID Connect (OIDC) Explained",
+        "url": "https://medium.com/@dmosyan/openid-connect-oidc-explained-b7a368c90168",
+        "language": "english",
+        "type": "article",
+        "id": "24000eb7-374d-4644-9750-fd8e41bc5d4b"
+    },
+    {
+        "added_on": "10th Dec 2024",
+        "authors": [
+            "Nisha Sreedharan"
+        ],
+        "publication": "Medium",
+        "published_on": "27th Jun 2024",
+        "read": false,
+        "tags": [
+            "Data Engineering",
+            "Interview Preparation"
+        ],
+        "thumbnail": "",
+        "title": "Data Engineer Interview Preparation - Complete Guide",
+        "url": "https://medium.com/@nishasreedharan/data-engineer-interview-preparation-complete-guide-98a9d16f6889",
+        "language": "english",
+        "type": "article",
+        "id": "af0bbc75-79ff-43d2-b39a-3cd2bd83bca5"
+    },
+    {
+        "added_on": "10th Dec 2024",
+        "authors": [
+            "Sid"
+        ],
+        "publication": "Medium",
+        "published_on": "03rd Aug 2024",
+        "read": false,
+        "tags": [
+            "Distributed System",
+            "Load Balancer"
+        ],
+        "thumbnail": "",
+        "title": "How Load Balancers Distribute Traffic?",
+        "url": "https://medium.com/@_sidharth_m_/how-load-balancers-distribute-traffic-d904cd11d321",
+        "language": "english",
+        "type": "article",
+        "id": "72ac16ee-ed0d-4719-b5fe-0cd08b9f3263"
+    },
+    {
+        "added_on": "10th Dec 2024",
+        "authors": [
+            "Aditi Mishra"
+        ],
+        "publication": "Medium",
+        "published_on": "01st Oct 2024",
+        "read": false,
+        "tags": [
+            "Optimization",
+            "Password Discovery"
+        ],
+        "thumbnail": "",
+        "title": "Optimizing Password Discovery: A Cost-Effective and Scalable Solution Using Hybrid Compute Resources",
+        "url": "https://medium.com/@aditimishra_541/optimizing-password-discovery-a-cost-effective-and-scalable-solution-using-hybrid-compute-50beb35abe67",
+        "language": "english",
+        "type": "article",
+        "id": "a7c4639e-3469-4a1f-9b1a-e7d4b8e7bb73"
+    },
+    {
+        "added_on": "10th Dec 2024",
+        "authors": [
+            "Dilip Kumar"
+        ],
+        "publication": "Medium",
+        "published_on": "29th Aug 2024",
+        "read": false,
+        "tags": [
+            "Data Structures"
+        ],
+        "thumbnail": "",
+        "title": "Online Bidding System design",
+        "url": "https://dilipkumar.medium.com/online-bidding-system-design-9a45157196fe",
+        "language": "english",
+        "type": "article",
+        "id": "89ad4f25-16a4-4d35-a5d9-78849f5dffb1"
+    },
+    {
+        "added_on": "10th Dec 2024",
+        "authors": [
+            "Sylvain Tiset"
+        ],
+        "publication": "Medium",
+        "published_on": "20th Nov 2024",
+        "read": false,
+        "tags": [
+            "Data Structures"
+        ],
+        "thumbnail": "",
+        "title": "A Masterclass on Data Structures",
+        "url": "https://medium.com/@sylvain.tiset/a-masterclass-on-data-structures-70caefe54391",
+        "language": "english",
+        "type": "article",
+        "id": "aab02128-93c2-449c-bae7-e4d48273bad6"
+    },
+    {
+        "added_on": "10th Dec 2024",
+        "authors": [
+            "Fahim ul Haq"
+        ],
+        "publication": "Grokking the Tech Interview",
+        "published_on": "07th Aug 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Build from Scratch",
+            "Google"
+        ],
+        "thumbnail": "",
+        "title": "Top Google system design interview questions",
+        "url": "https://grokkingtechinterview.com/top-google-system-design-interview-questions-18d616dff2fc",
+        "language": "english",
+        "type": "article",
+        "id": "d051083e-2f0e-4277-893f-2eadf46ee93a"
+    },
+    {
+        "added_on": "08th Dec 2024",
+        "authors": [
+            "Victor Moreno"
+        ],
+        "publication": "Medium",
+        "published_on": "24th Jul 2024",
+        "read": false,
+        "tags": [
+            "Frontend",
+            "ReactJS",
+            "NextJS"
+        ],
+        "thumbnail": "",
+        "title": "Why NextJS Sucks",
+        "url": "https://medium.com/@thecodingteacher_52591/why-nextjs-sucks-0352de93071b",
+        "language": "english",
+        "type": "article",
+        "id": "059584f3-9064-4b86-834d-9706efa8e823"
+    },
+    {
+        "added_on": "08th Dec 2024",
+        "authors": [
+            "Oleks Gorpynich"
+        ],
+        "publication": "Level Up Coding",
+        "published_on": "25th Mar 2024",
+        "read": false,
+        "tags": [
+            "Security",
+            "CORS"
+        ],
+        "thumbnail": "",
+        "title": "CORS Finally Explained — Simply",
+        "url": "https://levelup.gitconnected.com/cors-finally-explained-simply-ae42b52a70a3",
+        "language": "english",
+        "type": "article",
+        "id": "61431722-06b8-43a3-93c9-809b033efc71"
+    },
+    {
+        "added_on": "08th Dec 2024",
+        "authors": [
+            "Aditi Mishra"
+        ],
+        "publication": "Medium",
+        "published_on": "09th Sep 2024",
+        "read": false,
+        "tags": [
+            "Network",
+            "Network Communication"
+        ],
+        "thumbnail": "",
+        "title": "Head-of-Line Blocking: Explanation and Designing a Flexible Network Layer",
+        "url": "https://medium.com/@aditimishra_541/head-of-line-blocking-explanation-and-designing-a-flexible-network-layer-6ef4b53488bc",
+        "language": "english",
+        "type": "article",
+        "id": "5e723286-14e2-4c5c-846a-3191b5c663fd"
+    },
+    {
+        "added_on": "08th Dec 2024",
+        "authors": [
+            "RisingWave Labs"
+        ],
+        "publication": "Towards Dev",
+        "published_on": "03rd Apr 2024",
+        "read": false,
+        "tags": [
+            "Database",
+            "Database Management",
+            "Database Comparison",
+            "Streaming Database"
+        ],
+        "thumbnail": "",
+        "title": "What Is a Streaming Database?",
+        "url": "https://towardsdev.com/what-is-a-streaming-database-667b4501550e",
+        "language": "english",
+        "type": "article",
+        "id": "21983817-8c0c-4155-b329-237f1823b746"
+    },
+    {
+        "added_on": "08th Dec 2024",
+        "authors": [
+            "Joël-Steve N."
+        ],
+        "publication": "Stackademic",
+        "published_on": "18th Jun 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "FastAPI",
+            "Security",
+            "Data Validation"
+        ],
+        "thumbnail": "",
+        "title": "Data Security and Validation with FastAPI",
+        "url": "https://blog.stackademic.com/data-security-and-validation-with-fastapi-6c760fae6f81",
+        "language": "english",
+        "type": "article",
+        "id": "d9a9b6ea-b8d6-497f-8d18-1976e2d37bd9"
+    },
+    {
+        "added_on": "08th Dec 2024",
+        "authors": [
+            "Aditi Mishra"
+        ],
+        "publication": "Medium",
+        "published_on": "04th Sep 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Distributed System",
+            "Sliding Window",
+            "Sliding Window with Backpressure"
+        ],
+        "thumbnail": "",
+        "title": "Sliding Window with Backpressure in Distributed Systems",
+        "url": "https://medium.com/@aditimishra_541/sliding-window-with-backpressure-in-distributed-systems-2f9ad1419f02",
+        "language": "english",
+        "type": "article",
+        "id": "00308ceb-e013-4f27-aefe-b430d790c64a"
+    },
+    {
+        "added_on": "08th Dec 2024",
+        "authors": [
+            "Janishar Ali"
+        ],
+        "publication": "Medium",
+        "published_on": "07th Jul 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Microservice",
+            "Golang"
+        ],
+        "thumbnail": "",
+        "title": "How to Create Microservices — A Practical Guide Using Go",
+        "url": "https://medium.com/@janishar.ali/how-to-create-microservices-a-practical-guide-using-go-35445a821513",
+        "language": "english",
+        "type": "article",
+        "id": "14405196-f1cd-4c3b-a5d2-9e6d2b002f85"
+    },
+    {
+        "added_on": "08th Dec 2024",
+        "authors": [
+            "Vu Trinh"
+        ],
+        "publication": "Data Engineer Things",
+        "published_on": "17th Aug 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Use Case",
+            "Real Time",
+            "Facebook"
+        ],
+        "thumbnail": "",
+        "title": "How did Facebook design their Real-Time Processing ecosystem",
+        "url": "https://blog.det.life/how-did-facebook-design-their-real-time-processing-ecosystem-08da20a61f37",
+        "language": "english",
+        "type": "article",
+        "id": "6ac35d48-8760-4128-80e1-c7116edf2fe9"
+    },
+    {
+        "added_on": "08th Dec 2024",
+        "authors": [
+            "Chris St. John"
+        ],
+        "publication": "AWS Tip",
+        "published_on": "06th Aug 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Client Architecture",
+            "Best Practices"
+        ],
+        "thumbnail": "",
+        "title": "20 Cloud Architect responsibilities - and how to demonstrate them",
+        "url": "https://awstip.com/20-cloud-architect-responsibilities-and-how-to-demonstrate-them-bf6f093e4de5",
+        "language": "english",
+        "type": "article",
+        "id": "87bf4a5b-cd88-4b93-af07-e854ab36a5f9"
+    },
+    {
+        "added_on": "08th Dec 2024",
+        "authors": [
+            "Vu Trinh"
+        ],
+        "publication": "Data Engineer Things",
+        "published_on": "13th Jul 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Message Brokers",
+            "Apache Kafka"
+        ],
+        "thumbnail": "",
+        "title": "Apache Kafka - Important Designs",
+        "url": "https://blog.det.life/apache-kafka-important-designs-2a0e6aa6c5bf",
+        "language": "english",
+        "type": "article",
+        "id": "1d48f9ce-9c9b-4c27-b2ae-fa3f7d23d878"
+    },
+    {
+        "added_on": "08th Dec 2024",
+        "authors": [
+            "Sid"
+        ],
+        "publication": "Medium",
+        "published_on": "30th Nov 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Concurrency",
+            "API Gateway",
+            "Nginx"
+        ],
+        "thumbnail": "",
+        "title": "How Nginx Handles Thousands of Concurrent Requests",
+        "url": "https://medium.com/@_sidharth_m_/how-nginx-handles-thousands-of-concurrent-requests-202ca1a1cc44",
+        "language": "english",
+        "type": "article",
+        "id": "a9d18bca-46ec-41ef-8708-b569257c008a"
+    },
+    {
+        "added_on": "08th Dec 2024",
+        "authors": [
+            "Chenwi Ngu"
+        ],
+        "publication": "Medium",
+        "published_on": "18th Nov 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Message Brokers",
+            "Redis", 
+            "Redis pub/sub",
+            "Pub/Sub"
+        ],
+        "thumbnail": "",
+        "title": "Redis Pub/Sub In-Depth",
+        "url": "https://medium.com/@joudwawad/redis-pub-sub-in-depth-d2c6f4334826",
+        "language": "english",
+        "type": "article",
+        "id": "9334b7a5-5161-49f3-b4b7-60a75bcda901"
+    },
+    {
+        "added_on": "08th Dec 2024",
+        "authors": [
+            "Chenwi Ngu"
+        ],
+        "publication": "Medium",
+        "published_on": "18th Nov 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "System Design Concepts",
+            "System Design Principles"
+        ],
+        "thumbnail": "",
+        "title": "System Design: Core Concepts, Architecture, and Strategies",
+        "url": "https://medium.com/@chenwingu/system-design-core-concepts-architecture-and-strategies-a636680f71ef",
+        "language": "english",
+        "type": "article",
+        "id": "812becfc-1e97-499e-af1b-ae787c72caf7"
+    },
+    {
+        "added_on": "08th Dec 2024",
+        "authors": [
+            "Aditi Mishra"
+        ],
+        "publication": "Medium",
+        "published_on": "22nd Aug 2024",
+        "read": false,
+        "tags": [
+            "Elasticsearch",
+            "Lucene",
+            "Data Analytics",
+            "Inverted Index"
+        ],
+        "thumbnail": "",
+        "title": "Full spectrum of Elasticsearch features and capabilities",
+        "url": "https://medium.com/@aditimishra_541/full-spectrum-of-elasticsearch-features-and-capabilities-3d4342fb8631",
+        "language": "english",
+        "type": "article",
+        "id": "77acb318-ba8d-4d6d-b759-01cf40c89276"
+    },
+    {
+        "added_on": "08th Dec 2024",
+        "authors": [
+            "Santosh P."
+        ],
+        "publication": "Medium",
+        "published_on": "05th Jul 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Build from Scratch",
+            "Use Case",
+            "Netflix"
+        ],
+        "thumbnail": "",
+        "title": "System Design Of Netflix",
+        "url": "https://medium.com/@lazygeek78/system-design-of-netflix-8a31bf9ca53f",
+        "language": "english",
+        "type": "article",
+        "id": "c3c15a4e-6877-4663-863a-ccbbfd406f15"
+    },
+    {
+        "added_on": "08th Dec 2024",
+        "authors": [
+            "Santosh P."
+        ],
+        "publication": "Medium",
+        "published_on": "05th Jul 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Build from Scratch",
+            "Use Case",
+            "Netflix"
+        ],
+        "thumbnail": "",
+        "title": "System Design Of Netflix",
+        "url": "https://medium.com/@lazygeek78/system-design-of-netflix-8a31bf9ca53f",
+        "language": "english",
+        "type": "article",
+        "id": "c3c15a4e-6877-4663-863a-ccbbfd406f15"
+    },
+    {
+        "added_on": "08th Dec 2024",
+        "authors": [
+            "Jarek Orzel"
+        ],
+        "publication": "Level Up Coding",
+        "published_on": "27th Sep 2024",
+        "read": false,
+        "tags": [
+            "System Development Laws"
+        ],
+        "thumbnail": "",
+        "title": "9 Laws That Every Software Developer Should Know",
+        "url": "https://levelup.gitconnected.com/9-laws-that-every-software-developer-should-know-a5518bfef022",
+        "language": "english",
+        "type": "article",
+        "id": "5d21e3a4-8da3-4294-b65c-61ef7a67cdc6"
+    },
+    {
+        "added_on": "08th Dec 2024",
+        "authors": [
+            "Adrien Van Thong"
+        ],
+        "publication": "Django Unleashed",
+        "published_on": "17th Jul 2024",
+        "read": true,
+        "tags": [
+            "System Design",
+            "Django",
+            "Best Practices"
+        ],
+        "thumbnail": "",
+        "title": "Top 10 must-know Django code tips to level up your skills",
+        "url": "https://medium.com/django-unleashed/top-10-must-know-django-code-tricks-to-level-up-your-skills-1097468888c0",
+        "language": "english",
+        "type": "article",
+        "id": "2a0951dc-3e43-4b79-94b9-383721ab2c20"
+    },
+    {
+        "added_on": "08th Dec 2024",
+        "authors": [
+            "Joud W. Awad"
+        ],
+        "publication": "Medium",
+        "published_on": "11th May 2024",
+        "read": true,
+        "tags": [
+            "System Design",
+            "Microservice",
+            "Microservice Communications"
+        ],
+        "thumbnail": "",
+        "title": "Microservices Pattern: Communication Styles",
+        "url": "https://medium.com/@joudwawad/a-guide-to-communication-styles-in-microservices-architecture-9a8ae4bc21b2",
+        "language": "english",
+        "type": "article",
+        "id": "3a1d86ea-22b2-4015-a12e-59428bf2add4"
+    },
+    {
         "added_on": "06th Dec 2024",
         "authors": [
             "Onix React"
@@ -400,7 +920,7 @@
             "Scalability"
         ],
         "thumbnail": "",
-        "title": "Part 2: From 1 to 1M — Scaling a Full-Stack Web Application Platform to Handle 1M Daily Visitors",
+        "title": "Part 2: From 1 to 1M - Scaling a Full-Stack Web Application Platform to Handle 1M Daily Visitors",
         "url": "https://medium.com/@isaac.adams/part-2-from-1-to-1m-scaling-a-full-stack-web-application-platform-to-handle-1m-daily-visitors-24994ef1532b",
         "language": "english",
         "type": "article",
@@ -816,7 +1336,7 @@
             "Caching"
         ],
         "thumbnail": "",
-        "title": "Caching — The Only Guide You'll Ever Need",
+        "title": "Caching - The Only Guide You'll Ever Need",
         "url": "https://betterengineers.substack.com/p/caching-techniques-in-distributed",
         "language": "english",
         "type": "article",
@@ -1533,7 +2053,7 @@
         "tags": [
             "Frontend",
             "State Management",
-            "React",
+            "ReactJS",
             "React Reducer"
         ],
         "thumbnail": "",
@@ -2070,7 +2590,7 @@
         "tags": [
             "System Design",
             "Load time",
-            "React",
+            "ReactJS",
             "Vanilla Javascript",
             "Netflix"
         ],
