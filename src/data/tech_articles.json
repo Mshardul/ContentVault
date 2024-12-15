@@ -1,24 +1,409 @@
 [
     {
+        "added_on": "15th Dec 2024",
+        "authors": [
+            "Aditi Mishra"
+        ],
+        "publication": "Medium",
+        "published_on": "01st Dec 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Database Management"
+        ],
+        "thumbnail": "",
+        "title": "Comprehensive Breakdown of Database Management System (DBMS) Architecture",
+        "url": "https://medium.com/@aditimishra_541/comprehensive-breakdown-of-database-management-system-dbms-architecture-401385ca209b",
+        "language": "english",
+        "type": "article",
+        "id": "093b3868-ea26-400d-8a1f-32f4cdf5ef08"
+    },
+    {
+        "added_on": "15th Dec 2024",
+        "authors": [
+            "Rohit S"
+        ],
+        "publication": "Medium",
+        "published_on": "24th Jul 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Authentication",
+            "JSON Web Token (JWT)"
+        ],
+        "thumbnail": "",
+        "title": "JWT Token and Authentication",
+        "url": "https://medium.com/@itherohit/jwt-token-and-authentication-865b624a329c",
+        "language": "english",
+        "type": "article",
+        "id": "f7e4c39e-56e9-4bf2-a893-066094f6a602"
+    },
+    {
+        "added_on": "15th Dec 2024",
+        "authors": [
+            "Manjurul Hoque Rumi"
+        ],
+        "publication": "Medium",
+        "published_on": "08th Oct 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Microservice",
+            "API Gateway",
+            "Kong API Gateway"
+        ],
+        "thumbnail": "",
+        "title": "Implementing Kong API Gateway for Microservices",
+        "url": "https://medium.com/@manzurulhoque/implementing-kong-api-gateway-for-microservices-1a4a85303102",
+        "language": "english",
+        "type": "article",
+        "id": "e9daf668-8443-47cd-a3d4-f2e29d414078"
+    },
+    {
+        "added_on": "15th Dec 2024",
+        "authors": [
+            "Santosh P."
+        ],
+        "publication": "Medium",
+        "published_on": "09th Aug 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Domain Name System (DNS)"
+        ],
+        "thumbnail": "",
+        "title": "System design of DNS",
+        "url": "https://medium.com/@lazygeek78/system-design-of-dns-6a7532bdf0a0",
+        "language": "english",
+        "type": "article",
+        "id": "4cec0bf1-29d4-4a12-9d49-62ba63ee5755"
+    },
+    {
+        "added_on": "15th Dec 2024",
+        "authors": [
+            "Priya Srivastava"
+        ],
+        "publication": "Medium",
+        "published_on": "05th Dec 2024",
+        "read": true,
+        "tags": [
+            "System Design",
+            "Scalability"
+        ],
+        "thumbnail": "",
+        "title": "System Design Interview : How to scale your application from 1 to 10 million user",
+        "url": "https://medium.com/@priyasrivastava18official/system-design-interview-how-to-scale-your-application-from-1-to-10-million-user-a75002200b3c",
+        "language": "english",
+        "type": "article",
+        "id": "6150e938-e205-4418-9ea4-7e25615331f9",
+        "rating": 9
+    },
+    {
+        "added_on": "15th Dec 2024",
+        "authors": [
+            "Rocky Bhatia"
+        ],
+        "publication": "Medium",
+        "published_on": "09th Aug 2024",
+        "read": true,
+        "tags": [
+            "System Design",
+            "Database",
+            "NoSQL",
+            "Dynamo DB",
+            "Availability",
+            "Consistency",
+            "Eventual Consistency"
+        ],
+        "thumbnail": "",
+        "title": "Dynamo: Amazon's Highly Available Key-value Store",
+        "url": "https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf",
+        "language": "english",
+        "type": "article",
+        "id": "2d687bfe-cb3c-4dc9-9eba-06e37102c428",
+        "rating": 9
+    },
+    {
+        "added_on": "15th Dec 2024",
+        "authors": [
+            "Rocky Bhatia"
+        ],
+        "publication": "Medium",
+        "published_on": "09th Aug 2024",
+        "read": true,
+        "tags": [
+            "System Design",
+            "Distributed System",
+            "Hashing",
+            "Consistent Hashing",
+            "Ketama",
+            "Dynamo DB"
+        ],
+        "thumbnail": "",
+        "title": "Consistent Hashing: Algorithmic Tradeoffs",
+        "url": "https://dgryski.medium.com/consistent-hashing-algorithmic-tradeoffs-ef6b8e2fcae8",
+        "language": "english",
+        "type": "article",
+        "id": "56c78cdf-425a-44a7-9233-da6f6f170fac",
+        "rating": 9
+    },
+    {
+        "added_on": "15th Dec 2024",
+        "authors": [
+            "Rocky Bhatia"
+        ],
+        "publication": "Medium",
+        "published_on": "09th Aug 2024",
+        "read": true,
+        "tags": [
+            "System Design",
+            "Distributed System",
+            "Microservice",
+            "Best Practices"
+        ],
+        "thumbnail": "",
+        "title": "MicroServices Best Practices",
+        "url": "https://medium.com/@rocky.bhatia86/microservices-best-practices-ccc6706f46c1",
+        "language": "english",
+        "type": "article",
+        "id": "d88ded6f-e769-4f62-b520-c9cf6287e8b8",
+        "rating": 8
+    },
+    {
+        "added_on": "15th Dec 2024",
+        "authors": [
+            "Dev Corner"
+        ],
+        "publication": "Medium",
+        "published_on": "17th Oct 2024",
+        "read": true,
+        "tags": [
+            "System Design",
+            "CAP Theorem",
+            "Consistency",
+            "Availability",
+            "Partition Tolerance"
+        ],
+        "thumbnail": "",
+        "title": "Day 6: Understanding the CAP Theorem in Distributed Systems",
+        "url": "https://medium.com/@devcorner/day-6-understanding-the-cap-theorem-in-distributed-systems-a73ec6cc7c2d",
+        "language": "english",
+        "type": "article",
+        "id": "9152f758-aa0b-43b7-8b60-fafbfa217d50",
+        "rating": 9
+    },
+    {
+        "added_on": "14th Dec 2024",
+        "authors": [
+            "Roma Gordeev"
+        ],
+        "publication": "Israeli Tech Radar",
+        "published_on": "29th Jun 2024",
+        "read": true,
+        "tags": [
+            "Programming Language",
+            "Golang"
+        ],
+        "thumbnail": "",
+        "title": "Why Go is the worst language you could ever learn",
+        "url": "https://medium.com/@roma.gordeev/why-go-is-the-worst-language-you-could-ever-learn-4a7be0d37509",
+        "language": "english",
+        "type": "article",
+        "id": "6a7ca974-fe13-4c63-9c9d-054c3fae34ca",
+        "rating": 4
+    },
+    {
+        "added_on": "14th Dec 2024",
+        "authors": [
+            "Yoav Nordmann"
+        ],
+        "publication": "Israeli Tech Radar",
+        "published_on": "20th Aug 2024",
+        "read": true,
+        "tags": [
+            "System Design",
+            "Monolithic",
+            "Modulithic"
+        ],
+        "thumbnail": "",
+        "title": "Death to Monolith, All hail the Modulith",
+        "url": "https://medium.com/israeli-tech-radar/death-to-monolith-all-hail-the-modulith-6e1db04ed48a",
+        "language": "english",
+        "type": "article",
+        "id": "556f2a20-19d0-44d6-97c0-2597fec34eec",
+        "rating": 4
+    },
+    {
+        "added_on": "14th Dec 2024",
+        "authors": [
+            "David Bottiau"
+        ],
+        "publication": "Medium",
+        "published_on": "09th Feb 2023",
+        "read": true,
+        "tags": [
+            "System Design",
+            "Monolithic",
+            "Serverless",
+            "Serverless Monolithic"
+        ],
+        "thumbnail": "",
+        "title": "The Rise of the Serverless Monoliths",
+        "url": "https://medium.com/@dbottiau/the-rise-of-the-serverless-monoliths-63d3d2d98164",
+        "language": "english",
+        "type": "article",
+        "id": "627fbd7f-3564-4067-8e28-42d71942de7e",
+        "rating": 4
+    },
+    {
+        "added_on": "14th Dec 2024",
+        "authors": [
+            "Sid"
+        ],
+        "publication": "Medium",
+        "published_on": "06th Jul 2024",
+        "read": true,
+        "tags": [
+            "System Design",
+            "Distributed System",
+            "CAP Theorem",
+            "Consistency",
+            "Availability",
+            "Partition Tolerance"
+        ],
+        "thumbnail": "",
+        "title": "Understanding CAP Theorem for Distributed Systems",
+        "url": "https://newsletter.scalablethread.com/p/understanding-cap-theorem-for-distributed",
+        "language": "english",
+        "type": "article",
+        "id": "fc76baf8-3222-475d-92c1-0eb319f89e17",
+        "rating": 6
+    },
+    {
+        "added_on": "14th Dec 2024",
+        "authors": [
+            "Aditi Mishra"
+        ],
+        "publication": "Medium",
+        "published_on": "13th Aug 2024",
+        "read": true,
+        "tags": [
+            "System Design",
+            "API Design",
+            "REST",
+            "gRPC"
+        ],
+        "thumbnail": "",
+        "title": "Why REST and gRPC Should Not Be Directly Compared",
+        "url": "https://medium.com/@aditimishra_541/why-rest-and-grpc-should-not-be-directly-compared-9bd6be8070e6",
+        "language": "english",
+        "type": "article",
+        "id": "fc4216b0-d101-4640-8a73-69b7007dc33c",
+        "rating": 9
+    },
+    {
+        "added_on": "14th Dec 2024",
+        "authors": [
+            "Lucas Pereyra"
+        ],
+        "publication": "IT Next",
+        "published_on": "06th Jun 2024",
+        "read": true,
+        "tags": [
+            "System Design",
+            "Backend",
+            "Optimization"
+        ],
+        "thumbnail": "",
+        "title": "Optimizing Web Backends",
+        "url": "https://itnext.io/optimizing-web-backends-5a9ff96f555f",
+        "language": "english",
+        "type": "article",
+        "id": "96fc3385-9b38-402b-898c-b70d45ba59cd",
+        "rating": 8
+    },
+    {
+        "added_on": "14th Dec 2024",
+        "authors": [
+            "Priya Srivastava"
+        ],
+        "publication": "Medium",
+        "published_on": "24th Nov 2024",
+        "read": true,
+        "tags": [
+            "System Design",
+            "Latency"
+        ],
+        "thumbnail": "",
+        "title": "System Design Interview : How can you reduce the latency of the whole system architecture",
+        "url": "https://medium.com/@priyasrivastava18official/system-design-interview-how-can-you-reduce-the-latency-of-the-whole-system-architecture-18d9198892e9",
+        "language": "english",
+        "type": "article",
+        "id": "7bc42e8f-e804-4747-873f-c881df44c238",
+        "rating": 9
+    },
+    {
+        "added_on": "14th Dec 2024",
+        "authors": [
+            "Nayeem Islam"
+        ],
+        "publication": "Medium",
+        "published_on": "18th Aug 2024",
+        "read": true,
+        "tags": [
+            "System Design",
+            "API Gateway",
+            "NGINX"
+        ],
+        "thumbnail": "",
+        "title": "Mastering NGINX: A Beginner-Friendly Guide to Building a Fast, Secure, and Scalable Web Server",
+        "url": "https://medium.com/@nomannayeem/mastering-nginx-a-beginner-friendly-guide-to-building-a-fast-secure-and-scalable-web-server-cb075b423298",
+        "language": "english",
+        "type": "article",
+        "id": "c2262637-34ec-4ba1-aa4a-2ad7b7d35c3c",
+        "rating": 8
+    },
+    {
+        "added_on": "14th Dec 2024",
+        "authors": [
+            "Saquib Khan"
+        ],
+        "publication": "Medium",
+        "published_on": "04th Aug 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "API Gateway",
+            "NGINX"
+        ],
+        "thumbnail": "",
+        "title": "NGINX - Zero To Hero: Your Ultimate Guide from Beginner to Advanced Mastery",
+        "url": "https://medium.com/@ksaquib/nginx-zero-to-hero-your-ultimate-guide-from-beginner-to-advanced-mastery-57e2dad6a77a",
+        "language": "english",
+        "type": "article",
+        "id": "d266832c-e4bf-4f5c-9983-f7e6c7adc039"
+    },
+    {
         "added_on": "10th Dec 2024",
         "authors": [
             "David Mosyan"
         ],
         "publication": "Medium",
-        "published_on": "24th AUG 2024",
-        "read": false,
+        "published_on": "24th Aug 2024",
+        "read": true,
         "tags": [
             "Authentication",
             "Authorization",
             "Oauth 2.0",
-            "Open ID Connect (OIDC)"
+            "OpenID Connect (OIDC)"
         ],
         "thumbnail": "",
         "title": "OpenID Connect (OIDC) Explained",
         "url": "https://medium.com/@dmosyan/openid-connect-oidc-explained-b7a368c90168",
         "language": "english",
         "type": "article",
-        "id": "24000eb7-374d-4644-9750-fd8e41bc5d4b"
+        "id": "24000eb7-374d-4644-9750-fd8e41bc5d4b",
+        "rating": 8
     },
     {
         "added_on": "10th Dec 2024",
@@ -497,7 +882,8 @@
         "url": "https://medium.com/django-unleashed/top-10-must-know-django-code-tricks-to-level-up-your-skills-1097468888c0",
         "language": "english",
         "type": "article",
-        "id": "2a0951dc-3e43-4b79-94b9-383721ab2c20"
+        "id": "2a0951dc-3e43-4b79-94b9-383721ab2c20",
+        "rating": 9
     },
     {
         "added_on": "08th Dec 2024",
@@ -517,7 +903,8 @@
         "url": "https://medium.com/@joudwawad/a-guide-to-communication-styles-in-microservices-architecture-9a8ae4bc21b2",
         "language": "english",
         "type": "article",
-        "id": "3a1d86ea-22b2-4015-a12e-59428bf2add4"
+        "id": "3a1d86ea-22b2-4015-a12e-59428bf2add4",
+        "rating": 9
     },
     {
         "added_on": "06th Dec 2024",
@@ -589,7 +976,7 @@
         ],
         "publication": "Data Engineer Things",
         "published_on": "06th Jul 2024",
-        "read": false,
+        "read": true,
         "tags": [
             "System Design",
             "Message Brokers",
@@ -600,7 +987,8 @@
         "url": "https://blog.det.life/apache-kafka-overview-b04c4ab8ef49",
         "language": "english",
         "type": "article",
-        "id": "6264d572-13eb-4f90-b0d4-31793f1c5990"
+        "id": "6264d572-13eb-4f90-b0d4-31793f1c5990",
+        "rating": 8
     },
     {
         "added_on": "06th Dec 2024",
@@ -668,7 +1056,7 @@
         ],
         "publication": "Medium",
         "published_on": "24th Aug 2024",
-        "read": false,
+        "read": true,
         "tags": [
             "System Design",
             "Kafka"
@@ -678,7 +1066,8 @@
         "url": "https://manjulapiyumal.medium.com/mastering-kafka-advanced-concepts-every-senior-software-engineer-should-know-9283664c99e1",
         "language": "english",
         "type": "article",
-        "id": "842b3dcd-8c9d-423f-80f2-7524ed9681f9"
+        "id": "842b3dcd-8c9d-423f-80f2-7524ed9681f9",
+        "rating": 9
     },
     {
         "added_on": "06th Dec 2024",
@@ -687,7 +1076,7 @@
         ],
         "publication": "Medium",
         "published_on": "09th Oct 2024",
-        "read": false,
+        "read": true,
         "tags": [
             "System Design",
             "Data Structures",
@@ -699,7 +1088,8 @@
         "url": "https://medium.com/@sylvain.tiset/bloom-filters-101-the-power-of-probabilistic-data-structures-ef1b4a422b0b",
         "language": "english",
         "type": "article",
-        "id": "10979c0e-a936-4403-a543-957f1d724f9b"
+        "id": "10979c0e-a936-4403-a543-957f1d724f9b",
+        "rating": 7
     },
     {
         "added_on": "06th Dec 2024",
@@ -730,7 +1120,7 @@
         ],
         "publication": "Medium",
         "published_on": "09th Aug 2024",
-        "read": false,
+        "read": true,
         "tags": [
             "Programming language Concepts",
             "Golang",
@@ -741,7 +1131,8 @@
         "url": "https://medium.com/@aditimishra_541/some-interesting-facts-about-go-interfaces-55006e126f58",
         "language": "english",
         "type": "article",
-        "id": "2dbdd2a6-ee99-40ce-a51b-7485be15de1b"
+        "id": "2dbdd2a6-ee99-40ce-a51b-7485be15de1b",
+        "rating": 9
     },
     {
         "added_on": "06th Dec 2024",
@@ -750,7 +1141,7 @@
         ],
         "publication": "Stackademic",
         "published_on": "19th Aug 2024",
-        "read": false,
+        "read": true,
         "tags": [
             "System Design",
             "Caching",
@@ -761,7 +1152,8 @@
         "url": "https://blog.stackademic.com/why-is-redis-fast-a8a2a0902755",
         "language": "english",
         "type": "article",
-        "id": "ade839df-fa28-4649-9435-ccc99dfe13c8"
+        "id": "ade839df-fa28-4649-9435-ccc99dfe13c8",
+        "rating": 6
     },
     {
         "added_on": "06th Dec 2024",
@@ -783,7 +1175,8 @@
         "url": "https://blog.det.life/how-does-notion-handle-200-billion-data-entities-919b238c2846",
         "language": "english",
         "type": "article",
-        "id": "01930cf2-9287-4dea-8585-40f51bcede4b"
+        "id": "01930cf2-9287-4dea-8585-40f51bcede4b",
+        "rating": 8
     },
     {
         "added_on": "06th Dec 2024",
@@ -792,7 +1185,7 @@
         ],
         "publication": "Level Up Coding",
         "published_on": "24th Sep 2012",
-        "read": false,
+        "read": true,
         "tags": [
             "System Design",
             "Backend for Frontend Architecture"
@@ -802,7 +1195,8 @@
         "url": "https://levelup.gitconnected.com/backend-for-frontend-bff-architecture-64fa9f316a5a",
         "language": "english",
         "type": "article",
-        "id": "638e42de-f694-43fd-85e9-c9ab644a47cd"
+        "id": "638e42de-f694-43fd-85e9-c9ab644a47cd",
+        "rating": 8
     },
     {
         "added_on": "06th Dec 2024",
@@ -811,7 +1205,7 @@
         ],
         "publication": "Instagram Engineering",
         "published_on": "30th Dec 2012",
-        "read": false,
+        "read": true,
         "tags": [
             "System Design",
             "Database Sharding",
@@ -824,7 +1218,8 @@
         "url": "https://instagram-engineering.com/sharding-ids-at-instagram-1cf5a71e5a5c",
         "language": "english",
         "type": "article",
-        "id": "3ed05473-b139-4935-b135-7350d77a5d73"
+        "id": "3ed05473-b139-4935-b135-7350d77a5d73",
+        "rating": 8
     },
     {
         "added_on": "06th Dec 2024",
@@ -833,7 +1228,7 @@
         ],
         "publication": "Medium",
         "published_on": "20th Oct 2023",
-        "read": false,
+        "read": true,
         "tags": [
             "System Design",
             "Database",
@@ -844,7 +1239,8 @@
         "url": "https://medium.com/@rtawadrous/introduction-to-database-indexes-9b488e243cc1",
         "language": "english",
         "type": "article",
-        "id": "d3cebaf1-3069-45cb-8a62-0b3d9bbd372e"
+        "id": "d3cebaf1-3069-45cb-8a62-0b3d9bbd372e",
+        "rating": 9
     },
     {
         "added_on": "06th Dec 2024",
@@ -1243,7 +1639,8 @@
         "url": "https://levelup.gitconnected.com/single-point-of-failure-spof-in-system-design-c8bbac5af993",
         "language": "english",
         "type": "article",
-        "id": "bbe82786-c0bb-4276-9a8c-6bc7aa8df486"
+        "id": "bbe82786-c0bb-4276-9a8c-6bc7aa8df486",
+        "rating": 5
     },
     {
         "added_on": "03rd Dec 2024",
@@ -1359,7 +1756,8 @@
         "url": "https://substack.com/home/post/p-151755861",
         "language": "english",
         "type": "article",
-        "id": "18b542d2-70da-4e0c-aa24-a2f26f66031b"
+        "id": "18b542d2-70da-4e0c-aa24-a2f26f66031b",
+        "rating": 8
     },
     {
         "added_on": "01st Dec 2024",
@@ -1595,7 +1993,8 @@
         "url": "https://javascript.plainenglish.io/variable-naming-best-practices-in-javascript-94af115f42cd",
         "language": "english",
         "type": "article",
-        "id": "972852f0-ff8b-464e-860d-76205a8c2cd4"
+        "id": "972852f0-ff8b-464e-860d-76205a8c2cd4",
+        "rating": 7
     },
     {
         "added_on": "01st Dec 2024",
@@ -1615,7 +2014,8 @@
         "url": "https://itnext.io/why-is-grpc-so-much-faster-than-a-json-based-rest-api-df09cb69fae5",
         "language": "english",
         "type": "article",
-        "id": "be8c83c7-2ad2-484c-94cf-ee05ed0e3a23"
+        "id": "be8c83c7-2ad2-484c-94cf-ee05ed0e3a23",
+        "rating": 6
     },
     {
         "added_on": "01st Dec 2024",
@@ -1668,7 +2068,7 @@
         "tags": [
             "System Design",
             "Authentication",
-            "JWT"
+            "JSON Web Token (JWT)"
         ],
         "thumbnail": "",
         "title": "JSON Web Tokens Explained",
@@ -1728,7 +2128,7 @@
         ],
         "publication": "Medium",
         "published_on": "17th Aug 2024",
-        "read": false,
+        "read": true,
         "tags": [
             "Javascript",
             "Node.js"
@@ -1738,7 +2138,8 @@
         "url": "https://medium.com/@yashwanthnandam/top-30-node-js-interview-questions-one-stop-solution-d5cdd80b36ac",
         "language": "english",
         "type": "article",
-        "id": "96f371ad-6409-4d76-80ba-5b95d98b57dd"
+        "id": "96f371ad-6409-4d76-80ba-5b95d98b57dd",
+        "rating": 8
     },
     {
         "added_on": "30th Nov 2024",
@@ -1796,7 +2197,8 @@
         "url": "https://javascript.plainenglish.io/how-javascript-is-executed-fc73871e1d9c",
         "language": "english",
         "type": "article",
-        "id": "f0bf6cb3-f12b-46d8-bd65-cab76636f0c4"
+        "id": "f0bf6cb3-f12b-46d8-bd65-cab76636f0c4",
+        "rating": 6
     },
     {
         "added_on": "30th Nov 2024",
@@ -1836,7 +2238,8 @@
         "url": "https://medium.com/@aditimishra_541/redis-pub-sub-vs-apache-kafka-choosing-the-right-messaging-system-3e3130ac653c",
         "language": "english",
         "type": "article",
-        "id": "ab537b66-d763-4ac1-b2c8-0ee51fb2e6b9"
+        "id": "ab537b66-d763-4ac1-b2c8-0ee51fb2e6b9",
+        "rating": 8
     },
     {
         "added_on": "30th Nov 2024",
@@ -1876,7 +2279,8 @@
         "url": "https://levelup.gitconnected.com/in-search-of-improving-database-performance-a-comprehensive-guide-with-8-key-strategies-3496f2262cdb",
         "language": "english",
         "type": "article",
-        "id": "9a46b586-2031-4009-8ca8-bf0e2d75c7a8"
+        "id": "9a46b586-2031-4009-8ca8-bf0e2d75c7a8",
+        "rating": 8
     },
     {
         "added_on": "29th Nov 2024",
@@ -1936,7 +2340,8 @@
         "url": "https://medium.com/@aditimishra_541/why-is-python-considered-slow-033ad9be3272",
         "language": "english",
         "type": "article",
-        "id": "91b5e1e7-3f93-4af9-81cc-1cdad6090624"
+        "id": "91b5e1e7-3f93-4af9-81cc-1cdad6090624",
+        "rating": 8
     },
     {
         "added_on": "29th Nov 2024",
@@ -1978,7 +2383,8 @@
         "url": "https://medium.com/@csjcode/uuid-alternatives-for-cloud-apps-9410f194b4d1",
         "language": "english",
         "type": "article",
-        "id": "aa224dfb-86d9-4003-acde-7873929310d6"
+        "id": "aa224dfb-86d9-4003-acde-7873929310d6",
+        "rating": 8
     },
     {
         "added_on": "08th Nov 2024",
@@ -2139,7 +2545,7 @@
         "read": false,
         "tags": [
             "Authentication",
-            "JWT",
+            "JSON Web Token (JWT)",
             "Node.js",
             "Mongo DB"
         ],
@@ -2445,7 +2851,7 @@
             "Security",
             "Cookie",
             "Token",
-            "JWT"
+            "JSON Web Token (JWT)"
         ],
         "thumbnail": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/59499b88-6ca9-4338-92c5-dcf20cd62ab6/session_management_options_web_header.png?t=1723715132",
         "title": "Session Management Demystified: Cookies, Tokens, and Security",
