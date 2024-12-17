@@ -1,5 +1,139 @@
 [
     {
+        "added_on": "16th Dec 2024",
+        "authors": [
+            "Hussein Nasser"
+        ],
+        "publication": "Medium",
+        "published_on": "03rd Dec 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Database Management",
+            "RDBMS",
+            "SQL",
+            "PostgreSQL"
+        ],
+        "thumbnail": "",
+        "title": "Avoid SELECT *, even on a single-column tables",
+        "url": "https://medium.com/@hnasr/avoid-select-even-on-a-single-column-tables-d6deed7b4aee",
+        "language": "english",
+        "type": "article",
+        "id": "e7c8dcaf-91db-40b0-949e-656f021c0ef7",
+        "rating": 4
+    },
+    {
+        "added_on": "16th Dec 2024",
+        "authors": [
+            "Cihan Elibol"
+        ],
+        "publication": "Medium",
+        "published_on": "20th Sep 2024",
+        "read": true,
+        "tags": [
+            "System Design",
+            "Microservice",
+            "Authorization",
+            "Distributed System"
+        ],
+        "thumbnail": "",
+        "title": "Authorization Architecture in Microservices",
+        "url": "https://medium.com/@cihanelibol99/authorization-architecture-in-microservices-68085d31f1e1",
+        "language": "english",
+        "type": "article",
+        "id": "035582c9-58e4-437f-a34a-34a2eb7cc970",
+        "rating": 4
+    },
+    {
+        "added_on": "16th Dec 2024",
+        "authors": [
+            "Santosh P."
+        ],
+        "publication": "Medium",
+        "published_on": "09th Oct 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Build from Scratch",
+            "Case Study",
+            "Taxi Aggregator",
+            "Uber",
+            "Ola",
+            "Lyft"
+        ],
+        "thumbnail": "",
+        "title": "System Design of Uber/Lyft",
+        "url": "https://medium.com/@lazygeek78/system-design-of-uber-lyft-549963c816b4",
+        "language": "english",
+        "type": "article",
+        "id": "721ed62f-8baa-4c00-a383-8799c1b6cced"
+    },
+    {
+        "added_on": "16th Dec 2024",
+        "authors": [
+            "Dilip Kumar"
+        ],
+        "publication": "Medium",
+        "published_on": "14th Jul 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Build from Scratch",
+            "Case Study",
+            "Rate Limiters"
+        ],
+        "thumbnail": "",
+        "title": "Rate limiter system design",
+        "url": "https://dilipkumar.medium.com/rate-limiter-system-design-c67f74e78771",
+        "language": "english",
+        "type": "article",
+        "id": "46649e83-fede-4d05-bea8-0356b9516134"
+    },
+    {
+        "added_on": "16th Dec 2024",
+        "authors": [
+            "Serokell"
+        ],
+        "publication": "Dev Genius",
+        "published_on": "25th Jan 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Monolithic",
+            "Microservice",
+            "Multi-Runtime"
+        ],
+        "thumbnail": "",
+        "title": "Microservices and Multi-Runtime Architectures",
+        "url": "https://blog.devgenius.io/microservices-and-multi-runtime-architectures-57bc1980a8b5",
+        "language": "english",
+        "type": "article",
+        "id": "69788d81-7de0-4f76-a115-21bdaba6d2a8"
+    },
+    {
+        "added_on": "16th Dec 2024",
+        "authors": [
+            "Aditi Mishra"
+        ],
+        "publication": "Medium",
+        "published_on": "28th Aug 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Data Structures",
+            "Algorithms",
+            "Database",
+            "Probabilistic Data Structures",
+            "Bloom Filter"
+        ],
+        "thumbnail": "",
+        "title": "How to Efficiently Check If a Username Exists Among Billions of Users",
+        "url": "https://medium.com/@aditimishra_541/how-to-efficiently-check-if-a-username-exists-among-billions-of-users-7ed1e5c60489",
+        "language": "english",
+        "type": "article",
+        "id": "2f902933-99aa-4fa1-ad97-eac941341ea7"
+    },
+    {
         "added_on": "15th Dec 2024",
         "authors": [
             "Aditi Mishra"
