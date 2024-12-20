@@ -2,6 +2,115 @@
     {
         "added_on": "20th Dec 2024",
         "authors": [
+            "Priya Srivastava"
+        ],
+        "publication": "Medium",
+        "published_on": "29th Nov 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Notification Service",
+            "Message Queues"
+        ],
+        "thumbnail": "",
+        "title": "System Design Interview : Different Notification Approaches in System Design",
+        "url": "https://medium.com/@priyasrivastava18official/system-design-interview-different-notification-approaches-in-system-design-f893a1389c01",
+        "language": "english",
+        "type": "article",
+        "id": "2e36c6f1-ab11-4ead-bb49-afff1e6a550d",
+        "rating": 9
+    },
+    {
+        "added_on": "20th Dec 2024",
+        "authors": [
+            "Priya Srivastava"
+        ],
+        "publication": "Medium",
+        "published_on": "17th Dec 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Database Design",
+            "Database Sharding",
+            "Dataabase Partitioning",
+            "Database Indexing"
+        ],
+        "thumbnail": "",
+        "title": "System Design Interview : Understanding Database Partioning,Sharding,Indexing",
+        "url": "https://medium.com/@priyasrivastava18official/system-design-interview-understanding-database-partioning-sharding-indexing-23e962cd4700",
+        "language": "english",
+        "type": "article",
+        "id": "873e9d60-57e5-4c54-9076-c9173e0a7e4c",
+        "rating": 8
+    },
+    {
+        "added_on": "20th Dec 2024",
+        "authors": [
+            "TRGoodwill"
+        ],
+        "publication": "API Central",
+        "published_on": "24th Oct 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "API Design",
+            "Event-Driven Architecture",
+            "Message Brokers"
+        ],
+        "thumbnail": "",
+        "title": "Introducing Events into your API Management Framework",
+        "url": "https://medium.com/api-center/introducing-events-into-your-api-management-framework-958e80121499",
+        "language": "english",
+        "type": "article",
+        "id": "b574ffcf-5e90-4c59-9df5-ed631b8f6985",
+        "rating": 9
+    },
+    {
+        "added_on": "20th Dec 2024",
+        "authors": [
+            "Andrei Boar"
+        ],
+        "publication": "Medium",
+        "published_on": "24th Jun 2024",
+        "read": true,
+        "tags": [
+            "Database",
+            "RDBMS",
+            "SQL",
+            "Selection",
+            "Select *"
+        ],
+        "thumbnail": "",
+        "title": "Avoid SELECT *, even on a single-column tables",
+        "url": "https://medium.com/@hnasr/avoid-select-even-on-a-single-column-tables-d6deed7b4aee",
+        "language": "english",
+        "type": "article",
+        "id": "8e673e54-43a8-4b5e-b2e5-57e03ec9014d",
+        "rating": 7
+    },
+    {
+        "added_on": "20th Dec 2024",
+        "authors": [
+            "Andrei Boar"
+        ],
+        "publication": "Medium",
+        "published_on": "24th Jun 2024",
+        "read": true,
+        "tags": [
+            "Interfaces",
+            "Golang"
+        ],
+        "thumbnail": "",
+        "title": "7 Common Interface Mistakes in Go",
+        "url": "https://medium.com/@andreiboar/7-common-interface-mistakes-in-go-1d3f8e58be60",
+        "language": "english",
+        "type": "article",
+        "id": "27d46d80-2568-4c06-b9ac-5b629d55a77f",
+        "rating": 7
+    },
+    {
+        "added_on": "20th Dec 2024",
+        "authors": [
             "Andrei Boar"
         ],
         "publication": "Medium",
@@ -1429,7 +1538,7 @@
         "tags": [
             "System Design",
             "Database",
-            "Indexing"
+            "Database Indexing"
         ],
         "thumbnail": "",
         "title": "Introduction To Database Indexing",
@@ -1868,7 +1977,7 @@
         "read": false,
         "tags": [
             "System Design",
-            "Message Queue",
+            "Message Queues",
             "Message Brokers"
         ],
         "thumbnail": "",
