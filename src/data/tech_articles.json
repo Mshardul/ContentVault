@@ -1,5 +1,68 @@
 [
     {
+        "added_on": "20th Dec 2024",
+        "authors": [
+            "Andrei Boar"
+        ],
+        "publication": "Medium",
+        "published_on": "24th Apr 2024",
+        "read": true,
+        "tags": [
+            "Input/Output",
+            "Golang",
+            "Buffer"
+        ],
+        "thumbnail": "",
+        "title": "Fundamentals of I/O in Go: Part 3",
+        "url": "https://medium.com/@andreiboar/fundamentals-of-i-o-in-go-part-3-b7c8a9970a51",
+        "language": "english",
+        "type": "article",
+        "id": "7fcb82f3-dddd-4588-8a52-0fb1e21d0c3d",
+        "rating": 8
+    },
+    {
+        "added_on": "20th Dec 2024",
+        "authors": [
+            "Andrei Boar"
+        ],
+        "publication": "Medium",
+        "published_on": "10th Apr 2024",
+        "read": true,
+        "tags": [
+            "Input/Output",
+            "Golang",
+            "Buffer"
+        ],
+        "thumbnail": "",
+        "title": "Fundamentals of I/O in Go: Part 2",
+        "url": "https://medium.com/@andreiboar/fundamentals-of-i-o-in-go-part-2-e7bb68cd5608",
+        "language": "english",
+        "type": "article",
+        "id": "c3b3ca01-b0a1-4caa-8e28-2c1fa7be2658",
+        "rating": 8
+    },
+    {
+        "added_on": "20th Dec 2024",
+        "authors": [
+            "Andrei Boar"
+        ],
+        "publication": "Medium",
+        "published_on": "03rd Apr 2024",
+        "read": true,
+        "tags": [
+            "Input/Output",
+            "Golang",
+            "Buffer"
+        ],
+        "thumbnail": "",
+        "title": "Fundamentals of I/O in Go",
+        "url": "https://medium.com/@andreiboar/fundamentals-of-i-o-in-go-c893d3714deb",
+        "language": "english",
+        "type": "article",
+        "id": "1aee03d1-f118-46c6-b5a0-e37fc20a5fdd",
+        "rating": 8
+    },
+    {
         "added_on": "16th Dec 2024",
         "authors": [
             "Hussein Nasser"
