@@ -2,6 +2,158 @@
     {
         "added_on": "21st Dec 2024",
         "authors": [
+            "Aman Pathak"
+        ],
+        "publication": "Stackademic",
+        "published_on": "18th Jan 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "DevSecOps",
+            "Kubernetes",
+            "Amazon Web Service (AWS)",
+            "AWS EKS",
+            "Argo CD",
+            "Prometheus",
+            "Grafana",
+            "Jenkins"
+        ],
+        "thumbnail": "",
+        "title": "Advanced End-to-End DevSecOps Kubernetes Three-Tier Project using AWS EKS, ArgoCD, Prometheus, Grafana, and Jenkins",
+        "url": "https://blog.stackademic.com/advanced-end-to-end-devsecops-kubernetes-three-tier-project-using-aws-eks-argocd-prometheus-fbbfdb956d1a",
+        "language": "english",
+        "type": "article",
+        "id": "51498413-3e96-4622-a7c8-2b2590af56d2"
+    },
+    {
+        "added_on": "21st Dec 2024",
+        "authors": [
+            "Anders Sundman"
+        ],
+        "publication": "The Ivory Tower",
+        "published_on": "18th Dec 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Version Control System (VCS)",
+            "Git"
+        ],
+        "thumbnail": "",
+        "title": "Git - Beyond the Basics",
+        "url": "https://4zm.org/2024/12/18/git-beyond-the-basics.html",
+        "language": "english",
+        "type": "article",
+        "id": "25e7ffc8-b18b-45f3-b766-661bc79da88f"
+    },
+    {
+        "added_on": "21st Dec 2024",
+        "authors": [
+            "Sarah Lean"
+        ],
+        "publication": "Techielass - A blog by Sarah Lean",
+        "published_on": "03rd Dec 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "CI/CD",
+            "Github Actions",
+            "Terraform"
+        ],
+        "thumbnail": "",
+        "title": "Terraform with GitHub Actions CI/CD Pipeline",
+        "url": "https://www.techielass.com/terraform-with-github-actions-ci-cd-pipeline/",
+        "language": "english",
+        "type": "article",
+        "id": "707006df-3bf6-4754-bfc0-20818356634f"
+    },
+    {
+        "added_on": "21st Dec 2024",
+        "authors": [
+            "M. Iota"
+        ],
+        "publication": "Amplify Security",
+        "published_on": "04th Dec 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Authentication",
+            "Authentication",
+            "CI/CD",
+            "API Token",
+            "OpenID Connect (OIDC)"
+        ],
+        "thumbnail": "",
+        "title": "Securing CI/CD: Don't Use Long-Lived API Tokens, Use OpenID Connect Instead",
+        "url": "https://amplify.security/blog/securing-ci/cd-dont-use-long-lived-api-tokens-use-openid-connect-instead?utm_source=tldrdevops",
+        "language": "english",
+        "type": "article",
+        "id": "dafb5c7e-2ba4-492b-b469-441c7af522c9"
+    },
+    {
+        "added_on": "21st Dec 2024",
+        "authors": [
+            "Alisa Sireneva"
+        ],
+        "publication": "purplesyringa",
+        "published_on": "19th Dec 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Memory",
+            "Random Access Memory (RAM)"
+        ],
+        "thumbnail": "",
+        "title": "The RAM myth",
+        "url": "https://purplesyringa.moe/blog/the-ram-myth",
+        "language": "english",
+        "type": "article",
+        "id": "2a85df3e-469f-458e-9396-866578413665"
+    },
+    {
+        "added_on": "21st Dec 2024",
+        "authors": [
+            "Pieter Cailliau",
+            "Filipe Oliveira"
+        ],
+        "publication": "Redis.io",
+        "published_on": "16th Nov 2021",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Load Balancer",
+            "Dropbox"
+        ],
+        "thumbnail": "",
+        "title": "RedisJSON: Performance Benchmarking",
+        "url": "https://newsletter.betterstack.com/p/how-dropbox-saved-millions-of-dollars",
+        "language": "english",
+        "type": "article",
+        "id": "6223fa0b-2dbd-4d6c-b88e-2e51f0c6b1fb"
+    },
+    {
+        "added_on": "21st Dec 2024",
+        "authors": [
+            "Richard Oliver Bray"
+        ],
+        "publication": "Hacking Scale by Better Stack",
+        "published_on": "11th Dec 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Load Balancer",
+            "Dropbox"
+        ],
+        "thumbnail": "",
+        "title": "How Dropbox Saved Millions of Dollars by Building a Load Balancer",
+        "url": "https://newsletter.betterstack.com/p/how-dropbox-saved-millions-of-dollars",
+        "language": "english",
+        "type": "article",
+        "id": "3b918f93-ce85-4d50-a071-773ea1021b72",
+        "rating": 8
+    },
+    {
+        "added_on": "21st Dec 2024",
+        "authors": [
             "Saurabh Dashora"
         ],
         "publication": "System Design Codex",
@@ -3619,7 +3771,7 @@
             "Dockerfile",
             "Orchestration",
             "Kubernetes",
-            "AWs EKS"
+            "AWS EKS"
         ],
         "thumbnail": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxsn2aaxicso5pf7inlt9.jpg",
         "title": "Introduction to Kubernetes and AWS EKS - 1/2",
