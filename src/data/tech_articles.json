@@ -1,5 +1,172 @@
 [
     {
+        "added_on": "21st Dec 2024",
+        "authors": [
+            "Saurabh Dashora"
+        ],
+        "publication": "System Design Codex",
+        "published_on": "10th Dec 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Scalability"
+        ],
+        "thumbnail": "",
+        "title": "8 Must-Know Strategies to Build Scalable Systems",
+        "url": "https://newsletter.systemdesigncodex.com/p/8-must-know-strategies-to-build-scalable?utm_source=tldrdesign",
+        "language": "english",
+        "type": "article",
+        "id": "91d7bc36-959a-4c14-af4f-392cc28965c6",
+        "rating": 8
+    },
+    {
+        "added_on": "21st Dec 2024",
+        "authors": [
+            "Raul Junco"
+        ],
+        "publication": "System Design Classroom",
+        "published_on": "18th Dec 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Frontend",
+            "Microservice",
+            "Microservice Communications",
+            "Database"
+        ],
+        "thumbnail": "",
+        "title": "Nobody told me I would miss my JOINs when I started in microservices.",
+        "url": "https://newsletter.systemdesignclassroom.com/p/nobody-told-me-i-would-miss-my-sql-joins",
+        "language": "english",
+        "type": "article",
+        "id": "55073845-7d6d-4200-8730-83c60683f706",
+        "rating": 7
+    },
+    {
+        "added_on": "21st Dec 2024",
+        "authors": [
+            "Amrik Malhans"
+        ],
+        "publication": "Perf Planet",
+        "published_on": "08th Dec 2024",
+        "read": false,
+        "tags": [
+            "Frontend",
+            "Javascript",
+            "Main Thread"
+        ],
+        "thumbnail": "",
+        "title": "Understanding the main thread in the browser",
+        "url": "https://calendar.perfplanet.com/2024/understanding-the-main-thread-in-the-browser/?utm_source=tldrwebdev",
+        "language": "english",
+        "type": "article",
+        "id": "d53ca9cb-0661-4dfa-9c6e-7962427231fa",
+        "rating": 9
+    },
+    {
+        "added_on": "21st Dec 2024",
+        "authors": [
+            "Ndeye Fatou Diop"
+        ],
+        "publication": "Frontend Joy",
+        "published_on": "16th Dec 2024",
+        "read": false,
+        "tags": [
+            "Frontend",
+            "Javascript",
+            "ReactJS"
+        ],
+        "thumbnail": "",
+        "title": "React Like a Pro: 10 Things I Regret Not Knowing Earlier",
+        "url": "https://www.frontendjoy.com/p/react-like-a-pro-10-things-i-regret-not-knowing-earlier?utm_source=tldrwebdev",
+        "language": "english",
+        "type": "article",
+        "id": "ef87d77e-4cc2-4488-ae67-6cab33f35af4",
+        "rating": 9
+    },
+    {
+        "added_on": "21st Dec 2024",
+        "authors": [
+            "Leodanis Pozo Ramos"
+        ],
+        "publication": "Real Python",
+        "published_on": "11th Dec 2024",
+        "read": false,
+        "tags": [
+            "Python",
+            "Data Structures",
+            "Set",
+            "Set Comprehension"
+        ],
+        "thumbnail": "",
+        "title": "Python Set Comprehensions: How and When to Use Them",
+        "url": "https://realpython.com/python-set-comprehension/",
+        "language": "english",
+        "type": "article",
+        "id": "1b003880-3d5e-40c2-a9ae-00cae61b64e7",
+        "rating": 9
+    },
+    {
+        "added_on": "21st Dec 2024",
+        "authors": [
+            "Ian Kiprono"
+        ],
+        "publication": "Stackademic",
+        "published_on": "04th Jul 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Interview Preparation"
+        ],
+        "thumbnail": "",
+        "title": "Practical and Technical Tips to Pass Your System Design Interviews Part II",
+        "url": "https://blog.stackademic.com/practical-and-technical-tips-to-pass-your-system-design-interviews-part-ii-d357d8fc5b80",
+        "language": "english",
+        "type": "article",
+        "id": "0ed61a25-6bff-4df2-87c4-141c422f918a",
+        "rating": 7
+    },
+    {
+        "added_on": "21st Dec 2024",
+        "authors": [
+            "Ian Kiprono"
+        ],
+        "publication": "Stackademic",
+        "published_on": "16th Jun 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Interview Preparation"
+        ],
+        "thumbnail": "",
+        "title": "System design interview helpful principles part I.",
+        "url": "https://medium.com/stackademic/system-design-interview-helpful-principles-part-i-8a64330fc71d",
+        "language": "english",
+        "type": "article",
+        "id": "f97aa394-a869-4874-97b4-a1e875511f28",
+        "rating": 7
+    },
+    {
+        "added_on": "21st Dec 2024",
+        "authors": [
+            "Akshat Sharma"
+        ],
+        "publication": "Medium",
+        "published_on": "16th Jul 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Pub/Sub"
+        ],
+        "thumbnail": "",
+        "title": "System Design Architecture : Publisher Subscriber Model",
+        "url": "https://medium.com/@akshatsharma0610/system-design-architecture-publisher-subscriber-model-7430740085d5",
+        "language": "english",
+        "type": "article",
+        "id": "33898b09-ea0d-49f9-9994-d81abd689b4f",
+        "rating": 7
+    },
+    {
         "added_on": "20th Dec 2024",
         "authors": [
             "Priya Srivastava"
