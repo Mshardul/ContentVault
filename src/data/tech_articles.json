@@ -1,5 +1,254 @@
 [
     {
+        "added_on": "22nd Dec 2024",
+        "authors": [
+            "Santosh P."
+        ],
+        "publication": "Medium",
+        "published_on": "20th Jul 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Build from Scratch",
+            "Zoom"
+        ],
+        "thumbnail": "",
+        "title": "System Design of Zoom",
+        "url": "https://medium.com/@lazygeek78/system-design-of-zoom-9f0b945a5636",
+        "language": "english",
+        "type": "article",
+        "id": "619377af-0d28-45a9-9f66-d9683b5fe375"
+    },
+    {
+        "added_on": "22nd Dec 2024",
+        "authors": [
+            "Dilip Kumar"
+        ],
+        "publication": "Medium",
+        "published_on": "07th Sep 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Build from Scratch",
+            "Advertising",
+            "Facebook",
+            "Instagram"
+        ],
+        "thumbnail": "",
+        "title": "Facebook / Instagram Ad System design",
+        "url": "https://dilipkumar.medium.com/facebook-instagram-ad-system-design-e828296ae84a",
+        "language": "english",
+        "type": "article",
+        "id": "62e28051-ce34-49d7-b7b4-e8e480f5b375"
+    },
+    {
+        "added_on": "22nd Dec 2024",
+        "authors": [
+            "System Glitch"
+        ],
+        "publication": "Level Up Coding",
+        "published_on": "01st Jul 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Rate Limiters"
+        ],
+        "thumbnail": "",
+        "title": "Why and how you should rate-limit your API",
+        "url": "https://levelup.gitconnected.com/why-and-how-you-should-rate-limit-your-api-08b6cd0b91b6",
+        "language": "english",
+        "type": "article",
+        "id": "d609c711-d85a-4864-9d51-b9d7bc13cde8"
+    },
+    {
+        "added_on": "22nd Dec 2024",
+        "authors": [
+            "Rudresh Narwal"
+        ],
+        "publication": "Medium",
+        "published_on": "11th Oct 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Python",
+            "Flask",
+            "Django",
+            "Design Pattern"
+        ],
+        "thumbnail": "",
+        "title": "Mastering Flask and Django: Top 10 Python Design Patterns for 2024",
+        "url": "https://medium.com/@rudresh.narwal/mastering-flask-and-django-top-10-python-design-patterns-for-2024-830e0d958fcb",
+        "language": "english",
+        "type": "article",
+        "id": "eb413de4-04a1-47ba-9cf2-186584ac9ea0"
+    },
+    {
+        "added_on": "22nd Dec 2024",
+        "authors": [
+            "Gazi Jarin"
+        ],
+        "publication": "Medium",
+        "published_on": "28th Sep 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Build from Scratch",
+            "Case Study",
+            "Rate Limiters"
+        ],
+        "thumbnail": "",
+        "title": "System Design: Rate Limiter",
+        "url": "https://medium.com/@gazijarin.ai/system-design-rate-limiter-e93b4af4784b",
+        "language": "english",
+        "type": "article",
+        "id": "c64c46a4-c38c-493c-b106-4e972b3416aa"
+    },
+    {
+        "added_on": "22nd Dec 2024",
+        "authors": [
+            "i am providence"
+        ],
+        "publication": "Medium",
+        "published_on": "07th Jul 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Authentication",
+            "Authorization",
+            "Oauth 2.0",
+            "OpenID Connect (OIDC)"
+        ],
+        "thumbnail": "",
+        "title": "OAuth 2.0 and OpenID in simple terms",
+        "url": "https://medium.com/@iamprovidence/oauth-2-0-and-openid-in-simple-terms-7196089a1b29",
+        "language": "english",
+        "type": "article",
+        "id": "7ed51f10-8554-4dc4-b782-f5530507b683",
+        "rating": 9
+    },
+    {
+        "added_on": "22nd Dec 2024",
+        "authors": [
+            "i am providence"
+        ],
+        "publication": "Medium",
+        "published_on": "27th Jun 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Authentication",
+            "Authorization",
+            "Token",
+            "Bearer Token",
+            "Reference Token",
+            "Opaque Token",
+            "Self-contained Token",
+            "JSON Web Token (JWT)",
+            "Access Token",
+            "ID Token",
+            "Refresh Token"
+        ],
+        "thumbnail": "",
+        "title": "Token gang (Bearer token, Reference token, Opaque token, Self-contained token, JWT, Access token, ID token, Refresh token)",
+        "url": "https://medium.com/@iamprovidence/token-gang-bearer-token-reference-token-opaque-token-self-contained-token-jwt-access-token-6e0191093cd0",
+        "language": "english",
+        "type": "article",
+        "id": "62ce35b8-bac6-4145-b62e-d41b0cce8e49"
+    },
+    {
+        "added_on": "22nd Dec 2024",
+        "authors": [
+            "i am providence"
+        ],
+        "publication": "Medium",
+        "published_on": "17th Feb 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Authentication",
+            "Cookie",
+            "Session",
+            "Token",
+            "JSON Web Token (JWT)",
+            "API key"
+        ],
+        "thumbnail": "",
+        "title": "Authentication history (Basic, Digest, Cookie, Session, Token, JWT, API key)",
+        "url": "https://medium.com/@iamprovidence/authentication-history-basic-digest-cookie-session-token-jwt-api-key-55d6c21be90b",
+        "language": "english",
+        "type": "article",
+        "id": "6e876d53-7f46-4af2-bbc1-19f69ed8cf37"
+    },
+    {
+        "added_on": "22nd Dec 2024",
+        "authors": [
+            "Ryan Zheng"
+        ],
+        "publication": "Medium",
+        "published_on": "30th Jun 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Database",
+            "Repository Pattern",
+            "SQL Alchemy",
+            "Database Transactions"
+        ],
+        "thumbnail": "",
+        "title": "Simplifying Database Interactions in Python with the Repository Pattern and SQLAlchemy",
+        "url": "https://ryan-zheng.medium.com/simplifying-database-interactions-in-python-with-the-repository-pattern-and-sqlalchemy-22baecae8d84",
+        "language": "english",
+        "type": "article",
+        "id": "d02dfc2f-c29b-4790-85c0-a280611364dd",
+        "rating": 8
+    },
+    {
+        "added_on": "22nd Dec 2024",
+        "authors": [
+            "David Mosyan"
+        ],
+        "publication": "Medium",
+        "published_on": "06th Jul 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Python",
+            "FastAPI",
+            "API",
+            "Best Practices",
+            "Design Pattern",
+            "SOLID Principle",
+            "DAO Pattern"
+        ],
+        "thumbnail": "",
+        "title": "FastAPI Best Practices and Design Patterns: Building Quality Python APIs",
+        "url": "https://medium.com/@lautisuarez081/fastapi-best-practices-and-design-patterns-building-quality-python-apis-31774ff3c28a",
+        "language": "english",
+        "type": "article",
+        "id": "8c6d5291-dc6f-4eb3-a57f-8f647596140d",
+        "rating": 9
+    },
+    {
+        "added_on": "22nd Dec 2024",
+        "authors": [
+            "David Mosyan"
+        ],
+        "publication": "Medium",
+        "published_on": "06th Jul 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Distributed System",
+            "Coordination Patterns"
+        ],
+        "thumbnail": "",
+        "title": "2 Coordination Patterns in Distributed Architectures",
+        "url": "https://medium.com/@dmosyan/2-coordination-patterns-in-distributed-architectures-33f40c906a7a",
+        "language": "english",
+        "type": "article",
+        "id": "475bf0ee-92d2-4233-90af-f1acbab165c9"
+    },
+    {
         "added_on": "21st Dec 2024",
         "authors": [
             "Aman Pathak"
