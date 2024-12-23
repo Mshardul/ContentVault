@@ -2,6 +2,168 @@
     {
         "added_on": "22nd Dec 2024",
         "authors": [
+            "David Mosyan"
+        ],
+        "publication": "Medium",
+        "published_on": "03rd Sep 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Failure Resilience",
+            "Self-healing Design"
+        ],
+        "thumbnail": "",
+        "title": "Designing Self-Healing Applications for Failure Resilience",
+        "url": "https://medium.com/@dmosyan/designing-self-healing-applications-for-failure-resilience-8a662a2c519d",
+        "language": "english",
+        "type": "article",
+        "id": "192d4fa3-0dc7-4cac-936f-87ec25ee3917",
+        "rating": 8
+    },
+    {
+        "added_on": "22nd Dec 2024",
+        "authors": [
+            "Vu Trinh"
+        ],
+        "publication": "Data Engineer Things",
+        "published_on": "14th Dec 2024",
+        "read": false,
+        "tags": [
+            "Database",
+            "SQL",
+            "Column Store Database"
+        ],
+        "thumbnail": "",
+        "title": "We might not fully understand the column store!",
+        "url": "https://blog.det.life/we-might-not-fully-understand-the-column-store-977d30391446",
+        "language": "english",
+        "type": "article",
+        "id": "16ad7213-ade0-4003-a946-094e1859950f"
+    },
+    {
+        "added_on": "22nd Dec 2024",
+        "authors": [
+            "Flowmapp"
+        ],
+        "publication": "Medium",
+        "published_on": "01st Jun 2022",
+        "read": false,
+        "tags": [
+            "User Experience"
+        ],
+        "thumbnail": "",
+        "title": "Bad Bad UX: 20 Common Mistakes in User Experience",
+        "url": "https://medium.com/@Flowmapp/bad-bad-ux-20-common-mistakes-in-user-experience-d30301ba686b",
+        "language": "english",
+        "type": "article",
+        "id": "49b6c499-5f99-4729-9b7e-b2d4b7b1f44a"
+    },
+    {
+        "added_on": "22nd Dec 2024",
+        "authors": [
+            "Gilles Barbier"
+        ],
+        "publication": "Medium",
+        "published_on": "30th Apr 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Microservice",
+            "Event-Driven Architecture",
+            "Reliability",
+            "Consistency"
+        ],
+        "thumbnail": "",
+        "title": "An Easy Path From API-Based Microservices to An Event-Driven Architecture For Improved Reliability and Consistency",
+        "url": "https://gillesbarbier.medium.com/an-easy-path-from-api-based-microservices-to-an-event-driven-architecture-for-improved-reliability-00d7d0bc3828",
+        "language": "english",
+        "type": "article",
+        "id": "564ee122-bcd1-400f-ba71-abc7ac3c3700"
+    },
+    {
+        "added_on": "22nd Dec 2024",
+        "authors": [
+            "Martin Hodges"
+        ],
+        "publication": "Medium",
+        "published_on": "07th Apr 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Monolithic",
+            "Event-Driven Architecture"
+        ],
+        "thumbnail": "",
+        "title": "How to move from a monolith to an event-based system",
+        "url": "https://medium.com/@martin.hodges/how-to-decide-to-move-from-a-monolith-to-an-event-based-system-fc4f625de645",
+        "language": "english",
+        "type": "article",
+        "id": "45d17ea7-da76-485a-8a0a-7d60fd567d08"
+    },
+    {
+        "added_on": "22nd Dec 2024",
+        "authors": [
+            "Aditi Mishra"
+        ],
+        "publication": "Medium",
+        "published_on": "30th Aug 2024",
+        "read": true,
+        "tags": [
+            "System Design",
+            "Distributed System",
+            "Sticky Sessions"
+        ],
+        "thumbnail": "",
+        "title": "Sticky Sessions: An In-Depth Overview",
+        "url": "https://medium.com/@aditimishra_541/sticky-sessions-an-in-depth-overview-4ec19bd7e22a",
+        "language": "english",
+        "type": "article",
+        "id": "e08b5d9e-06b8-4c10-a383-7a84536bf195",
+        "rating": 8
+    },
+    {
+        "added_on": "22nd Dec 2024",
+        "authors": [
+            "Sid"
+        ],
+        "publication": "Medium",
+        "published_on": "21st Dec 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Distributed System",
+            "Two Generals Problem"
+        ],
+        "thumbnail": "",
+        "title": "What is the Two Generals Problem in Distributed Systems?",
+        "url": "https://medium.com/@_sidharth_m_/what-is-the-two-generals-problem-in-distributed-systems-3233665ecaa4",
+        "language": "english",
+        "type": "article",
+        "id": "24a8b16b-6050-4e63-a68e-74a83c226d48"
+    },
+    {
+        "added_on": "22nd Dec 2024",
+        "authors": [
+            "Dilip Kumar"
+        ],
+        "publication": "Medium",
+        "published_on": "21st Jul 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Build from Scratch",
+            "Digital Wallet"
+        ],
+        "thumbnail": "",
+        "title": "Digital wallet system design",
+        "url": "https://dilipkumar.medium.com/digital-wallet-system-design-63a4e18edad6",
+        "language": "english",
+        "type": "article",
+        "id": "4bc130e8-47bc-4eca-af91-30b5c673c3c3"
+    },
+    {
+        "added_on": "22nd Dec 2024",
+        "authors": [
             "Santosh P."
         ],
         "publication": "Medium",
