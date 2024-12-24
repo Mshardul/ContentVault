@@ -1,5 +1,272 @@
 [
     {
+        "added_on": "23rd Dec 2024",
+        "authors": [
+            "Jeevansathi Engineering"
+        ],
+        "publication": "Medium",
+        "published_on": "30th Aug 2023",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Scalability",
+            "Elastic Search"
+        ],
+        "thumbnail": "",
+        "title": "Scaling Elasticsearch For Multi-Million Writes and Reads",
+        "url": "https://medium.com/@jeevansathisocial/scaling-elasticsearch-for-multi-million-writes-and-reads-05c7144a5e40",
+        "language": "english",
+        "type": "article",
+        "id": "8aa9fa86-4078-43ab-93c5-bcd69d2e7503"
+    },
+    {
+        "added_on": "23rd Dec 2024",
+        "authors": [
+            "Akshat Sharma"
+        ],
+        "publication": "Medium",
+        "published_on": "10th Jul 2023",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Event-Driven Architecture"
+        ],
+        "thumbnail": "",
+        "title": "Event Driven Architecture || System Design",
+        "url": "https://medium.com/@akshatsharma0610/event-driven-architecture-system-design-9a05d9718c6c",
+        "language": "english",
+        "type": "article",
+        "id": "e63045b0-5922-4359-b441-a10eef8b90d7"
+    },
+    {
+        "added_on": "23rd Dec 2024",
+        "authors": [
+            "Fahim ul Haq"
+        ],
+        "publication": "Dev Learning Daily",
+        "published_on": "19th Dec 2023",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Case Study",
+            "E-commerce",
+            "Scalability",
+            "Shopify"
+        ],
+        "thumbnail": "",
+        "title": "How Shopify broke its Black Friday record (System Design case study)",
+        "url": "https://learningdaily.dev/how-shopify-broke-its-black-friday-record-system-design-case-study-f45f25bbc451",
+        "language": "english",
+        "type": "article",
+        "id": "97a51635-8a07-423c-8e05-b3b15536f472"
+    },
+    {
+        "added_on": "23rd Dec 2024",
+        "authors": [
+            "Sid"
+        ],
+        "publication": "Medium",
+        "published_on": "02nd Nov 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Database",
+            "OLAP",
+            "OLTP"
+        ],
+        "thumbnail": "",
+        "title": "How Grab Stores and Processes Millions of Orders Everyday",
+        "url": "https://medium.com/@_sidharth_m_/how-grab-stores-and-processes-millions-of-orders-everyday-dbd4e810fba3",
+        "language": "english",
+        "type": "article",
+        "id": "e7a17594-9e22-45a3-9336-e04789db3532"
+    },
+    {
+        "added_on": "23rd Dec 2024",
+        "authors": [
+            "Gilles Barbier"
+        ],
+        "publication": "Medium",
+        "published_on": "26th Mar 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Event-Driven Architecture",
+            "Design Pattern",
+            "Choreography Pattern",
+            "Orchestrator Pattern",
+            "Infinitic Framework"
+        ],
+        "thumbnail": "",
+        "title": "The Way We Are Building Event-Driven Applications is Misguided. This is Why We Created Infinitic.",
+        "url": "https://gillesbarbier.medium.com/the-way-we-are-building-event-driven-applications-is-misguided-7f7c5f1a9061",
+        "language": "english",
+        "type": "article",
+        "id": "a5a6ba0a-29ed-4ddb-a2f1-e197b8dc3ca1"
+    },
+    {
+        "added_on": "23rd Dec 2024",
+        "authors": [
+            "Priya Srivastava"
+        ],
+        "publication": "Medium",
+        "published_on": "20th Dec 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Elastic Logstash Kabana (ELK) Stack",
+            "Logstash",
+            "Elastic Search",
+            "Kabana"
+        ],
+        "thumbnail": "",
+        "title": "System Design Interview : Elastic Logstash Kibana/ Monitoring/Observability Basics",
+        "url": "https://medium.com/@priyasrivastava18official/system-design-interview-elastic-logstash-kibana-monitoring-observability-basics-41d232fd730f",
+        "language": "english",
+        "type": "article",
+        "id": "c55bd411-c0c6-4af2-838f-992da14acfd8"
+    },
+    {
+        "added_on": "23rd Dec 2024",
+        "authors": [
+            "Joël-Steve N."
+        ],
+        "publication": "Stackademic",
+        "published_on": "02nd Nov 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Python",
+            "FastAPI",
+            "API Design",
+            "Asynchronous Programming"
+        ],
+        "thumbnail": "",
+        "title": "FastAPI Asynchronous Programming: Boosting API Performance",
+        "url": "https://blog.stackademic.com/fastapi-asynchronous-programming-boosting-api-performance-ee5b94639b82",
+        "language": "english",
+        "type": "article",
+        "id": "ffa160a2-1b1d-44d2-99b6-acf953a49026"
+    },
+    {
+        "added_on": "23rd Dec 2024",
+        "authors": [
+            "Shivam Bhadani"
+        ],
+        "publication": "Medium",
+        "published_on": "22nd Dec 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Server",
+            "Latency",
+            "Throughput",
+            "Scaling",
+            "Database",
+            "CAP Theorem",
+            "Microservice",
+            "Load Balancer",
+            "Caching",
+            "Message Brokers",
+            "Proxy"
+        ],
+        "thumbnail": "",
+        "title": "System Design For Beginners: Everything You Need in One Article",
+        "url": "https://medium.com/@shivambhadani_/system-design-for-beginners-everything-you-need-in-one-article-c74eb702540b",
+        "language": "english",
+        "type": "article",
+        "id": "a5a51c6e-c980-48ec-881d-b3df9df91ed5"
+    },
+    {
+        "added_on": "23rd Dec 2024",
+        "authors": [
+            "Sylvain Tiset"
+        ],
+        "publication": "Medium",
+        "published_on": "04th Sep 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Algorithms",
+            "Garbage Collection"
+        ],
+        "thumbnail": "",
+        "title": "Demystifying Garbage Collection Algorithms",
+        "url": "https://medium.com/@sylvain.tiset/demystifying-garbage-collection-algorithms-8f1ef1061207",
+        "language": "english",
+        "type": "article",
+        "id": "0aa01247-4c68-4840-bbd3-e720422e667d"
+    },
+    {
+        "added_on": "23rd Dec 2024",
+        "authors": [
+            "Aditi Mishra"
+        ],
+        "publication": "Medium",
+        "published_on": "21st Aug 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Build from Scratch",
+            "File Storage",
+            "Chunk Upload",
+            "Versioning",
+            "Real-time Collaboration",
+            "Google Drive"
+        ],
+        "thumbnail": "",
+        "title": "Building a Scalable and Secure Google Drive System: A Deep Dive into System Design with File Storage, Chunked Uploads, Sharing, Versioning, and Real-Time Collaboration",
+        "url": "https://medium.com/@aditimishra_541/building-a-scalable-and-secure-google-drive-system-a-deep-dive-into-system-design-with-file-0e01bdd1ea57",
+        "language": "english",
+        "type": "article",
+        "id": "6c895a43-2b53-4a70-9eb3-2874a15c611d",
+        "rating": 5
+    },
+    {
+        "added_on": "23rd Dec 2024",
+        "authors": [
+            "Dilip Kumar"
+        ],
+        "publication": "Medium",
+        "published_on": "19th Jul 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Build from Scratch",
+            "Ticket Master"
+        ],
+        "thumbnail": "",
+        "title": "Ticket master system design",
+        "url": "https://dilipkumar.medium.com/ticket-master-system-design-e794c51d79f7",
+        "language": "english",
+        "type": "article",
+        "id": "20bd04ef-265a-45f5-b043-e92b8c699b25",
+        "rating": 5
+    },
+    {
+        "added_on": "22nd Dec 2024",
+        "authors": [
+            "Waqas Younas"
+        ],
+        "publication": "Waqas Younas' Blog",
+        "published_on": "12th Dec 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Operating System",
+            "Concurrency",
+            "Parallel Programming",
+            "Multiprocessing"
+        ],
+        "thumbnail": "",
+        "title": "How Concurrency Works: A Visual Guide",
+        "url": "https://wyounas.github.io/concurrency/2024/12/12/how-concurrency-works-a-visual-guide/",
+        "language": "english",
+        "type": "article",
+        "id": "63c75d5d-f17d-49f3-acd0-61bcc07ac7bc",
+        "rating": 8
+    },
+    {
         "added_on": "22nd Dec 2024",
         "authors": [
             "David Mosyan"
@@ -1828,7 +2095,7 @@
         "published_on": "22nd Aug 2024",
         "read": false,
         "tags": [
-            "Elasticsearch",
+            "Elastic Search",
             "Lucene",
             "Data Analytics",
             "Inverted Index"
@@ -2432,7 +2699,7 @@
         "read": false,
         "tags": [
             "System Design",
-            "Elasticsearch"
+            "Elastic Search"
         ],
         "thumbnail": "",
         "title": "System Design Cheatsheets: ElasticSearch",
