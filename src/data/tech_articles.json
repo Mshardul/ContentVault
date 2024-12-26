@@ -1,5 +1,208 @@
 [
     {
+        "added_on": "26th Dec 2024",
+        "authors": [
+            "Harsh Gupta"
+        ],
+        "publication": "Medium",
+        "published_on": "23rd Oct 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Caching",
+            "Database",
+            "Redis"
+        ],
+        "thumbnail": "",
+        "title": "Redis: A Deep Dive and Practical Guide",
+        "url": "https://medium.com/@devharshgupta.com/redis-crash-course-learn-what-why-and-how-to-use-redis-with-node-js-express-f4c788664723",
+        "language": "english",
+        "type": "article",
+        "id": "ac365cb2-61d5-4aad-9390-883bb863f65f",
+        "rating": 8
+    },
+    {
+        "added_on": "26th Dec 2024",
+        "authors": [
+            "Seetharamugn"
+        ],
+        "publication": "Medium",
+        "published_on": "02nd Oct 2024",
+        "read": true,
+        "tags": [
+            "System Design",
+            "Multi Tenant Architecture",
+            "Database",
+            "Best Practices"
+        ],
+        "thumbnail": "",
+        "title": "Complete Guide to Multi-Tenant Architecture",
+        "url": "https://medium.com/@seetharamugn/complete-guide-to-multi-tenant-architecture-d69b24b518d6",
+        "language": "english",
+        "type": "article",
+        "id": "b98d471e-02ed-4e26-9bab-d8b10d3e8857",
+        "rating": 8
+    },
+    {
+        "added_on": "26th Dec 2024",
+        "authors": [
+            "Smart byte labs"
+        ],
+        "publication": "Medium",
+        "published_on": "25th Oct 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Folder Structure",
+            "Golang"
+        ],
+        "thumbnail": "",
+        "title": "Organize Like a Pro: A Simple Guide to Go Project Folder Structures",
+        "url": "https://medium.com/@smart_byte_labs/organize-like-a-pro-a-simple-guide-to-go-project-folder-structures-e85e9c1769c2",
+        "language": "english",
+        "type": "article",
+        "id": "1e5c600c-d1bc-442d-a979-3a6e7c29fe20",
+        "rating": 8
+    },
+    {
+        "added_on": "26th Dec 2024",
+        "authors": [
+            "Mohamed Elbahy"
+        ],
+        "publication": "Medium",
+        "published_on": "02nd Dec 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Exception Handling",
+            "Python",
+            "FastAPI"
+        ],
+        "thumbnail": "",
+        "title": "Level Up Your FastAPI: Exception Handling Done Right",
+        "url": "https://medium.com/@ixbahy/level-up-your-fastapi-exception-handling-done-right-5db862038c7a",
+        "language": "english",
+        "type": "article",
+        "id": "7f62e9f1-6d00-4aa3-8499-50a0e8754f37",
+        "rating": 8
+    },
+    {
+        "added_on": "26th Dec 2024",
+        "authors": [
+            "Sid"
+        ],
+        "publication": "Medium",
+        "published_on": "14th Sep 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Message Brokers",
+            "Apache Kafka"
+        ],
+        "thumbnail": "",
+        "title": "Understanding Stream Processing Guarantees in Apache Kafka",
+        "url": "https://medium.com/@_sidharth_m_/understanding-stream-processing-guarantees-in-apache-kafka-068eef52b3a7",
+        "language": "english",
+        "type": "article",
+        "id": "3857e4fc-8e56-4bc5-bd04-4b6320f92af7",
+        "rating": 8
+    },
+    {
+        "added_on": "26th Dec 2024",
+        "authors": [
+            "Shivam Bhadani"
+        ],
+        "publication": "Medium",
+        "published_on": "06th Nov 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Remote Procedure Calls (RPC)",
+            "Golang"
+        ],
+        "thumbnail": "",
+        "title": "Introduction to RPC in Go: Building RPC client and server with Golang",
+        "url": "https://medium.com/@shivambhadani_/introduction-to-rpc-in-go-building-rpc-client-and-server-with-golang-5794675e9a12",
+        "language": "english",
+        "type": "article",
+        "id": "526b296d-1c39-4c51-b037-fc457a99cee0",
+        "rating": 8
+    },
+    {
+        "added_on": "26th Dec 2024",
+        "authors": [
+            "Rachit Tayal"
+        ],
+        "publication": "Python Features",
+        "published_on": "23rd Aug 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Synchronous Programming",
+            "Asynchronous Programming",
+            "Threading",
+            "Thread Pool",
+            "Event Loop",
+            "Python",
+            "FastAPI"
+        ],
+        "thumbnail": "",
+        "title": "When to define our Endpoint Sync or Async in FastAPI",
+        "url": "https://medium.com/python-features/when-to-define-our-endpoint-sync-or-async-in-fastapi-6065238f2b34",
+        "language": "english",
+        "type": "article",
+        "id": "8002efbe-742f-4833-aa75-bd4511e38048",
+        "rating": 8
+    },
+    {
+        "added_on": "26th Dec 2024",
+        "authors": [
+            "Joud W. Awad"
+        ],
+        "publication": "Medium",
+        "published_on": "23rd Sep 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Storage",
+            "File Storage",
+            "Cloud Infrastructure",
+            "Cloud Storage",
+            "Amazon Web Service (AWS)",
+            "AWS S3"
+        ],
+        "thumbnail": "",
+        "title": "AWS S3 Deep Dive",
+        "url": "https://medium.com/@joudwawad/aws-s3-deep-dive-1c19ad58af40",
+        "language": "english",
+        "type": "article",
+        "id": "bf9db353-ec6f-4e71-b822-88e0f3206962"
+    },
+    {
+        "added_on": "26th Dec 2024",
+        "authors": [
+            "Aditi Mishra"
+        ],
+        "publication": "Medium",
+        "published_on": "21st Sep 2024",
+        "read": true,
+        "tags": [
+            "System Design",
+            "Memory",
+            "Memory Management",
+            "Stack Memory",
+            "Heap Memory",
+            "Golang"
+        ],
+        "thumbnail": "",
+        "title": "Simple Guide to Stack and Heap in Go",
+        "url": "https://medium.com/@aditimishra_541/simple-guide-to-stack-and-heap-in-go-27bc06168900",
+        "language": "english",
+        "type": "article",
+        "id": "47b8f74f-7cd0-4678-a33b-bc18cf538753",
+        "rating": 7
+    },
+    {
         "added_on": "25th Dec 2024",
         "authors": [
             "Quastor"
