@@ -1,5 +1,485 @@
 [
     {
+        "added_on": "25th Dec 2024",
+        "authors": [
+            "Quastor"
+        ],
+        "publication": "Quastor",
+        "published_on": "16th Dec 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Database",
+            "Document DB",
+            "Stripe",
+            "DocDB"
+        ],
+        "thumbnail": "",
+        "title": "The Architecture of Stripe's Document Database",
+        "url": "https://blog.quastor.org/p/the-architecture-of-stripe-s-document-database",
+        "language": "english",
+        "type": "article",
+        "id": "666ffcd0-a1f5-4d1d-9aa9-261a11800c7f"
+    },
+    {
+        "added_on": "25th Dec 2024",
+        "authors": [
+            "Avinassh"
+        ],
+        "publication": "github",
+        "published_on": "22nd Dec 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Modular Monolith Architecture",
+            "Monolithic",
+            "Reliability",
+            "Spotify"
+        ],
+        "thumbnail": "",
+        "title": "How Shopify Handled 30TB per Minute With a Modular Monolith Architecture",
+        "url": "https://newsletter.systemdesign.one/p/modular-monolith",
+        "language": "english",
+        "type": "article",
+        "id": "427408b3-967e-4525-9936-92b3f20a7b10"
+    },
+    {
+        "added_on": "25th Dec 2024",
+        "authors": [
+            "Avinassh"
+        ],
+        "publication": "github",
+        "published_on": "22nd Dec 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Database",
+            "Data Structures",
+            "SQLite",
+            "Bloom Filter"
+        ],
+        "thumbnail": "",
+        "title": "How bloom filters made SQLite 10x faster",
+        "url": "https://avi.im/blag/2024/sqlite-past-present-future/",
+        "language": "english",
+        "type": "article",
+        "id": "dacb947c-3a94-446a-a57b-700774c7847f"
+    },
+    {
+        "added_on": "25th Dec 2024",
+        "authors": [
+            "Ruan Bekker"
+        ],
+        "publication": "Ruan Bekker's Blog",
+        "published_on": "26th Mar 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "CI/CD",
+            "Deployment",
+            "Argo CD",
+            "Kubernetes"
+        ],
+        "thumbnail": "",
+        "title": "Getting Started with Argo CD on Kubernetes - The Ultimate Guide",
+        "url": "https://ruan.dev/blog/2024/26/03/getting-started-with-argo-cd-on-kubernetes---the-ultimate-guide",
+        "language": "english",
+        "type": "article",
+        "id": "bfee2b30-ac58-4583-9bd0-928da298537d"
+    },
+    {
+        "added_on": "25th Dec 2024",
+        "authors": [
+            "Aarav Joshi"
+        ],
+        "publication": "dev.to",
+        "published_on": "24th Dec 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Dependency Management",
+            "Golang"
+        ],
+        "thumbnail": "",
+        "title": "Go Modules: Mastering Dependency Management in Go Projects",
+        "url": "https://dev.to/aaravjoshi/go-modules-mastering-dependency-management-in-go-projects-949",
+        "language": "english",
+        "type": "article",
+        "id": "3d7a4bff-75dd-4ac8-8b1d-d085c284711a"
+    },
+    {
+        "added_on": "25th Dec 2024",
+        "authors": [
+            "Sajo Sam"
+        ],
+        "publication": "dev.to",
+        "published_on": "24th Dec 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Threading",
+            "Golang",
+            "Go Routine"
+        ],
+        "thumbnail": "",
+        "title": "Go Routines vs Threads: What's the Difference and When to Use Them?",
+        "url": "https://dev.to/sajosam/go-routines-vs-threads-whats-the-difference-and-when-to-use-them-1g09",
+        "language": "english",
+        "type": "article",
+        "id": "731e847e-e746-42c4-94fa-b743e9ca9e00"
+    },
+    {
+        "added_on": "25th Dec 2024",
+        "authors": [
+            "Marko Milosavljevic"
+        ],
+        "publication": "dev.to",
+        "published_on": "24th Dec 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Terraform",
+            "Amazon Web Service (AWS)",
+            "AWS S3"
+        ],
+        "thumbnail": "",
+        "title": "Terraform: Steps to create complete AWS S3 module",
+        "url": "https://dev.to/marko_milosavljevic_97169/terraform-steps-to-create-complete-module-36mj",
+        "language": "english",
+        "type": "article",
+        "id": "7e8c30bf-d984-43e7-aae2-6a59bd041676"
+    },
+    {
+        "added_on": "25th Dec 2024",
+        "authors": [
+            "Syed Ammar"
+        ],
+        "publication": "dev.to",
+        "published_on": "24th Dec 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Data Structures",
+            "Javascript",
+            "WeakMap"
+        ],
+        "thumbnail": "",
+        "title": "What are WeakMaps in JS?",
+        "url": "https://dev.to/syed_ammar/what-are-weakmaps-in-js-1oj6",
+        "language": "english",
+        "type": "article",
+        "id": "6fb68163-5ecb-4bf4-930b-4ecf50462a11"
+    },
+    {
+        "added_on": "25th Dec 2024",
+        "authors": [
+            "Folasayo Samuel Olayemi"
+        ],
+        "publication": "dev.to",
+        "published_on": "23rd Dec 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "API Design",
+            "Asynchronous Programming",
+            "FastAPI"
+        ],
+        "thumbnail": "",
+        "title": "Supercharge Your API Performance with Asynchronous Programming in FastAPI",
+        "url": "https://dev.to/saint_vandora/supercharge-your-api-performance-with-asynchronous-programming-in-fastapi-9g7",
+        "language": "english",
+        "type": "article",
+        "id": "ab8efa82-3225-4032-b27b-75c7deb59ce7"
+    },
+    {
+        "added_on": "25th Dec 2024",
+        "authors": [
+            "Marko Djakovic"
+        ],
+        "publication": "marko.dj",
+        "published_on": "23rd Dec 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Cloud Infrastructure",
+            "Serverless",
+            "Amazon Web Service (AWS)"
+        ],
+        "thumbnail": "",
+        "title": "Building a Cloud Native Serverless Chat On AWS",
+        "url": "https://marko.dj/posts/2024-12-23-build-cloud-native-serverless-chat-on-aws/",
+        "language": "english",
+        "type": "article",
+        "id": "ace8132e-a7e0-4a44-b186-d3a587e8b5c1"
+    },
+    {
+        "added_on": "25th Dec 2024",
+        "authors": [
+            "Fahim ul Haq"
+        ],
+        "publication": "dev.to",
+        "published_on": "24th Dec 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Generative AI"
+        ],
+        "thumbnail": "",
+        "title": "Generative AI System Design",
+        "url": "https://dev.to/fahimulhaq/generative-ai-system-design-3g2f",
+        "language": "english",
+        "type": "article",
+        "id": "3022795b-c631-44c3-a004-6981ca0c9910"
+    },
+    {
+        "added_on": "25th Dec 2024",
+        "authors": [
+            "Strage"
+        ],
+        "publication": "dev.to",
+        "published_on": "24th Dec 2024",
+        "read": true,
+        "tags": [
+            "System Design",
+            "Availability",
+            "Orchestration",
+            "Kubernetes"
+        ],
+        "thumbnail": "",
+        "title": "Optimizing Kubernetes for High Availability (HA)",
+        "url": "https://dev.to/abhay_yt_52a8e72b213be229/implementing-bluegreen-and-canary-deployments-in-kubernetes-for-zero-downtime-5d71",
+        "language": "english",
+        "type": "article",
+        "id": "36e2df88-dee6-411c-8334-03d8134ac8b4",
+        "rating": 7
+    },
+    {
+        "added_on": "25th Dec 2024",
+        "authors": [
+            "Strage"
+        ],
+        "publication": "dev.to",
+        "published_on": "24th Dec 2024",
+        "read": true,
+        "tags": [
+            "System Design",
+            "Availability",
+            "Orchestration",
+            "Kubernetes"
+        ],
+        "thumbnail": "",
+        "title": "Optimizing Kubernetes for High Availability (HA)",
+        "url": "https://dev.to/abhay_yt_52a8e72b213be229/optimizing-kubernetes-for-high-availability-ha-1d0n",
+        "language": "english",
+        "type": "article",
+        "id": "ec541b08-2ea0-4f3f-9110-b76ecdf34b08",
+        "rating": 7
+    },
+    {
+        "added_on": "25th Dec 2024",
+        "authors": [
+            "Jignect Tech QA Team"
+        ],
+        "publication": "Jignect Tech",
+        "published_on": "01st Jan 1970",
+        "read": true,
+        "tags": [
+            "System Design",
+            "API Calls",
+            "Javascript",
+            "Axios"
+        ],
+        "thumbnail": "",
+        "title": "Mastering Axios: The Ultimate JavaScript Guide to Simplifying API Calls",
+        "url": "https://jignect.tech/mastering-axios-the-ultimate-javascript-guide-to-simplifying-api-calls/",
+        "language": "english",
+        "type": "article",
+        "id": "615b088e-05f0-48a5-99cf-b5aa8e6feb98",
+        "rating": 9
+    },
+    {
+        "added_on": "24th Dec 2024",
+        "authors": [
+            "Abhay Singh Kathayat"
+        ],
+        "publication": "dev.to",
+        "published_on": "23rd Dec 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Containerization",
+            "Orchestration",
+            "Scalability",
+            "Docker",
+            "Kubernetes"
+        ],
+        "thumbnail": "",
+        "title": "Kubernetes vs. Docker: Key Differences, Benefits, and Use Cases",
+        "url": "https://dev.to/abhay_yt_52a8e72b213be229/kubernetes-vs-docker-key-differences-benefits-and-use-cases-2bd7",
+        "language": "english",
+        "type": "article",
+        "id": "324025b8-13f8-4cb3-b600-d0456a059bda"
+    },
+    {
+        "added_on": "24th Dec 2024",
+        "authors": [
+            "Konstantin Ostrovsky"
+        ],
+        "publication": "Medium",
+        "published_on": "02nd Sep 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "API Design",
+            "gRPC"
+        ],
+        "thumbnail": "",
+        "title": "gRPC: 5 Years Later, Is It Still Worth It?",
+        "url": "https://kostyay.com/grpc-5-years-later-is-it-still-worth-it-b181a3b2b73b",
+        "language": "english",
+        "type": "article",
+        "id": "e20f4bd2-68ad-4233-9fb4-4a7c657d914e"
+    },
+    {
+        "added_on": "24th Dec 2024",
+        "authors": [
+            "Donovan Hoang"
+        ],
+        "publication": "dev.to",
+        "published_on": "23rd Dec 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Messaging System",
+            "Amazon Web Service (AWS)",
+            "AWS SNS",
+            "AWS SQS",
+            "AWS EventBridge"
+        ],
+        "thumbnail": "",
+        "title": "SNS vs. SQS vs. EventBridge: Choosing the Right AWS Messaging Service",
+        "url": "https://dev.to/dhoang1905/sns-vs-sqs-vs-eventbridge-choosing-the-right-aws-messaging-service-k6j",
+        "language": "english",
+        "type": "article",
+        "id": "b634fab0-bd1b-409f-93a6-f1b5e6e3ea8a"
+    },
+    {
+        "added_on": "24th Dec 2024",
+        "authors": [
+            "Abhay Singh Kathayat"
+        ],
+        "publication": "dev.to",
+        "published_on": "23rd Dec 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Containerization",
+            "Orchestration",
+            "Scalability",
+            "Docker",
+            "Kubernetes"
+        ],
+        "thumbnail": "",
+        "title": "Introduction to Kubernetes with Docker: Orchestrating Containers at Scale",
+        "url": "https://dev.to/abhay_yt_52a8e72b213be229/introduction-to-kubernetes-with-docker-orchestrating-containers-at-scale-4j3g",
+        "language": "english",
+        "type": "article",
+        "id": "1039f25c-e789-4ad8-a5d7-dc31f1d27f5f"
+    },
+    {
+        "added_on": "24th Dec 2024",
+        "authors": [
+            "Sushant Gaurav"
+        ],
+        "publication": "dev.to",
+        "published_on": "23rd Dec 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Interview Questions",
+            "Cloud Infrastructure",
+            "Amazon Web Service (AWS)",
+            "AWS IAM"
+        ],
+        "thumbnail": "",
+        "title": "Interview Questions on AWS Identity and Access Management (IAM)",
+        "url": "https://dev.to/imsushant12/interview-questions-on-aws-identity-and-access-management-iam-5cb4",
+        "language": "english",
+        "type": "article",
+        "id": "5400163a-4c4a-4157-97a5-62a97f6318a0"
+    },
+    {
+        "added_on": "24th Dec 2024",
+        "authors": [
+            "Abhay Singh Kathayat"
+        ],
+        "publication": "dev.to",
+        "published_on": "22nd Dec 2024",
+        "read": true,
+        "tags": [
+            "System Design",
+            "CI/CD",
+            "Containerization",
+            "Monitoring",
+            "Docker",
+            "Prometheus",
+            "Grafana"
+        ],
+        "thumbnail": "",
+        "title": "Docker with Prometheus and Grafana: Real-Time Monitoring Simplified",
+        "url": "https://dev.to/abhay_yt_52a8e72b213be229/docker-with-prometheus-and-grafana-real-time-monitoring-simplified-57aa",
+        "language": "english",
+        "type": "article",
+        "id": "db90ca4d-8875-4899-aecc-e738700f0213",
+        "rating": 8
+    },
+    {
+        "added_on": "24th Dec 2024",
+        "authors": [
+            "Abhay Singh Kathayat"
+        ],
+        "publication": "dev.to",
+        "published_on": "22nd Dec 2024",
+        "read": true,
+        "tags": [
+            "System Design",
+            "CI/CD",
+            "Containerization",
+            "Docker"
+        ],
+        "thumbnail": "",
+        "title": "Streamlining CI/CD Pipelines with Docker: A Complete Guide",
+        "url": "https://dev.to/abhay_yt_52a8e72b213be229/streamlining-cicd-pipelines-with-docker-a-complete-guide-3an5",
+        "language": "english",
+        "type": "article",
+        "id": "5478b9da-ecfb-4912-8cd1-9b68e3863efb",
+        "rating": 8
+    },
+    {
+        "added_on": "24th Dec 2024",
+        "authors": [
+            "Sid"
+        ],
+        "publication": "Medium",
+        "published_on": "27th Jul 2023",
+        "read": true,
+        "tags": [
+            "System Design",
+            "Distributed System",
+            "Data Replication",
+            "Singler Leader Replication",
+            "Multi Leader Replication",
+            "Leaderless Replication"
+        ],
+        "thumbnail": "",
+        "title": "How is Data Replicated in Distributed Systems?",
+        "url": "https://medium.com/@_sidharth_m_/how-is-data-replicated-in-distributed-systems-0fe7dd8af904",
+        "language": "english",
+        "type": "article",
+        "id": "1339cc9c-ee33-4a6d-be06-390133f6c5d3",
+        "rating": 7
+    },
+    {
         "added_on": "23rd Dec 2024",
         "authors": [
             "Jeevansathi Engineering"
