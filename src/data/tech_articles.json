@@ -1,5 +1,248 @@
 [
     {
+        "added_on": "30th Dec 2024",
+        "authors": [
+            "Abhay Singh Kathayat"
+        ],
+        "publication": "dev.to",
+        "published_on": "26th Dec 2024",
+        "read": false,
+        "tags": [
+            "Git",
+            "Git Integration",
+            "CI/CD",
+            "Docker",
+            "Kubernetes",
+            "Jenkins",
+            "Terraform"
+        ],
+        "thumbnail": "",
+        "title": "Git Integration: How Git Works with CI/CD, Docker, Kubernetes, Jenkins, and Terraform",
+        "url": "https://dev.to/abhay_yt_52a8e72b213be229/git-integration-how-git-works-with-cicd-docker-kubernetes-jenkins-and-terraform-4la8",
+        "language": "english",
+        "type": "post",
+        "id": "245ec30a-98a0-4e4e-91f6-c8fa88948868"
+    },
+    {
+        "added_on": "30th Dec 2024",
+        "authors": [
+            "Abhay Singh Kathayat"
+        ],
+        "publication": "dev.to",
+        "published_on": "26th Dec 2024",
+        "read": false,
+        "tags": [
+            "Git",
+            "Git Integration",
+            "CI/CD",
+            "Docker",
+            "Kubernetes",
+            "Jenkins",
+            "Terraform"
+        ],
+        "thumbnail": "",
+        "title": "Git Integration: How Git Works with CI/CD, Docker, Kubernetes, Jenkins, and Terraform",
+        "url": "https://dev.to/abhay_yt_52a8e72b213be229/git-integration-how-git-works-with-cicd-docker-kubernetes-jenkins-and-terraform-4la8",
+        "language": "english",
+        "type": "post",
+        "id": "245ec30a-98a0-4e4e-91f6-c8fa88948868"
+    },
+    {
+        "added_on": "30th Dec 2024",
+        "authors": [
+            "Fajar sp"
+        ],
+        "publication": "dev.to",
+        "published_on": "26th Dec 2024",
+        "read": false,
+        "tags": [
+            "Redis",
+            "Cron Job",
+            "Golang"
+        ],
+        "thumbnail": "",
+        "title": "Redis Queue and Cron in Go",
+        "url": "https://dev.to/jhonoryza/redis-queue-and-cron-in-go-1fl8",
+        "language": "english",
+        "type": "post",
+        "id": "7c8f6fba-3911-4cca-9121-10ac75cc6e61"
+    },
+    {
+        "added_on": "30th Dec 2024",
+        "authors": [
+            "Richa"
+        ],
+        "publication": "dev.to",
+        "published_on": "26th Dec 2024",
+        "read": false,
+        "tags": [
+            "Javascript",
+            "Type Conversion"
+        ],
+        "thumbnail": "",
+        "title": "Understanding JavaScript Type Conversion",
+        "url": "https://dev.to/thedevricha/understanding-javascript-type-conversion-174n",
+        "language": "english",
+        "type": "post",
+        "id": "624159d2-ff38-45f4-9089-a22fa671b386",
+        "rating": 7
+    },
+    {
+        "added_on": "30th Dec 2024",
+        "authors": [
+            "Noureldin Farag"
+        ],
+        "publication": "dev.to",
+        "published_on": "26th Dec 2024",
+        "read": false,
+        "tags": [
+            "Database",
+            "Database Query",
+            "SQL",
+            "SQL Query"
+        ],
+        "thumbnail": "",
+        "title": "SQL Basic to Advanced Queries",
+        "url": "https://dev.to/noureldin2303/sql-basic-to-advanced-queries-3j8m",
+        "language": "english",
+        "type": "post",
+        "id": "9bcd93d0-7b9d-4517-95e5-8bc9800e2083",
+        "rating": 9
+    },
+    {
+        "added_on": "30th Dec 2024",
+        "authors": [
+            "Piyush Chauhan"
+        ],
+        "publication": "dev.to",
+        "published_on": "25th Dec 2024",
+        "read": false,
+        "tags": [
+            "Recursion",
+            "Iteration",
+            "Optimization",
+            "Trampolining"
+        ],
+        "thumbnail": "",
+        "title": "Mastering Trampolining: A Deep Dive into Recursive Optimization",
+        "url": "https://dev.to/frorning/mastering-trampolining-a-deep-dive-into-recursive-optimization-45nc",
+        "language": "english",
+        "type": "post",
+        "id": "33998574-667e-4d49-9af8-37df6aee7080",
+        "rating": 4
+    },
+    {
+        "added_on": "26th Dec 2024",
+        "authors": [
+            "Abhay Singh Kathayat"
+        ],
+        "publication": "Frontend Camp",
+        "published_on": "24th Dec 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Orchestration",
+            "Kubernetes",
+            "Security",
+            "AWS Secret",
+            "Kubernetes ConfigMaps"
+        ],
+        "thumbnail": "",
+        "title": "Using Kubernetes ConfigMaps and Secrets for Sensitive Data",
+        "url": "https://dev.to/abhay_yt_52a8e72b213be229/using-kubernetes-configmaps-and-secrets-for-sensitive-data-35h0",
+        "language": "english",
+        "type": "article",
+        "id": "3ecf6592-bc8f-4cf8-8490-49d70e10e21a"
+    },
+    {
+        "added_on": "26th Dec 2024",
+        "authors": [
+            "Sanjeev Sharma"
+        ],
+        "publication": "Frontend Camp",
+        "published_on": "24th Dec 2024",
+        "read": true,
+        "tags": [
+            "System Design",
+            "Javascript",
+            "Javascript Concepts",
+            "this keyword"
+        ],
+        "thumbnail": "",
+        "title": "`this` in JavaScript Explained",
+        "url": "https://www.frontendcamp.in/open-questions/this-in-js",
+        "language": "english",
+        "type": "article",
+        "id": "51291811-cd1a-4f4f-948f-38b15637b588",
+        "rating": 7
+    },
+    {
+        "added_on": "26th Dec 2024",
+        "authors": [
+            "Accessibly Speaking",
+            "Anisat Akinbani"
+        ],
+        "publication": "Accessibly Speaking",
+        "published_on": "25th Dec 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "User Interface (UI)",
+            "User Experience (UX)",
+            "Accessible Rich Internet Applications (ARIA)"
+        ],
+        "thumbnail": "",
+        "title": "Introduction to ARIA: A Developer's Guide",
+        "url": "https://accessibly-speaking.hashnode.dev/introduction-to-aria-a-developers-guide",
+        "language": "english",
+        "type": "article",
+        "id": "b58d3a76-a443-4b71-9ea3-23b336fcfedf"
+    },
+    {
+        "added_on": "26th Dec 2024",
+        "authors": [
+            "Muhammad Atif Iqbal"
+        ],
+        "publication": "dev.to",
+        "published_on": "25th Dec 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "arrow function",
+            "Javascript"
+        ],
+        "thumbnail": "",
+        "title": "Difference between () => {} and () => () arrow function in JavaScript (JS)",
+        "url": "https://dev.to/atifwattoo/difference-between-and-aero-function-in-javascript-js-llb",
+        "language": "english",
+        "type": "post",
+        "id": "8add8e56-1c4f-4ca9-b094-ea2aaa3c737d"
+    },
+    {
+        "added_on": "26th Dec 2024",
+        "authors": [
+            "Alyssa Mhie Matila"
+        ],
+        "publication": "dev.to",
+        "published_on": "20th Dec 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Deployment",
+            "Amazon Web Service (AWS)",
+            "AWS Lightsail",
+            "Python",
+            "Django",
+            "Bitnami Django Stack"
+        ],
+        "thumbnail": "",
+        "title": "Deploy a Django App from GitHub on AWS Lightsail Using the Bitnami Django Stack",
+        "url": "https://dev.to/alyssa_mhie/deploy-a-django-app-from-github-on-aws-lightsail-using-the-bitnami-django-stack-4124",
+        "language": "english",
+        "type": "post",
+        "id": "d0afbded-294e-4c99-8781-277be7f83805"
+    },
+    {
         "added_on": "26th Dec 2024",
         "authors": [
             "Harsh Gupta"
@@ -307,7 +550,7 @@
         "title": "Go Modules: Mastering Dependency Management in Go Projects",
         "url": "https://dev.to/aaravjoshi/go-modules-mastering-dependency-management-in-go-projects-949",
         "language": "english",
-        "type": "article",
+        "type": "post",
         "id": "3d7a4bff-75dd-4ac8-8b1d-d085c284711a"
     },
     {
@@ -328,7 +571,7 @@
         "title": "Go Routines vs Threads: What's the Difference and When to Use Them?",
         "url": "https://dev.to/sajosam/go-routines-vs-threads-whats-the-difference-and-when-to-use-them-1g09",
         "language": "english",
-        "type": "article",
+        "type": "post",
         "id": "731e847e-e746-42c4-94fa-b743e9ca9e00"
     },
     {
@@ -349,7 +592,7 @@
         "title": "Terraform: Steps to create complete AWS S3 module",
         "url": "https://dev.to/marko_milosavljevic_97169/terraform-steps-to-create-complete-module-36mj",
         "language": "english",
-        "type": "article",
+        "type": "post",
         "id": "7e8c30bf-d984-43e7-aae2-6a59bd041676"
     },
     {
@@ -370,7 +613,7 @@
         "title": "What are WeakMaps in JS?",
         "url": "https://dev.to/syed_ammar/what-are-weakmaps-in-js-1oj6",
         "language": "english",
-        "type": "article",
+        "type": "post",
         "id": "6fb68163-5ecb-4bf4-930b-4ecf50462a11"
     },
     {
@@ -391,7 +634,7 @@
         "title": "Supercharge Your API Performance with Asynchronous Programming in FastAPI",
         "url": "https://dev.to/saint_vandora/supercharge-your-api-performance-with-asynchronous-programming-in-fastapi-9g7",
         "language": "english",
-        "type": "article",
+        "type": "post",
         "id": "ab8efa82-3225-4032-b27b-75c7deb59ce7"
     },
     {
@@ -431,7 +674,7 @@
         "title": "Generative AI System Design",
         "url": "https://dev.to/fahimulhaq/generative-ai-system-design-3g2f",
         "language": "english",
-        "type": "article",
+        "type": "post",
         "id": "3022795b-c631-44c3-a004-6981ca0c9910"
     },
     {
@@ -452,7 +695,7 @@
         "title": "Optimizing Kubernetes for High Availability (HA)",
         "url": "https://dev.to/abhay_yt_52a8e72b213be229/implementing-bluegreen-and-canary-deployments-in-kubernetes-for-zero-downtime-5d71",
         "language": "english",
-        "type": "article",
+        "type": "post",
         "id": "36e2df88-dee6-411c-8334-03d8134ac8b4",
         "rating": 7
     },
@@ -474,7 +717,7 @@
         "title": "Optimizing Kubernetes for High Availability (HA)",
         "url": "https://dev.to/abhay_yt_52a8e72b213be229/optimizing-kubernetes-for-high-availability-ha-1d0n",
         "language": "english",
-        "type": "article",
+        "type": "post",
         "id": "ec541b08-2ea0-4f3f-9110-b76ecdf34b08",
         "rating": 7
     },
@@ -520,7 +763,7 @@
         "title": "Kubernetes vs. Docker: Key Differences, Benefits, and Use Cases",
         "url": "https://dev.to/abhay_yt_52a8e72b213be229/kubernetes-vs-docker-key-differences-benefits-and-use-cases-2bd7",
         "language": "english",
-        "type": "article",
+        "type": "post",
         "id": "324025b8-13f8-4cb3-b600-d0456a059bda"
     },
     {
@@ -563,7 +806,7 @@
         "title": "SNS vs. SQS vs. EventBridge: Choosing the Right AWS Messaging Service",
         "url": "https://dev.to/dhoang1905/sns-vs-sqs-vs-eventbridge-choosing-the-right-aws-messaging-service-k6j",
         "language": "english",
-        "type": "article",
+        "type": "post",
         "id": "b634fab0-bd1b-409f-93a6-f1b5e6e3ea8a"
     },
     {
@@ -586,7 +829,7 @@
         "title": "Introduction to Kubernetes with Docker: Orchestrating Containers at Scale",
         "url": "https://dev.to/abhay_yt_52a8e72b213be229/introduction-to-kubernetes-with-docker-orchestrating-containers-at-scale-4j3g",
         "language": "english",
-        "type": "article",
+        "type": "post",
         "id": "1039f25c-e789-4ad8-a5d7-dc31f1d27f5f"
     },
     {
@@ -608,7 +851,7 @@
         "title": "Interview Questions on AWS Identity and Access Management (IAM)",
         "url": "https://dev.to/imsushant12/interview-questions-on-aws-identity-and-access-management-iam-5cb4",
         "language": "english",
-        "type": "article",
+        "type": "post",
         "id": "5400163a-4c4a-4157-97a5-62a97f6318a0"
     },
     {
@@ -632,7 +875,7 @@
         "title": "Docker with Prometheus and Grafana: Real-Time Monitoring Simplified",
         "url": "https://dev.to/abhay_yt_52a8e72b213be229/docker-with-prometheus-and-grafana-real-time-monitoring-simplified-57aa",
         "language": "english",
-        "type": "article",
+        "type": "post",
         "id": "db90ca4d-8875-4899-aecc-e738700f0213",
         "rating": 8
     },
@@ -654,7 +897,7 @@
         "title": "Streamlining CI/CD Pipelines with Docker: A Complete Guide",
         "url": "https://dev.to/abhay_yt_52a8e72b213be229/streamlining-cicd-pipelines-with-docker-a-complete-guide-3an5",
         "language": "english",
-        "type": "article",
+        "type": "post",
         "id": "5478b9da-ecfb-4912-8cd1-9b68e3863efb",
         "rating": 8
     },
@@ -999,7 +1242,7 @@
         "published_on": "01st Jun 2022",
         "read": false,
         "tags": [
-            "User Experience"
+            "User Experience (UX)"
         ],
         "thumbnail": "",
         "title": "Bad Bad UX: 20 Common Mistakes in User Experience",
@@ -4539,7 +4782,7 @@
         "title": "9 Steps for JWT Authentication in Node.js Application",
         "url": "https://dev.to/safdarali/9-steps-for-jwt-authentication-in-nodejs-application-cgk",
         "language": "english",
-        "type": "article",
+        "type": "post",
         "id": "08c3f67a-a238-419c-b6a8-5d970523fe74"
     },
     {
@@ -4558,7 +4801,7 @@
         "title": "20 Important JavaScript Concepts for Your Next Interview",
         "url": "https://dev.to/jagroop2001/20-important-javascript-concepts-for-your-next-interview-2000",
         "language": "english",
-        "type": "article",
+        "type": "post",
         "id": "15473635-c6fd-4798-b4c9-c64288dd9aff"
     },
     {
@@ -5138,7 +5381,7 @@
         "title": "Introduction to Kubernetes and AWS EKS - 1/2",
         "url": "https://dev.to/aws-builders/introduction-to-kubernetes-and-aws-eks-part-1-19e5",
         "language": "english",
-        "type": "article",
+        "type": "post",
         "id": "76eb3326-01e2-4d19-8ca1-8ba5e51acf3d"
     },
     {
