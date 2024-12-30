@@ -2,26 +2,152 @@
     {
         "added_on": "30th Dec 2024",
         "authors": [
-            "Abhay Singh Kathayat"
+            "Roma Gordeev"
         ],
-        "publication": "dev.to",
-        "published_on": "26th Dec 2024",
+        "publication": "Medium",
+        "published_on": "29th Jul 2024",
         "read": false,
         "tags": [
-            "Git",
-            "Git Integration",
-            "CI/CD",
-            "Docker",
-            "Kubernetes",
-            "Jenkins",
-            "Terraform"
+            "System Design",
+            "Availability",
+            "Database",
+            "Database Design",
+            "PostgreSQL"
         ],
         "thumbnail": "",
-        "title": "Git Integration: How Git Works with CI/CD, Docker, Kubernetes, Jenkins, and Terraform",
-        "url": "https://dev.to/abhay_yt_52a8e72b213be229/git-integration-how-git-works-with-cicd-docker-kubernetes-jenkins-and-terraform-4la8",
+        "title": "HA PostgreSQL Cluster",
+        "url": "https://medium.com/@roma.gordeev/ha-postgresql-cluster-5d3672ae8b31",
         "language": "english",
-        "type": "post",
-        "id": "245ec30a-98a0-4e4e-91f6-c8fa88948868"
+        "type": "article",
+        "id": "ab682a82-6a6b-4cbf-ad52-68e86eb15861"
+    },
+    {
+        "added_on": "30th Dec 2024",
+        "authors": [
+            "Santosh P."
+        ],
+        "publication": "Medium",
+        "published_on": "23rd Sep 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "System Design Case Study",
+            "Load Balancer"
+        ],
+        "thumbnail": "",
+        "title": "System Design Of Loadbalancer",
+        "url": "https://medium.com/@lazygeek78/system-design-of-loadbalancer-9b67283703f3",
+        "language": "english",
+        "type": "article",
+        "id": "70fb0247-f718-4692-8d56-3c7b5a0a3b6a"
+    },
+    {
+        "added_on": "30th Dec 2024",
+        "authors": [
+            "Joe Osborne"
+        ],
+        "publication": "Python Features",
+        "published_on": "13th Dec 2024",
+        "read": false,
+        "tags": [
+            "Python",
+            "FastAPI",
+            "Logging",
+            "Middleware"
+        ],
+        "thumbnail": "",
+        "title": "How to Log Every Request and Response in FastAPI",
+        "url": "https://medium.com/@joerosborne/how-to-log-every-request-and-response-in-fastapi-dcf8d2be2055",
+        "language": "english",
+        "type": "article",
+        "id": "e7b5dfd6-e1b6-418c-a4fe-6141eb72b1af"
+    },
+    {
+        "added_on": "30th Dec 2024",
+        "authors": [
+            "Rachit Tayal"
+        ],
+        "publication": "Python Features",
+        "published_on": "13th Aug 2024",
+        "read": false,
+        "tags": [
+            "Programming language Concepts",
+            "Multiprocessing",
+            "Multitasking",
+            "Coroutine",
+            "Asynchronous Programming"
+        ],
+        "thumbnail": "",
+        "title": "Understanding Coroutines & Tasks in Depth in Python",
+        "url": "https://medium.com/python-features/understanding-coroutines-tasks-in-depth-in-python-af2a4c0e1073",
+        "language": "english",
+        "type": "article",
+        "id": "988c0340-3c17-4538-ab74-91412e015e65"
+    },
+    {
+        "added_on": "30th Dec 2024",
+        "authors": [
+            "Aserdargun"
+        ],
+        "publication": "Medium",
+        "published_on": "22nd Aug 2024",
+        "read": false,
+        "tags": [
+            "Programming language Concepts",
+            "Interview Preparation",
+            "Python"
+        ],
+        "thumbnail": "",
+        "title": "Python Coding Concepts",
+        "url": "https://medium.com/@aserdargun/python-coding-concepts-c1d7769c3284",
+        "language": "english",
+        "type": "article",
+        "id": "3d208e3e-0986-4e36-9e1e-a4a62bee508a"
+    },
+    {
+        "added_on": "30th Dec 2024",
+        "authors": [
+            "Carlos García Rosales"
+        ],
+        "publication": "Medium",
+        "published_on": "23rd Aug 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Design Pattern",
+            "Concurrency Pattern",
+            "Golang"
+        ],
+        "thumbnail": "",
+        "title": "7 Concurrency Patterns in Go You Should Know",
+        "url": "https://cgarciarosales97.medium.com/7-concurrency-patterns-in-go-you-should-know-4796e19ee7d4",
+        "language": "english",
+        "type": "article",
+        "id": "e740d878-7f75-4200-9e9e-7dfbb83afd29"
+    },
+    {
+        "added_on": "30th Dec 2024",
+        "authors": [
+            "Sam Atmaramani"
+        ],
+        "publication": "Medium",
+        "published_on": "22nd Oct 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Message Queues",
+            "Apache Kafka",
+            "AWS SQS",
+            "Rabbit MQ",
+            "Redis",
+            "Celery"
+        ],
+        "thumbnail": "",
+        "title": "Which queue System should I choose — Kafka Vs Amazon SQS Vs RabbitMQ VS Redis Queue Vs Celery",
+        "url": "https://medium.com/@s.atmaramani/which-queue-system-should-i-choose-kafka-vs-amazon-sqs-vs-rabbitmq-vs-redis-queue-vs-celery-fa8db7702f24",
+        "language": "english",
+        "type": "article",
+        "id": "a57e537d-d760-4599-860a-0067fe06db6d"
     },
     {
         "added_on": "30th Dec 2024",
@@ -30,8 +156,9 @@
         ],
         "publication": "dev.to",
         "published_on": "26th Dec 2024",
-        "read": false,
+        "read": true,
         "tags": [
+            "System Design",
             "Git",
             "Git Integration",
             "CI/CD",
@@ -45,7 +172,8 @@
         "url": "https://dev.to/abhay_yt_52a8e72b213be229/git-integration-how-git-works-with-cicd-docker-kubernetes-jenkins-and-terraform-4la8",
         "language": "english",
         "type": "post",
-        "id": "245ec30a-98a0-4e4e-91f6-c8fa88948868"
+        "id": "245ec30a-98a0-4e4e-91f6-c8fa88948868",
+        "rating": 7
     },
     {
         "added_on": "30th Dec 2024",
@@ -56,6 +184,7 @@
         "published_on": "26th Dec 2024",
         "read": false,
         "tags": [
+            "System Design",
             "Redis",
             "Cron Job",
             "Golang"
@@ -76,6 +205,7 @@
         "published_on": "26th Dec 2024",
         "read": false,
         "tags": [
+            "Programming language Concepts",
             "Javascript",
             "Type Conversion"
         ],
@@ -3209,7 +3339,7 @@
         "tags": [
             "System Design",
             "Message Brokers",
-            "Kafka"
+            "Apache Kafka"
         ],
         "thumbnail": "",
         "title": "Apache Kafka - Overview",
@@ -3269,7 +3399,7 @@
         "read": false,
         "tags": [
             "System Design",
-            "Kafka"
+            "Apache Kafka"
         ],
         "thumbnail": "",
         "title": "Hashing, Encryption, and Encoding explained",
@@ -3288,7 +3418,7 @@
         "read": true,
         "tags": [
             "System Design",
-            "Kafka"
+            "Apache Kafka"
         ],
         "thumbnail": "",
         "title": "Mastering Kafka: Advanced Concepts Every Senior Software Engineer Should Know",
@@ -3921,7 +4051,7 @@
         "tags": [
             "System Design",
             "Caching",
-            "Kafka"
+            "Apache Kafka"
         ],
         "thumbnail": "",
         "title": "What is Kafka? Key components explained",
@@ -3999,7 +4129,7 @@
         "tags": [
             "System Design",
             "Message Brokers",
-            "Kafka"
+            "Apache Kafka"
         ],
         "thumbnail": "",
         "title": "How to use Kafka in system design interviews?",
@@ -4460,7 +4590,7 @@
             "System Design",
             "Message Brokers",
             "Redis",
-            "Kafka"
+            "Apache Kafka"
         ],
         "thumbnail": "",
         "title": "Redis Pub/Sub vs. Apache Kafka: Choosing the Right Messaging System",
@@ -5268,7 +5398,7 @@
         "tags": [
             "System Design",
             "Message Queues",
-            "Kafka"
+            "Apache Kafka"
         ],
         "thumbnail": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff544868b-d733-4da6-a2d9-671ad39f2ef9_12863x5783.png",
         "title": "What is Kafka? Part 1/2",
@@ -5574,7 +5704,7 @@
             "System Design",
             "Asynchronous Programming",
             "Message Queues",
-            "Kafka",
+            "Apache Kafka",
             "Agoda"
         ],
         "thumbnail": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7ff8cdd8-5f43-40a0-8c56-1674579670fe_2400x1446.png",
@@ -5924,7 +6054,7 @@
             "System Design",
             "System Design Case Study",
             "Scalability",
-            "Kafka",
+            "Apache Kafka",
             "Walmart"
         ],
         "thumbnail": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXfOB1SczGN9WlwXlprb3A03iJCQf_63SOHwMv_1LLlah30HYMPiSN0RCNFxPHKMSHj2jLn9JrUCtAvpV_T6cp2v1VjFOG8PwfD2--Fw-IMO7plWTaNsoDOR-b8nV3m-uh0dgSuvgCdktJjBaxC11Ayn9LLR?key=ofwIqFwkTwbZGuKUGU_LNw",
