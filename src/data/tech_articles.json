@@ -2,6 +2,97 @@
     {
         "added_on": "30th Dec 2024",
         "authors": [
+            "Sid"
+        ],
+        "publication": "Medium",
+        "published_on": "21st Sep 2024",
+        "read": true,
+        "tags": [
+            "System Design",
+            "Scalability",
+            "Distributed System",
+            "Hashing",
+            "Consistent Hashing"
+        ],
+        "thumbnail": "",
+        "title": "How Consistent Hashing Minimizes Data Movement in Scalable Systems",
+        "url": "https://medium.com/@_sidharth_m_/how-consistent-hashing-minimizes-data-movement-in-scalable-systems-0dbd2b0001c4",
+        "language": "english",
+        "type": "article",
+        "id": "55b7a8bb-fb3f-4fb2-98bc-d43fe8664d6f",
+        "rating": 8
+    },
+    {
+        "added_on": "30th Dec 2024",
+        "authors": [
+            "CyCoderX"
+        ],
+        "publication": "Stackademic",
+        "published_on": "08th Nov 2024",
+        "read": true,
+        "tags": [
+            "System Design",
+            "Concurrency",
+            "Parallelism",
+            "Parallel Programming",
+            "Multiprocessing",
+            "Multitasking"
+        ],
+        "thumbnail": "",
+        "title": "Master Concurrency vs. Parallelism",
+        "url": "https://blog.stackademic.com/master-concurrency-vs-parallelism-84d16f546968",
+        "language": "english",
+        "type": "article",
+        "id": "43c0e564-5633-433e-b1b8-42374545eee6",
+        "rating": 9
+    },
+    {
+        "added_on": "30th Dec 2024",
+        "authors": [
+            "Joud W. Awad"
+        ],
+        "publication": "Medium",
+        "published_on": "26th Sep 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Notification Service",
+            "Cloud Infrastructure",
+            "Amazon Web Service (AWS)"
+        ],
+        "thumbnail": "",
+        "title": "Notification System Architecture With AWS",
+        "url": "https://medium.com/@joudwawad/notification-system-architecture-with-aws-968103c2c730",
+        "language": "english",
+        "type": "article",
+        "id": "452553f5-5d2f-4330-aad9-46658fa8237b"
+    },
+    {
+        "added_on": "30th Dec 2024",
+        "authors": [
+            "Amit Rai"
+        ],
+        "publication": "Stackademic",
+        "published_on": "07th Sep 2024",
+        "read": true,
+        "tags": [
+            "Interview Preparation",
+            "Interview Questions",
+            "Javascript",
+            "Javascript Concepts",
+            "Event Loop"
+        ],
+        "thumbnail": "",
+        "title": "90% of Developers Struggle with these JavaScript Interview Questions",
+        "url": "https://blog.stackademic.com/90-of-developers-struggle-with-these-javascript-interview-questions-9d116cc47226",
+        "language": "english",
+        "type": "article",
+        "id": "a089b9ff-9a9e-4df5-8676-3accb6e0a389",
+        "rating": 9
+    },
+    {
+        "added_on": "30th Dec 2024",
+        "authors": [
             "Roma Gordeev"
         ],
         "publication": "Medium",
@@ -48,7 +139,7 @@
         ],
         "publication": "Python Features",
         "published_on": "13th Dec 2024",
-        "read": false,
+        "read": true,
         "tags": [
             "Python",
             "FastAPI",
@@ -60,7 +151,8 @@
         "url": "https://medium.com/@joerosborne/how-to-log-every-request-and-response-in-fastapi-dcf8d2be2055",
         "language": "english",
         "type": "article",
-        "id": "e7b5dfd6-e1b6-418c-a4fe-6141eb72b1af"
+        "id": "e7b5dfd6-e1b6-418c-a4fe-6141eb72b1af",
+        "rating": 8
     },
     {
         "added_on": "30th Dec 2024",
