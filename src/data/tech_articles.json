@@ -1,5 +1,26 @@
 [
     {
+        "added_on": "04th Jan 2025",
+        "authors": [
+            "Todd Hoff"
+        ],
+        "publication": "HIgh Scalability",
+        "published_on": "18th Feb 2009",
+        "read": true,
+        "tags": [
+            "System Design",
+            "Distributed System",
+            "Back of the Envelope Calculation"
+        ],
+        "thumbnail": "",
+        "title": "Numbers Everyone Should Know",
+        "url": "https://highscalability.com/numbers-everyone-should-know/",
+        "language": "english",
+        "type": "article",
+        "id": "aee2d14f-b419-4939-941e-6aa477678ba6",
+        "rating": 7
+    },
+    {
         "added_on": "30th Dec 2024",
         "authors": [
             "Sid"
