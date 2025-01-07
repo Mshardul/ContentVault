@@ -1,0 +1,74 @@
+[
+    {
+        "added_on": "07th Jan 2025",
+        "id": "618abe6b-0f7e-4db2-9ad9-d8914f9b2777",
+        "title": "Lottie Lab",
+        "about": "Create and edit lottie animations",
+        "url": "https://www.lottielab.com",
+        "thumbnail": "",
+        "tags": ["Frontend Development", "UI", "UX", "Icons", "Animation", "Lottie Animation", "Lottie Lab"]
+    },
+    {
+        "added_on": "07th Jan 2025",
+        "id": "1938e746-5ccf-49ec-baff-38ec5b764f04",
+        "title": "Chart DB",
+        "about": "Visualize your DB via one-single query",
+        "url": "https://chartdb.io",
+        "thumbnail": "",
+        "tags": ["Database", "Visualization", "Visualize Database"]
+    },
+    {
+        "added_on": "07th Jan 2025",
+        "id": "47dc48ac-67e8-4abb-af4b-140b26df5612",
+        "title": "Killer Coda",
+        "about": "Learn DevOps with small interactive video courses",
+        "url": "https://killercoda.com/",
+        "thumbnail": "",
+        "tags": ["DevOps", "Learn", "Course", "Playground", "Killer Code"]
+    },
+    {
+        "added_on": "07th Jan 2025",
+        "id": "903c3000-044f-42b5-9647-47622fe1d8a2",
+        "title": "Avatars",
+        "about": "",
+        "url": "https://alohe.github.io/avatars/",
+        "thumbnail": "",
+        "tags": ["Frontend Development", "UI", "UX", "Icons", "Avatars"]
+    },
+    {
+        "added_on": "07th Jan 2025",
+        "id": "aed2a453-75de-465f-81f8-a4da924ab58f",
+        "title": "Galileo",
+        "about": "UI generation platform for easy and fast design ideation using text prompt or images",
+        "url": "https://www.usegalileo.ai/explore",
+        "thumbnail": "",
+        "tags": ["Frontend Development", "UI", "UX", "AI Tool", "Text to Image", "Text to UI", "Image to UI", "Galileo"]
+    },
+    {
+        "added_on": "07th Jan 2025",
+        "id": "1478bab0-0510-4af3-aa5b-46af91ff843d",
+        "title": "Ant Design",
+        "about": "UI design component",
+        "url": "https://ant.design",
+        "thumbnail": "",
+        "tags": ["Frontend Development", "UI", "UX", "Component"]
+    },
+    {
+        "added_on": "07th Jan 2025",
+        "id": "3ae51a73-de40-438d-9263-9f54a8458c49",
+        "title": "UI Verse",
+        "about": "UI design component",
+        "url": "https://uiverse.io",
+        "thumbnail": "",
+        "tags": ["Frontend Development", "UI", "UX", "Component"]
+    },
+    {
+        "added_on": "07th Jan 2025",
+        "id": "ad4404ad-b668-4715-befc-04ff2888f2dd",
+        "title": "Ebook 2 Audio Book",
+        "about": "Convert an Ebook to an Audio Book",
+        "url": "https://github.com/DrewThomasson/ebook2audiobook",
+        "thumbnail": "",
+        "tags": ["AI Tool", "Text to Audio", "Github Repo", "Ebook to Audio Book"]
+    }
+]
