@@ -1,10 +1,165 @@
 [
     {
+        "added_on": "25th Jan 2025",
+        "authors": [
+            "Shashank Mishra"
+        ],
+        "publication": "Shashank's Substack",
+        "published_on": "17th Jan 2025",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Database",
+            "Database Indexing",
+            "Global Indexes"
+        ],
+        "thumbnail": "",
+        "title": "How does global index work in databses",
+        "url": "https://programmingappliedai.substack.com/p/how-does-global-index-work-in-databses",
+        "language": "english",
+        "type": "article",
+        "id": "f90c862e-7d30-4870-b813-e6cd6ae8ac33",
+        "rating": 9
+    },
+    {
+        "added_on": "25th Jan 2025",
+        "authors": [
+            "David Dahan"
+        ],
+        "publication": "David Dahan",
+        "published_on": "01st Dec 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Python",
+            "Django",
+            "FastAPI"
+        ],
+        "thumbnail": "",
+        "title": "Django vs. FastAPI, An Honest Comparison",
+        "url": "https://www.david-dahan.com/blog/comparing-fastapi-and-django",
+        "language": "english",
+        "type": "article",
+        "id": "cb87ba3c-7875-4b03-a67b-4ba7da9b41cc",
+        "rating": 9
+    },
+    {
+        "added_on": "25th Jan 2025",
+        "authors": [
+            "Sam Morris"
+        ],
+        "publication": "Gitlab",
+        "published_on": "30th Jul 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "CI/CD",
+            "Gitlab",
+            "Gitlab CI/CD"
+        ],
+        "thumbnail": "",
+        "title": "Building a GitLab CI/CD pipeline for a monorepo the easy way",
+        "url": "https://about.gitlab.com/blog/2024/07/30/building-a-gitlab-ci-cd-pipeline-for-a-monorepo-the-easy-way/",
+        "language": "english",
+        "type": "article",
+        "id": "9eead840-c909-441f-914f-fdf64056ba50",
+        "rating": 7
+    },
+    {
+        "added_on": "25th Jan 2025",
+        "authors": [
+            "Sam Morris"
+        ],
+        "publication": "Gitlab",
+        "published_on": "30th Jul 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "CI/CD",
+            "Gitlab",
+            "Gitlab CI/CD"
+        ],
+        "thumbnail": "",
+        "title": "Building a GitLab CI/CD pipeline for a monorepo the easy way",
+        "url": "https://about.gitlab.com/blog/2024/07/30/building-a-gitlab-ci-cd-pipeline-for-a-monorepo-the-easy-way/",
+        "language": "english",
+        "type": "article",
+        "id": "9eead840-c909-441f-914f-fdf64056ba50",
+        "rating": 7
+    },
+    {
+        "added_on": "25th Jan 2025",
+        "authors": [
+            "Noah Ing",
+            "Sophia Manicor"
+        ],
+        "publication": "Gitlab",
+        "published_on": "12th Nov 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "CI/CD",
+            "Gitlab",
+            "Gitlab CI/CD"
+        ],
+        "thumbnail": "",
+        "title": "Tutorial: How to set up your first GitLab CI/CD component",
+        "url": "https://about.gitlab.com/blog/2024/11/12/tutorial-how-to-set-up-your-first-gitlab-ci-cd-component/",
+        "language": "english",
+        "type": "article",
+        "id": "f2dc0032-d0be-4db3-87e4-8e901d260c6d",
+        "rating": 6
+    },
+    {
+        "added_on": "25th Jan 2025",
+        "authors": [
+            "2ality - JavaScript and more"
+        ],
+        "publication": "2ality - JavaScript and more",
+        "published_on": "19th Jan 2025",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Typescript",
+            "Typescript Concepts",
+            "Enums"
+        ],
+        "thumbnail": "",
+        "title": "TypeScript enums: use cases and alternatives",
+        "url": "https://2ality.com/2025/01/typescript-enum-patterns.html",
+        "language": "english",
+        "type": "article",
+        "id": "49c6233c-38e2-45a4-b0c0-b3da070eba0a",
+        "rating": 8
+    },
+    {
+        "added_on": "25th Jan 2025",
+        "authors": [
+            "Engin Diri"
+        ],
+        "publication": "Pulumi",
+        "published_on": "20th Jan 2025",
+        "read": true,
+        "tags": [
+            "System Design",
+            "Orchestration",
+            "Kubernetes",
+            "Best Practices"
+        ],
+        "thumbnail": "",
+        "title": "Kubernetes Best Practices I Wish I Had Known Before",
+        "url": "https://www.pulumi.com/blog/kubernetes-best-practices-i-wish-i-had-known-before/",
+        "language": "english",
+        "type": "article",
+        "id": "c2df691a-56df-4af4-9e01-cbdc62ccf7c7",
+        "rating": 8
+    },
+    {
         "added_on": "04th Jan 2025",
         "authors": [
             "Todd Hoff"
         ],
-        "publication": "HIgh Scalability",
+        "publication": "High Scalability",
         "published_on": "18th Feb 2009",
         "read": true,
         "tags": [
