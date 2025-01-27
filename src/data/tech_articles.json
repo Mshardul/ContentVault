@@ -1,5 +1,49 @@
 [
     {
+        "added_on": "27th Jan 2025",
+        "authors": [
+            "Level Up Coding"
+        ],
+        "publication": "Level Up Coding",
+        "published_on": "18th Jan 2025",
+        "read": false,
+        "tags": [
+            "System Design",
+            "API Design",
+            "REST",
+            "GraphQL"
+        ],
+        "thumbnail": "",
+        "title": "LUC #69: GraphQL vs REST: Navigating the Evolving Landscape of API Design",
+        "url": "https://blog.levelupcoding.com/p/luc-69-graphql-vs-rest-navigating-the-evolving-landscape-of-api-design",
+        "language": "english",
+        "type": "post",
+        "id": "e41c6e04-e21b-4ca3-9429-760364d0213c",
+        "rating": 8
+    },
+    {
+        "added_on": "27th Jan 2025",
+        "authors": [
+            "Prajesh Gawhale"
+        ],
+        "publication": "dev.to",
+        "published_on": "17th Jan 2025",
+        "read": false,
+        "tags": [
+            "Javascript",
+            "Javascript Concepts",
+            "Interview Preparation",
+            "Interview Questions"
+        ],
+        "thumbnail": "",
+        "title": "JavaScript Interview Questions",
+        "url": "https://dev.to/prajesh_kun/javascript-interview-questions-3epe",
+        "language": "english",
+        "type": "post",
+        "id": "25eacb52-70ba-4685-a025-8cf45be72953",
+        "rating": 8
+    },
+    {
         "added_on": "25th Jan 2025",
         "authors": [
             "Shashank Mishra"

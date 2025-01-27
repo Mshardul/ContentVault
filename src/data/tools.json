@@ -1,5 +1,24 @@
 [
     {
+        "added_on": "27th Jan 2025",
+        "id": "5ed7bf71-7b61-4745-bb5e-d88d7a92956d",
+        "title": "Fliki",
+        "about": "Create Music Tracks with AI",
+        "url": "https://soundraw.io/",
+        "thumbnail": "",
+        "tags": ["AI", "AI Tool", "Text to Video", "AI Avatar"],
+        "description": "Transform your ideas into stunning videos with our AI video generator. Easy to use Text to Video editor featuring lifelike voiceovers, dynamic AI video clips, and a wide range of AI-powered features."
+    },
+    {
+        "added_on": "27th Jan 2025",
+        "id": "72a23637-eafa-4180-b16b-a0ff34936fe0",
+        "title": "Soundraw",
+        "about": "Create Music Tracks with AI",
+        "url": "https://soundraw.io/",
+        "thumbnail": "",
+        "tags": ["AI", "AI Tool", "Text to Audio", "Music"]
+    },
+    {
         "added_on": "07th Jan 2025",
         "id": "618abe6b-0f7e-4db2-9ad9-d8914f9b2777",
         "title": "Lottie Lab",
