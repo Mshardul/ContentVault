@@ -1,5 +1,34 @@
 [
     {
+        "added_on": "28th Jan 2025",
+        "authors": [
+            "Luca Liu"
+        ],
+        "publication": "dev.to",
+        "published_on": "29th Dec 2024",
+        "read": false,
+        "tags": [
+            "Database",
+            "Database Query",
+            "SQL",
+            "SQL Window Function",
+            "Database DML",
+            "Database DQL",
+            "SQL Joins",
+            "Database Query Optimization",
+            "SQL Recursive Queries",
+            "SQL Transaction",
+            "SQL Triggers"
+        ],
+        "thumbnail": "",
+        "title": "SQL Commands Series' Articles",
+        "url": "https://dev.to/luca1iu/series/29995",
+        "language": "english",
+        "type": "Articles Series",
+        "id": "fb925fc8-f0ac-481d-989a-11aaaec0c3e5",
+        "rating": 8
+    },
+    {
         "added_on": "27th Jan 2025",
         "authors": [
             "Level Up Coding"

@@ -1,5 +1,26 @@
 [
     {
+        "added_on": "28th Jan 2025",
+        "id": "20fd5336-1af2-4200-a257-991ab90dbccc",
+        "title": "UniDeck",
+        "about": "No-Code Dashboards For Everyone",
+        "url": "https://unideck.app/",
+        "thumbnail": "",
+        "tags": ["UI", "Dashboard", "Third Party Integration"],
+        "description": "Connect the tools you use every day and start crafting your own dashboards"
+    },
+    {
+        "added_on": "28th Jan 2025",
+        "id": "0be6568b-69ad-4fee-8c46-2e61887b17e8",
+        "title": "Open Props UI",
+        "about": "UI Library with Components you can just Copy-Paste to your project",
+        "url": "https://open-props-ui.netlify.app",
+        "code_url": "https://github.com/felix-bohlin/ui",
+        "thumbnail": "",
+        "tags": ["UI", "UI Components"],
+        "description": ""
+    },
+    {
         "added_on": "27th Jan 2025",
         "id": "5ed7bf71-7b61-4745-bb5e-d88d7a92956d",
         "title": "Fliki",
