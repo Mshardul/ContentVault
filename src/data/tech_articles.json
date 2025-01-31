@@ -1,5 +1,25 @@
 [
     {
+        "added_on": "31st Jan 2025",
+        "authors": [
+            "Matt Hall"
+        ],
+        "publication": "Matt Hall",
+        "published_on": "06th Jan 2025",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Golang"
+        ],
+        "thumbnail": "",
+        "title": "Go is a Well-Designed Language, Actually",
+        "url": "https://mattjhall.co.uk/posts/go-is-well-designed-actually.html",
+        "language": "english",
+        "type": "Articles Series",
+        "id": "9df53abb-4572-4681-9365-7e2c10852cba",
+        "rating": 8
+    },
+    {
         "added_on": "28th Jan 2025",
         "authors": [
             "Luca Liu"
