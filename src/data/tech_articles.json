@@ -1,5 +1,72 @@
 [
     {
+        "added_on": "02nd Feb 2025",
+        "authors": [
+            "Renuka Patil"
+        ],
+        "publication": "dev.to",
+        "published_on": "04th Jan 2025",
+        "read": false,
+        "tags": [
+            "Interview Preparation",
+            "Interview Questions",
+            "Angular",
+            "Angular Interview Questions"
+        ],
+        "thumbnail": "",
+        "title": "Angular interview questions",
+        "url": "https://dev.to/renukapatil/angular-interview-questions-4i4k",
+        "language": "english",
+        "type": "Post",
+        "id": "a5ddac35-0c8b-4475-9f2b-3690d3c1d4e4",
+        "rating": 7
+    },
+    {
+        "added_on": "02nd Feb 2025",
+        "authors": [
+            "Nadeesha Cabral"
+        ],
+        "publication": "Inferable AI",
+        "published_on": "04th Jan 2025",
+        "read": false,
+        "tags": [
+            "Polling",
+            "Long Polling",
+            "Web Socket",
+            "Case Study",
+            "System Design Case Study"
+        ],
+        "thumbnail": "",
+        "title": "Back to Basics: Why We Chose Long Polling Over WebSockets",
+        "url": "https://www.inferable.ai/blog/posts/postgres-nodejs-longpolling.mdx",
+        "language": "english",
+        "type": "Article",
+        "id": "86682bd2-9fd3-4e9b-bfa1-fe6e2ee0dbb0",
+        "rating": 7
+    },
+    {
+        "added_on": "02nd Feb 2025",
+        "authors": [
+            "SWE Quiz"
+        ],
+        "publication": "SWE Quiz",
+        "published_on": "06th Jan 2025",
+        "read": false,
+        "tags": [
+            "Database",
+            "Database Comparison",
+            "SQL",
+            "NoSQL"
+        ],
+        "thumbnail": "",
+        "title": "How to Choose the Right Database",
+        "url": "https://www.swequiz.com/blog/how-to-choose-the-right-database-in-a-system-design-interview",
+        "language": "english",
+        "type": "Article",
+        "id": "ec4bdcbf-ea2b-4db2-a3ab-fc7d50ccf819",
+        "rating": 8
+    },
+    {
         "added_on": "31st Jan 2025",
         "authors": [
             "Matt Hall"

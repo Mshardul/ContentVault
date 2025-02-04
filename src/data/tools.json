@@ -1,5 +1,106 @@
 [
     {
+        "added_on": "04th Feb 2025",
+        "id": "e0a6dfd8-24df-44f0-b419-ca86fca36493",
+        "title": "Font Joy",
+        "about": "Test various Font Combinations",
+        "url": "https://fontjoy.com/",
+        "thumbnail": "",
+        "tags": ["Fonts", "Fonts Combination"],
+        "description": ""
+    },
+    {
+        "added_on": "04th Feb 2025",
+        "id": "9885da13-f81c-487e-8e2f-e81e71eaf723",
+        "title": "Hey Boss",
+        "about": "Build your app in minutes",
+        "url": "https://www.heyboss.xyz/",
+        "thumbnail": "",
+        "tags": ["AI", "AI Tool", "Text to App", "No Code App"],
+        "description": ""
+    },
+    {
+        "added_on": "04th Feb 2025",
+        "id": "31b33260-3a2b-4e37-a441-8db07fb2bf7a",
+        "title": "Speechify",
+        "about": "The fastest way to read any PDF, book, or doc.",
+        "url": "https://speechify.com",
+        "thumbnail": "",
+        "tags": ["AI", "AI Tool", "Text to Audio"],
+        "description": ""
+    },
+    {
+        "added_on": "03rd Feb 2025",
+        "id": "a471c517-a26f-4532-bcbb-1d5f1bb4b01b",
+        "title": "Piclumen",
+        "about": "Free AI Image Generator",
+        "url": "https://www.piclumen.com/",
+        "thumbnail": "",
+        "tags": ["AI", "AI Tool", "Text to Image"],
+        "description": "Convert text into images effortlessly with PicLumen's free AI image generator. Type your idea, choose a model, and watch your text come to life.",
+        "rating": 9
+    },
+    {
+        "added_on": "03rd Feb 2025",
+        "id": "54a26867-b0ef-4713-bb8f-2635a96f84ba",
+        "title": "Mistral AI",
+        "about": "Open and portable generative AI for devs and businesses.",
+        "url": "https://chat.mistral.ai/chat",
+        "thumbnail": "",
+        "tags": ["AI", "AI Tool", "Generative AI"],
+        "description": ""
+    },
+    {
+        "added_on": "03rd Feb 2025",
+        "id": "44051d1e-ed5e-4c34-9f46-11b4e80003e3",
+        "title": "TTS Free",
+        "about": "Convert Text to Speech for free",
+        "url": "https://ttsfree.com/",
+        "thumbnail": "",
+        "tags": ["AI", "AI Tool", "Text to Audio"],
+        "description": "Text to speech online free. Converter text to voice with natural sounding voices. Free mp3 download."
+    },
+    {
+        "added_on": "03rd Feb 2025",
+        "id": "44051d1e-ed5e-4c34-9f46-11b4e80003e3",
+        "title": "Humanizer",
+        "about": "Humanize AI-generated Content",
+        "url": "https://www.humanizer.pro/",
+        "thumbnail": "",
+        "tags": ["AI", "AI Tool", "Humanize AI-generated Content"],
+        "description": ""
+    },
+    {
+        "added_on": "03rd Feb 2025",
+        "id": "eeaac1e4-cce7-4688-8b87-e15add6cc55c",
+        "title": "Qwenlm",
+        "about": "LLM",
+        "url": "https://chat.qwenlm.ai/",
+        "thumbnail": "",
+        "tags": ["AI", "AI Tool", "Text to Audio", "Text to Image", "Text to Video"],
+        "description": ""
+    },
+    {
+        "added_on": "03rd Feb 2025",
+        "id": "d5d03af5-babe-4bf0-9849-aa6f21c1d595",
+        "title": "Eleven Labs",
+        "about": "Create the most realistic speech with our AI audio platform",
+        "url": "https://elevenlabs.io",
+        "thumbnail": "",
+        "tags": ["Text to Audio"],
+        "description": ""
+    },
+    {
+        "added_on": "02nd Feb 2025",
+        "id": "16d557d5-55e1-4d9f-96ae-28ad2098fcc6",
+        "title": "Automa",
+        "about": "Automate your browser by connecting blocks.",
+        "url": "https://www.automa.site",
+        "thumbnail": "",
+        "tags": ["Automation", "Browser Automation"],
+        "description": "Automa is a browser extension for browser automation. From auto-fill forms, doing a repetitive task, taking a screenshot, to scraping data of the website, it's up to you what you want to do with this extension."
+    },
+    {
         "added_on": "28th Jan 2025",
         "id": "20fd5336-1af2-4200-a257-991ab90dbccc",
         "title": "UniDeck",
