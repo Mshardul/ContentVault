@@ -1,5 +1,26 @@
 [
     {
+        "added_on": "12th Feb 2025",
+        "authors": [
+            "Pawani Madushika"
+        ],
+        "publication": "dev.to",
+        "published_on": "06th Feb 2025",
+        "read": false,
+        "tags": [
+            "Version Control System (VCS)",
+            "Git",
+            "Git Workflow"
+        ],
+        "thumbnail": "",
+        "title": "Git Workflow: Essential Tips and Tricks for Developers",
+        "url": "https://dev.to/d_thiranjaya_6d3ec4552111/git-workflow-essential-tips-and-tricks-for-developers-flb",
+        "language": "english",
+        "type": "Post",
+        "id": "5187df7a-9fa8-4c85-b0b2-c4533fc17363",
+        "rating": 6
+    },
+    {
         "added_on": "02nd Feb 2025",
         "authors": [
             "Renuka Patil"
