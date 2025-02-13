@@ -1,12 +1,257 @@
 [
     {
+        "added_on": "13th Feb 2025",
+        "authors": [
+            "Sid"
+        ],
+        "publication": "The Scalable Thread",
+        "published_on": "26th Oct 2023",
+        "read": false,
+        "tags": [
+            "Multi Tenant Architecture",
+            "Noisy Neighbor Problem"
+        ],
+        "thumbnail": "",
+        "title": "How to Handle Multi-Tenant Performance Issues or 'Noisy Neighbor Problem'?",
+        "url": "https://newsletter.scalablethread.com/p/how-to-handle-multi-tenant-performance",
+        "language": "english",
+        "type": "Article",
+        "id": "e9bf9a3b-39ac-4154-b15e-1c2832e74641"
+    },
+    {
+        "added_on": "13th Feb 2025",
+        "authors": [
+            "Karthik Seenuvasan"
+        ],
+        "publication": "Medium",
+        "published_on": "14th Aug 2023",
+        "read": false,
+        "tags": [
+            "Containerization",
+            "Docker",
+            "Best Practices"
+        ],
+        "thumbnail": "",
+        "title": "Dockerfile - Best Practices",
+        "url": "https://medium.com/@yeskay16/dockerfile-best-practices-bbdd7207036c",
+        "language": "english",
+        "type": "Article",
+        "id": "f099e8c5-f7ca-464b-933a-f15ec367b9ca"
+    },
+    {
+        "added_on": "13th Feb 2025",
+        "authors": [
+            "Ihor Lukianov"
+        ],
+        "publication": "Medium",
+        "published_on": "24th Sep 2023",
+        "read": false,
+        "tags": [
+            "Database",
+            "RDBMS",
+            "SQL",
+            "SQL Query Execution Order"
+        ],
+        "thumbnail": "",
+        "title": "SQL - order of query execution",
+        "url": "https://lukianovihor.medium.com/sql-order-of-query-execution-8c7cd926400",
+        "language": "english",
+        "type": "Article",
+        "id": "6699e4f2-0f15-4d84-8089-7950cac28f55"
+    },
+    {
+        "added_on": "13th Feb 2025",
+        "authors": [
+            "Ihor Lukianov"
+        ],
+        "publication": "Stackademic",
+        "published_on": "21st Jan 2025",
+        "read": false,
+        "tags": [
+            "Database",
+            "Database Query",
+            "RDBMS",
+            "SQL",
+            "Object Relational Mapping (ORM)",
+            "SQL Query Builder"
+        ],
+        "thumbnail": "",
+        "title": "Python - 3 Ways to Work with Databases (SQL, ORM, Query Builder)",
+        "url": "https://blog.stackademic.com/python-3-ways-to-work-with-databases-sql-orm-query-builder-e2a2d3cbe437",
+        "language": "english",
+        "type": "Article",
+        "id": "fc07d1c7-ef15-4def-a2a4-a41ddd824cb0"
+    },
+    {
+        "added_on": "13th Feb 2025",
+        "authors": [
+            "Nolan Miller"
+        ],
+        "publication": "dev.to",
+        "published_on": "25th Jan 2025",
+        "read": false,
+        "tags": [
+            "Course",
+            "ASP .NET"
+        ],
+        "thumbnail": "",
+        "title": "Learn ASP.NET from Scratch",
+        "url": "https://dev.to/nmiller15/learn-aspnet-from-scratch-13nd",
+        "language": "english",
+        "type": "Course",
+        "id": "b41429df-7173-4c43-9f62-6e604385c4f9"
+    },
+    {
+        "added_on": "13th Feb 2025",
+        "authors": [
+            "Hermann Essoh"
+        ],
+        "publication": "dev.to",
+        "published_on": "24th Jan 2025",
+        "read": false,
+        "tags": [
+            "Website Hosting",
+            "Amazon Web Service (AWS)",
+            "How-To Guide"
+        ],
+        "thumbnail": "",
+        "title": "Host a static website on AWS: A detailed step-by-step guide",
+        "url": "https://dev.to/hermann_essoh/host-a-static-website-on-aws-a-detailed-step-by-step-guide-1cho",
+        "language": "english",
+        "type": "Post",
+        "id": "af220574-1f6a-4ff8-9e32-6e1cdf84bb09",
+        "rating": 9
+    },
+    {
+        "added_on": "13th Feb 2025",
+        "authors": [
+            "0x2e Tech"
+        ],
+        "publication": "dev.to",
+        "published_on": "27th Jan 2025",
+        "read": false,
+        "tags": [
+            "C/C++",
+            "C++",
+            "Object Oriented Programming (OOP)"
+        ],
+        "thumbnail": "",
+        "title": "C++ Class Declarations Inside Functions: A Practical Guide",
+        "url": "https://dev.to/0x2e_tech/c-class-declarations-inside-functions-a-practical-guide-20mb",
+        "language": "english",
+        "type": "Post",
+        "id": "e2ebce60-15d5-460a-9b82-b1361499bb0d"
+    },
+    {
+        "added_on": "13th Feb 2025",
+        "authors": [
+            "Microsoft"
+        ],
+        "publication": "Microsoft",
+        "published_on": "",
+        "read": false,
+        "tags": [
+            "Course",
+            "Generative AI",
+            "Microsoft"
+        ],
+        "thumbnail": "",
+        "title": "Generative AI for Beginners (Version 3) - A Course",
+        "url": "https://microsoft.github.io/generative-ai-for-beginners/",
+        "language": "english",
+        "type": "Course",
+        "id": "da0bc7dd-bd3e-4e30-bb9c-647540c03d55"
+    },
+    {
+        "added_on": "13th Feb 2025",
+        "authors": [
+            "Engin Diri"
+        ],
+        "publication": "Pulumi",
+        "published_on": "20th Jan 2025",
+        "read": false,
+        "tags": [
+            "Orchestration",
+            "Kubernetes",
+            "Best Practices"
+        ],
+        "thumbnail": "",
+        "title": "Kubernetes Best Practices I Wish I Had Known Before",
+        "url": "https://www.pulumi.com/blog/kubernetes-best-practices-i-wish-i-had-known-before/",
+        "language": "english",
+        "type": "Article",
+        "id": "786f9b7d-d4b4-4781-9186-5562e075b565"
+    },
+    {
+        "added_on": "13th Feb 2025",
+        "authors": [
+            "Quastor"
+        ],
+        "publication": "Quastor",
+        "published_on": "24th Jan 2025",
+        "read": false,
+        "tags": [
+            "Version Control System (VCS)",
+            "GitHub",
+            "Push Processing System",
+            "Decoupled Architectures"
+        ],
+        "thumbnail": "",
+        "title": "How Github Rebuilt Their Push Processing System",
+        "url": "https://blog.quastor.org/p/how-github-rebuilt-their-push-processing-system-0157",
+        "language": "english",
+        "type": "Article",
+        "id": "6aaead58-6102-448d-b458-a8bab8aadbf7"
+    },
+    {
+        "added_on": "13th Feb 2025",
+        "authors": [
+            "Aditya Bhargava"
+        ],
+        "publication": "Duck Typed",
+        "published_on": "13th Jan 2025",
+        "read": false,
+        "tags": [
+            "Amazon Web Service (AWS)",
+            "AWS VPC"
+        ],
+        "thumbnail": "",
+        "title": "An illustrated guide to Amazon VPCs",
+        "url": "https://www.ducktyped.org/p/why-is-it-called-a-cloud-if-its-not",
+        "language": "english",
+        "type": "Article",
+        "id": "0ea2f3c4-095c-4c2b-9af8-f25145364804",
+        "rating": 9
+    },
+    {
+        "added_on": "13th Feb 2025",
+        "authors": [
+            "Sid"
+        ],
+        "publication": "The Scalable Thread",
+        "published_on": "25th Jan 2025",
+        "read": true,
+        "tags": [
+            "Message Queues",
+            "Message Brokers",
+            "Messaging System"
+        ],
+        "thumbnail": "",
+        "title": "How Message Queues Work",
+        "url": "https://newsletter.scalablethread.com/p/how-message-queues-work",
+        "language": "english",
+        "type": "Article",
+        "id": "a1d8a384-20e8-4306-9fef-3edfc8b2e1d5",
+        "rating": 8
+    },
+    {
         "added_on": "12th Feb 2025",
         "authors": [
             "Pawani Madushika"
         ],
         "publication": "dev.to",
         "published_on": "06th Feb 2025",
-        "read": false,
+        "read": true,
         "tags": [
             "Version Control System (VCS)",
             "Git",
@@ -72,7 +317,7 @@
         ],
         "publication": "SWE Quiz",
         "published_on": "06th Jan 2025",
-        "read": false,
+        "read": true,
         "tags": [
             "Database",
             "Database Comparison",

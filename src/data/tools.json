@@ -1,5 +1,25 @@
 [
     {
+        "added_on": "13th Feb 2025",
+        "id": "c3231205-3ff3-4349-a6d0-ad6252edc22f",
+        "title": "Ideogram",
+        "about": "Generate new Image or Extend existing Image using AI",
+        "url": "https://ideogram.ai/",
+        "thumbnail": "",
+        "tags": ["AI", "AI Tool", "Text to Image", "Image Extend"],
+        "description": ""
+    },
+    {
+        "added_on": "13th Feb 2025",
+        "id": "4ede206d-8259-4697-bb2b-dd1ca89e13bd",
+        "title": "Kling AI",
+        "about": "Generate Images or Videos using AI",
+        "url": "https://klingai.com",
+        "thumbnail": "",
+        "tags": ["AI", "AI Tool", "Text to Image", "Try On", "Text to Video", "Image to Video", "Lip Sync"],
+        "description": ""
+    },
+    {
         "added_on": "12th Feb 2025",
         "id": "8dc82ac1-378a-4159-bd5a-baf57a471066",
         "title": "Spell by Spline",
