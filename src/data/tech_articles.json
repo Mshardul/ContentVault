@@ -1,5 +1,349 @@
 [
     {
+        "added_on": "17th Feb 2025",
+        "authors": [
+            "Shashank Mishra"
+        ],
+        "publication": "Shashank's Substack",
+        "published_on": "30th Dec 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Database (DB)",
+            "Connection Pooling"
+        ],
+        "thumbnail": "",
+        "title": "Connection Pooling in databases and it's advantage",
+        "url": "https://programmingappliedai.substack.com/p/connection-pooling-in-databases-and",
+        "language": "english",
+        "type": "Article",
+        "id": "12ae7446-d405-4879-a653-23435e8434fe"
+    },
+    {
+        "added_on": "17th Feb 2025",
+        "authors": [
+            "Avi"
+        ],
+        "publication": "Avi's Blog",
+        "published_on": "22nd Dec 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Database (DB)",
+            "SQLite",
+            "Bloom Filter"
+        ],
+        "thumbnail": "",
+        "title": "How bloom filters made SQLite 10x faster",
+        "url": "https://avi.im/blag/2024/sqlite-past-present-future/",
+        "language": "english",
+        "type": "Article",
+        "id": "95fc644d-482a-427d-8550-f161b7850d76"
+    },
+    {
+        "added_on": "17th Feb 2025",
+        "authors": [
+            "Sid"
+        ],
+        "publication": "The Scalable Thread",
+        "published_on": "28th Dec 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Webhooks"
+        ],
+        "thumbnail": "",
+        "title": "How to Secure Webhooks?",
+        "url": "https://newsletter.scalablethread.com/p/how-to-secure-the-webhooks",
+        "language": "english",
+        "type": "Article",
+        "id": "399baf80-c66d-43af-b586-76fe1df84807",
+        "rating": 8
+    },
+    {
+        "added_on": "17th Feb 2025",
+        "authors": [
+            "Shashank Mishra"
+        ],
+        "publication": "Shashank's Substack",
+        "published_on": "27th Dec 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Database (DB)",
+            "NoSQL",
+            "Dynamo DB",
+            "Latency",
+            "Read Latency",
+            "Global Secondary Indexes (GSI)"
+        ],
+        "thumbnail": "",
+        "title": "How does Dyanmo DB uses GSI(concept) for querying and reducing read latency?",
+        "url": "https://programmingappliedai.substack.com/p/how-does-dyanmo-db-uses-gsiconcept",
+        "language": "english",
+        "type": "Article",
+        "id": "67796655-bb73-4bfa-b1d5-a88d97f5fa05",
+        "rating": 8
+    },
+    {
+        "added_on": "17th Feb 2025",
+        "authors": [
+            "Shashank Mishra"
+        ],
+        "publication": "Shashank's Substack",
+        "published_on": "31st Dec 2024",
+        "read": true,
+        "tags": [
+            "System Design",
+            "Database (DB)",
+            "Data Replication",
+            "RDBMS",
+            "SQL"
+        ],
+        "thumbnail": "",
+        "title": "How is order maintained in Statement based replication in SQL?",
+        "url": "https://programmingappliedai.substack.com/p/how-is-order-maintained-in-statement",
+        "language": "english",
+        "type": "Article",
+        "id": "656d4a64-7fb5-4701-80ab-ab2cf95ac4e8",
+        "rating": 8
+    },
+    {
+        "added_on": "17th Feb 2025",
+        "authors": [
+            "Rocky Bhatia"
+        ],
+        "publication": "Substack",
+        "published_on": "02nd Jan 2025",
+        "read": true,
+        "tags": [
+            "System Design",
+            "System Design Principles"
+        ],
+        "thumbnail": "",
+        "title": "8 Common System Design Problems and Solutions",
+        "url": "https://rockybhatia.substack.com/p/8-common-system-design-problems-and-ad9",
+        "language": "english",
+        "type": "Article",
+        "id": "608f227a-2020-41ec-b4a6-8924272ece94",
+        "rating": 8
+    },
+    {
+        "added_on": "17th Feb 2025",
+        "authors": [
+            "Raul Junco"
+        ],
+        "publication": "System Design Classroom",
+        "published_on": "02nd Jan 2025",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Database (DB)",
+            "Read Write Anomaly",
+            "SQL Transaction",
+            "Isolation"
+        ],
+        "thumbnail": "",
+        "title": "Transaction Isolation only makes sense if you understand Read-and-Write Anomalies.",
+        "url": "https://newsletter.systemdesignclassroom.com/p/transaction-isolation-and-read-and-write-anomalies",
+        "language": "english",
+        "type": "Article",
+        "id": "a91bfc5c-81b5-4296-aa4a-0f6c48afe3c3"
+    },
+    {
+        "added_on": "17th Feb 2025",
+        "authors": [
+            "Tree House"
+        ],
+        "publication": "Tree House",
+        "published_on": "16th Dec 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Database (DB)",
+            "RDBMS",
+            "SQL",
+            "NoSQL",
+            "Database Comparison"
+        ],
+        "thumbnail": "",
+        "title": "Should You Go Beyond Relational Databases?",
+        "url": "https://blog.teamtreehouse.com/should-you-go-beyond-relational-databases",
+        "language": "english",
+        "type": "Article",
+        "id": "82cc0877-b533-47b5-a9b8-80fcfdf7dd9c"
+    },
+    {
+        "added_on": "17th Feb 2025",
+        "authors": [
+            "Nick Craver"
+        ],
+        "publication": "Nick Craver",
+        "published_on": "22nd Nov 2013",
+        "read": false,
+        "tags": [
+            "System Design",
+            "System Design Case Study",
+            "Stack Overflow"
+        ],
+        "thumbnail": "",
+        "title": "What it takes to run Stack Overflow",
+        "url": "https://nickcraver.com/blog/2013/11/22/what-it-takes-to-run-stack-overflow/",
+        "language": "english",
+        "type": "Article",
+        "id": "fc0ccbbc-da06-4303-8c6e-315e55880a62"
+    },
+    {
+        "added_on": "17th Feb 2025",
+        "authors": [
+            "High Scalability"
+        ],
+        "publication": "High Scalability",
+        "published_on": "06th Jan 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Database (DB)",
+            "Database Comparison",
+            "NoSQL"
+        ],
+        "thumbnail": "",
+        "title": "What the heck are you actually using NoSQL for?",
+        "url": "https://highscalability.com/what-the-heck-are-you-actually-using-nosql-for/",
+        "language": "english",
+        "type": "Article",
+        "id": "f4cbdcf4-8565-4f40-ac99-75fcf40154e2",
+        "rating": 8
+    },
+    {
+        "added_on": "17th Feb 2025",
+        "authors": [
+            "Shashank Mishra"
+        ],
+        "publication": "Shashank's Substack",
+        "published_on": "05th Jan 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Database (DB)",
+            "Command Query Responsibility Segregation (CQRS)"
+        ],
+        "thumbnail": "",
+        "title": "What is CQRS and its usecases",
+        "url": "https://programmingappliedai.substack.com/p/what-is-cqrs-and-its-usecases",
+        "language": "english",
+        "type": "Article",
+        "id": "455df7b8-b80a-4b6a-9188-15eeecbf07b8",
+        "rating": 8
+    },
+    {
+        "added_on": "17th Feb 2025",
+        "authors": [
+            "Shashank Mishra"
+        ],
+        "publication": "Shashank's Substack",
+        "published_on": "06th Jan 2024",
+        "read": true,
+        "tags": [
+            "System Design",
+            "System Design Principles",
+            "Design Pattern",
+            "Low Level Design (LLD)",
+            "Cricbuzz"
+        ],
+        "thumbnail": "",
+        "title": "Design patterns to be used in Cricbuzz (LLD)",
+        "url": "https://programmingappliedai.substack.com/p/design-patterns-to-be-used-in-cricbuzz",
+        "language": "english",
+        "type": "Article",
+        "id": "9783572d-e536-4ee8-a53c-bd2e2ef3c11b"
+    },
+    {
+        "added_on": "17th Feb 2025",
+        "authors": [
+            "Konstantin Ostrovsky"
+        ],
+        "publication": "dev.to",
+        "published_on": "19th Sep 2024",
+        "read": true,
+        "tags": [
+            "Containerization",
+            "Docker",
+            "Cheat Sheet"
+        ],
+        "thumbnail": "",
+        "title": "Docker Cheat-sheet for beginners",
+        "url": "https://dev.to/keshav___dev/docker-cheat-sheet-for-beginners-18mo",
+        "language": "english",
+        "type": "Article",
+        "id": "d826c3aa-f90d-4420-b102-539c005f52b4"
+    },
+    {
+        "added_on": "17th Feb 2025",
+        "authors": [
+            "Avi"
+        ],
+        "publication": "Avi's Blog",
+        "published_on": "30th Dec 2024",
+        "read": true,
+        "tags": [
+            "Database (DB)",
+            "SQLite",
+            "Fun Facts"
+        ],
+        "thumbnail": "",
+        "title": "Collection of insane and fun facts about SQLite",
+        "url": "https://avi.im/blag/2024/sqlite-facts/",
+        "language": "english",
+        "type": "Article",
+        "id": "7f87c386-d52b-4f8c-b91b-901482738800",
+        "rating": 8
+    },
+    {
+        "added_on": "17th Feb 2025",
+        "authors": [
+            "Waqas Younas"
+        ],
+        "publication": "Waqas Younas' Blog",
+        "published_on": "12th Dec 2024",
+        "read": true,
+        "tags": [
+            "Operating System (OS)",
+            "Process",
+            "Concurrency",
+            "Parallelism",
+            "Visual Guide"
+        ],
+        "thumbnail": "",
+        "title": "How Concurrency Works: A Visual Guide",
+        "url": "https://wyounas.github.io/concurrency/2024/12/12/how-concurrency-works-a-visual-guide/",
+        "language": "english",
+        "type": "Article",
+        "id": "7c9caf0c-24bf-43f2-852b-2c85ebd28b75",
+        "rating": 9
+    },
+    {
+        "added_on": "16th Feb 2025",
+        "authors": [
+            "Shalitha Suranga"
+        ],
+        "publication": "Long Rocket",
+        "published_on": "27th Dec 2023",
+        "read": false,
+        "tags": [
+            "User Interface (UI)",
+            "User Experience (UX)",
+            "User Actions",
+            "Warning messsage UI"
+        ],
+        "thumbnail": "",
+        "title": "Double-check user actions: All about warning message UI",
+        "url": "https://blog.logrocket.com/ux-design/double-check-user-actions-confirmation-dialog/",
+        "language": "english",
+        "type": "Article",
+        "id": "94b944d4-0b18-41cf-9b57-1a6c3c82a698"
+    },
+    {
         "added_on": "13th Feb 2025",
         "authors": [
             "Sid"
@@ -47,7 +391,7 @@
         "published_on": "24th Sep 2023",
         "read": false,
         "tags": [
-            "Database",
+            "Database (DB)",
             "RDBMS",
             "SQL",
             "SQL Query Execution Order"
@@ -68,7 +412,7 @@
         "published_on": "21st Jan 2025",
         "read": false,
         "tags": [
-            "Database",
+            "Database (DB)",
             "Database Query",
             "RDBMS",
             "SQL",
@@ -319,7 +663,7 @@
         "published_on": "06th Jan 2025",
         "read": true,
         "tags": [
-            "Database",
+            "Database (DB)",
             "Database Comparison",
             "SQL",
             "NoSQL"
@@ -361,7 +705,7 @@
         "published_on": "29th Dec 2024",
         "read": false,
         "tags": [
-            "Database",
+            "Database (DB)",
             "Database Query",
             "SQL",
             "SQL Window Function",
@@ -435,7 +779,7 @@
         "read": false,
         "tags": [
             "System Design",
-            "Database",
+            "Database (DB)",
             "Database Indexing",
             "Global Indexes"
         ],
@@ -703,7 +1047,7 @@
         "tags": [
             "System Design",
             "Availability",
-            "Database",
+            "Database (DB)",
             "Database Design",
             "PostgreSQL"
         ],
@@ -920,7 +1264,7 @@
         "published_on": "26th Dec 2024",
         "read": false,
         "tags": [
-            "Database",
+            "Database (DB)",
             "Database Query",
             "SQL",
             "SQL Query"
@@ -1077,7 +1421,7 @@
         "tags": [
             "System Design",
             "Caching",
-            "Database",
+            "Database (DB)",
             "Redis"
         ],
         "thumbnail": "",
@@ -1099,7 +1443,7 @@
         "tags": [
             "System Design",
             "Multi Tenant Architecture",
-            "Database",
+            "Database (DB)",
             "Best Practices"
         ],
         "thumbnail": "",
@@ -1279,7 +1623,7 @@
         "read": false,
         "tags": [
             "System Design",
-            "Database",
+            "Database (DB)",
             "Document DB",
             "Stripe",
             "DocDB"
@@ -1323,7 +1667,7 @@
         "read": false,
         "tags": [
             "System Design",
-            "Database",
+            "Database (DB)",
             "Data Structures",
             "SQLite",
             "Bloom Filter"
@@ -1820,7 +2164,7 @@
         "read": false,
         "tags": [
             "System Design",
-            "Database",
+            "Database (DB)",
             "OLAP",
             "OLTP"
         ],
@@ -1912,7 +2256,7 @@
             "Latency",
             "Throughput",
             "Scaling",
-            "Database",
+            "Database (DB)",
             "CAP Theorem",
             "Microservice",
             "Load Balancer",
@@ -2003,7 +2347,7 @@
         "read": false,
         "tags": [
             "System Design",
-            "Operating System",
+            "Operating System (OS)",
             "Concurrency",
             "Parallel Programming",
             "Multiprocessing"
@@ -2046,7 +2390,7 @@
         "published_on": "14th Dec 2024",
         "read": false,
         "tags": [
-            "Database",
+            "Database (DB)",
             "SQL",
             "Column Store Database"
         ],
@@ -2368,7 +2712,7 @@
         "read": false,
         "tags": [
             "System Design",
-            "Database",
+            "Database (DB)",
             "Repository Pattern",
             "SQL Alchemy",
             "Database Transactions"
@@ -2612,7 +2956,7 @@
             "Frontend",
             "Microservice",
             "Microservice Communications",
-            "Database"
+            "Database (DB)"
         ],
         "thumbnail": "",
         "title": "Nobody told me I would miss my JOINs when I started in microservices.",
@@ -2821,7 +3165,7 @@
         "published_on": "24th Jun 2024",
         "read": true,
         "tags": [
-            "Database",
+            "Database (DB)",
             "RDBMS",
             "SQL",
             "Selection",
@@ -3041,7 +3385,7 @@
             "System Design",
             "Data Structures",
             "Algorithms",
-            "Database",
+            "Database (DB)",
             "Probabilistic Data Structures",
             "Bloom Filter"
         ],
@@ -3161,7 +3505,7 @@
         "read": true,
         "tags": [
             "System Design",
-            "Database",
+            "Database (DB)",
             "NoSQL",
             "Dynamo DB",
             "Availability",
@@ -3638,7 +3982,7 @@
         "published_on": "03rd Apr 2024",
         "read": false,
         "tags": [
-            "Database",
+            "Database (DB)",
             "Database Management",
             "Database Comparison",
             "Streaming Database"
@@ -4218,7 +4562,7 @@
         "read": false,
         "tags": [
             "System Design",
-            "Database",
+            "Database (DB)",
             "Scalability",
             "PostgreSQL",
             "Data Lake"
@@ -4284,7 +4628,7 @@
         "read": true,
         "tags": [
             "System Design",
-            "Database",
+            "Database (DB)",
             "Database Indexing"
         ],
         "thumbnail": "",
@@ -4408,7 +4752,7 @@
         "read": false,
         "tags": [
             "System Design",
-            "Database",
+            "Database (DB)",
             "PostgreSQL",
             "JSONB"
         ],
@@ -4529,7 +4873,7 @@
         "tags": [
             "System Design",
             "Caching",
-            "Database",
+            "Database (DB)",
             "PostgreSQL"
         ],
         "thumbnail": "",
@@ -4644,7 +4988,7 @@
         "published_on": "16th Jul 2024",
         "read": false,
         "tags": [
-            "Database",
+            "Database (DB)",
             "PostgreSQL"
         ],
         "thumbnail": "",
@@ -4705,7 +5049,7 @@
         "read": false,
         "tags": [
             "System Design",
-            "Database"
+            "Database (DB)"
         ],
         "thumbnail": "",
         "title": "Did they tell you how to split the Database?",
@@ -4862,7 +5206,7 @@
         "read": true,
         "tags": [
             "System Design",
-            "Database"
+            "Database (DB)"
         ],
         "thumbnail": "",
         "title": "How to Efficiently Check If a Username Exists Among Billions of Users",
@@ -5322,7 +5666,7 @@
         "published_on": "02nd Sep 2024",
         "read": true,
         "tags": [
-            "Database",
+            "Database (DB)",
             "Database Management",
             "Performance",
             "Best Practices"
@@ -5637,7 +5981,7 @@
         "published_on": "5th Nov 2024",
         "read": false,
         "tags": [
-            "Database",
+            "Database (DB)",
             "Database Query Optimization",
             "SQL",
             "SQL Queries",
@@ -5819,7 +6163,7 @@
         "published_on": "",
         "read": false,
         "tags": [
-            "Database",
+            "Database (DB)",
             "SQLite"
         ],
         "thumbnail": "https://antonz.org/sqlite-is-not-a-toy-database/cover.png",
@@ -5945,7 +6289,7 @@
         "read": true,
         "tags": [
             "System Design",
-            "Database",
+            "Database (DB)",
             "Database Comparison",
             "Persistent Storage",
             "PostgreSQL"
@@ -6072,7 +6416,7 @@
             "System Design",
             "Design Pattern",
             "Microservice",
-            "CQRS"
+            "Command Query Responsibility Segregation (CQRS)"
         ],
         "thumbnail": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe36ddc33-f8d8-4256-863f-80e5d92ecd4a_1346x824.gif",
         "title": "Microservices Design Pattern - CQRS",
@@ -6153,7 +6497,7 @@
         "published_on": "05th Oct 2024",
         "read": false,
         "tags": [
-            "Database",
+            "Database (DB)",
             "NoSQL",
             "Log Structured Merge (LSM) Tree",
             "Count-Min Sketch",
@@ -6221,7 +6565,7 @@
             "Consistency",
             "Eventual Consistency",
             "Saga",
-            "CQRS"
+            "Command Query Responsibility Segregation (CQRS)"
         ],
         "thumbnail": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffdeaaa3c-07f4-4d3f-980b-eb817f5a3e4f_2107x1318.png",
         "title": "Eventual Consistency is Tricky",
@@ -6434,7 +6778,7 @@
         "tags": [
             "System Design",
             "Saga",
-            "Database"
+            "Database (DB)"
         ],
         "thumbnail": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F67b350c1-3475-4192-a11d-45c685f7ea4f_1280x720.gif",
         "title": "How Halo Scaled to 11.6 Million Users Using the Saga Design Pattern",
@@ -6502,7 +6846,7 @@
         "tags": [
             "System Design",
             "Consistency",
-            "Database"
+            "Database (DB)"
         ],
         "thumbnail": "https://systemdesign.one/consistency-patterns/consistency-patterns.webp",
         "title": "Consistency Patterns",
@@ -6989,7 +7333,7 @@
         "read": false,
         "tags": [
             "Prostgre SQL",
-            "Database",
+            "Database (DB)",
             "System Design"
         ],
         "thumbnail": "https://r.ena.to/blog/optimizing-postgres-table-layout-for-maximum-efficiency/cover.webp",

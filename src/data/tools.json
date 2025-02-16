@@ -1,5 +1,35 @@
 [
     {
+        "added_on": "16th Feb 2025",
+        "id": "50c1d2a1-a5b9-40d4-a793-ef835aff9e96",
+        "title": "Google Gemini",
+        "about": "Generative AI",
+        "url": "https://gemini.google.com/app",
+        "thumbnail": "",
+        "tags": ["AI", "AI Tool", "Generative AI", "Google"],
+        "description": ""
+    },
+    {
+        "added_on": "16th Feb 2025",
+        "id": "453120c4-25df-4880-9d8a-e0bbcfa99c3b",
+        "title": "Anthropic Claude",
+        "about": "Generate Videos with Text, or Integrate Images in Videos",
+        "url": "https://claude.ai",
+        "thumbnail": "",
+        "tags": ["AI", "AI Tool", "Generative AI", "Anthropic"],
+        "description": ""
+    },
+    {
+        "added_on": "16th Feb 2025",
+        "id": "7c62ec57-2507-4873-b69f-58d98feab31a",
+        "title": "Pika",
+        "about": "Generate Videos with Text, or Integrate Images in Videos",
+        "url": "https://pika.art/login",
+        "thumbnail": "",
+        "tags": ["AI", "AI Tool", "Text to Video", "Image in Video"],
+        "description": ""
+    },
+    {
         "added_on": "13th Feb 2025",
         "id": "c3231205-3ff3-4349-a6d0-ad6252edc22f",
         "title": "Ideogram",
@@ -103,7 +133,7 @@
     {
         "added_on": "03rd Feb 2025",
         "id": "54a26867-b0ef-4713-bb8f-2635a96f84ba",
-        "title": "Mistral AI",
+        "title": "Mistral Le Chat",
         "about": "Open and portable generative AI for devs and businesses.",
         "url": "https://chat.mistral.ai/chat",
         "thumbnail": "",
