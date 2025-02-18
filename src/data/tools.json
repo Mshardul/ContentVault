@@ -1,5 +1,15 @@
 [
     {
+        "added_on": "18th Feb 2025",
+        "id": "3b8d5520-11ce-4131-b051-3c2d25bcaee7",
+        "title": "Photopea",
+        "about": "An Online alternate to Adobe Photoshop",
+        "url": "https://www.photopea.com",
+        "thumbnail": "",
+        "tags": ["Image Editing", "Adobe Photoshop", "Photopea"],
+        "description": ""
+    },
+    {
         "added_on": "16th Feb 2025",
         "id": "50c1d2a1-a5b9-40d4-a793-ef835aff9e96",
         "title": "Google Gemini",

@@ -1,5 +1,48 @@
 [
     {
+        "added_on": "18th Feb 2025",
+        "authors": [
+            "Shashank Mishra"
+        ],
+        "publication": "Shashank's Substack",
+        "published_on": "30th Dec 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Database (DB)",
+            "Connection Pooling"
+        ],
+        "thumbnail": "",
+        "title": "Connection Pooling in databases and it's advantage",
+        "url": "https://programmingappliedai.substack.com/p/connection-pooling-in-databases-and",
+        "language": "english",
+        "type": "Article",
+        "id": "24eb6f42-727a-468d-80b6-68168c98233c"
+    },
+    {
+        "added_on": "18th Feb 2025",
+        "authors": [
+            "Arpit Gupta"
+        ],
+        "publication": "dev.to",
+        "published_on": "15th Feb 2025",
+        "read": false,
+        "tags": [
+            "Version Control System (VCS)",
+            "Git",
+            "GitHub",
+            "Gitlab",
+            "Git Commands"
+        ],
+        "thumbnail": "",
+        "title": "10 Secret Git Commands That Will Save You 5+ Hours Every Week",
+        "url": "https://dev.to/arpitstack/10-secret-git-commands-that-will-save-you-5-hours-every-week-1mpn",
+        "language": "english",
+        "type": "Article",
+        "id": "a302f129-cd41-4d4a-a8d7-560a25e2a8b0",
+        "rating": 9
+    },
+    {
         "added_on": "17th Feb 2025",
         "authors": [
             "Shashank Mishra"
