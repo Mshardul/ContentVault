@@ -1,5 +1,115 @@
 [
     {
+        "added_on": "24th Feb 2025",
+        "authors": [
+            "Nayeem Islam"
+        ],
+        "publication": "Medium",
+        "published_on": "23rd Oct 2024",
+        "read": false,
+        "tags": [
+            "Microservice",
+            "Microservice Communications",
+            "Database Design",
+            "Scalability",
+            "Consistency"
+        ],
+        "thumbnail": "",
+        "title": "Mastering Microservices: The Art of Database Design for Scalability and Consistency",
+        "url": "https://medium.com/@nomannayeem/mastering-microservices-the-art-of-database-design-for-scalability-and-consistency-f1cc983badee",
+        "language": "english",
+        "type": "Article",
+        "id": "5ebb8303-1290-4aea-8f3b-9ccf7cfeb1f7",
+        "rating": 8
+    },
+    {
+        "added_on": "24th Feb 2025",
+        "authors": [
+            "Archana Goyal"
+        ],
+        "publication": "Medium",
+        "published_on": "27th Oct 2024",
+        "read": false,
+        "tags": [
+            "Message Queues",
+            "Apache Kafka",
+            "Interview Preparation",
+            "Interview Questions"
+        ],
+        "thumbnail": "",
+        "title": "Kafka Terminology Breakdown: A Step-by-Step Guide from Basic to Advanced",
+        "url": "https://medium.com/@goyalarchana17/kafka-terminology-breakdown-a-step-by-step-guide-from-basic-to-advanced-acffc86df246",
+        "language": "english",
+        "type": "Article",
+        "id": "0442e0e6-2d41-4286-85c2-ea5dc6f525ac",
+        "rating": 8
+    },
+    {
+        "added_on": "24th Feb 2025",
+        "authors": [
+            "Hiten Pratap Singh"
+        ],
+        "publication": "Medium",
+        "published_on": "26th Jan 2025",
+        "read": false,
+        "tags": [
+            "Golang",
+            "SOLID Principle"
+        ],
+        "thumbnail": "",
+        "title": "SOLID Principles in Go (Golang): A Comprehensive Guide",
+        "url": "https://medium.com/hprog99/solid-principles-in-go-golang-a-comprehensive-guide-7b9f866e5433",
+        "language": "english",
+        "type": "Article",
+        "id": "ad7745be-74ed-4c43-a6d5-272648585607",
+        "rating": 8
+    },
+    {
+        "added_on": "24th Feb 2025",
+        "authors": [
+            "Anand Satheesh"
+        ],
+        "publication": "Medium",
+        "published_on": "27th Sep 2024",
+        "read": false,
+        "tags": [
+            "Message Queues",
+            "Apache Kafka",
+            "Interview Preparation",
+            "Interview Questions"
+        ],
+        "thumbnail": "",
+        "title": "Top 20 Hands-On Apache Kafka Interview Questions with Detailed Answers",
+        "url": "https://medium.com/@anands282/top-20-hands-on-apache-kafka-interview-questions-with-detailed-answers-999436feaf13",
+        "language": "english",
+        "type": "Article",
+        "id": "0e15fb58-7531-4716-894f-eda24daf5e5d",
+        "rating": 8
+    },
+    {
+        "added_on": "24th Feb 2025",
+        "authors": [
+            "Jorenar"
+        ],
+        "publication": "Jorenar",
+        "published_on": "01st Jan 1970",
+        "read": false,
+        "tags": [
+            "Programming Language",
+            "Programming language Concepts",
+            "C",
+            "Fun Facts",
+            "Tricks",
+            "C Concepts"
+        ],
+        "thumbnail": "",
+        "title": "Lesser known tricks, quirks and features of C",
+        "url": "https://jorenar.com/blog/less-known-c",
+        "language": "english",
+        "type": "Article",
+        "id": "bd6e7f67-ab64-4cac-a5fa-c3e9dc7c907f"
+    },
+    {
         "added_on": "18th Feb 2025",
         "authors": [
             "Shashank Mishra"
