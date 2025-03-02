@@ -1,5 +1,201 @@
 [
     {
+        "added_on": "25th Feb 2025",
+        "authors": [
+            "Jan Kammerath"
+        ],
+        "publication": "Medium",
+        "published_on": "15th Feb 2025",
+        "read": false,
+        "tags": [
+            "Programming Language",
+            "C++",
+            "C++ Concepts",
+            "Linus Torvalds"
+        ],
+        "thumbnail": "",
+        "title": "Linus Torvalds' Critique of C++: A Comprehensive Review",
+        "url": "https://medium.com/@jankammerath/linus-torvalds-critique-of-c-a-comprehensive-review-ea8374084abf",
+        "language": "english",
+        "type": "Article",
+        "id": "e7f37e4b-9e8f-4573-a866-2a2195749975",
+        "rating": 9,
+        "is_paid": true
+    },
+    {
+        "added_on": "25th Feb 2025",
+        "authors": [
+            "Dmytro Khmelenko"
+        ],
+        "publication": "Medium",
+        "published_on": "04th Sep 2025",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Design Pattern",
+            "Singleton Design Pattern",
+            "Factory Method Design Pattern",
+            "Observer Pattern"
+        ],
+        "thumbnail": "",
+        "title": "These Design Patterns Will Cover 90% Needs",
+        "url": "https://levelup.gitconnected.com/these-design-patterns-will-cover-90-needs-04c3a13fd614",
+        "language": "english",
+        "type": "Article",
+        "id": "f5e84ad5-9e20-4542-bf5c-fb30781c60b2",
+        "rating": 9,
+        "is_paid": true
+    },
+    {
+        "added_on": "25th Feb 2025",
+        "authors": [
+            "Ramesh Fadatare"
+        ],
+        "publication": "Medium",
+        "published_on": "15th Feb 2025",
+        "read": false,
+        "tags": [
+            "Microservice",
+            "Interview Preparation",
+            "Interview Questions"
+        ],
+        "thumbnail": "",
+        "title": "Top Microservices Tricky Interview Questions You Should Know (With Answers)",
+        "url": "https://medium.com/javaguides/top-microservices-tricky-interview-questions-you-should-know-with-answers-f12095f410c4",
+        "language": "english",
+        "type": "Article",
+        "id": "0cc72680-8bff-49dc-81de-b72b24839c45",
+        "rating": 9,
+        "is_paid": true
+    },
+    {
+        "added_on": "25th Feb 2025",
+        "authors": [
+            "Benito"
+        ],
+        "publication": "Medium",
+        "published_on": "18th Oct 2024",
+        "read": false,
+        "tags": [
+            "Javascript",
+            "ReactJS",
+            "React Concepts"
+        ],
+        "thumbnail": "",
+        "title": "Top 30 Interview Questions and Answers for Senior Web Developers with React.js",
+        "url": "https://medium.com/@phamtuanchip/top-30-interview-questions-and-answers-for-senior-web-developers-with-react-js-210190a6f847",
+        "language": "english",
+        "type": "Article",
+        "id": "0c01b238-2f38-47f0-9934-4deee80a292f",
+        "rating": 8
+    },
+    {
+        "added_on": "25th Feb 2025",
+        "authors": [
+            "Emmanuel Meric de Bellefon"
+        ],
+        "publication": "Medium",
+        "published_on": "15th Nov 2024",
+        "read": false,
+        "tags": [
+            "Javascript",
+            "ReactJS",
+            "React Concepts"
+        ],
+        "thumbnail": "",
+        "title": "Things only senior React engineers know",
+        "url": "https://medium.com/@meric.emmanuel/things-only-senior-react-engineers-know-618d81154cb6",
+        "language": "english",
+        "type": "Article",
+        "id": "34dabede-e701-4504-a1ce-f2db45b20615",
+        "rating": 9
+    },
+    {
+        "added_on": "25th Feb 2025",
+        "authors": [
+            "Oleks Gorpynich"
+        ],
+        "publication": "Medium",
+        "published_on": "10th Jan 2025",
+        "read": false,
+        "tags": [
+            "Remote Procedure Call (RPC)",
+            "Google Remote Procedure Call (gRPC)"
+        ],
+        "thumbnail": "",
+        "title": "What is RPC? What is gRPC?",
+        "url": "https://levelup.gitconnected.com/what-is-rpc-what-is-grpc-24fa0a6fe786",
+        "language": "english",
+        "type": "Article",
+        "id": "207e6734-888f-4ccc-bd87-59bc093be7d3",
+        "rating": 9
+    },
+    {
+        "added_on": "25th Feb 2025",
+        "authors": [
+            "Mariusz Kujawski"
+        ],
+        "publication": "Medium",
+        "published_on": "01st Oct 2024",
+        "read": false,
+        "tags": [
+            "Structured Query Language (SQL)",
+            "SQL Queries"
+        ],
+        "thumbnail": "",
+        "title": "Advanced SQL for Data Professionals",
+        "url": "https://medium.com/@mariusz_kujawski/advanced-sql-for-data-professionals-875ab725730c",
+        "language": "english",
+        "type": "Article",
+        "id": "2dcc8ea3-c03b-4434-b513-abb057ac074d",
+        "rating": 9
+    },
+    {
+        "added_on": "25th Feb 2025",
+        "authors": [
+            "bugfree.ai"
+        ],
+        "publication": "Medium",
+        "published_on": "23rd Feb 2025",
+        "read": false,
+        "tags": [
+            "System Design",
+            "System Design Case Study",
+            "Payments System"
+        ],
+        "thumbnail": "",
+        "title": "System Design Interview: Designing an Online Payment System Similar to PayPal",
+        "url": "https://medium.com/@bugfreeai/system-design-interview-designing-an-online-payment-system-similar-to-paypal-dd636eff2878",
+        "language": "english",
+        "type": "Article",
+        "id": "c25bb974-1928-46e9-af9e-2eb13f9f5774",
+        "rating": 8
+    },
+    {
+        "added_on": "25th Feb 2025",
+        "authors": [
+            "bugfree.ai"
+        ],
+        "publication": "Medium",
+        "published_on": "12th Jan 2025",
+        "read": false,
+        "tags": [
+            "Python",
+            "Python Libraries",
+            "FastAPI",
+            "System Design",
+            "System Design Case Study",
+            "Fool Delivery System"
+        ],
+        "thumbnail": "",
+        "title": "A Hard System Design Question — Design a Food Delivery System",
+        "url": "https://medium.com/@bugfreeai/a-hard-system-design-question-design-a-food-delivery-system-74435f076924",
+        "language": "english",
+        "type": "Article",
+        "id": "157facde-008b-4ba1-8abe-3cce3f7e17c5",
+        "rating": 8
+    },
+    {
         "added_on": "24th Feb 2025",
         "authors": [
             "Nayeem Islam"
@@ -251,7 +447,7 @@
             "Database (DB)",
             "Data Replication",
             "RDBMS",
-            "SQL"
+            "Structured Query Language (SQL)"
         ],
         "thumbnail": "",
         "title": "How is order maintained in Statement based replication in SQL?",
@@ -315,7 +511,7 @@
             "System Design",
             "Database (DB)",
             "RDBMS",
-            "SQL",
+            "Structured Query Language (SQL)",
             "NoSQL",
             "Database Comparison"
         ],
@@ -546,7 +742,7 @@
         "tags": [
             "Database (DB)",
             "RDBMS",
-            "SQL",
+            "Structured Query Language (SQL)",
             "SQL Query Execution Order"
         ],
         "thumbnail": "",
@@ -568,7 +764,7 @@
             "Database (DB)",
             "Database Query",
             "RDBMS",
-            "SQL",
+            "Structured Query Language (SQL)",
             "Object Relational Mapping (ORM)",
             "SQL Query Builder"
         ],
@@ -818,7 +1014,7 @@
         "tags": [
             "Database (DB)",
             "Database Comparison",
-            "SQL",
+            "Structured Query Language (SQL)",
             "NoSQL"
         ],
         "thumbnail": "",
@@ -860,7 +1056,7 @@
         "tags": [
             "Database (DB)",
             "Database Query",
-            "SQL",
+            "Structured Query Language (SQL)",
             "SQL Window Function",
             "Database DML",
             "Database DQL",
@@ -1419,7 +1615,7 @@
         "tags": [
             "Database (DB)",
             "Database Query",
-            "SQL",
+            "Structured Query Language (SQL)",
             "SQL Query"
         ],
         "thumbnail": "",
@@ -2544,7 +2740,7 @@
         "read": false,
         "tags": [
             "Database (DB)",
-            "SQL",
+            "Structured Query Language (SQL)",
             "Column Store Database"
         ],
         "thumbnail": "",
@@ -3320,7 +3516,7 @@
         "tags": [
             "Database (DB)",
             "RDBMS",
-            "SQL",
+            "Structured Query Language (SQL)",
             "Selection",
             "Select *"
         ],
@@ -3427,7 +3623,7 @@
             "System Design",
             "Database Management",
             "RDBMS",
-            "SQL",
+            "Structured Query Language (SQL)",
             "PostgreSQL"
         ],
         "thumbnail": "",
@@ -6051,7 +6247,7 @@
         "read": false,
         "tags": [
             "System Design",
-            "Payments Service",
+            "Payments System",
             "Distributed System",
             "Stripe"
         ],
@@ -6136,7 +6332,7 @@
         "tags": [
             "Database (DB)",
             "Database Query Optimization",
-            "SQL",
+            "Structured Query Language (SQL)",
             "SQL Queries",
             "SQL Query Optimization"
         ],
@@ -6832,7 +7028,7 @@
         "read": false,
         "tags": [
             "System Design",
-            "Payments Service",
+            "Payments System",
             "Airbnb"
         ],
         "thumbnail": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feee2de72-2f2e-4252-9f73-cb37bca0ad0f_1542x1846.png",
