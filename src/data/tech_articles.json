@@ -1,5 +1,75 @@
 [
     {
+        "added_on": "20th Mar 2025",
+        "authors": [
+            "Dipak Ahirav"
+        ],
+        "publication": "Medium",
+        "published_on": "23rd Oct 2024",
+        "read": true,
+        "tags": [
+            "System Design",
+            "Scalability",
+            "Programming Language",
+            "Javascript",
+            "Node.js"
+        ],
+        "thumbnail": "",
+        "title": "Can Node.js Really Handle Millions of Users?",
+        "url": "https://javascript.plainenglish.io/can-node-js-really-handle-millions-of-users-e57415e4fb86",
+        "language": "english",
+        "type": "Article",
+        "id": "e2c256ae-4622-47ea-ad59-ea1bae57ea53",
+        "rating": 9,
+        "is_paid": false
+    },
+    {
+        "added_on": "19th Mar 2025",
+        "authors": [
+            "Abhinav"
+        ],
+        "publication": "Medium",
+        "published_on": "18th Jan 2012",
+        "read": true,
+        "tags": [
+            "System Design",
+            "API Gateway",
+            "Programming Language",
+            "Golang",
+            "Scalability"
+        ],
+        "thumbnail": "",
+        "title": "How to Build a Scalable Go Gateway That Handles Millions of Requests",
+        "url": "https://medium.com/@abhinavv.singh/how-to-build-a-scalable-go-gateway-that-handles-millions-of-requests-75523b29660b",
+        "language": "english",
+        "type": "Article",
+        "id": "5e42e883-0c20-4f82-a4c4-68bb836df924",
+        "rating": 8,
+        "is_paid": true
+    },
+    {
+        "added_on": "19th Mar 2025",
+        "authors": [
+            "Dave Cheney"
+        ],
+        "publication": "Dave Cheney",
+        "published_on": "18th Jan 2012",
+        "read": true,
+        "tags": [
+            "Programming Language",
+            "Exception Handling",
+            "Golang"
+        ],
+        "thumbnail": "",
+        "title": "Why Go gets exceptions right",
+        "url": "https://dave.cheney.net/2012/01/18/why-go-gets-exceptions-right",
+        "language": "english",
+        "type": "Article",
+        "id": "b062bab5-ac6b-4d8c-88ed-8e978ac6e4be",
+        "rating": 9,
+        "is_paid": false
+    },
+    {
         "added_on": "19th Mar 2025",
         "authors": [
             "Dylan Smith"
