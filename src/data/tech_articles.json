@@ -1,5 +1,120 @@
 [
     {
+        "added_on": "19th Mar 2025",
+        "authors": [
+            "Dylan Smith"
+        ],
+        "publication": "Stackademic",
+        "published_on": "10th Oct 2024",
+        "read": true,
+        "tags": [
+            "System Design",
+            "Cache",
+            "Redis",
+            "Data Loss",
+            "Redis AOF Logs"
+        ],
+        "thumbnail": "",
+        "title": "Interview: In Case Redis Crashes, How to Avoid Data Loss (AOF Log)?",
+        "url": "https://blog.stackademic.com/interview-in-case-redis-crashes-how-to-avoid-data-loss-aof-log-23fd5a449f92",
+        "language": "english",
+        "type": "Article",
+        "id": "96137f00-3fa4-4760-b68d-656e9d043a2f",
+        "rating": 10,
+        "is_paid": false
+    },
+    {
+        "added_on": "18th Mar 2025",
+        "authors": [
+            "Sandeep"
+        ],
+        "publication": "Medium",
+        "published_on": "13th Feb 2025",
+        "read": true,
+        "tags": [
+            "Python",
+            "Python Modules",
+            "Python Packages",
+            "__init__.py"
+        ],
+        "thumbnail": "",
+        "title": "Golang Hidden Gems",
+        "url": "https://medium.com/@ksandeeptech07/golang-hidden-gems-133ac71f7bc4",
+        "language": "english",
+        "type": "Article",
+        "id": "12b0ba6c-05d5-4ca7-acec-7e934ab8b356",
+        "rating": 8,
+        "is_paid": false
+    },
+    {
+        "added_on": "18th Mar 2025",
+        "authors": [
+            "Dhruv Ahuja"
+        ],
+        "publication": "Python in Plain English",
+        "published_on": "03rd Feb 2025",
+        "read": true,
+        "tags": [
+            "Python",
+            "Python Modules",
+            "Python Packages",
+            "__init__.py"
+        ],
+        "thumbnail": "",
+        "title": "How I Learned to Love __init__.py : A Simple Guide",
+        "url": "https://python.plainenglish.io/how-i-learned-to-love-f-a-simple-guide-120857df7af0",
+        "language": "english",
+        "type": "Article",
+        "id": "d3f5304d-88e1-46d9-9597-1048f6a07421",
+        "rating": 8,
+        "is_paid": false
+    },
+    {
+        "added_on": "18th Mar 2025",
+        "authors": [
+            "Rishabh Agarwal"
+        ],
+        "publication": "Medium",
+        "published_on": "07th Feb 2025",
+        "read": true,
+        "tags": [
+            "Database",
+            "Database Replication"
+        ],
+        "thumbnail": "",
+        "title": "10 Essential Database Replication Techniques Every Software Developer Should Know",
+        "url": "https://levelup.gitconnected.com/10-essential-database-replication-techniques-every-software-developer-should-know-b51b4478646e",
+        "language": "english",
+        "type": "Article",
+        "id": "12555d15-8d79-44aa-8301-8204b2cb58d6",
+        "rating": 7,
+        "is_paid": true
+    },
+    {
+        "added_on": "18th Mar 2025",
+        "authors": [
+            "Andrew Zuo"
+        ],
+        "publication": "Medium",
+        "published_on": "19th Feb 2025",
+        "read": true,
+        "tags": [
+            "Programming Language",
+            "Golang",
+            "Go Routine",
+            "Named Parameters",
+            "Error Handling"
+        ],
+        "thumbnail": "",
+        "title": "Go Is A Poorly Designed Language, Actually",
+        "url": "https://andrewzuo.com/go-is-a-poorly-designed-language-actually-a8ec508fc2ed",
+        "language": "english",
+        "type": "Article",
+        "id": "270a37b7-1fb1-4e79-a1f6-b0b756a55d50",
+        "rating": 9,
+        "is_paid": true
+    },
+    {
         "added_on": "25th Feb 2025",
         "authors": [
             "Jan Kammerath"
