@@ -2,6 +2,140 @@
     {
         "added_on": "20th Mar 2025",
         "authors": [
+            "Phuong Le"
+        ],
+        "publication": "Victoria Metrics",
+        "published_on": "16th AAug 2024",
+        "read": true,
+        "tags": [
+            "Programming Language",
+            "Programming language Concepts",
+            "Golang",
+            "Maps",
+            "Golang Maps"
+        ],
+        "thumbnail": "",
+        "title": "Go Maps Explained: How Key-Value Pairs Are Actually Stored",
+        "url": "https://victoriametrics.com/blog/go-map/",
+        "language": "english",
+        "type": "Article",
+        "id": "17729f95-b017-460f-9b88-58b805aba0d4",
+        "rating": 10,
+        "is_paid": false
+    },
+    {
+        "added_on": "20th Mar 2025",
+        "authors": [
+            "Joud W. Awad"
+        ],
+        "publication": "Medium",
+        "published_on": "02nd Nov 2025",
+        "read": false,
+        "tags": [
+            "Amazon Web Service (AWS)",
+            "AWS Lambda",
+            "AWS Lambda Invocation"
+        ],
+        "thumbnail": "",
+        "title": "AWS Lambda Invocation Types",
+        "url": "https://medium.com/@joudwawad/understanding-aws-lambda-invocation-types-893513a9609f",
+        "language": "english",
+        "type": "Article",
+        "id": "66d3bbc3-c9fe-4b73-9feb-9867fa838c87",
+        "rating": 9,
+        "is_paid": false
+    },
+    {
+        "added_on": "20th Mar 2025",
+        "authors": [
+            "Sivaram Rasathurai"
+        ],
+        "publication": "Medium",
+        "published_on": "26th Feb 2025",
+        "read": false,
+        "tags": [
+            "REST",
+            "REST Status Codes"
+        ],
+        "thumbnail": "",
+        "title": "16 Common REST API Status Code Mistakes to Avoid in 2025",
+        "url": "https://medium.com/javarevisited/16-common-rest-api-status-code-mistakes-to-avoid-in-2025-f703c656deb0",
+        "language": "english",
+        "type": "Article",
+        "id": "a36563bd-23c5-44a1-a380-5e3c33253f2d",
+        "rating": 9,
+        "is_paid": true
+    },
+    {
+        "added_on": "20th Mar 2025",
+        "authors": [
+            "Arunangshu Das"
+        ],
+        "publication": "Medium",
+        "published_on": "18th Jan 2025",
+        "read": false,
+        "tags": [
+            "Programming Language",
+            "Programming language Concepts",
+            "Middleware",
+            "Node.js"
+        ],
+        "thumbnail": "",
+        "title": "You must use middleware like this in Node.js",
+        "url": "https://article.arunangshudas.com/you-must-use-middleware-like-this-in-node-js-0e2897cb10da",
+        "language": "english",
+        "type": "Article",
+        "id": "4afdd389-c7c0-4741-9f52-fcff8bc06683",
+        "rating": 9,
+        "is_paid": false
+    },
+    {
+        "added_on": "20th Mar 2025",
+        "authors": [
+            "Coders Stop"
+        ],
+        "publication": "Python in Plain English",
+        "published_on": "18th Mar 2025",
+        "read": false,
+        "tags": [
+            "Programming Language",
+            "Programming language Concepts",
+            "Python"
+        ],
+        "thumbnail": "",
+        "title": "10 Shocking Python Practices That Will Ruin Your Code (And How to Fix Them)",
+        "url": "https://python.plainenglish.io/10-shocking-python-practices-that-will-ruin-your-code-and-how-to-fix-them-54797f71c5b5",
+        "language": "english",
+        "type": "Article",
+        "id": "f2d39614-ef47-448f-8d27-8782177c5df9",
+        "rating": 9,
+        "is_paid": true
+    },
+    {
+        "added_on": "20th Mar 2025",
+        "authors": [
+            "ScalaBrix"
+        ],
+        "publication": "Level Up Coding",
+        "published_on": "07th Mar 2025",
+        "read": false,
+        "tags": [
+            "System Design",
+            "System Design Case Study",
+            "Throughput"
+        ],
+        "thumbnail": "",
+        "title": "System architecture : High Throughput Reads & Writes in Databases (p1)",
+        "url": "https://levelup.gitconnected.com/system-architecture-high-throughput-reads-writes-in-databases-p1-ac8e8916d06b",
+        "language": "english",
+        "type": "Article",
+        "id": "6d9ff9f9-0c91-4b73-83d3-82d0482c0ed1",
+        "rating": 9,
+        "is_paid": true
+    },
+    {
+        "added_on": "20th Mar 2025",
+        "authors": [
             "Dipak Ahirav"
         ],
         "publication": "Medium",
