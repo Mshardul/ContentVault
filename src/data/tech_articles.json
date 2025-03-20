@@ -2,10 +2,280 @@
     {
         "added_on": "20th Mar 2025",
         "authors": [
+            "Sabrina Carpenter"
+        ],
+        "publication": "Medium",
+        "published_on": "03rd Feb 2025",
+        "read": true,
+        "tags": [
+            "Programming Language",
+            "Programming language Concepts",
+            "Python"
+        ],
+        "thumbnail": "",
+        "title": "If You Can Answer These 7 Concepts Correctly, You're Decent at Python",
+        "url": "https://medium.com/@Sabrina-Carpenter/if-you-can-answer-these-7-concepts-correctly-youre-decent-at-python-8a21391e5911",
+        "language": "english",
+        "type": "Article",
+        "id": "dd3fcb0f-84e5-4264-8fda-2f3538bd1b7e",
+        "rating": 8,
+        "is_paid": true
+    },
+    {
+        "added_on": "20th Mar 2025",
+        "authors": [
+            "Kiran Maan"
+        ],
+        "publication": "Python in Plain English",
+        "published_on": "02nd Feb 2024",
+        "read": true,
+        "tags": [
+            "Programming Language",
+            "Python",
+            "Python None"
+        ],
+        "thumbnail": "",
+        "title": "Don't return NONE in Python to handle missing values",
+        "url": "https://medium.com/@letslearnnow/kafka-deep-dive-scenario-based-problems-for-professionals-1c7a5aaa5f1c",
+        "language": "english",
+        "type": "Article",
+        "id": "4b867ded-8b1c-4612-94cd-f35bb55bec9a",
+        "rating": 8,
+        "is_paid": true
+    },
+    {
+        "added_on": "20th Mar 2025",
+        "authors": [
+            "Lets Learn Now"
+        ],
+        "publication": "Medium",
+        "published_on": "14th Mar 2024",
+        "read": true,
+        "tags": [
+            "System Design",
+            "Message Brokers",
+            "Kafka"
+        ],
+        "thumbnail": "",
+        "title": "Kafka Deep Dive: Scenario-Based Problems for Professionals",
+        "url": "https://medium.com/@letslearnnow/kafka-deep-dive-scenario-based-problems-for-professionals-1c7a5aaa5f1c",
+        "language": "english",
+        "type": "Article",
+        "id": "1b52ad4f-2576-434e-98ff-8c4669672945",
+        "rating": 9,
+        "is_paid": true
+    },
+    {
+        "added_on": "20th Mar 2025",
+        "authors": [
+            "Yash"
+        ],
+        "publication": "Go Golang",
+        "published_on": "13th Oct 2024",
+        "read": true,
+        "tags": [
+            "Programming Language",
+            "Programming language Concepts",
+            "Golang"
+        ],
+        "thumbnail": "",
+        "title": "8 Golang Performance Tips I Discovered After Years of Coding",
+        "url": "https://medium.com/deep-golang/8-python-performance-tips-i-discovered-after-years-of-coding-in-golang-764375658d90",
+        "language": "english",
+        "type": "Article",
+        "id": "e5013797-5df6-4eff-9e69-31d90b0fbbfb",
+        "rating": 9,
+        "is_paid": true
+    },
+    {
+        "added_on": "20th Mar 2025",
+        "authors": [
+            "ScalaBrix"
+        ],
+        "publication": "Level Up Coding",
+        "published_on": "16th Mar 2025",
+        "read": true,
+        "tags": [
+            "System Design",
+            "Throughput",
+            "Command Query Responsibility Segregation (CQRS)"
+        ],
+        "thumbnail": "",
+        "title": "System architecture : High Throughput Reads & Writes in Databases (p2)",
+        "url": "https://levelup.gitconnected.com/system-architecture-high-throughput-reads-writes-in-databases-p2-44f92c2f383d",
+        "language": "english",
+        "type": "Article",
+        "id": "0dc7c69d-ce4b-4fe6-9b92-042cf3597221",
+        "rating": 9,
+        "is_paid": false
+    },
+    {
+        "added_on": "20th Mar 2025",
+        "authors": [
+            "Vitaliy Korzhenko"
+        ],
+        "publication": "Medium",
+        "published_on": "17th Mar 2025",
+        "read": true,
+        "tags": [
+            "Interview Preparation",
+            "Interview Questions",
+            "Programming Language",
+            "Programming language Concepts",
+            "Node.js"
+        ],
+        "thumbnail": "",
+        "title": "10 Most Common Node.js Interview Questions",
+        "url": "https://medium.com/@vitaliykorzenkoua/10-most-common-node-js-interview-questions-056f8c934173",
+        "language": "english",
+        "type": "Article",
+        "id": "99d32a3e-e444-4b3b-9658-bbfdc052ddce",
+        "rating": 9,
+        "is_paid": false
+    },
+    {
+        "added_on": "20th Mar 2025",
+        "authors": [
+            "Utsav Madaan"
+        ],
+        "publication": "Level Up Coding",
+        "published_on": "17th Mar 2025",
+        "read": true,
+        "tags": [
+            "System Design",
+            "System Design Case Study",
+            "Scalability",
+            "Programming Language",
+            "Programming language Concepts",
+            "Golang"
+        ],
+        "thumbnail": "",
+        "title": "How We Slashed API Response Times by 50% with Go Compiler Optimizations",
+        "url": "https://medium.com/@utsavmadaan823/how-we-slashed-api-response-times-by-50-with-go-compiler-optimizations-3c2592c2d241",
+        "language": "english",
+        "type": "Article",
+        "id": "fca29fa4-19b6-4f5f-a958-de8d638a6684",
+        "rating": 9,
+        "is_paid": false
+    },
+    {
+        "added_on": "20th Mar 2025",
+        "authors": [
+            "Rishabh Agarwal"
+        ],
+        "publication": "Level Up Coding",
+        "published_on": "29th Dec 2024",
+        "read": true,
+        "tags": [
+            "Database (DB)",
+            "Database Comparison"
+        ],
+        "thumbnail": "",
+        "title": "15 Databases, 15 Use Cases — The Ultimate Guide That No One Asked For (But Everyone Needs)",
+        "url": "https://levelup.gitconnected.com/15-databases-15-use-cases-the-ultimate-guide-that-no-one-asked-for-but-everyone-needs-47ca4009be78",
+        "language": "english",
+        "type": "Article",
+        "id": "1335d1e6-b89a-4a78-b7a3-281df174d54f",
+        "rating": 9,
+        "is_paid": false
+    },
+    {
+        "added_on": "20th Mar 2025",
+        "authors": [
+            "Satyam Sahu"
+        ],
+        "publication": "Art of Data Engineering",
+        "published_on": "15th Sep 2024",
+        "read": true,
+        "tags": [
+            "Database (DB)",
+            "Structured Query Language (SQL)",
+            "SQL Query Optimization",
+            "Database Indexing"
+        ],
+        "thumbnail": "",
+        "title": "SQL Query Optimization Best Practices",
+        "url": "https://medium.com/art-of-data-engineering/sql-query-optimization-best-practices-d18bb7995e4b",
+        "language": "english",
+        "type": "Article",
+        "id": "b01ddf9e-76b1-44fb-a012-c71b51f2cee0",
+        "rating": 9,
+        "is_paid": false
+    },
+    {
+        "added_on": "20th Mar 2025",
+        "authors": [
+            "Raphael Moutard"
+        ],
+        "publication": "Level Up Coding",
+        "published_on": "21st Mar 2023",
+        "read": true,
+        "tags": [
+            "Database (DB)",
+            "Database Comparison",
+            "Database Design",
+            "Object Relational Mapping (ORM)"
+        ],
+        "thumbnail": "",
+        "title": "Database Modeling: Mapping Objects to Relational Databases",
+        "url": "https://levelup.gitconnected.com/database-modeling-mapping-objects-to-relational-databases-c5e534a5927b",
+        "language": "english",
+        "type": "Article",
+        "id": "502b986b-ae9c-4226-96a5-7abff7953ae6",
+        "rating": 9,
+        "is_paid": false
+    },
+    {
+        "added_on": "20th Mar 2025",
+        "authors": [
+            "Raphael Moutard"
+        ],
+        "publication": "Better Programming",
+        "published_on": "21st Mar 2023",
+        "read": true,
+        "tags": [
+            "System Design",
+            "API",
+            "GraphQL"
+        ],
+        "thumbnail": "",
+        "title": "GraphQL: From Excitement to Deception",
+        "url": "https://medium.com/better-programming/graphql-from-excitement-to-deception-f81f7c95b7cf",
+        "language": "english",
+        "type": "Article",
+        "id": "9e36253a-3df1-42c8-b3cb-1ff14b9536ce",
+        "rating": 9,
+        "is_paid": true
+    },
+    {
+        "added_on": "20th Mar 2025",
+        "authors": [
+            "Mehdi Bafdil"
+        ],
+        "publication": "Medium",
+        "published_on": "24th Feb 2025",
+        "read": true,
+        "tags": [
+            "System Design",
+            "Cache",
+            "Redis"
+        ],
+        "thumbnail": "",
+        "title": "Redis in Action: Accelerating Life and Code",
+        "url": "https://medium.com/@mehdibafdil/redis-in-action-accelerating-life-and-code-ed11829e9496",
+        "language": "english",
+        "type": "Article",
+        "id": "d8756c1a-55fc-4c33-8409-976dcb5c84a5",
+        "rating": 9,
+        "is_paid": true
+    },
+    {
+        "added_on": "20th Mar 2025",
+        "authors": [
             "Phuong Le"
         ],
         "publication": "Victoria Metrics",
-        "published_on": "16th AAug 2024",
+        "published_on": "16th Aug 2024",
         "read": true,
         "tags": [
             "Programming Language",
