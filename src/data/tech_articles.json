@@ -2,6 +2,230 @@
     {
         "added_on": "19th Apr 2025",
         "authors": [
+            "Renaldi Purwanto"
+        ],
+        "publication": "Level Up Coding",
+        "published_on": "09th Mar 2025",
+        "read": true,
+        "tags": [
+            "Programming Language",
+            "Programming language Concepts",
+            "Python",
+            "Object Oriented Programming (OOP)",
+            "super()"
+        ],
+        "thumbnail": "",
+        "title": "I Just Discovered Python's super() Works Differently Than I Thought",
+        "url": "https://python.plainenglish.io/i-just-discovered-pythons-super-works-differently-than-i-thought-7239f1395469",
+        "language": "english",
+        "type": "Article",
+        "id": "b008099d-8104-476c-bd36-42fe59a6877c",
+        "is_paid": true,
+        "rating": 9
+    },
+    {
+        "added_on": "19th Apr 2025",
+        "authors": [
+            "Kiran Maan"
+        ],
+        "publication": "Python in Plain English",
+        "published_on": "09th Mar 2025",
+        "read": true,
+        "tags": [
+            "Programming Language",
+            "Programming language Concepts",
+            "Python",
+            "Object Oriented Programming (OOP)",
+            "super()"
+        ],
+        "thumbnail": "",
+        "title": "I Just Discovered Python's super() Works Differently Than I Thought",
+        "url": "https://python.plainenglish.io/i-just-discovered-pythons-super-works-differently-than-i-thought-7239f1395469",
+        "language": "english",
+        "type": "Article",
+        "id": "b008099d-8104-476c-bd36-42fe59a6877c",
+        "is_paid": true,
+        "rating": 9
+    },
+    {
+        "added_on": "19th Apr 2025",
+        "authors": [
+            "Rajan Sahu"
+        ],
+        "publication": "Medium",
+        "published_on": "01st Feb 2025",
+        "read": true,
+        "tags": [
+            "Database (DB)",
+            "PostgreSQL",
+            "Database Indexing"
+        ],
+        "thumbnail": "",
+        "title": "Indexing in PostgreSQL Part-1",
+        "url": "https://rajansahu713.medium.com/indexing-in-postgresql-part-1-de77106f482c",
+        "language": "english",
+        "type": "Article",
+        "id": "c566c2f6-397c-4915-a8af-9a23be1823c8",
+        "is_paid": true,
+        "rating": 8
+    },
+    {
+        "added_on": "19th Apr 2025",
+        "authors": [
+            "Kiran Maan"
+        ],
+        "publication": "Python in Plain English",
+        "published_on": "22nd Jan 2025",
+        "read": true,
+        "tags": [
+            "Programming Language",
+            "Programming language Concepts",
+            "Python",
+            "Data Structures",
+            "List"
+        ],
+        "thumbnail": "",
+        "title": "Stop Using Python Lists Like This Right Now!!!",
+        "url": "https://python.plainenglish.io/stop-using-python-lists-like-this-right-now-9f6510a1bfe2",
+        "language": "english",
+        "type": "Article",
+        "id": "76562614-ff35-470f-a4c8-93d69a00b7e0",
+        "is_paid": true,
+        "rating": 8
+    },
+    {
+        "added_on": "19th Apr 2025",
+        "authors": [
+            "Vijay"
+        ],
+        "publication": "Python in Plain English",
+        "published_on": "14th Mar 2024",
+        "read": true,
+        "tags": [
+            "Programming Language",
+            "Programming language Concepts",
+            "Python",
+            "Enums"
+        ],
+        "thumbnail": "",
+        "title": "The Enum Trick Every Python Developer Should Know",
+        "url": "https://python.plainenglish.io/the-enum-trick-every-python-developer-should-know-6d3b0d0ef351",
+        "language": "english",
+        "type": "Article",
+        "id": "692949ce-4c72-4019-9d5b-e9e01a741ec3",
+        "is_paid": true,
+        "rating": 8
+    },
+    {
+        "added_on": "19th Apr 2025",
+        "authors": [
+            "Renaldi Purwanto"
+        ],
+        "publication": "Towards Dev",
+        "published_on": "13th Mar 2024",
+        "read": true,
+        "tags": [
+            "Programming Language",
+            "Programming Language Comparison",
+            "Golang",
+            "Java",
+            "Python"
+        ],
+        "thumbnail": "",
+        "title": "Why Is Golang Faster Than Java and Python? The Secret Behind Its Performance!",
+        "url": "https://towardsdev.com/why-is-golang-faster-than-java-and-python-the-secret-behind-its-performance-ea68c362b96d",
+        "language": "english",
+        "type": "Article",
+        "id": "1c29061e-c4a3-488e-8d0b-000137a724ef",
+        "is_paid": true
+    },
+    {
+        "added_on": "19th Apr 2025",
+        "authors": [
+            "Yash"
+        ],
+        "publication": "Medium",
+        "published_on": "16th Nov 2024",
+        "read": false,
+        "tags": [
+            "Database (DB)",
+            "Structured Query Language (SQL)",
+            "ALTAR TABLE Command"
+        ],
+        "thumbnail": "",
+        "title": "How to Safely Perform ALTER TABLE on Large Database Tables",
+        "url": "https://medium.com/my-mysql/how-to-safely-perform-alter-table-on-large-database-tables-38bb2edf4d7b",
+        "language": "english",
+        "type": "Article",
+        "id": "7f020438-fd28-4d8d-bf24-734543ec7794",
+        "is_paid": true
+    },
+    {
+        "added_on": "19th Apr 2025",
+        "authors": [
+            "Liu Zuo Lin"
+        ],
+        "publication": "Medium",
+        "published_on": "25th Jan 2025",
+        "read": false,
+        "tags": [
+            "Programming Language",
+            "Programming language Concepts",
+            "Python",
+            "Unit Testing"
+        ],
+        "thumbnail": "",
+        "title": "9 Things I Wish I Knew Earlier About Unit Testing In Python",
+        "url": "https://medium.com/databases-in-simple-words/making-sql-query-40x-faster-for-10-million-rows-table-587d6a95727c",
+        "language": "english",
+        "type": "Article",
+        "id": "7247b184-e71b-4641-af6e-f8755edee3eb",
+        "is_paid": true
+    },
+    {
+        "added_on": "19th Apr 2025",
+        "authors": [
+            "Sergey Egorenkov"
+        ],
+        "publication": "Medium",
+        "published_on": "17th Mar 2025",
+        "read": false,
+        "tags": [
+            "Database (DB)",
+            "Structured Query Language (SQL)"
+        ],
+        "thumbnail": "",
+        "title": "Making SQL query 40x faster for 10 million rows table",
+        "url": "https://medium.com/databases-in-simple-words/making-sql-query-40x-faster-for-10-million-rows-table-587d6a95727c",
+        "language": "english",
+        "type": "Article",
+        "id": "3e0dbdfd-80d2-452b-84b8-ee2b23925c99",
+        "is_paid": false
+    },
+    {
+        "added_on": "19th Apr 2025",
+        "authors": [
+            "Mayur Koshti"
+        ],
+        "publication": "Medium",
+        "published_on": "19th Mar 2025",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Microservice",
+            "Design Pattern"
+        ],
+        "thumbnail": "",
+        "title": "Boost Your Microservices Architecture with These Hidden Patterns",
+        "url": "https://python.plainenglish.io/boost-your-microservices-architecture-with-these-hidden-patterns-dcd844b5d01c",
+        "language": "english",
+        "type": "Article",
+        "id": "907ab503-bfbf-46fb-b4c2-6dd582e4dd45",
+        "is_paid": true
+    },
+    {
+        "added_on": "19th Apr 2025",
+        "authors": [
             "Omri Luz"
         ],
         "publication": "dev.to",

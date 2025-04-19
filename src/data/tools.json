@@ -1,6 +1,56 @@
 [
     {
         "added_on": "19th Apr 2025",
+        "id": "32e08f24-0831-4c6c-9ed1-b4567c4a5fa7",
+        "title": "Study Pal",
+        "about": "Instantly Turn Any PDF or YouTube Video Into a Complete Study Kit",
+        "url": "https://www.getstudypal.com",
+        "thumbnail": "",
+        "tags": ["AI", "AI Tool", "Automation", "Academics"],
+        "description": ""
+    },
+    {
+        "added_on": "19th Apr 2025",
+        "id": "00621dcc-c6b1-4184-a25d-92238b25dd85",
+        "title": "Sintra",
+        "about": "Sintra is designed to boost productivity and simplify your business operations. You can use it for tasks like administrative work, lead generation, content creation, email outreach, social media management, and much more.",
+        "url": "https://sintra.ai",
+        "thumbnail": "",
+        "tags": ["AI", "AI Tool", "Automation", "Business Operations", "Sintra"],
+        "description": ""
+    },
+    {
+        "added_on": "19th Apr 2025",
+        "id": "09930f50-1eda-43a0-87e4-c44e24090f31",
+        "title": "NeoBase",
+        "about": "an AI Database Co-Pilot that connects you to your data in your daily language such as English or Hindi. This means that you can ask questions in your own language and NeoBase will do the rest.",
+        "url": "https://www.neobase.cloud",
+        "thumbnail": "",
+        "tags": ["AI", "AI Tool", "Database", "Database Schema", "NeoBase", "SQL Generator"],
+        "description": ""
+    },
+    {
+        "added_on": "19th Apr 2025",
+        "id": "0a7b4828-787d-4dfb-8376-5c60392d7d80",
+        "title": "Hubspot",
+        "about": "HubSpot Smart CRM connects all your customer data, giving your teams a shared, complete view of every customer to help you grow your business. Your sales, marketing, and service teams can reach out to your customers, right where, when and how they want.",
+        "url": "https://www.hubspot.com/",
+        "thumbnail": "",
+        "tags": ["AI", "AI Tool", "CRM", "Hubspot"],
+        "description": ""
+    },
+    {
+        "added_on": "19th Apr 2025",
+        "id": "7c010208-c06f-4091-beac-182d8ecbdd1e",
+        "title": "Pippit AI",
+        "about": "Create powerful marketing content with Pippit's AI in a few clicks - no design skills needed!",
+        "url": "https://pippit.capcut.com/",
+        "thumbnail": "",
+        "tags": ["AI", "AI Tool", "Text to Image", "Text to Video", "Image Editing", "Marketing", "Pippit AI"],
+        "description": ""
+    },
+    {
+        "added_on": "19th Apr 2025",
         "id": "7bcdd368-94a5-4bce-babe-ccacf38fc250",
         "title": "Fancy Components",
         "about": "A growing library of fancy, fun, animated react components & microinteractions to make the web fun again. Free & Open Source.",
