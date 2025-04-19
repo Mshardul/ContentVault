@@ -1,5 +1,70 @@
 [
     {
+        "added_on": "21st Mar 2025",
+        "authors": [
+            "Nidhi Jain"
+        ],
+        "publication": "Medium",
+        "published_on": "06th Feb 2024",
+        "read": false,
+        "tags": [
+            "API",
+            "Remote Procedure Call (RPC)",
+            "gRPC"
+        ],
+        "thumbnail": "",
+        "title": "Unleashing the power of gRPC",
+        "url": "https://medium.com/@Sabrina-Carpenter/if-you-can-answer-these-7-concepts-correctly-youre-decent-at-python-8a21391e5911",
+        "language": "english",
+        "type": "Article",
+        "id": "0049f5e7-86a4-43b1-9d34-fdb9dfa49fdb",
+        "is_paid": true
+    },
+    {
+        "added_on": "21st Mar 2025",
+        "authors": [
+            "Priyanshu Rajput"
+        ],
+        "publication": "Medium",
+        "published_on": "17th Mar 2025",
+        "read": true,
+        "tags": [
+            "Programming Language",
+            "Programming language Concepts",
+            "Python"
+        ],
+        "thumbnail": "",
+        "title": "If You Can Answer These 7 Concepts Correctly, You're Decent at Python",
+        "url": "https://javascript.plainenglish.io/handling-millions-of-requests-in-node-js-load-balancing-and-clustering-3a2aa400838e",
+        "language": "english",
+        "type": "Article",
+        "id": "0d65c143-347c-4c62-8fe3-ced580b917a7",
+        "rating": 8,
+        "is_paid": true
+    },
+    {
+        "added_on": "20th Mar 2025",
+        "authors": [
+            "Sabrina Carpenter"
+        ],
+        "publication": "Medium",
+        "published_on": "11th Feb 2025",
+        "read": true,
+        "tags": [
+            "Programming Language",
+            "Programming language Concepts",
+            "Python"
+        ],
+        "thumbnail": "",
+        "title": "If You Can Answer These 7 Python Concepts Correctly, You're Decent at Python (Part 2)",
+        "url": "https://medium.com/@Sabrina-Carpenter/if-you-can-answer-these-7-python-concepts-correctly-youre-decent-at-python-part-2-ac10f5b44e6b",
+        "language": "english",
+        "type": "Article",
+        "id": "4403c168-d7fe-49d6-8655-cba32133792e",
+        "rating": 8,
+        "is_paid": true
+    },
+    {
         "added_on": "20th Mar 2025",
         "authors": [
             "Sabrina Carpenter"
@@ -2466,7 +2531,7 @@
         "read": false,
         "tags": [
             "System Design",
-            "Remote Procedure Calls (RPC)",
+            "Remote Procedure Call (RPC)",
             "Golang"
         ],
         "thumbnail": "",
