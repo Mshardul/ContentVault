@@ -1,5 +1,69 @@
 [
     {
+        "added_on": "19th Apr 2025",
+        "authors": [
+            "Omri Luz"
+        ],
+        "publication": "dev.to",
+        "published_on": "13th Apr 2025",
+        "read": false,
+        "tags": [
+            "CORS",
+            "Same-Origin Policy"
+        ],
+        "thumbnail": "",
+        "title": "CORS and Same-Origin Policy Deep Dive",
+        "url": "https://dev.to/omriluz1/cors-and-same-origin-policy-deep-dive-337g",
+        "language": "english",
+        "type": "Article",
+        "id": "528b8bc8-a2c1-4135-8468-fdad866adb68",
+        "is_paid": false
+    },
+    {
+        "added_on": "19th Apr 2025",
+        "authors": [
+            "Bartosz Zaczyński"
+        ],
+        "publication": "Real Python",
+        "published_on": "-",
+        "read": false,
+        "tags": [
+            "CI/CD",
+            "GitHub",
+            "Github Actions"
+        ],
+        "thumbnail": "",
+        "title": "GitHub Actions by Example",
+        "url": "https://samirs-organization-6.gitbook.io/github-actions-by-example",
+        "language": "english",
+        "type": "Article",
+        "id": "735d150e-acea-4006-80cf-0285e93f9854",
+        "is_paid": false
+    },
+    {
+        "added_on": "19th Apr 2025",
+        "authors": [
+            "Bartosz Zaczyński"
+        ],
+        "publication": "Real Python",
+        "published_on": "31st Mar 2025",
+        "read": false,
+        "tags": [
+            "Programming Language",
+            "Programming language Concepts",
+            "Python",
+            "Data Structures",
+            "ByteArray"
+        ],
+        "thumbnail": "",
+        "title": "Python's Bytearray: A Mutable Sequence of Bytes",
+        "url": "https://realpython.com/python-bytearray/",
+        "language": "english",
+        "type": "Article",
+        "id": "8b3323e8-fc14-4f32-90fa-4315733bb233",
+        "is_paid": false
+    },
+    {
         "added_on": "21st Mar 2025",
         "authors": [
             "Nidhi Jain"

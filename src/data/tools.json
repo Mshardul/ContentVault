@@ -1,5 +1,107 @@
 [
     {
+        "added_on": "19th Apr 2025",
+        "id": "7bcdd368-94a5-4bce-babe-ccacf38fc250",
+        "title": "Fancy Components",
+        "about": "A growing library of fancy, fun, animated react components & microinteractions to make the web fun again. Free & Open Source.",
+        "url": "https://www.fancycomponents.dev/",
+        "code_url": "https://github.com/danielpetho/fancy",
+        "thumbnail": "",
+        "tags": ["UI", "UI Components", "React", "Fancy Components"],
+        "description": ""
+    },
+    {
+        "added_on": "19th Apr 2025",
+        "id": "bde727e7-647f-43ec-a143-4e46c5f51913",
+        "title": "Firebase Studio",
+        "about": "The full stack AI workspace",
+        "url": "https://www.guidde.com/",
+        "thumbnail": "",
+        "tags": ["AI Tool", "Generative AI", "AI Workspace", "Firebase Studio", "Google"],
+        "description": "Firebase Studio accelerates your entire development lifecycle with AI agents. Build backends, front ends, and mobile apps, all in one place."
+    },
+    {
+        "added_on": "19th Apr 2025",
+        "id": "75725c93-7c58-41f0-88bd-be88d3411618",
+        "title": "Guidde",
+        "about": "A Generative AI platform for creating video documentation.",
+        "url": "https://www.guidde.com/",
+        "thumbnail": "",
+        "tags": ["AI Tool", "Generative AI", "Video Documentation"],
+        "description": ""
+    },
+    {
+        "added_on": "19th Apr 2025",
+        "id": "6e7ed5c9-e417-4300-8542-1606fcca6b99",
+        "title": "Windsurf",
+        "about": "The first agentic IDE, and then some. The Windsurf Editor is where the work of developers and AI truly flow together, allowing for a coding experience that feels like literal magic.",
+        "url": "https://windsurf.com/editor",
+        "thumbnail": "",
+        "tags": ["IDE", "Code Editor", "Windsurf"],
+        "description": ""
+    },
+    {
+        "added_on": "19th Apr 2025",
+        "id": "f612ecf0-aa17-4cdf-bac7-c1eb0eeec6a8",
+        "title": "Prezi",
+        "about": "Create a custom presentation in seconds with Prezi AI. No design skills needed.",
+        "url": "https://prezi.com",
+        "thumbnail": "",
+        "tags": ["Presentation", "Text to Presentation", "Prezi"],
+        "description": ""
+    },
+    {
+        "added_on": "19th Apr 2025",
+        "id": "f612ecf0-aa17-4cdf-bac7-c1eb0eeec6a8",
+        "title": "Prezi",
+        "about": "Create a custom presentation in seconds with Prezi AI. No design skills needed.",
+        "url": "https://prezi.com",
+        "thumbnail": "",
+        "tags": ["Presentation", "Text to Presentation", "Prezi"],
+        "description": ""
+    },
+    {
+        "added_on": "19th Apr 2025",
+        "id": "c92ed570-c875-4b1f-a1c5-65c201873a6b",
+        "title": "Draw DB",
+        "about": "Free, simple, and intuitive database schema editor and SQL generator.",
+        "url": "https://www.drawdb.app",
+        "code_url": "https://github.com/drawdb-io/drawdb",
+        "thumbnail": "",
+        "tags": ["Database", "Database Schema", "SQL Generator", "Draw DB"],
+        "description": ""
+    },
+    {
+        "added_on": "19th Apr 2025",
+        "id": "8fe6eede-946d-465f-a8d6-62d93018861c",
+        "title": "Mind Map Wizard",
+        "about": "Generate a Mind Map with AI",
+        "url": "https://mindmapwizard.com/",
+        "thumbnail": "",
+        "tags": ["AI", "AI Tool", "Map Generation", "Mind Map"],
+        "description": ""
+    },
+    {
+        "added_on": "19th Apr 2025",
+        "id": "8da5576c-8ac6-4483-8377-7a7b1754f62c",
+        "title": "Lexica",
+        "about": "Generate Images using AI",
+        "url": "https://lexica.art",
+        "thumbnail": "",
+        "tags": ["AI", "AI Tool", "Text to Image", "Lexica"],
+        "description": ""
+    },
+    {
+        "added_on": "19th Apr 2025",
+        "id": "a256116b-8592-4539-849e-e3a93579b278",
+        "title": "Pictory AI",
+        "about": "The easiest way to create professional videos.",
+        "url": "https://pictory.ai/",
+        "thumbnail": "",
+        "tags": ["AI", "AI Tool", "Text to Video", "Pictory AI"],
+        "description": ""
+    },
+    {
         "added_on": "18th Feb 2025",
         "id": "3b8d5520-11ce-4131-b051-3c2d25bcaee7",
         "title": "Photopea",
