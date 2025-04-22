@@ -1,5 +1,363 @@
 [
     {
+        "added_on": "22nd Apr 2025",
+        "authors": [
+            "DesignNerds"
+        ],
+        "publication": "Level Up Coding",
+        "published_on": "30th Oct 2024",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Database (DB)",
+            "Database Indexing"
+        ],
+        "thumbnail": "",
+        "title": "System design concepts: Database Indexing Essentials",
+        "url": "https://levelup.gitconnected.com/system-design-concepts-database-indexing-essentials-e1127e2ded59",
+        "language": "english",
+        "type": "Article",
+        "id": "2b261772-ab37-4fc5-9db5-d82649b40ffb",
+        "is_paid": true,
+        "rating": 9
+    },
+    {
+        "added_on": "22nd Apr 2025",
+        "authors": [
+            "Kevin Meneses González"
+        ],
+        "publication": "Python in Plain English",
+        "published_on": "27th Dec 2024",
+        "read": false,
+        "tags": [
+            "Programming Language",
+            "Programming language Concepts",
+            "Python",
+            "Python Decorators"
+        ],
+        "thumbnail": "",
+        "title": "5 Python Decorators That Will Transform Your Coding Workflow",
+        "url": "https://python.plainenglish.io/5-python-decorators-that-will-transform-your-coding-workflow-38a9c199f7d9",
+        "language": "english",
+        "type": "Article",
+        "id": "b8dab47b-7066-4f6b-ad50-4435dc3f06ae",
+        "is_paid": true,
+        "rating": 9
+    },
+    {
+        "added_on": "22nd Apr 2025",
+        "authors": [
+            "Mayank Sharma"
+        ],
+        "publication": "Level Up Coding",
+        "published_on": "05th Mar 2025",
+        "read": false,
+        "tags": [
+            "File Uploading",
+            "Client-side File Upload",
+            "Server-side File Upload"
+        ],
+        "thumbnail": "",
+        "title": "Why files are uploaded using client side upload instead of server?",
+        "url": "https://levelup.gitconnected.com/why-files-are-uploaded-using-client-side-upload-instead-of-server-c6299500a99b",
+        "language": "english",
+        "type": "Article",
+        "id": "75c43d4c-6842-4009-a059-d387f66a6696",
+        "is_paid": true,
+        "rating": 9
+    },
+    {
+        "added_on": "22nd Apr 2025",
+        "authors": [
+            "Kiran Maan"
+        ],
+        "publication": "Python in Plain English",
+        "published_on": "12th Dec 2024",
+        "read": false,
+        "tags": [
+            "Programming Language",
+            "Programming language Concepts",
+            "Python"
+        ],
+        "thumbnail": "",
+        "title": "10 Python Features That Seem Confusing (But Are Actually Brilliant)",
+        "url": "https://python.plainenglish.io/10-python-features-that-seem-confusing-but-are-actually-brilliant-2197989729bd",
+        "language": "english",
+        "type": "Article",
+        "id": "1da4db6b-f181-468c-bbb2-8a6c039e9913",
+        "is_paid": true,
+        "rating": 9
+    },
+    {
+        "added_on": "22nd Apr 2025",
+        "authors": [
+            "Kiran Maan"
+        ],
+        "publication": "Python in Plain English",
+        "published_on": "23rd Nov 2024",
+        "read": false,
+        "tags": [
+            "Programming Language",
+            "Programming language Concepts",
+            "Python"
+        ],
+        "thumbnail": "",
+        "title": "The Most Misunderstood Features of Python (and How to Master Them)",
+        "url": "https://python.plainenglish.io/the-most-misunderstood-features-of-python-and-how-to-master-them-c52528a01146",
+        "language": "english",
+        "type": "Article",
+        "id": "c236c1d7-6a53-48f5-a23e-806160be5d69",
+        "is_paid": true,
+        "rating": 9
+    },
+    {
+        "added_on": "22nd Apr 2025",
+        "authors": [
+            "Hyunil Kim"
+        ],
+        "publication": "Delivus",
+        "published_on": "11th Dec 2024",
+        "read": false,
+        "tags": [
+            "Programming Language",
+            "Programming language Concepts",
+            "Python",
+            "FastAPI",
+            "Exception Handling"
+        ],
+        "thumbnail": "",
+        "title": "Exception Handling Best Practices in Python: A FastAPI Perspective",
+        "url": "https://medium.com/delivus/exception-handling-best-practices-in-python-a-fastapi-perspective-98ede2256870",
+        "language": "english",
+        "type": "Article",
+        "id": "b4c8c80a-3614-42bf-ba7c-2f7921d6669f",
+        "is_paid": false,
+        "rating": 9
+    },
+    {
+        "added_on": "22nd Apr 2025",
+        "authors": [
+            "Aryan"
+        ],
+        "publication": "Cubed",
+        "published_on": "10th Mar 2025",
+        "read": false,
+        "tags": [
+            "Programming Language",
+            "Programming language Concepts",
+            "Golang",
+            "Go Pointers"
+        ],
+        "thumbnail": "",
+        "title": "Most People Don't Understand Why Go Uses Pointers Instead of References",
+        "url": "https://python.plainenglish.io/i-struggled-with-python-time-zones-until-i-learned-this-trick-a114d725786f",
+        "language": "english",
+        "type": "Article",
+        "id": "39bd4831-61f7-4117-a226-f2e9f295e976",
+        "is_paid": false,
+        "rating": 9
+    },
+    {
+        "added_on": "22nd Apr 2025",
+        "authors": [
+            "Kiran Maan"
+        ],
+        "publication": "Python in Plain English",
+        "published_on": "26th Mar 2025",
+        "read": false,
+        "tags": [
+            "Programming Language",
+            "Programming language Concepts",
+            "Timezones",
+            "Python"
+        ],
+        "thumbnail": "",
+        "title": "I Struggled With Python Time Zones. Until I Learned This Trick",
+        "url": "https://python.plainenglish.io/i-struggled-with-python-time-zones-until-i-learned-this-trick-a114d725786f",
+        "language": "english",
+        "type": "Article",
+        "id": "8fa0f978-953f-4f0f-9a4b-ee00dbb3e1bb",
+        "is_paid": true,
+        "rating": 9
+    },
+    {
+        "added_on": "22nd Apr 2025",
+        "authors": [
+            "Kiran Maan"
+        ],
+        "publication": "Python in Plain English",
+        "published_on": "15th Feb 2025",
+        "read": false,
+        "tags": [
+            "Programming Language",
+            "Programming language Concepts",
+            "Programming Language Internals",
+            "Python"
+        ],
+        "thumbnail": "",
+        "title": "This Happens Inside Python. When We Call a Function",
+        "url": "https://python.plainenglish.io/this-happens-inside-python-when-we-call-a-function-161f8d212e98",
+        "language": "english",
+        "type": "Article",
+        "id": "70f6e455-3872-4461-8622-436f47670292",
+        "is_paid": true,
+        "rating": 9
+    },
+    {
+        "added_on": "22nd Apr 2025",
+        "authors": [
+            "Yash"
+        ],
+        "publication": "Medium",
+        "published_on": "26th Feb 2025",
+        "read": false,
+        "tags": [
+            "Concurrency"
+        ],
+        "thumbnail": "",
+        "title": "Top Python Concurrency Interview Questions — Part 1",
+        "url": "https://medium.com/@yashwanthnandam/top-python-concurrency-interview-questions-part-1-5c34aac53dba",
+        "language": "english",
+        "type": "Article",
+        "id": "bd726e6c-8a2d-4527-8be4-ab967c27b9eb",
+        "is_paid": false,
+        "rating": 9
+    },
+    {
+        "added_on": "22nd Apr 2025",
+        "authors": [
+            "Mayank Sharma"
+        ],
+        "publication": "Level Up Coding",
+        "published_on": "18th Mar 2024",
+        "read": false,
+        "tags": [
+            "Caching",
+            "Cache Consistency",
+            "Meta"
+        ],
+        "thumbnail": "",
+        "title": "How meta improved their cache consistency to 99.99999999",
+        "url": "https://levelup.gitconnected.com/how-meta-improved-their-cache-consistency-to-99-99999999-58d79674a806",
+        "language": "english",
+        "type": "Article",
+        "id": "31891fd3-e27b-499a-b8ab-7b114b269c4e",
+        "is_paid": true,
+        "rating": 9
+    },
+    {
+        "added_on": "22nd Apr 2025",
+        "authors": [
+            "Yash"
+        ],
+        "publication": "Python in Plain English",
+        "published_on": "24th Oct 2024",
+        "read": false,
+        "tags": [
+            "Programming language Concepts",
+            "Python",
+            "Asynchronous Programming"
+        ],
+        "thumbnail": "",
+        "title": "Mastering Asynchronous Programming in Python: A Journey Through 8 Levels",
+        "url": "https://python.plainenglish.io/mastering-asynchronous-programming-in-python-a-journey-through-8-levels-bafe38a7cc4d",
+        "language": "english",
+        "type": "Article",
+        "id": "d76b6cd1-edc7-4a1d-8539-59f9614e3894",
+        "is_paid": true,
+        "rating": 9
+    },
+    {
+        "added_on": "22nd Apr 2025",
+        "authors": [
+            "Coders Stop"
+        ],
+        "publication": "Hack the Stack",
+        "published_on": "27th Mar 2024",
+        "read": true,
+        "tags": [
+            "Programming language Concepts",
+            "Python",
+            "Python Requests Library",
+            "Python HTTPx Library"
+        ],
+        "thumbnail": "",
+        "title": "9 Database Optimization Tricks SQL Experts Are Hiding From You",
+        "url": "https://medium.com/hack-the-stack/9-database-optimization-tricks-sql-experts-are-hiding-from-you-40834c93be86",
+        "language": "english",
+        "type": "Article",
+        "id": "2c84f7c6-5822-47ac-83e2-3c50f91e635f",
+        "is_paid": true,
+        "rating": 9
+    },
+    {
+        "added_on": "22nd Apr 2025",
+        "authors": [
+            "Onur Baskin"
+        ],
+        "publication": "Python in Plain English",
+        "published_on": "13th Jan 2024",
+        "read": true,
+        "tags": [
+            "Programming language Concepts",
+            "Python",
+            "Python Requests Library",
+            "Python HTTPx Library"
+        ],
+        "thumbnail": "",
+        "title": "Python: Requests vs HTTPX",
+        "url": "https://levelup.gitconnected.com/learning-these-things-made-me-a-regex-expert-7385e95886b7",
+        "language": "english",
+        "type": "Article",
+        "id": "f9ae3c6f-7d42-4d56-ac4f-be7f56f4600a",
+        "is_paid": true,
+        "rating": 8
+    },
+    {
+        "added_on": "22nd Apr 2025",
+        "authors": [
+            "Rishabh Agarwal"
+        ],
+        "publication": "Level Up Coding",
+        "published_on": "24th Mar 2024",
+        "read": true,
+        "tags": [
+            "Programming language Concepts",
+            "Regular Expression (RegEx)"
+        ],
+        "thumbnail": "",
+        "title": "Learning These Things Made Me A RegEx Expert!",
+        "url": "https://levelup.gitconnected.com/learning-these-things-made-me-a-regex-expert-7385e95886b7",
+        "language": "english",
+        "type": "Article",
+        "id": "8cd73944-c592-418d-a884-513000e7ff01",
+        "is_paid": true,
+        "rating": 8
+    },
+    {
+        "added_on": "22nd Apr 2025",
+        "authors": [
+            "Dhruv Ahuja"
+        ],
+        "publication": "Python in Plain English",
+        "published_on": "19th Nov 2024",
+        "read": false,
+        "tags": [
+            "Programming Language",
+            "Programming language Concepts",
+            "Python",
+            "Asynchronous Programming"
+        ],
+        "thumbnail": "",
+        "title": "Don't Fear Async: A Friendly Guide to Python's Most Powerful Tool",
+        "url": "https://python.plainenglish.io/dont-fear-async-a-friendly-guide-to-python-s-most-powerful-tool-a45f4a477a81",
+        "language": "english",
+        "type": "Article",
+        "id": "5f4d046f-eabd-422b-8624-1650d94cbf20",
+        "is_paid": true,
+        "rating": 8
+    },
+    {
         "added_on": "19th Apr 2025",
         "authors": [
             "Renaldi Purwanto"
