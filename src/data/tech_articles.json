@@ -1,5 +1,49 @@
 [
     {
+        "added_on": "21st Jun 2025",
+        "authors": [
+            "Mohamed ElEmam"
+        ],
+        "publication": "Medium",
+        "published_on": "15th Jun 2025",
+        "read": true,
+        "tags": [
+            "System Design",
+            "Microservice",
+            "DevOps"
+        ],
+        "thumbnail": "",
+        "title": "The Dark Side of Microservices: When DevOps Becomes AntiOps",
+        "url": "https://towardsaws.com/the-dark-side-of-microservices-when-devops-becomes-antiops-d843d6c174ec",
+        "language": "english",
+        "type": "Article",
+        "id": "a50c4d15-445a-4bbb-adcc-48dad25c8d99",
+        "is_paid": true,
+        "rating": 9
+    },
+    {
+        "added_on": "21st Jun 2025",
+        "authors": [
+            "Tobenna Oduah"
+        ],
+        "publication": "Medium",
+        "published_on": "02nd Jun 2025",
+        "read": true,
+        "tags": [
+            "System Design",
+            "Docker",
+            "Kubernetes"
+        ],
+        "thumbnail": "",
+        "title": "How I Finally Understood Docker and Kubernetes",
+        "url": "https://medium.com/javarevisited/how-i-finally-understood-docker-and-kubernetes-5debb13cacfe",
+        "language": "english",
+        "type": "Article",
+        "id": "552390a1-8600-484e-8b6a-8368f60d2d74",
+        "is_paid": false,
+        "rating": 8
+    },
+    {
         "added_on": "22nd Apr 2025",
         "authors": [
             "DesignNerds"
