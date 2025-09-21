@@ -2,6 +2,29 @@
     {
         "added_on": "21st Sep 2025",
         "authors": [
+            "Tobenna Oduah"
+        ],
+        "publication": "Medium",
+        "published_on": "02nd Jun 2025",
+        "read": true,
+        "tags": [
+            "System Design",
+            "Orchestration",
+            "Docker",
+            "Kubernetes"
+        ],
+        "thumbnail": "",
+        "title": "How I Finally Understood Docker and Kubernetes",
+        "url": "https://medium.com/javarevisited/how-i-finally-understood-docker-and-kubernetes-5debb13cacfe",
+        "language": "english",
+        "type": "Article",
+        "id": "9f87f1d6-42fe-4cac-9805-d3fe895d6329",
+        "is_paid": false,
+        "rating": 7
+    },
+    {
+        "added_on": "21st Sep 2025",
+        "authors": [
             "Dev Tips"
         ],
         "publication": "Medium",

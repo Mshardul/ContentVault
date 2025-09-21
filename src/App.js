@@ -27,7 +27,7 @@ function App() {
       <ThemeProvider>
         <TagColorProvider>
           <FontProvider>
-            <Router>
+            <Router basename="/content-vault">
               <Layout onSearch={(selectedTags) => console.log('Selected tags:', selectedTags)}>
                 <Routes>
                   <Route path="/" element={<HomePage />} />
