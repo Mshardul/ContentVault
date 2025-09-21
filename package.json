@@ -2,7 +2,7 @@
   "name": "content-vault",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mshardul.github.io/content-vault",
+  "homepage": "https://mshardul.github.io/ContentVault",
   "dependencies": {
     "@tailwindcss/typography": "^0.5.15",
     "@testing-library/jest-dom": "^5.17.0",
