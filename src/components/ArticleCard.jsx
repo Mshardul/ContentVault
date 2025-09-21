@@ -46,6 +46,7 @@ const ArticleCard = ({ title, url, tags = [], thumbnail = "", statusIndicators =
     }
 
     const fetchThumbnail = async () => {
+      setLoading(true);
       for (let proxy of CORS_PROXIES) {
         try {
           const response = await fetch(`${proxy}${url}`);
@@ -68,8 +69,8 @@ const ArticleCard = ({ title, url, tags = [], thumbnail = "", statusIndicators =
           console.warn(`Failed to fetch thumbnail via proxy ${proxy}`, error);
           continue;  // try next proxy on error
         }
-        setLoading(false);
       }
+      setLoading(false);
     };
 
     fetchThumbnail();
