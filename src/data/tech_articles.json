@@ -1,5 +1,80 @@
 [
     {
+        "added_on": "21st Sep 2025",
+        "authors": [
+            "Dev Tips"
+        ],
+        "publication": "Medium",
+        "published_on": "02nd Aug 2025",
+        "read": false,
+        "tags": [
+            "System Design",
+            "Tools",
+            "Postgres",
+            "JSONB",
+            "SQL",
+            "Job Scheduling",
+            "Cron Job",
+            "Redis",
+            "Authentication",
+            "Analytics"
+        ],
+        "thumbnail": "",
+        "title": "You don't need 20 tools. Just use Postgres (seriously!)",
+        "url": "https://medium.com/@dev_tips/you-dont-need-20-tools-just-use-postgres-seriously-356043a21f98",
+        "language": "english",
+        "type": "Article",
+        "id": "268527e4-8fab-4097-b743-78729bd5b497",
+        "is_paid": true,
+        "rating": 9
+    },
+    {
+        "added_on": "21st Sep 2025",
+        "authors": [
+            "Nikulsinh Rajput"
+        ],
+        "publication": "Medium",
+        "published_on": "03rd Aug 2025",
+        "read": true,
+        "tags": [
+            "API Calls",
+            "Python",
+            "FastAPI",
+            "Dependency Injection"
+        ],
+        "thumbnail": "",
+        "title": "Stop Using Depends for Everything - Here's a Faster Way",
+        "url": "https://medium.com/@hadiyolworld007/stop-using-depends-for-everything-heres-a-faster-way-c85ed1eb35ad",
+        "language": "english",
+        "type": "Article",
+        "id": "45260b99-6c82-45fa-ac37-1c63857343d3",
+        "is_paid": true,
+        "rating": 8
+    },
+    {
+        "added_on": "21st Sep 2025",
+        "authors": [
+            "Arunangshu Das"
+        ],
+        "publication": "Medium",
+        "published_on": "12th Aug 2025",
+        "read": true,
+        "tags": [
+            "System Design",
+            "Microservice",
+            "API Calls",
+            "Logging"
+        ],
+        "thumbnail": "",
+        "title": "How to Log Every API Call Without Slowing Down Your Server",
+        "url": "https://article.arunangshudas.com/how-to-log-every-api-call-without-slowing-down-your-server-8d3437bf7a33",
+        "language": "english",
+        "type": "Article",
+        "id": "c54882c0-dc9b-4d8a-8913-06eb49542433",
+        "is_paid": false,
+        "rating": 8
+    },
+    {
         "added_on": "21st Jun 2025",
         "authors": [
             "Mohamed ElEmam"
