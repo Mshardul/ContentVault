@@ -2,29 +2,6 @@
     {
         "added_on": "21st Sep 2025",
         "authors": [
-            "Tobenna Oduah"
-        ],
-        "publication": "Medium",
-        "published_on": "02nd Jun 2025",
-        "read": true,
-        "tags": [
-            "System Design",
-            "Orchestration",
-            "Docker",
-            "Kubernetes"
-        ],
-        "thumbnail": "https://miro.medium.com/v2/resize:fit:1200/1*UIBrk_046qAl9Jp-yNxKUQ.jpeg",
-        "title": "How I Finally Understood Docker and Kubernetes",
-        "url": "https://medium.com/javarevisited/how-i-finally-understood-docker-and-kubernetes-5debb13cacfe",
-        "language": "english",
-        "type": "Article",
-        "id": "9f87f1d6-42fe-4cac-9805-d3fe895d6329",
-        "is_paid": false,
-        "rating": 7
-    },
-    {
-        "added_on": "21st Sep 2025",
-        "authors": [
             "Dev Tips"
         ],
         "publication": "Medium",
@@ -139,7 +116,7 @@
         "type": "Article",
         "id": "552390a1-8600-484e-8b6a-8368f60d2d74",
         "is_paid": false,
-        "rating": 8
+        "rating": 7
     },
     {
         "added_on": "22nd Apr 2025",
@@ -290,9 +267,9 @@
             "Golang",
             "Go Pointers"
         ],
-        "thumbnail": "https://miro.medium.com/v2/resize:fit:562/1*yPDIvDvaUpGi8UZc_rgy1A.png",
+        "thumbnail": "",
         "title": "Most People Don't Understand Why Go Uses Pointers Instead of References",
-        "url": "https://python.plainenglish.io/i-struggled-with-python-time-zones-until-i-learned-this-trick-a114d725786f",
+        "url": "https://blog.cubed.run/most-people-dont-understand-why-go-uses-pointers-instead-of-references-bad755dea39f",
         "language": "english",
         "type": "Article",
         "id": "39bd4831-61f7-4117-a226-f2e9f295e976",
@@ -313,7 +290,7 @@
             "Timezones",
             "Python"
         ],
-        "thumbnail": "",
+        "thumbnail": "https://miro.medium.com/v2/resize:fit:562/1*yPDIvDvaUpGi8UZc_rgy1A.png",
         "title": "I Struggled With Python Time Zones. Until I Learned This Trick",
         "url": "https://python.plainenglish.io/i-struggled-with-python-time-zones-until-i-learned-this-trick-a114d725786f",
         "language": "english",
@@ -378,7 +355,7 @@
             "Cache Consistency",
             "Meta"
         ],
-        "thumbnail": "",
+        "thumbnail": "https://miro.medium.com/v2/resize:fit:1200/1*4Hrv7qAucDhNWFwhpd6rtw.jpeg",
         "title": "How meta improved their cache consistency to 99.99999999",
         "url": "https://levelup.gitconnected.com/how-meta-improved-their-cache-consistency-to-99-99999999-58d79674a806",
         "language": "english",
@@ -423,7 +400,7 @@
             "Python Requests Library",
             "Python HTTPx Library"
         ],
-        "thumbnail": "",
+        "thumbnail": "https://miro.medium.com/v2/resize:fit:1192/0*TN712SshRtsjSUA5.jpg",
         "title": "9 Database Optimization Tricks SQL Experts Are Hiding From You",
         "url": "https://medium.com/hack-the-stack/9-database-optimization-tricks-sql-experts-are-hiding-from-you-40834c93be86",
         "language": "english",
@@ -446,9 +423,9 @@
             "Python Requests Library",
             "Python HTTPx Library"
         ],
-        "thumbnail": "https://miro.medium.com/v2/resize:fit:1200/1*MCWu2hWxxTsWsK8_cXMsHA.png",
+        "thumbnail": "",
         "title": "Python: Requests vs HTTPX",
-        "url": "https://levelup.gitconnected.com/learning-these-things-made-me-a-regex-expert-7385e95886b7",
+        "url": "https://python.plainenglish.io/python-requests-vs-httpx-db36b1c6be56",
         "language": "english",
         "type": "Article",
         "id": "f9ae3c6f-7d42-4d56-ac4f-be7f56f4600a",
@@ -467,7 +444,7 @@
             "Programming language Concepts",
             "Regular Expression (RegEx)"
         ],
-        "thumbnail": "",
+        "thumbnail": "https://miro.medium.com/v2/resize:fit:1200/1*MCWu2hWxxTsWsK8_cXMsHA.png",
         "title": "Learning These Things Made Me A RegEx Expert!",
         "url": "https://levelup.gitconnected.com/learning-these-things-made-me-a-regex-expert-7385e95886b7",
         "language": "english",
@@ -498,30 +475,6 @@
         "id": "5f4d046f-eabd-422b-8624-1650d94cbf20",
         "is_paid": true,
         "rating": 8
-    },
-    {
-        "added_on": "19th Apr 2025",
-        "authors": [
-            "Renaldi Purwanto"
-        ],
-        "publication": "Level Up Coding",
-        "published_on": "09th Mar 2025",
-        "read": true,
-        "tags": [
-            "Programming Language",
-            "Programming language Concepts",
-            "Python",
-            "Object Oriented Programming (OOP)",
-            "super()"
-        ],
-        "thumbnail": "https://miro.medium.com/v2/resize:fit:568/1*o6oTqU83wUk9YVqdzaHJ3g.png",
-        "title": "I Just Discovered Python's super() Works Differently Than I Thought",
-        "url": "https://python.plainenglish.io/i-just-discovered-pythons-super-works-differently-than-i-thought-7239f1395469",
-        "language": "english",
-        "type": "Article",
-        "id": "b008099d-8104-476c-bd36-42fe59a6877c",
-        "is_paid": true,
-        "rating": 9
     },
     {
         "added_on": "19th Apr 2025",
