@@ -13,7 +13,7 @@
             "Docker",
             "Kubernetes"
         ],
-        "thumbnail": "",
+        "thumbnail": "https://miro.medium.com/v2/resize:fit:1200/1*UIBrk_046qAl9Jp-yNxKUQ.jpeg",
         "title": "How I Finally Understood Docker and Kubernetes",
         "url": "https://medium.com/javarevisited/how-i-finally-understood-docker-and-kubernetes-5debb13cacfe",
         "language": "english",
@@ -42,7 +42,7 @@
             "Authentication",
             "Analytics"
         ],
-        "thumbnail": "",
+        "thumbnail": "https://miro.medium.com/v2/resize:fit:1024/1*vepIjm2OZCh_ffY1qLTV_A.jpeg",
         "title": "You don't need 20 tools. Just use Postgres (seriously!)",
         "url": "https://medium.com/@dev_tips/you-dont-need-20-tools-just-use-postgres-seriously-356043a21f98",
         "language": "english",
@@ -65,7 +65,7 @@
             "FastAPI",
             "Dependency Injection"
         ],
-        "thumbnail": "",
+        "thumbnail": "https://miro.medium.com/v2/resize:fit:1200/1*gWkt1ufwQ4G6s7hkKqUpsg.png",
         "title": "Stop Using Depends for Everything - Here's a Faster Way",
         "url": "https://medium.com/@hadiyolworld007/stop-using-depends-for-everything-heres-a-faster-way-c85ed1eb35ad",
         "language": "english",
@@ -88,7 +88,7 @@
             "API Calls",
             "Logging"
         ],
-        "thumbnail": "",
+        "thumbnail": "https://miro.medium.com/v2/resize:fit:1200/1*BY6Oqrvi-N7jwjypvKC_2Q.png",
         "title": "How to Log Every API Call Without Slowing Down Your Server",
         "url": "https://article.arunangshudas.com/how-to-log-every-api-call-without-slowing-down-your-server-8d3437bf7a33",
         "language": "english",
@@ -110,7 +110,7 @@
             "Microservice",
             "DevOps"
         ],
-        "thumbnail": "",
+        "thumbnail": "https://miro.medium.com/v2/da:true/resize:fit:1024/0*bPSotv-LoWsUdrRX",
         "title": "The Dark Side of Microservices: When DevOps Becomes AntiOps",
         "url": "https://towardsaws.com/the-dark-side-of-microservices-when-devops-becomes-antiops-d843d6c174ec",
         "language": "english",
@@ -154,7 +154,7 @@
             "Database (DB)",
             "Database Indexing"
         ],
-        "thumbnail": "",
+        "thumbnail": "https://miro.medium.com/v2/resize:fit:1200/1*c38JnBAAJBJbcm84wS3IvA.png",
         "title": "System design concepts: Database Indexing Essentials",
         "url": "https://levelup.gitconnected.com/system-design-concepts-database-indexing-essentials-e1127e2ded59",
         "language": "english",
@@ -177,7 +177,7 @@
             "Python",
             "Python Decorators"
         ],
-        "thumbnail": "",
+        "thumbnail": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*bbDuRtK_uxAkpGUT",
         "title": "5 Python Decorators That Will Transform Your Coding Workflow",
         "url": "https://python.plainenglish.io/5-python-decorators-that-will-transform-your-coding-workflow-38a9c199f7d9",
         "language": "english",
@@ -199,7 +199,7 @@
             "Client-side File Upload",
             "Server-side File Upload"
         ],
-        "thumbnail": "",
+        "thumbnail": "https://miro.medium.com/v2/resize:fit:852/1*3yMSc2y9lxuMM6epMcakOg.png",
         "title": "Why files are uploaded using client side upload instead of server?",
         "url": "https://levelup.gitconnected.com/why-files-are-uploaded-using-client-side-upload-instead-of-server-c6299500a99b",
         "language": "english",
@@ -221,7 +221,7 @@
             "Programming language Concepts",
             "Python"
         ],
-        "thumbnail": "",
+        "thumbnail": "https://miro.medium.com/v2/resize:fit:1080/1*ztrJKdy2_d_60lr7MCvEgA.png",
         "title": "10 Python Features That Seem Confusing (But Are Actually Brilliant)",
         "url": "https://python.plainenglish.io/10-python-features-that-seem-confusing-but-are-actually-brilliant-2197989729bd",
         "language": "english",
@@ -243,7 +243,7 @@
             "Programming language Concepts",
             "Python"
         ],
-        "thumbnail": "",
+        "thumbnail": "https://miro.medium.com/v2/resize:fit:1080/1*u4uYEbEebmH_GxxPJMdJ3Q.png",
         "title": "The Most Misunderstood Features of Python (and How to Master Them)",
         "url": "https://python.plainenglish.io/the-most-misunderstood-features-of-python-and-how-to-master-them-c52528a01146",
         "language": "english",
@@ -267,7 +267,7 @@
             "FastAPI",
             "Exception Handling"
         ],
-        "thumbnail": "",
+        "thumbnail": "https://miro.medium.com/v2/resize:fit:1200/1*Qe-c6rBD5dU2TrLBWKNGVQ.png",
         "title": "Exception Handling Best Practices in Python: A FastAPI Perspective",
         "url": "https://medium.com/delivus/exception-handling-best-practices-in-python-a-fastapi-perspective-98ede2256870",
         "language": "english",
