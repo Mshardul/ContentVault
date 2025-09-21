@@ -14,8 +14,6 @@ const CORS_PROXIES = [
   "https://corsproxy.io/?"
 ];
 
-const CORS_PROXY = "https://thingproxy.freeboard.io/fetch/";
-
 const ArticleCard = ({ title, url, tags = [], thumbnail = "", statusIndicators = [], type = "" }) => {
   const { thumbnailCache, setThumbnailCache } = useContext(AppContext);
   const [thumbnailUrl, setThumbnailUrl] = useState(thumbnailCache[url] || "");
@@ -48,25 +46,28 @@ const ArticleCard = ({ title, url, tags = [], thumbnail = "", statusIndicators =
     }
 
     const fetchThumbnail = async () => {
-      try {
-        const response = await fetch(`${CORS_PROXY}${url}`);
-        const text = await response.text();
-        const parser = new DOMParser();
-        const doc = parser.parseFromString(text, "text/html");
-        const ogImage = doc.querySelector('meta[property="og:image"]');
-        const fetchedThumbnailUrl = ogImage ? ogImage.content : null;
+      for (let proxy of CORS_PROXIES) {
+        try {
+          const response = await fetch(`${proxy}${url}`);
+          const text = await response.text();
+          const parser = new DOMParser();
+          const doc = parser.parseFromString(text, "text/html");
+          const ogImage = doc.querySelector('meta[property="og:image"]');
+          const fetchedThumbnailUrl = ogImage ? ogImage.content : null;
 
-        if (fetchedThumbnailUrl) {
-          console.log("thumbnail_url", url, fetchedThumbnailUrl);
-          setThumbnailUrl(fetchedThumbnailUrl);
+          if (fetchedThumbnailUrl) {
+            console.log("thumbnail_url", url, fetchedThumbnailUrl);
+            setThumbnailUrl(fetchedThumbnailUrl);
 
-          // Use the ref’s current value of setThumbnailCache to avoid dependency re-renders
-          setThumbnailCacheRef.current(prev => ({ ...prev, [url]: fetchedThumbnailUrl }));
+            // Update cache safely using ref
+            setThumbnailCacheRef.current(prev => ({ ...prev, [url]: fetchedThumbnailUrl }));
+
+            break;
+          }
+        } catch (error) {
+          console.warn(`Failed to fetch thumbnail via proxy ${proxy}`, error);
+          continue;  // try next proxy on error
         }
-      } catch (error) {
-        console.error("Error fetching thumbnail:", error);
-        setThumbnailUrl("");
-      } finally {
         setLoading(false);
       }
     };

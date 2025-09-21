@@ -15,8 +15,10 @@ const SettingsPage = () => {
   const [selectedFont, setSelectedFont] = useState(font);
 
   useEffect(() => {
+    // Default theme and Font
     setTheme(selectedTheme);
     setFont(selectedFont);
+
     // Save preferences to localStorage
     localStorage.setItem('theme', selectedTheme);
     localStorage.setItem('font', selectedFont);
@@ -57,6 +59,7 @@ const SettingsPage = () => {
           ))}
         </select>
       </div>
+
     </div>
   );
 };

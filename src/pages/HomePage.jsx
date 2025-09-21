@@ -1,30 +1,30 @@
+// React Imports
 import React, { useCallback, useEffect, useState } from 'react';
+
+// External Library Imports
 import axios from 'axios';
+
+// Internal Project Imports
 import ArticleList from '../components/ArticleList';
+import articlesData from '../data/tech_articles.json';
 import PageTitle from '../components/PageTitle';
 
-const BATCH_SIZE = 10;
-const API_URL = 'https://6nq8by3vud.execute-api.us-east-2.amazonaws.com/prod/content';
+const BATCH_SIZE = 12;
 
 const HomePage = () => {
   const [articles, setArticles] = useState([]);
-  const [lastEvaluatedKey, setLastEvaluatedKey] = useState(null);
+  const [lastEvaluatedIndex, setLastEvaluatedIndex] = useState(-1);
   const [loading, setLoading] = useState(false);
   const [hasMore, setHasMore] = useState(true);
 
   // Helper function to fetch articles from API
   const fetchArticles = async () => {
-    const response = await axios.get(API_URL, {
-      params: {
-        limit: BATCH_SIZE,
-        lastEvaluatedKey: lastEvaluatedKey ? lastEvaluatedKey : null
-      }
-    });
-    const data = JSON.parse(response.data.body);
+    const newLastEvaluatedIndex = Math.min(lastEvaluatedIndex+BATCH_SIZE+1, articlesData.length)
+    const newArticles = articlesData.slice(lastEvaluatedIndex+1, newLastEvaluatedIndex)
     return {
-      newArticles: data.items,
-      newLastEvaluatedKey: data.lastEvaluatedKey ? encodeURIComponent(JSON.stringify(data.lastEvaluatedKey)) : null
-    };
+      newArticles: newArticles,
+      newLastEvaluatedIndex: newLastEvaluatedIndex
+    }
   };
 
   // Function to load the next set of articles
@@ -33,12 +33,12 @@ const HomePage = () => {
     setLoading(true);
 
     try {
-      const { newArticles, newLastEvaluatedKey } = await fetchArticles();
+      const { newArticles, newLastEvaluatedIndex } = await fetchArticles();
 
       // Update articles and pagination state
       if (newArticles) setArticles((prevArticles) => [...prevArticles, ...newArticles]);
-      setLastEvaluatedKey(newLastEvaluatedKey);
-      setHasMore(!!newLastEvaluatedKey && newArticles.length >= BATCH_SIZE);
+      setLastEvaluatedIndex(newLastEvaluatedIndex);
+      setHasMore(!!newLastEvaluatedIndex && newArticles.length >= BATCH_SIZE);
 
     } catch (error) {
       console.error("Error fetching articles:", error);
@@ -46,7 +46,7 @@ const HomePage = () => {
     } finally {
       setLoading(false);
     }
-  }, [lastEvaluatedKey, hasMore, loading]);
+  }, [lastEvaluatedIndex, hasMore, loading]);
 
   // Initial load of articles
   useEffect(() => {

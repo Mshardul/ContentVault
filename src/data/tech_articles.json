@@ -290,7 +290,7 @@
             "Golang",
             "Go Pointers"
         ],
-        "thumbnail": "",
+        "thumbnail": "https://miro.medium.com/v2/resize:fit:562/1*yPDIvDvaUpGi8UZc_rgy1A.png",
         "title": "Most People Don't Understand Why Go Uses Pointers Instead of References",
         "url": "https://python.plainenglish.io/i-struggled-with-python-time-zones-until-i-learned-this-trick-a114d725786f",
         "language": "english",
@@ -336,7 +336,7 @@
             "Programming Language Internals",
             "Python"
         ],
-        "thumbnail": "",
+        "thumbnail": "https://miro.medium.com/v2/resize:fit:1135/0*bbZvibtRNfPHU1LV.png",
         "title": "This Happens Inside Python. When We Call a Function",
         "url": "https://python.plainenglish.io/this-happens-inside-python-when-we-call-a-function-161f8d212e98",
         "language": "english",
@@ -356,7 +356,7 @@
         "tags": [
             "Concurrency"
         ],
-        "thumbnail": "",
+        "thumbnail": "https://miro.medium.com/v2/resize:fit:700/0*O67m_qZ5EbhQEfmR.jpg",
         "title": "Top Python Concurrency Interview Questions — Part 1",
         "url": "https://medium.com/@yashwanthnandam/top-python-concurrency-interview-questions-part-1-5c34aac53dba",
         "language": "english",
@@ -400,7 +400,7 @@
             "Python",
             "Asynchronous Programming"
         ],
-        "thumbnail": "",
+        "thumbnail": "https://miro.medium.com/v2/resize:fit:750/0*-4z8Wzb5sWLNWLIq.jpg",
         "title": "Mastering Asynchronous Programming in Python: A Journey Through 8 Levels",
         "url": "https://python.plainenglish.io/mastering-asynchronous-programming-in-python-a-journey-through-8-levels-bafe38a7cc4d",
         "language": "english",
@@ -446,7 +446,7 @@
             "Python Requests Library",
             "Python HTTPx Library"
         ],
-        "thumbnail": "",
+        "thumbnail": "https://miro.medium.com/v2/resize:fit:1200/1*MCWu2hWxxTsWsK8_cXMsHA.png",
         "title": "Python: Requests vs HTTPX",
         "url": "https://levelup.gitconnected.com/learning-these-things-made-me-a-regex-expert-7385e95886b7",
         "language": "english",
@@ -490,7 +490,7 @@
             "Python",
             "Asynchronous Programming"
         ],
-        "thumbnail": "",
+        "thumbnail": "https://miro.medium.com/v2/resize:fit:512/1*W0G_upXTYxYppLE7evdWlw.png",
         "title": "Don't Fear Async: A Friendly Guide to Python's Most Powerful Tool",
         "url": "https://python.plainenglish.io/dont-fear-async-a-friendly-guide-to-python-s-most-powerful-tool-a45f4a477a81",
         "language": "english",
@@ -514,7 +514,7 @@
             "Object Oriented Programming (OOP)",
             "super()"
         ],
-        "thumbnail": "",
+        "thumbnail": "https://miro.medium.com/v2/resize:fit:568/1*o6oTqU83wUk9YVqdzaHJ3g.png",
         "title": "I Just Discovered Python's super() Works Differently Than I Thought",
         "url": "https://python.plainenglish.io/i-just-discovered-pythons-super-works-differently-than-i-thought-7239f1395469",
         "language": "english",
@@ -560,7 +560,7 @@
             "PostgreSQL",
             "Database Indexing"
         ],
-        "thumbnail": "",
+        "thumbnail": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*L8wcUI1BIL2MKJM0",
         "title": "Indexing in PostgreSQL Part-1",
         "url": "https://rajansahu713.medium.com/indexing-in-postgresql-part-1-de77106f482c",
         "language": "english",
@@ -607,7 +607,7 @@
             "Python",
             "Enums"
         ],
-        "thumbnail": "",
+        "thumbnail": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*hQ56LOjCUsXtmRuI",
         "title": "The Enum Trick Every Python Developer Should Know",
         "url": "https://python.plainenglish.io/the-enum-trick-every-python-developer-should-know-6d3b0d0ef351",
         "language": "english",
@@ -674,7 +674,7 @@
             "Python",
             "Unit Testing"
         ],
-        "thumbnail": "",
+        "thumbnail": "https://miro.medium.com/v2/resize:fit:1200/1*Z9ykL-lRi-hvVSqYB0CtTw.jpeg",
         "title": "9 Things I Wish I Knew Earlier About Unit Testing In Python",
         "url": "https://medium.com/databases-in-simple-words/making-sql-query-40x-faster-for-10-million-rows-table-587d6a95727c",
         "language": "english",
@@ -735,7 +735,7 @@
             "CORS",
             "Same-Origin Policy"
         ],
-        "thumbnail": "",
+        "thumbnail": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr4icckztw38dda3ph7py.png",
         "title": "CORS and Same-Origin Policy Deep Dive",
         "url": "https://dev.to/omriluz1/cors-and-same-origin-policy-deep-dive-337g",
         "language": "english",
@@ -756,7 +756,7 @@
             "GitHub",
             "Github Actions"
         ],
-        "thumbnail": "",
+        "thumbnail": "https://samirs-organization-6.gitbook.io/github-actions-by-example/~gitbook/ogimage/s4J8RPUS0Fjmje9ZNoaz",
         "title": "GitHub Actions by Example",
         "url": "https://samirs-organization-6.gitbook.io/github-actions-by-example",
         "language": "english",
@@ -779,7 +779,7 @@
             "Data Structures",
             "ByteArray"
         ],
-        "thumbnail": "",
+        "thumbnail": "https://files.realpython.com/media/Pythons-Bytearray_Watermarked.736fb67a3a9a.jpg",
         "title": "Python's Bytearray: A Mutable Sequence of Bytes",
         "url": "https://realpython.com/python-bytearray/",
         "language": "english",
@@ -887,7 +887,7 @@
             "Python",
             "Python None"
         ],
-        "thumbnail": "",
+        "thumbnail": "https://miro.medium.com/v2/resize:fit:457/1*4Mro9sgkprf9rIsgbZ5G1w.png",
         "title": "Don't return NONE in Python to handle missing values",
         "url": "https://medium.com/@letslearnnow/kafka-deep-dive-scenario-based-problems-for-professionals-1c7a5aaa5f1c",
         "language": "english",
@@ -931,7 +931,7 @@
             "Programming language Concepts",
             "Golang"
         ],
-        "thumbnail": "",
+        "thumbnail": "https://miro.medium.com/v2/resize:fit:1200/0*5bARuTIIR-PdkJCi.png",
         "title": "8 Golang Performance Tips I Discovered After Years of Coding",
         "url": "https://medium.com/deep-golang/8-python-performance-tips-i-discovered-after-years-of-coding-in-golang-764375658d90",
         "language": "english",
@@ -953,7 +953,7 @@
             "Throughput",
             "Command Query Responsibility Segregation (CQRS)"
         ],
-        "thumbnail": "",
+        "thumbnail": "https://miro.medium.com/v2/resize:fit:1200/1*nFLCHv7-yh0a9drFEFkrMw.png",
         "title": "System architecture : High Throughput Reads & Writes in Databases (p2)",
         "url": "https://levelup.gitconnected.com/system-architecture-high-throughput-reads-writes-in-databases-p2-44f92c2f383d",
         "language": "english",
@@ -1002,7 +1002,7 @@
             "Programming language Concepts",
             "Golang"
         ],
-        "thumbnail": "",
+        "thumbnail": "https://miro.medium.com/v2/resize:fit:1200/0*FwYkAyIll1Ft34FP.jpeg",
         "title": "How We Slashed API Response Times by 50% with Go Compiler Optimizations",
         "url": "https://medium.com/@utsavmadaan823/how-we-slashed-api-response-times-by-50-with-go-compiler-optimizations-3c2592c2d241",
         "language": "english",
@@ -1023,7 +1023,7 @@
             "Database (DB)",
             "Database Comparison"
         ],
-        "thumbnail": "",
+        "thumbnail": "https://miro.medium.com/v2/resize:fit:1034/1*FM4ARbI-KjielTY7AGpYfA.png",
         "title": "15 Databases, 15 Use Cases — The Ultimate Guide That No One Asked For (But Everyone Needs)",
         "url": "https://levelup.gitconnected.com/15-databases-15-use-cases-the-ultimate-guide-that-no-one-asked-for-but-everyone-needs-47ca4009be78",
         "language": "english",
@@ -1046,7 +1046,7 @@
             "SQL Query Optimization",
             "Database Indexing"
         ],
-        "thumbnail": "",
+        "thumbnail": "https://miro.medium.com/v2/resize:fit:1200/1*H5qqUnLCI3O-sk1iWx23YA.png",
         "title": "SQL Query Optimization Best Practices",
         "url": "https://medium.com/art-of-data-engineering/sql-query-optimization-best-practices-d18bb7995e4b",
         "language": "english",
@@ -1069,7 +1069,7 @@
             "Database Design",
             "Object Relational Mapping (ORM)"
         ],
-        "thumbnail": "",
+        "thumbnail": "https://miro.medium.com/v2/resize:fit:1200/0*3BCgxHQUVd5RMRRL.jpeg",
         "title": "Database Modeling: Mapping Objects to Relational Databases",
         "url": "https://levelup.gitconnected.com/database-modeling-mapping-objects-to-relational-databases-c5e534a5927b",
         "language": "english",
@@ -1091,7 +1091,7 @@
             "API",
             "GraphQL"
         ],
-        "thumbnail": "",
+        "thumbnail": "https://miro.medium.com/v2/resize:fit:1200/0*e9ujGudo9Rq22-mz.png",
         "title": "GraphQL: From Excitement to Deception",
         "url": "https://medium.com/better-programming/graphql-from-excitement-to-deception-f81f7c95b7cf",
         "language": "english",
@@ -1113,7 +1113,7 @@
             "Cache",
             "Redis"
         ],
-        "thumbnail": "",
+        "thumbnail": "https://miro.medium.com/v2/resize:fit:1200/1*HCbwK3eBMu6H84wFXnvcXw.jpeg",
         "title": "Redis in Action: Accelerating Life and Code",
         "url": "https://medium.com/@mehdibafdil/redis-in-action-accelerating-life-and-code-ed11829e9496",
         "language": "english",
@@ -1137,7 +1137,7 @@
             "Maps",
             "Golang Maps"
         ],
-        "thumbnail": "",
+        "thumbnail": "https://victoriametrics.com/blog/go-map/go-map-preview.webp",
         "title": "Go Maps Explained: How Key-Value Pairs Are Actually Stored",
         "url": "https://victoriametrics.com/blog/go-map/",
         "language": "english",
@@ -5940,7 +5940,7 @@
         "tags": [
             "System Design",
             "Message Brokers",
-            "Redis", 
+            "Redis",
             "Redis pub/sub",
             "Pub/Sub"
         ],
@@ -7678,7 +7678,7 @@
         "language": "english",
         "type": "article",
         "id": "4b2b5474-e659-47e6-b593-89c58b01a431"
-    }, 
+    },
     {
         "added_on": "06th Nov 2024",
         "authors": [

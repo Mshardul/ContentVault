@@ -2,6 +2,16 @@
 
 ContentVault is a simple and efficient content curation app, designed to help users explore a wide variety of online articles, blogs, posts, courses, and other valuable resources. Users can browse by tags, view articles by multiple tags, and search articles based on tags. ContentVault is static, storing its content within the app, and requires no database integration.
 
+## How to run?
+- **Web**
+  - visit https://mshardul.github.io/ContentVault/
+- **Local**
+  - npm start
+
+## How to build and deploy?
+- npm run build
+- npm run deploy
+
 ## Features
 
 - **Homepage**: View a list of all available articles.
