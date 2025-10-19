@@ -2487,7 +2487,7 @@
         "title": "LUC #69: GraphQL vs REST: Navigating the Evolving Landscape of API Design",
         "url": "https://blog.levelupcoding.com/p/luc-69-graphql-vs-rest-navigating-the-evolving-landscape-of-api-design",
         "language": "english",
-        "type": "post",
+        "type": "Post",
         "id": "e41c6e04-e21b-4ca3-9429-760364d0213c",
         "rating": 8
     },
@@ -2509,7 +2509,7 @@
         "title": "JavaScript Interview Questions",
         "url": "https://dev.to/prajesh_kun/javascript-interview-questions-3epe",
         "language": "english",
-        "type": "post",
+        "type": "Post",
         "id": "25eacb52-70ba-4685-a025-8cf45be72953",
         "rating": 8
     },
@@ -2531,7 +2531,7 @@
         "title": "How does global index work in databses",
         "url": "https://programmingappliedai.substack.com/p/how-does-global-index-work-in-databses",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "f90c862e-7d30-4870-b813-e6cd6ae8ac33",
         "rating": 9
     },
@@ -2553,7 +2553,7 @@
         "title": "Django vs. FastAPI, An Honest Comparison",
         "url": "https://www.david-dahan.com/blog/comparing-fastapi-and-django",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "cb87ba3c-7875-4b03-a67b-4ba7da9b41cc",
         "rating": 9
     },
@@ -2575,7 +2575,7 @@
         "title": "Building a GitLab CI/CD pipeline for a monorepo the easy way",
         "url": "https://about.gitlab.com/blog/2024/07/30/building-a-gitlab-ci-cd-pipeline-for-a-monorepo-the-easy-way/",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "9eead840-c909-441f-914f-fdf64056ba50",
         "rating": 7
     },
@@ -2597,7 +2597,7 @@
         "title": "Building a GitLab CI/CD pipeline for a monorepo the easy way",
         "url": "https://about.gitlab.com/blog/2024/07/30/building-a-gitlab-ci-cd-pipeline-for-a-monorepo-the-easy-way/",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "9eead840-c909-441f-914f-fdf64056ba50",
         "rating": 7
     },
@@ -2620,7 +2620,7 @@
         "title": "Tutorial: How to set up your first GitLab CI/CD component",
         "url": "https://about.gitlab.com/blog/2024/11/12/tutorial-how-to-set-up-your-first-gitlab-ci-cd-component/",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "f2dc0032-d0be-4db3-87e4-8e901d260c6d",
         "rating": 6
     },
@@ -2642,7 +2642,7 @@
         "title": "TypeScript enums: use cases and alternatives",
         "url": "https://2ality.com/2025/01/typescript-enum-patterns.html",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "49c6233c-38e2-45a4-b0c0-b3da070eba0a",
         "rating": 8
     },
@@ -2664,7 +2664,7 @@
         "title": "Kubernetes Best Practices I Wish I Had Known Before",
         "url": "https://www.pulumi.com/blog/kubernetes-best-practices-i-wish-i-had-known-before/",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "c2df691a-56df-4af4-9e01-cbdc62ccf7c7",
         "rating": 8
     },
@@ -2685,7 +2685,7 @@
         "title": "Numbers Everyone Should Know",
         "url": "https://highscalability.com/numbers-everyone-should-know/",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "aee2d14f-b419-4939-941e-6aa477678ba6",
         "rating": 7
     },
@@ -2708,7 +2708,7 @@
         "title": "How Consistent Hashing Minimizes Data Movement in Scalable Systems",
         "url": "https://medium.com/@_sidharth_m_/how-consistent-hashing-minimizes-data-movement-in-scalable-systems-0dbd2b0001c4",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "55b7a8bb-fb3f-4fb2-98bc-d43fe8664d6f",
         "rating": 8
     },
@@ -2732,7 +2732,7 @@
         "title": "Master Concurrency vs. Parallelism",
         "url": "https://blog.stackademic.com/master-concurrency-vs-parallelism-84d16f546968",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "43c0e564-5633-433e-b1b8-42374545eee6",
         "rating": 9
     },
@@ -2754,7 +2754,7 @@
         "title": "Notification System Architecture With AWS",
         "url": "https://medium.com/@joudwawad/notification-system-architecture-with-aws-968103c2c730",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "452553f5-5d2f-4330-aad9-46658fa8237b"
     },
     {
@@ -2776,7 +2776,7 @@
         "title": "90% of Developers Struggle with these JavaScript Interview Questions",
         "url": "https://blog.stackademic.com/90-of-developers-struggle-with-these-javascript-interview-questions-9d116cc47226",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "a089b9ff-9a9e-4df5-8676-3accb6e0a389",
         "rating": 9
     },
@@ -2799,7 +2799,7 @@
         "title": "HA PostgreSQL Cluster",
         "url": "https://medium.com/@roma.gordeev/ha-postgresql-cluster-5d3672ae8b31",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "ab682a82-6a6b-4cbf-ad52-68e86eb15861"
     },
     {
@@ -2819,7 +2819,7 @@
         "title": "System Design Of Loadbalancer",
         "url": "https://medium.com/@lazygeek78/system-design-of-loadbalancer-9b67283703f3",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "70fb0247-f718-4692-8d56-3c7b5a0a3b6a"
     },
     {
@@ -2840,7 +2840,7 @@
         "title": "How to Log Every Request and Response in FastAPI",
         "url": "https://medium.com/@joerosborne/how-to-log-every-request-and-response-in-fastapi-dcf8d2be2055",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "e7b5dfd6-e1b6-418c-a4fe-6141eb72b1af",
         "rating": 8
     },
@@ -2863,7 +2863,7 @@
         "title": "Understanding Coroutines & Tasks in Depth in Python",
         "url": "https://medium.com/python-features/understanding-coroutines-tasks-in-depth-in-python-af2a4c0e1073",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "988c0340-3c17-4538-ab74-91412e015e65"
     },
     {
@@ -2883,7 +2883,7 @@
         "title": "Python Coding Concepts",
         "url": "https://medium.com/@aserdargun/python-coding-concepts-c1d7769c3284",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "3d208e3e-0986-4e36-9e1e-a4a62bee508a"
     },
     {
@@ -2904,7 +2904,7 @@
         "title": "7 Concurrency Patterns in Go You Should Know",
         "url": "https://cgarciarosales97.medium.com/7-concurrency-patterns-in-go-you-should-know-4796e19ee7d4",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "e740d878-7f75-4200-9e9e-7dfbb83afd29"
     },
     {
@@ -2928,7 +2928,7 @@
         "title": "Which queue System should I choose — Kafka Vs Amazon SQS Vs RabbitMQ VS Redis Queue Vs Celery",
         "url": "https://medium.com/@s.atmaramani/which-queue-system-should-i-choose-kafka-vs-amazon-sqs-vs-rabbitmq-vs-redis-queue-vs-celery-fa8db7702f24",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "a57e537d-d760-4599-860a-0067fe06db6d"
     },
     {
@@ -2953,7 +2953,7 @@
         "title": "Git Integration: How Git Works with CI/CD, Docker, Kubernetes, Jenkins, and Terraform",
         "url": "https://dev.to/abhay_yt_52a8e72b213be229/git-integration-how-git-works-with-cicd-docker-kubernetes-jenkins-and-terraform-4la8",
         "language": "english",
-        "type": "post",
+        "type": "Post",
         "id": "245ec30a-98a0-4e4e-91f6-c8fa88948868",
         "rating": 7
     },
@@ -2975,7 +2975,7 @@
         "title": "Redis Queue and Cron in Go",
         "url": "https://dev.to/jhonoryza/redis-queue-and-cron-in-go-1fl8",
         "language": "english",
-        "type": "post",
+        "type": "Post",
         "id": "7c8f6fba-3911-4cca-9121-10ac75cc6e61"
     },
     {
@@ -2995,7 +2995,7 @@
         "title": "Understanding JavaScript Type Conversion",
         "url": "https://dev.to/thedevricha/understanding-javascript-type-conversion-174n",
         "language": "english",
-        "type": "post",
+        "type": "Post",
         "id": "624159d2-ff38-45f4-9089-a22fa671b386",
         "rating": 7
     },
@@ -3017,7 +3017,7 @@
         "title": "SQL Basic to Advanced Queries",
         "url": "https://dev.to/noureldin2303/sql-basic-to-advanced-queries-3j8m",
         "language": "english",
-        "type": "post",
+        "type": "Post",
         "id": "9bcd93d0-7b9d-4517-95e5-8bc9800e2083",
         "rating": 9
     },
@@ -3039,7 +3039,7 @@
         "title": "Mastering Trampolining: A Deep Dive into Recursive Optimization",
         "url": "https://dev.to/frorning/mastering-trampolining-a-deep-dive-into-recursive-optimization-45nc",
         "language": "english",
-        "type": "post",
+        "type": "Post",
         "id": "33998574-667e-4d49-9af8-37df6aee7080",
         "rating": 4
     },
@@ -3063,7 +3063,7 @@
         "title": "Using Kubernetes ConfigMaps and Secrets for Sensitive Data",
         "url": "https://dev.to/abhay_yt_52a8e72b213be229/using-kubernetes-configmaps-and-secrets-for-sensitive-data-35h0",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "3ecf6592-bc8f-4cf8-8490-49d70e10e21a"
     },
     {
@@ -3084,7 +3084,7 @@
         "title": "`this` in JavaScript Explained",
         "url": "https://www.frontendcamp.in/open-questions/this-in-js",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "51291811-cd1a-4f4f-948f-38b15637b588",
         "rating": 7
     },
@@ -3107,7 +3107,7 @@
         "title": "Introduction to ARIA: A Developer's Guide",
         "url": "https://accessibly-speaking.hashnode.dev/introduction-to-aria-a-developers-guide",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "b58d3a76-a443-4b71-9ea3-23b336fcfedf"
     },
     {
@@ -3127,7 +3127,7 @@
         "title": "Difference between () => {} and () => () arrow function in JavaScript (JS)",
         "url": "https://dev.to/atifwattoo/difference-between-and-aero-function-in-javascript-js-llb",
         "language": "english",
-        "type": "post",
+        "type": "Post",
         "id": "8add8e56-1c4f-4ca9-b094-ea2aaa3c737d"
     },
     {
@@ -3151,7 +3151,7 @@
         "title": "Deploy a Django App from GitHub on AWS Lightsail Using the Bitnami Django Stack",
         "url": "https://dev.to/alyssa_mhie/deploy-a-django-app-from-github-on-aws-lightsail-using-the-bitnami-django-stack-4124",
         "language": "english",
-        "type": "post",
+        "type": "Post",
         "id": "d0afbded-294e-4c99-8781-277be7f83805"
     },
     {
@@ -3172,7 +3172,7 @@
         "title": "Redis: A Deep Dive and Practical Guide",
         "url": "https://medium.com/@devharshgupta.com/redis-crash-course-learn-what-why-and-how-to-use-redis-with-node-js-express-f4c788664723",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "ac365cb2-61d5-4aad-9390-883bb863f65f",
         "rating": 8
     },
@@ -3194,7 +3194,7 @@
         "title": "Complete Guide to Multi-Tenant Architecture",
         "url": "https://medium.com/@seetharamugn/complete-guide-to-multi-tenant-architecture-d69b24b518d6",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "b98d471e-02ed-4e26-9bab-d8b10d3e8857",
         "rating": 8
     },
@@ -3215,7 +3215,7 @@
         "title": "Organize Like a Pro: A Simple Guide to Go Project Folder Structures",
         "url": "https://medium.com/@smart_byte_labs/organize-like-a-pro-a-simple-guide-to-go-project-folder-structures-e85e9c1769c2",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "1e5c600c-d1bc-442d-a979-3a6e7c29fe20",
         "rating": 8
     },
@@ -3237,7 +3237,7 @@
         "title": "Level Up Your FastAPI: Exception Handling Done Right",
         "url": "https://medium.com/@ixbahy/level-up-your-fastapi-exception-handling-done-right-5db862038c7a",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "7f62e9f1-6d00-4aa3-8499-50a0e8754f37",
         "rating": 8
     },
@@ -3258,7 +3258,7 @@
         "title": "Understanding Stream Processing Guarantees in Apache Kafka",
         "url": "https://medium.com/@_sidharth_m_/understanding-stream-processing-guarantees-in-apache-kafka-068eef52b3a7",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "3857e4fc-8e56-4bc5-bd04-4b6320f92af7",
         "rating": 8
     },
@@ -3279,7 +3279,7 @@
         "title": "Introduction to RPC in Go: Building RPC client and server with Golang",
         "url": "https://medium.com/@shivambhadani_/introduction-to-rpc-in-go-building-rpc-client-and-server-with-golang-5794675e9a12",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "526b296d-1c39-4c51-b037-fc457a99cee0",
         "rating": 8
     },
@@ -3305,7 +3305,7 @@
         "title": "When to define our Endpoint Sync or Async in FastAPI",
         "url": "https://medium.com/python-features/when-to-define-our-endpoint-sync-or-async-in-fastapi-6065238f2b34",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "8002efbe-742f-4833-aa75-bd4511e38048",
         "rating": 8
     },
@@ -3330,7 +3330,7 @@
         "title": "AWS S3 Deep Dive",
         "url": "https://medium.com/@joudwawad/aws-s3-deep-dive-1c19ad58af40",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "bf9db353-ec6f-4e71-b822-88e0f3206962"
     },
     {
@@ -3353,7 +3353,7 @@
         "title": "Simple Guide to Stack and Heap in Go",
         "url": "https://medium.com/@aditimishra_541/simple-guide-to-stack-and-heap-in-go-27bc06168900",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "47b8f74f-7cd0-4678-a33b-bc18cf538753",
         "rating": 7
     },
@@ -3376,7 +3376,7 @@
         "title": "The Architecture of Stripe's Document Database",
         "url": "https://blog.quastor.org/p/the-architecture-of-stripe-s-document-database",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "666ffcd0-a1f5-4d1d-9aa9-261a11800c7f"
     },
     {
@@ -3398,7 +3398,7 @@
         "title": "How Shopify Handled 30TB per Minute With a Modular Monolith Architecture",
         "url": "https://newsletter.systemdesign.one/p/modular-monolith",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "427408b3-967e-4525-9936-92b3f20a7b10"
     },
     {
@@ -3420,7 +3420,7 @@
         "title": "How bloom filters made SQLite 10x faster",
         "url": "https://avi.im/blag/2024/sqlite-past-present-future/",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "dacb947c-3a94-446a-a57b-700774c7847f"
     },
     {
@@ -3442,7 +3442,7 @@
         "title": "Getting Started with Argo CD on Kubernetes - The Ultimate Guide",
         "url": "https://ruan.dev/blog/2024/26/03/getting-started-with-argo-cd-on-kubernetes---the-ultimate-guide",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "bfee2b30-ac58-4583-9bd0-928da298537d"
     },
     {
@@ -3462,7 +3462,7 @@
         "title": "Go Modules: Mastering Dependency Management in Go Projects",
         "url": "https://dev.to/aaravjoshi/go-modules-mastering-dependency-management-in-go-projects-949",
         "language": "english",
-        "type": "post",
+        "type": "Post",
         "id": "3d7a4bff-75dd-4ac8-8b1d-d085c284711a"
     },
     {
@@ -3483,7 +3483,7 @@
         "title": "Go Routines vs Threads: What's the Difference and When to Use Them?",
         "url": "https://dev.to/sajosam/go-routines-vs-threads-whats-the-difference-and-when-to-use-them-1g09",
         "language": "english",
-        "type": "post",
+        "type": "Post",
         "id": "731e847e-e746-42c4-94fa-b743e9ca9e00"
     },
     {
@@ -3504,7 +3504,7 @@
         "title": "Terraform: Steps to create complete AWS S3 module",
         "url": "https://dev.to/marko_milosavljevic_97169/terraform-steps-to-create-complete-module-36mj",
         "language": "english",
-        "type": "post",
+        "type": "Post",
         "id": "7e8c30bf-d984-43e7-aae2-6a59bd041676"
     },
     {
@@ -3525,7 +3525,7 @@
         "title": "What are WeakMaps in JS?",
         "url": "https://dev.to/syed_ammar/what-are-weakmaps-in-js-1oj6",
         "language": "english",
-        "type": "post",
+        "type": "Post",
         "id": "6fb68163-5ecb-4bf4-930b-4ecf50462a11"
     },
     {
@@ -3546,7 +3546,7 @@
         "title": "Supercharge Your API Performance with Asynchronous Programming in FastAPI",
         "url": "https://dev.to/saint_vandora/supercharge-your-api-performance-with-asynchronous-programming-in-fastapi-9g7",
         "language": "english",
-        "type": "post",
+        "type": "Post",
         "id": "ab8efa82-3225-4032-b27b-75c7deb59ce7"
     },
     {
@@ -3567,7 +3567,7 @@
         "title": "Building a Cloud Native Serverless Chat On AWS",
         "url": "https://marko.dj/posts/2024-12-23-build-cloud-native-serverless-chat-on-aws/",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "ace8132e-a7e0-4a44-b186-d3a587e8b5c1"
     },
     {
@@ -3586,7 +3586,7 @@
         "title": "Generative AI System Design",
         "url": "https://dev.to/fahimulhaq/generative-ai-system-design-3g2f",
         "language": "english",
-        "type": "post",
+        "type": "Post",
         "id": "3022795b-c631-44c3-a004-6981ca0c9910"
     },
     {
@@ -3607,7 +3607,7 @@
         "title": "Optimizing Kubernetes for High Availability (HA)",
         "url": "https://dev.to/abhay_yt_52a8e72b213be229/implementing-bluegreen-and-canary-deployments-in-kubernetes-for-zero-downtime-5d71",
         "language": "english",
-        "type": "post",
+        "type": "Post",
         "id": "36e2df88-dee6-411c-8334-03d8134ac8b4",
         "rating": 7
     },
@@ -3629,7 +3629,7 @@
         "title": "Optimizing Kubernetes for High Availability (HA)",
         "url": "https://dev.to/abhay_yt_52a8e72b213be229/optimizing-kubernetes-for-high-availability-ha-1d0n",
         "language": "english",
-        "type": "post",
+        "type": "Post",
         "id": "ec541b08-2ea0-4f3f-9110-b76ecdf34b08",
         "rating": 7
     },
@@ -3651,7 +3651,7 @@
         "title": "Mastering Axios: The Ultimate JavaScript Guide to Simplifying API Calls",
         "url": "https://jignect.tech/mastering-axios-the-ultimate-javascript-guide-to-simplifying-api-calls/",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "615b088e-05f0-48a5-99cf-b5aa8e6feb98",
         "rating": 9
     },
@@ -3675,7 +3675,7 @@
         "title": "Kubernetes vs. Docker: Key Differences, Benefits, and Use Cases",
         "url": "https://dev.to/abhay_yt_52a8e72b213be229/kubernetes-vs-docker-key-differences-benefits-and-use-cases-2bd7",
         "language": "english",
-        "type": "post",
+        "type": "Post",
         "id": "324025b8-13f8-4cb3-b600-d0456a059bda"
     },
     {
@@ -3695,7 +3695,7 @@
         "title": "gRPC: 5 Years Later, Is It Still Worth It?",
         "url": "https://kostyay.com/grpc-5-years-later-is-it-still-worth-it-b181a3b2b73b",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "e20f4bd2-68ad-4233-9fb4-4a7c657d914e"
     },
     {
@@ -3718,7 +3718,7 @@
         "title": "SNS vs. SQS vs. EventBridge: Choosing the Right AWS Messaging Service",
         "url": "https://dev.to/dhoang1905/sns-vs-sqs-vs-eventbridge-choosing-the-right-aws-messaging-service-k6j",
         "language": "english",
-        "type": "post",
+        "type": "Post",
         "id": "b634fab0-bd1b-409f-93a6-f1b5e6e3ea8a"
     },
     {
@@ -3741,7 +3741,7 @@
         "title": "Introduction to Kubernetes with Docker: Orchestrating Containers at Scale",
         "url": "https://dev.to/abhay_yt_52a8e72b213be229/introduction-to-kubernetes-with-docker-orchestrating-containers-at-scale-4j3g",
         "language": "english",
-        "type": "post",
+        "type": "Post",
         "id": "1039f25c-e789-4ad8-a5d7-dc31f1d27f5f"
     },
     {
@@ -3763,7 +3763,7 @@
         "title": "Interview Questions on AWS Identity and Access Management (IAM)",
         "url": "https://dev.to/imsushant12/interview-questions-on-aws-identity-and-access-management-iam-5cb4",
         "language": "english",
-        "type": "post",
+        "type": "Post",
         "id": "5400163a-4c4a-4157-97a5-62a97f6318a0"
     },
     {
@@ -3787,7 +3787,7 @@
         "title": "Docker with Prometheus and Grafana: Real-Time Monitoring Simplified",
         "url": "https://dev.to/abhay_yt_52a8e72b213be229/docker-with-prometheus-and-grafana-real-time-monitoring-simplified-57aa",
         "language": "english",
-        "type": "post",
+        "type": "Post",
         "id": "db90ca4d-8875-4899-aecc-e738700f0213",
         "rating": 8
     },
@@ -3809,7 +3809,7 @@
         "title": "Streamlining CI/CD Pipelines with Docker: A Complete Guide",
         "url": "https://dev.to/abhay_yt_52a8e72b213be229/streamlining-cicd-pipelines-with-docker-a-complete-guide-3an5",
         "language": "english",
-        "type": "post",
+        "type": "Post",
         "id": "5478b9da-ecfb-4912-8cd1-9b68e3863efb",
         "rating": 8
     },
@@ -3833,7 +3833,7 @@
         "title": "How is Data Replicated in Distributed Systems?",
         "url": "https://medium.com/@_sidharth_m_/how-is-data-replicated-in-distributed-systems-0fe7dd8af904",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "1339cc9c-ee33-4a6d-be06-390133f6c5d3",
         "rating": 7
     },
@@ -3854,7 +3854,7 @@
         "title": "Scaling Elasticsearch For Multi-Million Writes and Reads",
         "url": "https://medium.com/@jeevansathisocial/scaling-elasticsearch-for-multi-million-writes-and-reads-05c7144a5e40",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "8aa9fa86-4078-43ab-93c5-bcd69d2e7503"
     },
     {
@@ -3873,7 +3873,7 @@
         "title": "Event Driven Architecture || System Design",
         "url": "https://medium.com/@akshatsharma0610/event-driven-architecture-system-design-9a05d9718c6c",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "e63045b0-5922-4359-b441-a10eef8b90d7"
     },
     {
@@ -3895,7 +3895,7 @@
         "title": "How Shopify broke its Black Friday record (System Design case study)",
         "url": "https://learningdaily.dev/how-shopify-broke-its-black-friday-record-system-design-case-study-f45f25bbc451",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "97a51635-8a07-423c-8e05-b3b15536f472"
     },
     {
@@ -3916,7 +3916,7 @@
         "title": "How Grab Stores and Processes Millions of Orders Everyday",
         "url": "https://medium.com/@_sidharth_m_/how-grab-stores-and-processes-millions-of-orders-everyday-dbd4e810fba3",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "e7a17594-9e22-45a3-9336-e04789db3532"
     },
     {
@@ -3939,7 +3939,7 @@
         "title": "The Way We Are Building Event-Driven Applications is Misguided. This is Why We Created Infinitic.",
         "url": "https://gillesbarbier.medium.com/the-way-we-are-building-event-driven-applications-is-misguided-7f7c5f1a9061",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "a5a6ba0a-29ed-4ddb-a2f1-e197b8dc3ca1"
     },
     {
@@ -3961,7 +3961,7 @@
         "title": "System Design Interview : Elastic Logstash Kibana/ Monitoring/Observability Basics",
         "url": "https://medium.com/@priyasrivastava18official/system-design-interview-elastic-logstash-kibana-monitoring-observability-basics-41d232fd730f",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "c55bd411-c0c6-4af2-838f-992da14acfd8"
     },
     {
@@ -3983,7 +3983,7 @@
         "title": "FastAPI Asynchronous Programming: Boosting API Performance",
         "url": "https://blog.stackademic.com/fastapi-asynchronous-programming-boosting-api-performance-ee5b94639b82",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "ffa160a2-1b1d-44d2-99b6-acf953a49026"
     },
     {
@@ -4012,7 +4012,7 @@
         "title": "System Design For Beginners: Everything You Need in One Article",
         "url": "https://medium.com/@shivambhadani_/system-design-for-beginners-everything-you-need-in-one-article-c74eb702540b",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "a5a51c6e-c980-48ec-881d-b3df9df91ed5"
     },
     {
@@ -4032,7 +4032,7 @@
         "title": "Demystifying Garbage Collection Algorithms",
         "url": "https://medium.com/@sylvain.tiset/demystifying-garbage-collection-algorithms-8f1ef1061207",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "0aa01247-4c68-4840-bbd3-e720422e667d"
     },
     {
@@ -4056,7 +4056,7 @@
         "title": "Building a Scalable and Secure Google Drive System: A Deep Dive into System Design with File Storage, Chunked Uploads, Sharing, Versioning, and Real-Time Collaboration",
         "url": "https://medium.com/@aditimishra_541/building-a-scalable-and-secure-google-drive-system-a-deep-dive-into-system-design-with-file-0e01bdd1ea57",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "6c895a43-2b53-4a70-9eb3-2874a15c611d",
         "rating": 5
     },
@@ -4077,7 +4077,7 @@
         "title": "Ticket master system design",
         "url": "https://dilipkumar.medium.com/ticket-master-system-design-e794c51d79f7",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "20bd04ef-265a-45f5-b043-e92b8c699b25",
         "rating": 5
     },
@@ -4100,7 +4100,7 @@
         "title": "How Concurrency Works: A Visual Guide",
         "url": "https://wyounas.github.io/concurrency/2024/12/12/how-concurrency-works-a-visual-guide/",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "63c75d5d-f17d-49f3-acd0-61bcc07ac7bc",
         "rating": 8
     },
@@ -4121,7 +4121,7 @@
         "title": "Designing Self-Healing Applications for Failure Resilience",
         "url": "https://medium.com/@dmosyan/designing-self-healing-applications-for-failure-resilience-8a662a2c519d",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "192d4fa3-0dc7-4cac-936f-87ec25ee3917",
         "rating": 8
     },
@@ -4142,7 +4142,7 @@
         "title": "We might not fully understand the column store!",
         "url": "https://blog.det.life/we-might-not-fully-understand-the-column-store-977d30391446",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "16ad7213-ade0-4003-a946-094e1859950f"
     },
     {
@@ -4160,7 +4160,7 @@
         "title": "Bad Bad UX: 20 Common Mistakes in User Experience",
         "url": "https://medium.com/@Flowmapp/bad-bad-ux-20-common-mistakes-in-user-experience-d30301ba686b",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "49b6c499-5f99-4729-9b7e-b2d4b7b1f44a"
     },
     {
@@ -4182,7 +4182,7 @@
         "title": "An Easy Path From API-Based Microservices to An Event-Driven Architecture For Improved Reliability and Consistency",
         "url": "https://gillesbarbier.medium.com/an-easy-path-from-api-based-microservices-to-an-event-driven-architecture-for-improved-reliability-00d7d0bc3828",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "564ee122-bcd1-400f-ba71-abc7ac3c3700"
     },
     {
@@ -4202,7 +4202,7 @@
         "title": "How to move from a monolith to an event-based system",
         "url": "https://medium.com/@martin.hodges/how-to-decide-to-move-from-a-monolith-to-an-event-based-system-fc4f625de645",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "45d17ea7-da76-485a-8a0a-7d60fd567d08"
     },
     {
@@ -4222,7 +4222,7 @@
         "title": "Sticky Sessions: An In-Depth Overview",
         "url": "https://medium.com/@aditimishra_541/sticky-sessions-an-in-depth-overview-4ec19bd7e22a",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "e08b5d9e-06b8-4c10-a383-7a84536bf195",
         "rating": 8
     },
@@ -4243,7 +4243,7 @@
         "title": "What is the Two Generals Problem in Distributed Systems?",
         "url": "https://medium.com/@_sidharth_m_/what-is-the-two-generals-problem-in-distributed-systems-3233665ecaa4",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "24a8b16b-6050-4e63-a68e-74a83c226d48"
     },
     {
@@ -4263,7 +4263,7 @@
         "title": "Digital wallet system design",
         "url": "https://dilipkumar.medium.com/digital-wallet-system-design-63a4e18edad6",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "4bc130e8-47bc-4eca-af91-30b5c673c3c3"
     },
     {
@@ -4283,7 +4283,7 @@
         "title": "System Design of Zoom",
         "url": "https://medium.com/@lazygeek78/system-design-of-zoom-9f0b945a5636",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "619377af-0d28-45a9-9f66-d9683b5fe375"
     },
     {
@@ -4305,7 +4305,7 @@
         "title": "Facebook / Instagram Ad System design",
         "url": "https://dilipkumar.medium.com/facebook-instagram-ad-system-design-e828296ae84a",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "62e28051-ce34-49d7-b7b4-e8e480f5b375"
     },
     {
@@ -4324,7 +4324,7 @@
         "title": "Why and how you should rate-limit your API",
         "url": "https://levelup.gitconnected.com/why-and-how-you-should-rate-limit-your-api-08b6cd0b91b6",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "d609c711-d85a-4864-9d51-b9d7bc13cde8"
     },
     {
@@ -4346,7 +4346,7 @@
         "title": "Mastering Flask and Django: Top 10 Python Design Patterns for 2024",
         "url": "https://medium.com/@rudresh.narwal/mastering-flask-and-django-top-10-python-design-patterns-for-2024-830e0d958fcb",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "eb413de4-04a1-47ba-9cf2-186584ac9ea0"
     },
     {
@@ -4367,7 +4367,7 @@
         "title": "System Design: Rate Limiter",
         "url": "https://medium.com/@gazijarin.ai/system-design-rate-limiter-e93b4af4784b",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "c64c46a4-c38c-493c-b106-4e972b3416aa"
     },
     {
@@ -4389,7 +4389,7 @@
         "title": "OAuth 2.0 and OpenID in simple terms",
         "url": "https://medium.com/@iamprovidence/oauth-2-0-and-openid-in-simple-terms-7196089a1b29",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "7ed51f10-8554-4dc4-b782-f5530507b683",
         "rating": 9
     },
@@ -4419,7 +4419,7 @@
         "title": "Token gang (Bearer token, Reference token, Opaque token, Self-contained token, JWT, Access token, ID token, Refresh token)",
         "url": "https://medium.com/@iamprovidence/token-gang-bearer-token-reference-token-opaque-token-self-contained-token-jwt-access-token-6e0191093cd0",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "62ce35b8-bac6-4145-b62e-d41b0cce8e49"
     },
     {
@@ -4443,7 +4443,7 @@
         "title": "Authentication history (Basic, Digest, Cookie, Session, Token, JWT, API key)",
         "url": "https://medium.com/@iamprovidence/authentication-history-basic-digest-cookie-session-token-jwt-api-key-55d6c21be90b",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "6e876d53-7f46-4af2-bbc1-19f69ed8cf37"
     },
     {
@@ -4465,7 +4465,7 @@
         "title": "Simplifying Database Interactions in Python with the Repository Pattern and SQLAlchemy",
         "url": "https://ryan-zheng.medium.com/simplifying-database-interactions-in-python-with-the-repository-pattern-and-sqlalchemy-22baecae8d84",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "d02dfc2f-c29b-4790-85c0-a280611364dd",
         "rating": 8
     },
@@ -4491,7 +4491,7 @@
         "title": "FastAPI Best Practices and Design Patterns: Building Quality Python APIs",
         "url": "https://medium.com/@lautisuarez081/fastapi-best-practices-and-design-patterns-building-quality-python-apis-31774ff3c28a",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "8c6d5291-dc6f-4eb3-a57f-8f647596140d",
         "rating": 9
     },
@@ -4512,7 +4512,7 @@
         "title": "2 Coordination Patterns in Distributed Architectures",
         "url": "https://medium.com/@dmosyan/2-coordination-patterns-in-distributed-architectures-33f40c906a7a",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "475bf0ee-92d2-4233-90af-f1acbab165c9"
     },
     {
@@ -4538,7 +4538,7 @@
         "title": "Advanced End-to-End DevSecOps Kubernetes Three-Tier Project using AWS EKS, ArgoCD, Prometheus, Grafana, and Jenkins",
         "url": "https://blog.stackademic.com/advanced-end-to-end-devsecops-kubernetes-three-tier-project-using-aws-eks-argocd-prometheus-fbbfdb956d1a",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "51498413-3e96-4622-a7c8-2b2590af56d2"
     },
     {
@@ -4558,7 +4558,7 @@
         "title": "Git - Beyond the Basics",
         "url": "https://4zm.org/2024/12/18/git-beyond-the-basics.html",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "25e7ffc8-b18b-45f3-b766-661bc79da88f"
     },
     {
@@ -4579,7 +4579,7 @@
         "title": "Terraform with GitHub Actions CI/CD Pipeline",
         "url": "https://www.techielass.com/terraform-with-github-actions-ci-cd-pipeline/",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "707006df-3bf6-4754-bfc0-20818356634f"
     },
     {
@@ -4602,7 +4602,7 @@
         "title": "Securing CI/CD: Don't Use Long-Lived API Tokens, Use OpenID Connect Instead",
         "url": "https://amplify.security/blog/securing-ci/cd-dont-use-long-lived-api-tokens-use-openid-connect-instead?utm_source=tldrdevops",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "dafb5c7e-2ba4-492b-b469-441c7af522c9"
     },
     {
@@ -4622,7 +4622,7 @@
         "title": "The RAM myth",
         "url": "https://purplesyringa.moe/blog/the-ram-myth",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "2a85df3e-469f-458e-9396-866578413665"
     },
     {
@@ -4643,7 +4643,7 @@
         "title": "RedisJSON: Performance Benchmarking",
         "url": "https://newsletter.betterstack.com/p/how-dropbox-saved-millions-of-dollars",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "6223fa0b-2dbd-4d6c-b88e-2e51f0c6b1fb"
     },
     {
@@ -4663,7 +4663,7 @@
         "title": "How Dropbox Saved Millions of Dollars by Building a Load Balancer",
         "url": "https://newsletter.betterstack.com/p/how-dropbox-saved-millions-of-dollars",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "3b918f93-ce85-4d50-a071-773ea1021b72",
         "rating": 8
     },
@@ -4683,7 +4683,7 @@
         "title": "8 Must-Know Strategies to Build Scalable Systems",
         "url": "https://newsletter.systemdesigncodex.com/p/8-must-know-strategies-to-build-scalable?utm_source=tldrdesign",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "91d7bc36-959a-4c14-af4f-392cc28965c6",
         "rating": 8
     },
@@ -4706,7 +4706,7 @@
         "title": "Nobody told me I would miss my JOINs when I started in microservices.",
         "url": "https://newsletter.systemdesignclassroom.com/p/nobody-told-me-i-would-miss-my-sql-joins",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "55073845-7d6d-4200-8730-83c60683f706",
         "rating": 7
     },
@@ -4727,7 +4727,7 @@
         "title": "Understanding the main thread in the browser",
         "url": "https://calendar.perfplanet.com/2024/understanding-the-main-thread-in-the-browser/?utm_source=tldrwebdev",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "d53ca9cb-0661-4dfa-9c6e-7962427231fa",
         "rating": 9
     },
@@ -4748,7 +4748,7 @@
         "title": "React Like a Pro: 10 Things I Regret Not Knowing Earlier",
         "url": "https://www.frontendjoy.com/p/react-like-a-pro-10-things-i-regret-not-knowing-earlier?utm_source=tldrwebdev",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "ef87d77e-4cc2-4488-ae67-6cab33f35af4",
         "rating": 9
     },
@@ -4770,7 +4770,7 @@
         "title": "Python Set Comprehensions: How and When to Use Them",
         "url": "https://realpython.com/python-set-comprehension/",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "1b003880-3d5e-40c2-a9ae-00cae61b64e7",
         "rating": 9
     },
@@ -4790,7 +4790,7 @@
         "title": "Practical and Technical Tips to Pass Your System Design Interviews Part II",
         "url": "https://blog.stackademic.com/practical-and-technical-tips-to-pass-your-system-design-interviews-part-ii-d357d8fc5b80",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "0ed61a25-6bff-4df2-87c4-141c422f918a",
         "rating": 7
     },
@@ -4810,7 +4810,7 @@
         "title": "System design interview helpful principles part I.",
         "url": "https://medium.com/stackademic/system-design-interview-helpful-principles-part-i-8a64330fc71d",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "f97aa394-a869-4874-97b4-a1e875511f28",
         "rating": 7
     },
@@ -4830,7 +4830,7 @@
         "title": "System Design Architecture : Publisher Subscriber Model",
         "url": "https://medium.com/@akshatsharma0610/system-design-architecture-publisher-subscriber-model-7430740085d5",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "33898b09-ea0d-49f9-9994-d81abd689b4f",
         "rating": 7
     },
@@ -4851,7 +4851,7 @@
         "title": "System Design Interview : Different Notification Approaches in System Design",
         "url": "https://medium.com/@priyasrivastava18official/system-design-interview-different-notification-approaches-in-system-design-f893a1389c01",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "2e36c6f1-ab11-4ead-bb49-afff1e6a550d",
         "rating": 9
     },
@@ -4874,7 +4874,7 @@
         "title": "System Design Interview : Understanding Database Partioning,Sharding,Indexing",
         "url": "https://medium.com/@priyasrivastava18official/system-design-interview-understanding-database-partioning-sharding-indexing-23e962cd4700",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "873e9d60-57e5-4c54-9076-c9173e0a7e4c",
         "rating": 8
     },
@@ -4896,7 +4896,7 @@
         "title": "Introducing Events into your API Management Framework",
         "url": "https://medium.com/api-center/introducing-events-into-your-api-management-framework-958e80121499",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "b574ffcf-5e90-4c59-9df5-ed631b8f6985",
         "rating": 9
     },
@@ -4919,7 +4919,7 @@
         "title": "Avoid SELECT *, even on a single-column tables",
         "url": "https://medium.com/@hnasr/avoid-select-even-on-a-single-column-tables-d6deed7b4aee",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "8e673e54-43a8-4b5e-b2e5-57e03ec9014d",
         "rating": 7
     },
@@ -4939,7 +4939,7 @@
         "title": "7 Common Interface Mistakes in Go",
         "url": "https://medium.com/@andreiboar/7-common-interface-mistakes-in-go-1d3f8e58be60",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "27d46d80-2568-4c06-b9ac-5b629d55a77f",
         "rating": 7
     },
@@ -4960,7 +4960,7 @@
         "title": "Fundamentals of I/O in Go: Part 3",
         "url": "https://medium.com/@andreiboar/fundamentals-of-i-o-in-go-part-3-b7c8a9970a51",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "7fcb82f3-dddd-4588-8a52-0fb1e21d0c3d",
         "rating": 8
     },
@@ -4981,7 +4981,7 @@
         "title": "Fundamentals of I/O in Go: Part 2",
         "url": "https://medium.com/@andreiboar/fundamentals-of-i-o-in-go-part-2-e7bb68cd5608",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "c3b3ca01-b0a1-4caa-8e28-2c1fa7be2658",
         "rating": 8
     },
@@ -5002,7 +5002,7 @@
         "title": "Fundamentals of I/O in Go",
         "url": "https://medium.com/@andreiboar/fundamentals-of-i-o-in-go-c893d3714deb",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "1aee03d1-f118-46c6-b5a0-e37fc20a5fdd",
         "rating": 8
     },
@@ -5025,7 +5025,7 @@
         "title": "Avoid SELECT *, even on a single-column tables",
         "url": "https://medium.com/@hnasr/avoid-select-even-on-a-single-column-tables-d6deed7b4aee",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "e7c8dcaf-91db-40b0-949e-656f021c0ef7",
         "rating": 4
     },
@@ -5047,7 +5047,7 @@
         "title": "Authorization Architecture in Microservices",
         "url": "https://medium.com/@cihanelibol99/authorization-architecture-in-microservices-68085d31f1e1",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "035582c9-58e4-437f-a34a-34a2eb7cc970",
         "rating": 4
     },
@@ -5072,7 +5072,7 @@
         "title": "System Design of Uber/Lyft",
         "url": "https://medium.com/@lazygeek78/system-design-of-uber-lyft-549963c816b4",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "721ed62f-8baa-4c00-a383-8799c1b6cced"
     },
     {
@@ -5093,7 +5093,7 @@
         "title": "Rate limiter system design",
         "url": "https://dilipkumar.medium.com/rate-limiter-system-design-c67f74e78771",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "46649e83-fede-4d05-bea8-0356b9516134"
     },
     {
@@ -5114,7 +5114,7 @@
         "title": "Microservices and Multi-Runtime Architectures",
         "url": "https://blog.devgenius.io/microservices-and-multi-runtime-architectures-57bc1980a8b5",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "69788d81-7de0-4f76-a115-21bdaba6d2a8"
     },
     {
@@ -5137,7 +5137,7 @@
         "title": "How to Efficiently Check If a Username Exists Among Billions of Users",
         "url": "https://medium.com/@aditimishra_541/how-to-efficiently-check-if-a-username-exists-among-billions-of-users-7ed1e5c60489",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "2f902933-99aa-4fa1-ad97-eac941341ea7"
     },
     {
@@ -5156,7 +5156,7 @@
         "title": "Comprehensive Breakdown of Database Management System (DBMS) Architecture",
         "url": "https://medium.com/@aditimishra_541/comprehensive-breakdown-of-database-management-system-dbms-architecture-401385ca209b",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "093b3868-ea26-400d-8a1f-32f4cdf5ef08"
     },
     {
@@ -5176,7 +5176,7 @@
         "title": "JWT Token and Authentication",
         "url": "https://medium.com/@itherohit/jwt-token-and-authentication-865b624a329c",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "f7e4c39e-56e9-4bf2-a893-066094f6a602"
     },
     {
@@ -5197,7 +5197,7 @@
         "title": "Implementing Kong API Gateway for Microservices",
         "url": "https://medium.com/@manzurulhoque/implementing-kong-api-gateway-for-microservices-1a4a85303102",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "e9daf668-8443-47cd-a3d4-f2e29d414078"
     },
     {
@@ -5216,7 +5216,7 @@
         "title": "System design of DNS",
         "url": "https://medium.com/@lazygeek78/system-design-of-dns-6a7532bdf0a0",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "4cec0bf1-29d4-4a12-9d49-62ba63ee5755"
     },
     {
@@ -5235,7 +5235,7 @@
         "title": "System Design Interview : How to scale your application from 1 to 10 million user",
         "url": "https://medium.com/@priyasrivastava18official/system-design-interview-how-to-scale-your-application-from-1-to-10-million-user-a75002200b3c",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "6150e938-e205-4418-9ea4-7e25615331f9",
         "rating": 9
     },
@@ -5260,7 +5260,7 @@
         "title": "Dynamo: Amazon's Highly Available Key-value Store",
         "url": "https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "2d687bfe-cb3c-4dc9-9eba-06e37102c428",
         "rating": 9
     },
@@ -5284,7 +5284,7 @@
         "title": "Consistent Hashing: Algorithmic Tradeoffs",
         "url": "https://dgryski.medium.com/consistent-hashing-algorithmic-tradeoffs-ef6b8e2fcae8",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "56c78cdf-425a-44a7-9233-da6f6f170fac",
         "rating": 9
     },
@@ -5306,7 +5306,7 @@
         "title": "MicroServices Best Practices",
         "url": "https://medium.com/@rocky.bhatia86/microservices-best-practices-ccc6706f46c1",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "d88ded6f-e769-4f62-b520-c9cf6287e8b8",
         "rating": 8
     },
@@ -5329,7 +5329,7 @@
         "title": "Day 6: Understanding the CAP Theorem in Distributed Systems",
         "url": "https://medium.com/@devcorner/day-6-understanding-the-cap-theorem-in-distributed-systems-a73ec6cc7c2d",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "9152f758-aa0b-43b7-8b60-fafbfa217d50",
         "rating": 9
     },
@@ -5349,7 +5349,7 @@
         "title": "Why Go is the worst language you could ever learn",
         "url": "https://medium.com/@roma.gordeev/why-go-is-the-worst-language-you-could-ever-learn-4a7be0d37509",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "6a7ca974-fe13-4c63-9c9d-054c3fae34ca",
         "rating": 4
     },
@@ -5370,7 +5370,7 @@
         "title": "Death to Monolith, All hail the Modulith",
         "url": "https://medium.com/israeli-tech-radar/death-to-monolith-all-hail-the-modulith-6e1db04ed48a",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "556f2a20-19d0-44d6-97c0-2597fec34eec",
         "rating": 4
     },
@@ -5392,7 +5392,7 @@
         "title": "The Rise of the Serverless Monoliths",
         "url": "https://medium.com/@dbottiau/the-rise-of-the-serverless-monoliths-63d3d2d98164",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "627fbd7f-3564-4067-8e28-42d71942de7e",
         "rating": 4
     },
@@ -5416,7 +5416,7 @@
         "title": "Understanding CAP Theorem for Distributed Systems",
         "url": "https://newsletter.scalablethread.com/p/understanding-cap-theorem-for-distributed",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "fc76baf8-3222-475d-92c1-0eb319f89e17",
         "rating": 6
     },
@@ -5438,7 +5438,7 @@
         "title": "Why REST and gRPC Should Not Be Directly Compared",
         "url": "https://medium.com/@aditimishra_541/why-rest-and-grpc-should-not-be-directly-compared-9bd6be8070e6",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "fc4216b0-d101-4640-8a73-69b7007dc33c",
         "rating": 9
     },
@@ -5459,7 +5459,7 @@
         "title": "Optimizing Web Backends",
         "url": "https://itnext.io/optimizing-web-backends-5a9ff96f555f",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "96fc3385-9b38-402b-898c-b70d45ba59cd",
         "rating": 8
     },
@@ -5479,7 +5479,7 @@
         "title": "System Design Interview : How can you reduce the latency of the whole system architecture",
         "url": "https://medium.com/@priyasrivastava18official/system-design-interview-how-can-you-reduce-the-latency-of-the-whole-system-architecture-18d9198892e9",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "7bc42e8f-e804-4747-873f-c881df44c238",
         "rating": 9
     },
@@ -5500,7 +5500,7 @@
         "title": "Mastering NGINX: A Beginner-Friendly Guide to Building a Fast, Secure, and Scalable Web Server",
         "url": "https://medium.com/@nomannayeem/mastering-nginx-a-beginner-friendly-guide-to-building-a-fast-secure-and-scalable-web-server-cb075b423298",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "c2262637-34ec-4ba1-aa4a-2ad7b7d35c3c",
         "rating": 8
     },
@@ -5521,7 +5521,7 @@
         "title": "NGINX - Zero To Hero: Your Ultimate Guide from Beginner to Advanced Mastery",
         "url": "https://medium.com/@ksaquib/nginx-zero-to-hero-your-ultimate-guide-from-beginner-to-advanced-mastery-57e2dad6a77a",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "d266832c-e4bf-4f5c-9983-f7e6c7adc039"
     },
     {
@@ -5542,7 +5542,7 @@
         "title": "OpenID Connect (OIDC) Explained",
         "url": "https://medium.com/@dmosyan/openid-connect-oidc-explained-b7a368c90168",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "24000eb7-374d-4644-9750-fd8e41bc5d4b",
         "rating": 8
     },
@@ -5562,7 +5562,7 @@
         "title": "Data Engineer Interview Preparation - Complete Guide",
         "url": "https://medium.com/@nishasreedharan/data-engineer-interview-preparation-complete-guide-98a9d16f6889",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "af0bbc75-79ff-43d2-b39a-3cd2bd83bca5"
     },
     {
@@ -5581,7 +5581,7 @@
         "title": "How Load Balancers Distribute Traffic?",
         "url": "https://medium.com/@_sidharth_m_/how-load-balancers-distribute-traffic-d904cd11d321",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "72ac16ee-ed0d-4719-b5fe-0cd08b9f3263"
     },
     {
@@ -5600,7 +5600,7 @@
         "title": "Optimizing Password Discovery: A Cost-Effective and Scalable Solution Using Hybrid Compute Resources",
         "url": "https://medium.com/@aditimishra_541/optimizing-password-discovery-a-cost-effective-and-scalable-solution-using-hybrid-compute-50beb35abe67",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "a7c4639e-3469-4a1f-9b1a-e7d4b8e7bb73"
     },
     {
@@ -5618,7 +5618,7 @@
         "title": "Online Bidding System design",
         "url": "https://dilipkumar.medium.com/online-bidding-system-design-9a45157196fe",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "89ad4f25-16a4-4d35-a5d9-78849f5dffb1"
     },
     {
@@ -5636,7 +5636,7 @@
         "title": "A Masterclass on Data Structures",
         "url": "https://medium.com/@sylvain.tiset/a-masterclass-on-data-structures-70caefe54391",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "aab02128-93c2-449c-bae7-e4d48273bad6"
     },
     {
@@ -5656,7 +5656,7 @@
         "title": "Top Google system design interview questions",
         "url": "https://grokkingtechinterview.com/top-google-system-design-interview-questions-18d616dff2fc",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "d051083e-2f0e-4277-893f-2eadf46ee93a"
     },
     {
@@ -5676,7 +5676,7 @@
         "title": "Why NextJS Sucks",
         "url": "https://medium.com/@thecodingteacher_52591/why-nextjs-sucks-0352de93071b",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "059584f3-9064-4b86-834d-9706efa8e823"
     },
     {
@@ -5695,7 +5695,7 @@
         "title": "CORS Finally Explained — Simply",
         "url": "https://levelup.gitconnected.com/cors-finally-explained-simply-ae42b52a70a3",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "61431722-06b8-43a3-93c9-809b033efc71"
     },
     {
@@ -5714,7 +5714,7 @@
         "title": "Head-of-Line Blocking: Explanation and Designing a Flexible Network Layer",
         "url": "https://medium.com/@aditimishra_541/head-of-line-blocking-explanation-and-designing-a-flexible-network-layer-6ef4b53488bc",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "5e723286-14e2-4c5c-846a-3191b5c663fd"
     },
     {
@@ -5735,7 +5735,7 @@
         "title": "What Is a Streaming Database?",
         "url": "https://towardsdev.com/what-is-a-streaming-database-667b4501550e",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "21983817-8c0c-4155-b329-237f1823b746"
     },
     {
@@ -5756,7 +5756,7 @@
         "title": "Data Security and Validation with FastAPI",
         "url": "https://blog.stackademic.com/data-security-and-validation-with-fastapi-6c760fae6f81",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "d9a9b6ea-b8d6-497f-8d18-1976e2d37bd9"
     },
     {
@@ -5777,7 +5777,7 @@
         "title": "Sliding Window with Backpressure in Distributed Systems",
         "url": "https://medium.com/@aditimishra_541/sliding-window-with-backpressure-in-distributed-systems-2f9ad1419f02",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "00308ceb-e013-4f27-aefe-b430d790c64a"
     },
     {
@@ -5797,7 +5797,7 @@
         "title": "How to Create Microservices — A Practical Guide Using Go",
         "url": "https://medium.com/@janishar.ali/how-to-create-microservices-a-practical-guide-using-go-35445a821513",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "14405196-f1cd-4c3b-a5d2-9e6d2b002f85"
     },
     {
@@ -5818,7 +5818,7 @@
         "title": "How did Facebook design their Real-Time Processing ecosystem",
         "url": "https://blog.det.life/how-did-facebook-design-their-real-time-processing-ecosystem-08da20a61f37",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "6ac35d48-8760-4128-80e1-c7116edf2fe9"
     },
     {
@@ -5838,7 +5838,7 @@
         "title": "20 Cloud Architect responsibilities - and how to demonstrate them",
         "url": "https://awstip.com/20-cloud-architect-responsibilities-and-how-to-demonstrate-them-bf6f093e4de5",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "87bf4a5b-cd88-4b93-af07-e854ab36a5f9"
     },
     {
@@ -5858,7 +5858,7 @@
         "title": "Apache Kafka - Important Designs",
         "url": "https://blog.det.life/apache-kafka-important-designs-2a0e6aa6c5bf",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "1d48f9ce-9c9b-4c27-b2ae-fa3f7d23d878"
     },
     {
@@ -5879,7 +5879,7 @@
         "title": "How Nginx Handles Thousands of Concurrent Requests",
         "url": "https://medium.com/@_sidharth_m_/how-nginx-handles-thousands-of-concurrent-requests-202ca1a1cc44",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "a9d18bca-46ec-41ef-8708-b569257c008a"
     },
     {
@@ -5901,7 +5901,7 @@
         "title": "Redis Pub/Sub In-Depth",
         "url": "https://medium.com/@joudwawad/redis-pub-sub-in-depth-d2c6f4334826",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "9334b7a5-5161-49f3-b4b7-60a75bcda901"
     },
     {
@@ -5921,7 +5921,7 @@
         "title": "System Design: Core Concepts, Architecture, and Strategies",
         "url": "https://medium.com/@chenwingu/system-design-core-concepts-architecture-and-strategies-a636680f71ef",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "812becfc-1e97-499e-af1b-ae787c72caf7"
     },
     {
@@ -5942,7 +5942,7 @@
         "title": "Full spectrum of Elasticsearch features and capabilities",
         "url": "https://medium.com/@aditimishra_541/full-spectrum-of-elasticsearch-features-and-capabilities-3d4342fb8631",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "77acb318-ba8d-4d6d-b759-01cf40c89276"
     },
     {
@@ -5963,7 +5963,7 @@
         "title": "System Design Of Netflix",
         "url": "https://medium.com/@lazygeek78/system-design-of-netflix-8a31bf9ca53f",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "c3c15a4e-6877-4663-863a-ccbbfd406f15"
     },
     {
@@ -5984,7 +5984,7 @@
         "title": "System Design Of Netflix",
         "url": "https://medium.com/@lazygeek78/system-design-of-netflix-8a31bf9ca53f",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "c3c15a4e-6877-4663-863a-ccbbfd406f15"
     },
     {
@@ -6002,7 +6002,7 @@
         "title": "9 Laws That Every Software Developer Should Know",
         "url": "https://levelup.gitconnected.com/9-laws-that-every-software-developer-should-know-a5518bfef022",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "5d21e3a4-8da3-4294-b65c-61ef7a67cdc6"
     },
     {
@@ -6022,7 +6022,7 @@
         "title": "Top 10 must-know Django code tips to level up your skills",
         "url": "https://medium.com/django-unleashed/top-10-must-know-django-code-tricks-to-level-up-your-skills-1097468888c0",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "2a0951dc-3e43-4b79-94b9-383721ab2c20",
         "rating": 9
     },
@@ -6043,7 +6043,7 @@
         "title": "Microservices Pattern: Communication Styles",
         "url": "https://medium.com/@joudwawad/a-guide-to-communication-styles-in-microservices-architecture-9a8ae4bc21b2",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "3a1d86ea-22b2-4015-a12e-59428bf2add4",
         "rating": 9
     },
@@ -6064,7 +6064,7 @@
         "title": "System Design: Design a chat system",
         "url": "https://medium.com/@ishwarya1011.hidkimath/system-design-design-a-chat-system-e0056fb093d1",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "7bba6ff1-951d-42cf-a08f-8eb6ae9a4676"
     },
     {
@@ -6084,7 +6084,7 @@
         "title": "Best Practices for Writing Clean JavaScript Code",
         "url": "https://medium.com/@onix_react/best-practices-for-writing-clean-javascript-code-a4e5755de69a",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "00b3e718-33c5-4d74-8b4a-26bf4efd4949"
     },
     {
@@ -6107,7 +6107,7 @@
         "title": "12 AWS Cost Alerts To Use Right Now",
         "url": "https://medium.com/cloud-cost-savings/12-aws-cost-alerts-to-use-right-now-a082795f3858",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "6ed3e845-349c-4d13-ac0a-eb51b61a7668"
     },
     {
@@ -6127,7 +6127,7 @@
         "title": "Apache Kafka - Overview",
         "url": "https://blog.det.life/apache-kafka-overview-b04c4ab8ef49",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "6264d572-13eb-4f90-b0d4-31793f1c5990",
         "rating": 8
     },
@@ -6148,7 +6148,7 @@
         "title": "System design: Scaling WebSocket Applications",
         "url": "https://medium.com/@dinh.nt/system-design-scaling-websocket-applications-c7827ec82afb",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "1c0cf778-9e8d-44cb-8cca-88f042041271"
     },
     {
@@ -6168,7 +6168,7 @@
         "title": "Distributed Job Scheduler system design",
         "url": "https://dilipkumar.medium.com/distributed-job-scheduler-system-design-8ae13a8dee83",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "ce0638e6-ffb6-4cb5-9f8a-39b24c719660"
     },
     {
@@ -6187,7 +6187,7 @@
         "title": "Hashing, Encryption, and Encoding explained",
         "url": "https://blog.stackademic.com/hashing-encryption-and-encoding-explained-37b19b85ac50",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "059f450a-1838-4c6a-9f31-5bc64fb2a668"
     },
     {
@@ -6206,7 +6206,7 @@
         "title": "Mastering Kafka: Advanced Concepts Every Senior Software Engineer Should Know",
         "url": "https://manjulapiyumal.medium.com/mastering-kafka-advanced-concepts-every-senior-software-engineer-should-know-9283664c99e1",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "842b3dcd-8c9d-423f-80f2-7524ed9681f9",
         "rating": 9
     },
@@ -6228,7 +6228,7 @@
         "title": "Bloom Filters 101: The Power of Probabilistic Data Structures",
         "url": "https://medium.com/@sylvain.tiset/bloom-filters-101-the-power-of-probabilistic-data-structures-ef1b4a422b0b",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "10979c0e-a936-4403-a543-957f1d724f9b",
         "rating": 7
     },
@@ -6251,7 +6251,7 @@
         "title": "Choosing between gRPC, REST, and Graphql for designing and implementing APIs?",
         "url": "https://blog.stackademic.com/choosing-between-grpc-rest-and-graphql-for-designing-and-implementing-apis-25df124848dc",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "149906a9-51b5-4167-9554-f54edd938ccc"
     },
     {
@@ -6271,7 +6271,7 @@
         "title": "Some interesting facts about Go interfaces",
         "url": "https://medium.com/@aditimishra_541/some-interesting-facts-about-go-interfaces-55006e126f58",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "2dbdd2a6-ee99-40ce-a51b-7485be15de1b",
         "rating": 9
     },
@@ -6292,7 +6292,7 @@
         "title": "Why is Redis Fast?",
         "url": "https://blog.stackademic.com/why-is-redis-fast-a8a2a0902755",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "ade839df-fa28-4649-9435-ccc99dfe13c8",
         "rating": 6
     },
@@ -6315,7 +6315,7 @@
         "title": "How does Notion handle 200 billion data entities?",
         "url": "https://blog.det.life/how-does-notion-handle-200-billion-data-entities-919b238c2846",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "01930cf2-9287-4dea-8585-40f51bcede4b",
         "rating": 8
     },
@@ -6335,7 +6335,7 @@
         "title": "Backend for Frontend (BFF) Architecture",
         "url": "https://levelup.gitconnected.com/backend-for-frontend-bff-architecture-64fa9f316a5a",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "638e42de-f694-43fd-85e9-c9ab644a47cd",
         "rating": 8
     },
@@ -6358,7 +6358,7 @@
         "title": "Sharding & IDs at Instagram",
         "url": "https://instagram-engineering.com/sharding-ids-at-instagram-1cf5a71e5a5c",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "3ed05473-b139-4935-b135-7350d77a5d73",
         "rating": 8
     },
@@ -6379,7 +6379,7 @@
         "title": "Introduction To Database Indexing",
         "url": "https://medium.com/@rtawadrous/introduction-to-database-indexes-9b488e243cc1",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "d3cebaf1-3069-45cb-8a62-0b3d9bbd372e",
         "rating": 9
     },
@@ -6401,7 +6401,7 @@
         "title": "Why UUID7 is better than UUID4 as clustered index in RDBMS",
         "url": "https://itnext.io/why-uuid7-is-better-than-uuid4-as-clustered-index-edb02bf70056",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "f8f36807-a1f3-4a4b-af51-2e74d0fe0bf8"
     },
     {
@@ -6421,7 +6421,7 @@
         "title": "How I Used Event-Driven Architecture in the Wrong Way",
         "url": "https://medium.com/@shiiyan/how-i-failed-in-event-driven-architecture-86eb493082fa",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "85d72a8f-04d7-4d59-9dc2-83ecdd1a2276"
     },
     {
@@ -6441,7 +6441,7 @@
         "title": "36 Most Asked Microservice Interview Questions",
         "url": "https://medium.com/@akashnagpal112/36-most-asked-microservice-interview-questions-3dcffe9bf97f",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "a0e38e61-266d-401c-90e9-5e8e7ae99a37"
     },
     {
@@ -6460,7 +6460,7 @@
         "title": "Part 2: From 1 to 1M - Scaling a Full-Stack Web Application Platform to Handle 1M Daily Visitors",
         "url": "https://medium.com/@isaac.adams/part-2-from-1-to-1m-scaling-a-full-stack-web-application-platform-to-handle-1m-daily-visitors-24994ef1532b",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "aae68325-26ca-4ef8-9556-924c00a7fe2d"
     },
     {
@@ -6483,7 +6483,7 @@
         "title": "I just spent 5+ hours reading Netflix engineering blogs, so you don't have to",
         "url": "https://medium.com/@devopswithvishal/i-just-spent-5-hours-reading-netflix-engineering-blogs-so-you-dont-have-to-9ead5549d477",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "82977bd6-a4b8-4afb-a93f-c4da4f26a01e"
     },
     {
@@ -6504,7 +6504,7 @@
         "title": "JSONB in PostgreSQL and Its Daily Uses",
         "url": "https://nirjalpaudel.com.np/posts/@nirjalpaudel54312/jsonb-in-postgresql-and-its-daily-uses",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "40c02d30-42a7-4243-a2f9-203268716dae"
     },
     {
@@ -6524,7 +6524,7 @@
         "title": "Understanding CORS",
         "url": "https://itnext.io/understanding-cors-4157bf640e11",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "e86a341d-1d7b-4be8-bbe2-ce01d35d64ea"
     },
     {
@@ -6543,7 +6543,7 @@
         "title": "System Design Cheatsheets: ElasticSearch",
         "url": "https://towardsdatascience.com/system-design-cheatsheets-elasticsearch-673b98eebfff",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "90201399-c9b1-41d4-8d8c-dd5e37f5379d"
     },
     {
@@ -6563,7 +6563,7 @@
         "title": "Why you should never default to Microservices",
         "url": "https://levelup.gitconnected.com/why-you-should-never-default-to-microservices-c952903fbcb6",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "e29a951d-57b5-4fc8-a6ad-3027ab8a02b6"
     },
     {
@@ -6583,7 +6583,7 @@
         "title": "Designing a Scalable and Resilient Hotel Reservation system Architecture",
         "url": "https://medium.com/@seetharamugn/designing-a-scalable-and-resilient-hotel-reservation-system-architecture-4ede2916893b",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "28122ec3-ee36-419d-ad59-3727878d7655"
     },
     {
@@ -6603,7 +6603,7 @@
         "title": "Build Fastest API with Golang",
         "url": "https://medium.com/@ksandeeptech07/build-fastest-api-with-golang-78be1ea12d92",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "d55f1bea-a9f1-4386-803f-4bc961e98c41"
     },
     {
@@ -6624,7 +6624,7 @@
         "title": "You Don't Need a Dedicated Cache Service - PostgreSQL as a Cache",
         "url": "https://martinheinz.dev/blog/105",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "c7cf5deb-d962-458b-a979-3658daf1faf1"
     },
     {
@@ -6643,7 +6643,7 @@
         "title": "Price drop tracker system design",
         "url": "https://dilipkumar.medium.com/price-drop-tracker-system-design-d2f9ed36a935",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "71301a58-8137-4e07-913f-b02f638ba531"
     },
     {
@@ -6662,7 +6662,7 @@
         "title": "Optimizing Web Backends",
         "url": "https://itnext.io/optimizing-web-backends-5a9ff96f555f",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "0c837102-19ea-450b-90d4-5bdd659cd985"
     },
     {
@@ -6682,7 +6682,7 @@
         "title": "Roadmap for Node.js Developers. Guide to Mastering Node.js",
         "url": "https://medium.com/@vitaliykorzenkoua/roadmap-for-node-js-developers-guide-to-mastering-node-js-c41eb13231de",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "8f7f2d6f-237b-469b-acdd-a1d027a8faf2"
     },
     {
@@ -6701,7 +6701,7 @@
         "title": "Event-Driven Programming in Node.js",
         "url": "https://mirzaleka.medium.com/even-driven-programming-in-node-js-008c64f61891",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "81dcfd55-e389-4abc-aa92-b25a4b4b480b"
     },
     {
@@ -6720,7 +6720,7 @@
         "title": "System Design Interview : How can you reduce the latency of the whole system architecture",
         "url": "https://medium.com/@priyasrivastava18official/system-design-interview-how-can-you-reduce-the-latency-of-the-whole-system-architecture-18d9198892e9",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "2b48f8cf-e302-4fb3-bd08-c5374a0a0413"
     },
     {
@@ -6739,7 +6739,7 @@
         "title": "Simplifying Your Tech Stack with PostgreSQL",
         "url": "https://medium.com/@roma.gordeev/simplifying-your-tech-stack-with-postgresql-19030dc84f2c",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "4d74bf31-1c88-42b3-bf11-cce98b638903"
     },
     {
@@ -6760,7 +6760,7 @@
         "title": "How Bloom Filters Make Checking Millions of Usernames Lightning Fast",
         "url": "https://medium.com/@_sidharth_m_/how-bloom-filters-make-checking-millions-of-usernames-lightning-fast-71ed1dee3e5d",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "5a342853-0007-458b-903f-cb4048465b68"
     },
     {
@@ -6779,7 +6779,7 @@
         "title": "Single Point of Failure (SPOF) in System Design",
         "url": "https://levelup.gitconnected.com/single-point-of-failure-spof-in-system-design-c8bbac5af993",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "bbe82786-c0bb-4276-9a8c-6bc7aa8df486",
         "rating": 5
     },
@@ -6799,7 +6799,7 @@
         "title": "Did they tell you how to split the Database?",
         "url": "https://substack.com/home/post/p-148920955",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "6db43dce-7a2b-4c09-bb3c-6975bae72738"
     },
     {
@@ -6819,7 +6819,7 @@
         "title": "Message Queues v/s Message Brokers",
         "url": "https://vivekbansal.substack.com/p/message-queues-vs-message-brokers",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "81c4a067-d67d-4fcb-a53f-6467a04421ca"
     },
     {
@@ -6839,7 +6839,7 @@
         "title": "What is Kafka? Key components explained",
         "url": "https://read.systemdesignblueprint.com/p/introduction-to-kafka",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "1d9da15d-9b2a-488e-bfa8-4000436d0b88"
     },
     {
@@ -6858,7 +6858,7 @@
         "title": "How to learn API?",
         "url": "https://newsletter.techworld-with-milan.com/p/how-to-learn-api",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "54cd2b40-5acc-4171-8baa-42c42d037f98"
     },
     {
@@ -6877,7 +6877,7 @@
         "title": "Caching - The Only Guide You'll Ever Need",
         "url": "https://betterengineers.substack.com/p/caching-techniques-in-distributed",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "a1c5f110-a66c-4674-bd29-950e5cafe9df"
     },
     {
@@ -6896,7 +6896,7 @@
         "title": "How Enterprise Applications Exchange Data Using Messaging",
         "url": "https://substack.com/home/post/p-151755861",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "18b542d2-70da-4e0c-aa24-a2f26f66031b",
         "rating": 8
     },
@@ -6917,7 +6917,7 @@
         "title": "How to use Kafka in system design interviews?",
         "url": "https://read.systemdesignblueprint.com/p/kafka-system-design-interview-guide",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "67a766e9-b985-4d37-b079-7035f14712e3"
     },
     {
@@ -6937,7 +6937,7 @@
         "title": "How to design an efficient Idempotency API",
         "url": "https://levelup.gitconnected.com/how-to-design-an-efficient-idempotency-api-e664fa2954bb",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "0e11a96c-7145-4725-9f73-87d994e35bd6"
     },
     {
@@ -6956,7 +6956,7 @@
         "title": "How to Efficiently Check If a Username Exists Among Billions of Users",
         "url": "https://medium.com/@aditimishra_541/how-to-efficiently-check-if-a-username-exists-among-billions-of-users-7ed1e5c60489",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "ddb8c756-5a87-469a-9eb0-639ae06d44c7"
     },
     {
@@ -6975,7 +6975,7 @@
         "title": "API Design: From Basics to Best Practices",
         "url": "https://blog.devgenius.io/api-design-from-basics-to-best-practices-49bbb29cf696",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "65d867cf-fcf6-479f-a7e8-51c3bf7b465a"
     },
     {
@@ -6995,7 +6995,7 @@
         "title": "The guide to Git I never had",
         "url": "https://medium.com/@jake.page91/the-guide-to-git-i-never-had-a89048d4703a",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "87b51a09-d7fa-42de-9318-9b096137ec40"
     },
     {
@@ -7014,7 +7014,7 @@
         "title": "Top 50 System Design Terminologies You Must Know",
         "url": "https://medium.com/@TharunKumarReddyPolu/top-50-system-design-terminologies-you-must-know-3c78f5fb99c1",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "5523a1fb-1205-4f4b-b22c-0ba29e4a4f72"
     },
     {
@@ -7035,7 +7035,7 @@
         "title": "Why is Redis So Fast Despite Being Single-Threaded?",
         "url": "https://medium.com/@aditimishra_541/why-is-redis-so-fast-despite-being-single-threaded-dc06ba33fc75",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "1ec720e8-7216-4a98-ad96-a72113e0eae5"
     },
     {
@@ -7055,7 +7055,7 @@
         "title": "Building a Notification Service with FastAPI",
         "url": "https://blog.stackademic.com/building-a-notification-service-with-fastapi-8cc51d2eb2a8",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "c1b1498b-acf3-4c40-b5a9-dfa0b2caacb6"
     },
     {
@@ -7074,7 +7074,7 @@
         "title": "Node.js is not Single-Threaded",
         "url": "https://levelup.gitconnected.com/node-js-is-not-single-threaded-ae3d2f698a99",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "201e9fc5-8e8a-4998-b0d9-206f15a3d751"
     },
     {
@@ -7094,7 +7094,7 @@
         "title": "RESTful API Excellence: Best Practices for Design, Security, and Performance",
         "url": "https://medium.com/@sylvain.tiset/restful-api-excellence-best-practices-for-design-security-and-performance-fa24c1360ab9",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "b577d1d4-27f4-4b8b-959d-63892685216f"
     },
     {
@@ -7114,7 +7114,7 @@
         "title": "How To Build Centralized Authorization System",
         "url": "https://medium.com/permify-tech-blog/how-to-build-centralized-authorization-system-c6b180912aeb",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "f8ed175a-e46b-47e7-a5e7-5dae883b6ea7"
     },
     {
@@ -7133,7 +7133,7 @@
         "title": "Variable Naming Best Practices in JavaScript",
         "url": "https://javascript.plainenglish.io/variable-naming-best-practices-in-javascript-94af115f42cd",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "972852f0-ff8b-464e-860d-76205a8c2cd4",
         "rating": 7
     },
@@ -7154,7 +7154,7 @@
         "title": "Why is gRPC so much faster than a JSON-based REST API?",
         "url": "https://itnext.io/why-is-grpc-so-much-faster-than-a-json-based-rest-api-df09cb69fae5",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "be8c83c7-2ad2-484c-94cf-ee05ed0e3a23",
         "rating": 6
     },
@@ -7175,7 +7175,7 @@
         "title": "Top 10 Microservices Design Patterns you should know",
         "url": "https://medium.com/@sylvain.tiset/top-10-microservices-design-patterns-you-should-know-1bac6a7d6218",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "e22b5f87-cd4f-4c88-aea9-b4721530f0d6"
     },
     {
@@ -7195,7 +7195,7 @@
         "title": "System Design Interview Question: Design Spotify",
         "url": "https://levelup.gitconnected.com/system-design-interview-question-design-spotify-4a8a79697dda",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "81cfee62-fac7-4699-a75f-046cc1b1bac5"
     },
     {
@@ -7215,7 +7215,7 @@
         "title": "JSON Web Tokens Explained",
         "url": "https://medium.com/@dmosyan/json-web-tokens-explained-1ca3bd7dc7a0",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "7a11f495-0f97-49ca-97be-dbdc52ea77af"
     },
     {
@@ -7237,7 +7237,7 @@
         "title": "Mastering Caching in Distributed Applications",
         "url": "https://levelup.gitconnected.com/mastering-caching-in-distributed-applications-e7449f4db399",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "1678f981-e6fb-47ba-8bfc-a59c3754dd5e"
     },
     {
@@ -7259,7 +7259,7 @@
         "title": "Architecture Cheet Sheet - API Design Styles",
         "url": "https://medium.com/@ilia.galashko/architecture-cheet-sheet-api-design-styles-2d5bf38e10dd",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "3d4b0390-a998-4456-9791-d3098f8888be"
     },
     {
@@ -7278,7 +7278,7 @@
         "title": "Top 30 Node.js Interview Questions | One Stop Solution",
         "url": "https://medium.com/@yashwanthnandam/top-30-node-js-interview-questions-one-stop-solution-d5cdd80b36ac",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "96f371ad-6409-4d76-80ba-5b95d98b57dd",
         "rating": 8
     },
@@ -7299,7 +7299,7 @@
         "title": "How to Perform Pagination in API Design",
         "url": "https://medium.com/@roma.gordeev/how-to-perform-pagination-in-api-design-ae55d2ff720a",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "7a950562-6b89-48a0-85e8-0cf82e9d9d15"
     },
     {
@@ -7319,7 +7319,7 @@
         "title": "Error and Exception Handling in FastAPI",
         "url": "https://blog.stackademic.com/error-and-exception-handling-in-fastapi-c0949bb42e1b",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "8975e463-0051-4c56-ae44-b46e42680a8b"
     },
     {
@@ -7337,7 +7337,7 @@
         "title": "How JavaScript is Executed",
         "url": "https://javascript.plainenglish.io/how-javascript-is-executed-fc73871e1d9c",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "f0bf6cb3-f12b-46d8-bd65-cab76636f0c4",
         "rating": 6
     },
@@ -7357,7 +7357,7 @@
         "title": "System Design Sketches",
         "url": "https://itnext.io/system-design-sketches-d8cb8e1d539f",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "4f3ffef3-a9ab-475e-8503-d75ebd583e6d"
     },
     {
@@ -7378,7 +7378,7 @@
         "title": "Redis Pub/Sub vs. Apache Kafka: Choosing the Right Messaging System",
         "url": "https://medium.com/@aditimishra_541/redis-pub-sub-vs-apache-kafka-choosing-the-right-messaging-system-3e3130ac653c",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "ab537b66-d763-4ac1-b2c8-0ee51fb2e6b9",
         "rating": 8
     },
@@ -7398,7 +7398,7 @@
         "title": "Trending hashtag system design",
         "url": "https://dilipkumar.medium.com/trending-hashtag-system-design-79123799e30f",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "d0bc0916-2a27-46a9-8933-0c43fc3ee147"
     },
     {
@@ -7419,7 +7419,7 @@
         "title": "In Search of Improving Database Performance: A Comprehensive Guide with 8 Key Strategies",
         "url": "https://levelup.gitconnected.com/in-search-of-improving-database-performance-a-comprehensive-guide-with-8-key-strategies-3496f2262cdb",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "9a46b586-2031-4009-8ca8-bf0e2d75c7a8",
         "rating": 8
     },
@@ -7440,7 +7440,7 @@
         "title": "RESTful API Excellence: Best Practices for Design, Security, and Performance",
         "url": "https://medium.com/@sylvain.tiset/restful-api-excellence-best-practices-for-design-security-and-performance-fa24c1360ab9",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "24a4061d-514e-415a-b821-e6f85d742c4a"
     },
     {
@@ -7461,7 +7461,7 @@
         "title": "Docker Done Right: 10 Best Practices for Developers",
         "url": "https://blog.devgenius.io/docker-done-right-10-best-practices-for-developers-12b7921e3725",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "ae518533-5d32-44e6-b79d-b9e789722094"
     },
     {
@@ -7480,7 +7480,7 @@
         "title": "Why is Python Considered Slow?",
         "url": "https://medium.com/@aditimishra_541/why-is-python-considered-slow-033ad9be3272",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "91b5e1e7-3f93-4af9-81cc-1cdad6090624",
         "rating": 8
     },
@@ -7502,7 +7502,7 @@
         "title": "The Evils of Sequential IDs",
         "url": "https://jefferey-cave.medium.com/the-evils-of-sequential-ids-2d1b18b50fdb",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "d0b14334-3c48-46cf-8957-86373f62f5de"
     },
     {
@@ -7523,7 +7523,7 @@
         "title": "UUID Alternatives for Cloud Apps",
         "url": "https://medium.com/@csjcode/uuid-alternatives-for-cloud-apps-9410f194b4d1",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "aa224dfb-86d9-4003-acde-7873929310d6",
         "rating": 8
     },
@@ -7544,7 +7544,7 @@
         "title": "What is Idempotency in Distributed Systems?",
         "url": "https://blog.algomaster.io/p/idempotency-in-distributed-systems",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "3c4d63f5-f17f-4ec3-b3a1-9cb1b2773a57"
     },
     {
@@ -7565,7 +7565,7 @@
         "title": "8 Best Practices When Using AWS Security Groups",
         "url": "https://www.jit.io/blog/best-practices-for-aws-security-groups",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "d4c77979-6c4a-41ee-8ff3-5e6e36fea754"
     },
     {
@@ -7586,7 +7586,7 @@
         "title": "How to roll your own auth in JavaScript & TypeScript",
         "url": "https://www.robinwieruch.de/how-to-roll-your-own-auth/",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "a231ecdf-e178-425e-9b4c-a043472138b7"
     },
     {
@@ -7607,7 +7607,7 @@
         "title": "How to use Reducer in React for better State Management: 2 effective ways for simpler design and architecture",
         "url": "https://thetshaped.dev/p/how-to-use-reducer-in-react-for-better-and-simpler-state-management",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "3ab24a99-e003-43d0-b404-5ebda0fa92e4"
     },
     {
@@ -7629,7 +7629,7 @@
         "title": "How Microservices Work?",
         "url": "https://naina0405.substack.com/p/wednesday-bytes-how-microservices",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "4b2b5474-e659-47e6-b593-89c58b01a431"
     },
     {
@@ -7650,7 +7650,7 @@
         "title": "How Stripe tracks Time in their Billing System",
         "url": "https://blog.quastor.org/p/how-stripe-synchronizes-time-across-their-distributed-system",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "06928498-af67-4f4c-b7d7-44eff37b9be2"
     },
     {
@@ -7673,7 +7673,7 @@
         "title": "Comparing FastAPI with Other Frameworks (Django, Flask)",
         "url": "https://awstip.com/comparing-fastapi-with-other-frameworks-django-flask-3cb5988fdc77",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "2155f410-4d7f-48b6-b649-050cf9ab9fff"
     },
     {
@@ -7694,7 +7694,7 @@
         "title": "9 Steps for JWT Authentication in Node.js Application",
         "url": "https://dev.to/safdarali/9-steps-for-jwt-authentication-in-nodejs-application-cgk",
         "language": "english",
-        "type": "post",
+        "type": "Post",
         "id": "08c3f67a-a238-419c-b6a8-5d970523fe74"
     },
     {
@@ -7713,7 +7713,7 @@
         "title": "20 Important JavaScript Concepts for Your Next Interview",
         "url": "https://dev.to/jagroop2001/20-important-javascript-concepts-for-your-next-interview-2000",
         "language": "english",
-        "type": "post",
+        "type": "Post",
         "id": "15473635-c6fd-4798-b4c9-c64288dd9aff"
     },
     {
@@ -7735,7 +7735,7 @@
         "title": "Optimizing SQL Queries: Best Practices for Improved Performance",
         "url": "https://betterengineers.substack.com/p/optimizing-sql-queries-best-practices",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "b5869e8a-1c4f-42d0-8371-20c942fe6285"
     },
     {
@@ -7755,7 +7755,7 @@
         "title": "Sweep and Prune 1/2",
         "url": "https://leanrada.com/notes/sweep-and-prune/",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "d951c086-c0d6-446f-b914-993ba22ae469"
     },
     {
@@ -7775,7 +7775,7 @@
         "title": "Sweep and Prune 2/2",
         "url": "https://leanrada.com/notes/sweep-and-prune-2/",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "d6b07cd5-f7b9-426c-bf73-0a3989baf75a"
     },
     {
@@ -7795,7 +7795,7 @@
         "title": "Design Youtube",
         "url": "https://bytebytego.com/courses/system-design-interview/design-youtube",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "fe9b4382-67ca-4f21-be25-a1d86bd3c5fd"
     },
     {
@@ -7815,7 +7815,7 @@
         "title": "Designing a URL Shortening Service",
         "url": "https://www.designgurus.io/blog/url-shortening",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "ad09abbc-06d3-44bd-84ef-0594555fc5ef"
     },
     {
@@ -7834,7 +7834,7 @@
         "title": "Back-of-the-Envelope Calculation in System Design Interviews",
         "url": "https://www.designgurus.io/blog/back-of-the-envelope-system-design-interview",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "ed1858ec-314b-4ea4-948b-f601d642c0e8"
     },
     {
@@ -7855,7 +7855,7 @@
         "title": "Demystifying System Design Interviews",
         "url": "https://www.designgurus.io/blog/system-design-interview-guide",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "21868378-8c41-4bc0-8e66-5cff313a3f12"
     },
     {
@@ -7875,7 +7875,7 @@
         "title": "System Design: TinyURL",
         "url": "https://www.educative.io/courses/grokking-the-system-design-interview/system-design-tinyurl",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "cc3097ad-ebfb-4b45-b017-fa98a27579fe"
     },
     {
@@ -7895,7 +7895,7 @@
         "title": "Design A Chat System",
         "url": "https://bytebytego.com/courses/system-design-interview/design-a-chat-system",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "4f3a78a8-63b6-4a71-82fa-0401f572b02e"
     },
     {
@@ -7914,7 +7914,7 @@
         "title": "SQLite is not a toy database",
         "url": "https://antonz.org/sqlite-is-not-a-toy-database",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "a560aa7e-b329-4591-b969-3bfb21271f80"
     },
     {
@@ -7936,7 +7936,7 @@
         "title": "Understanding asynchronous I/O; building an event loop from scratch",
         "url": "https://mbinjamil.dev/writings/understanding-async-io/",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "aae20a6f-f0e7-40e7-b985-75a48f96e4ce"
     },
     {
@@ -7956,7 +7956,7 @@
         "title": "How to Scale an App to 100 Million Users on GCP",
         "url": "https://newsletter.systemdesign.one/p/google-cloud-scalability",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "6b136b82-21d3-44cb-af50-faa44459f29b"
     },
     {
@@ -7975,7 +7975,7 @@
         "title": "Design Principles Every Developer Should Know",
         "url": "https://blog.algomaster.io/p/design-principles",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "1a2a4540-a125-43cc-973c-ba3b083813d1"
     },
     {
@@ -7998,7 +7998,7 @@
         "title": "Session Management Demystified: Cookies, Tokens, and Security",
         "url": "https://blog.levelupcoding.com/p/luc-61-session-management-demystified-cookies-tokens-security",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "ae8af203-7231-4802-b23b-4823e4ea30f5"
     },
     {
@@ -8020,7 +8020,7 @@
         "title": "How Pinterest Replaced their Analytics Database",
         "url": "https://blog.quastor.org/p/pinterest-replaced-analytics-database-1532",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "221759c9-63e8-4b11-bd67-f6c3cff76bc1"
     },
     {
@@ -8042,7 +8042,7 @@
         "title": "Just use Postgres",
         "url": "https://mccue.dev/pages/8-16-24-just-use-postgres",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "5849c44a-4d0e-40ef-97c3-0b04a0a37682"
     },
     {
@@ -8062,7 +8062,7 @@
         "title": "Getting started with Kubernetes",
         "url": "https://computersciencesimplified.substack.com/p/getting-started-with-kubernetes",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "3bbf57f0-3e1d-4d1c-9c20-6422ccdecc55"
     },
     {
@@ -8081,7 +8081,7 @@
         "title": "Intro to OAuth 2",
         "url": "https://newsletter.systemdesigncodex.com/p/intro-to-oauth-2",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "54a4bdef-b47f-4d67-b5dc-6b629a51fcd7"
     },
     {
@@ -8101,7 +8101,7 @@
         "title": "How we built a new powerful JSON data type for ClickHouse",
         "url": "https://clickhouse.com/blog/a-new-powerful-json-data-type-for-clickhouse",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "6bcad50a-e217-44a6-a6d3-615f5487c519"
     },
     {
@@ -8123,7 +8123,7 @@
         "title": "How Discord reduced reduced Websocket traffic by 40%",
         "url": "https://discord.com/blog/how-discord-reduced-websocket-traffic-by-40-percent",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "de5a0224-e875-4a00-b13f-b84437abc774"
     },
     {
@@ -8145,7 +8145,7 @@
         "title": "A Netflix Web Performance Case Study",
         "url": "https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "9b8ccdad-29aa-49ef-85e1-9fb69010ad0b"
     },
     {
@@ -8166,7 +8166,7 @@
         "title": "Microservices Design Pattern - CQRS",
         "url": "https://betterengineers.substack.com/p/cqrs",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "40b0eb77-0894-4b3d-b2ba-0e6aca03b0e8"
     },
     {
@@ -8186,7 +8186,7 @@
         "title": "What is Kafka? Part 1/2",
         "url": "https://systemdesignnewsletter.substack.com/p/ep-18-what-is-kafka",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "6f55a3f3-5582-453d-b65b-ff9df526f75c"
     },
     {
@@ -8207,7 +8207,7 @@
         "title": "Proxy vs Reverse Proxy (Explained with Examples)",
         "url": "https://blog.algomaster.io/p/proxy-vs-reverse-proxy-explained",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "4d02bca4-4163-4999-83ac-d774508ac3d6"
     },
     {
@@ -8229,7 +8229,7 @@
         "title": "Probablistic Data Structures: A deep dive",
         "url": "https://systemdesignnewsletter.substack.com/p/ep-17-probablistic-data-structures",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "8360f163-1ae9-4d16-b7a6-8fb089741df3"
     },
     {
@@ -8251,7 +8251,7 @@
         "title": "How NoSQL Databases Speed-Up Write-Heavy Workloads?",
         "url": "https://newsletter.scalablethread.com/p/how-lsm-trees-optimize-write-heavy",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "f770f8d9-8d68-4f38-9ab3-e46fbd390ecc"
     },
     {
@@ -8271,7 +8271,7 @@
         "title": "How to Handle Sudden Bursts of Traffic or \"Thundering Herd Problem\"?",
         "url": "https://newsletter.scalablethread.com/p/how-to-handle-sudden-bursts-of-traffic",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "54544222-677a-405f-aa82-4889a05851ce"
     },
     {
@@ -8293,7 +8293,7 @@
         "title": "Introduction to Kubernetes and AWS EKS - 1/2",
         "url": "https://dev.to/aws-builders/introduction-to-kubernetes-and-aws-eks-part-1-19e5",
         "language": "english",
-        "type": "post",
+        "type": "Post",
         "id": "76eb3326-01e2-4d19-8ca1-8ba5e51acf3d"
     },
     {
@@ -8315,7 +8315,7 @@
         "title": "Eventual Consistency is Tricky",
         "url": "https://substack.com/home/post/p-150499549",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "8b1d5073-b6c1-46f9-ac8e-5fd2e211d70b"
     },
     {
@@ -8334,7 +8334,7 @@
         "title": "A crash course on caching - Part 1/3",
         "url": "https://systemdesignnewsletter.substack.com/p/ep-13-a-crash-course-on-caching-part",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "d1212c1c-ec8a-4b95-828b-b5f0a65c3092"
     },
     {
@@ -8353,7 +8353,7 @@
         "title": "A crash course on caching - Part 2/3",
         "url": "https://systemdesignnewsletter.substack.com/p/ep-14-a-crash-course-on-caching-part",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "e7244476-2c5c-4d00-8db1-a67e6cc86777"
     },
     {
@@ -8372,7 +8372,7 @@
         "title": "A crash course on caching - Part 3/3",
         "url": "https://systemdesignnewsletter.substack.com/p/ep-15-a-crash-course-on-caching-final",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "c27317de-a6c8-4c8b-9db5-2a1932400874"
     },
     {
@@ -8391,7 +8391,7 @@
         "title": "What are rate limiters - Part 1/2",
         "url": "https://systemdesignnewsletter.substack.com/p/ep-10-what-are-rate-limiters-part",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "cda86b06-d232-40d6-b6d3-cc10619a34a8"
     },
     {
@@ -8410,7 +8410,7 @@
         "title": "What are rate limiters - Part 2/2",
         "url": "https://systemdesignnewsletter.substack.com/p/ep-11-what-are-rate-limiters-part",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "972c23a3-618b-4fdf-824a-9d74909e776d"
     },
     {
@@ -8430,7 +8430,7 @@
         "title": "How Airbnb avoids double payments?",
         "url": "https://systemdesignnewsletter.substack.com/p/ep-4-deep-dive-how-airbnb-avoids",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "c0adf939-cd5d-435f-9d38-77b9e5b11bb4"
     },
     {
@@ -8450,7 +8450,7 @@
         "title": "Design a Distributed Job Scheduler",
         "url": "https://blog.algomaster.io/p/design-a-distributed-job-scheduler",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "aaf07776-299e-4737-a445-13506132b7cb"
     },
     {
@@ -8471,7 +8471,7 @@
         "title": "Queues, Topics, and Their Trade-offs",
         "url": "https://newsletter.systemdesignclassroom.com/p/queues-topics-and-their-trade-offs",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "50ad1a41-c524-4573-a26c-232639eb8990"
     },
     {
@@ -8493,7 +8493,7 @@
         "title": "1.8 Trillion Events Per Day with Kafka: How Agoda Handles it",
         "url": "https://blog.bytebytego.com/p/18-trillion-events-per-day-with-kafka?",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "3f40d188-aa76-49bd-9d55-1bab3fc5cd3b"
     },
     {
@@ -8510,7 +8510,7 @@
         "title": "Why Is Redis a Distributed Swiss Army Knife",
         "url": "https://newsletter.systemdesign.one/p/redis-use-cases",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "0ce34efe-bc59-4962-ac7a-fd9834903bb9"
     },
     {
@@ -8528,7 +8528,7 @@
         "title": "How Halo Scaled to 11.6 Million Users Using the Saga Design Pattern",
         "url": "https://newsletter.systemdesign.one/p/saga-design-pattern",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "54581b62-e686-406a-8689-c80a587d515a"
     },
     {
@@ -8545,7 +8545,7 @@
         "title": "Back of the envelope calculation for Latency",
         "url": "https://systemdesign.one/back-of-the-envelope/",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "8dbb891d-fc5c-4526-b4dc-40b8dc222717"
     },
     {
@@ -8562,7 +8562,7 @@
         "title": "Consistent Hashing Explained",
         "url": "https://systemdesign.one/consistent-hashing-explained/",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "52208a39-d6aa-4ffa-9bfa-6ace57576273"
     },
     {
@@ -8579,7 +8579,7 @@
         "title": "What Is Service Discovery?",
         "url": "https://systemdesign.one/what-is-service-discovery/",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "dec0c788-9cc4-4483-ad6b-e2145d88933b"
     },
     {
@@ -8596,7 +8596,7 @@
         "title": "Consistency Patterns",
         "url": "https://systemdesign.one/consistency-patterns/",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "31782b42-903f-4b3f-83fa-949c1a9c1846"
     },
     {
@@ -8613,7 +8613,7 @@
         "title": "How to use Redis in System Design Interviews",
         "url": "https://systemdesignnewsletter.substack.com/p/ep-16-how-to-use-redis-in-system",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "d6612eb2-52a6-4006-b274-4f769d838bc4"
     },
     {
@@ -8630,7 +8630,7 @@
         "title": "An Engineer's Checklist of Logging Best Practices",
         "url": "https://www.honeycomb.io/blog/engineers-checklist-logging-best-practices",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "16f5783d-b38d-4b34-b10a-fa8b151b2277"
     },
     {
@@ -8648,7 +8648,7 @@
         "title": "How does OAuth2.0 work?",
         "url": "https://newsletter.techworld-with-milan.com/p/how-does-oauth-20-work",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "03a9d687-ad8f-48a1-937a-3af3fab1094d"
     },
     {
@@ -8666,7 +8666,7 @@
         "title": "Building a load balancer in Go part 1",
         "url": "https://substack.com/home/post/p-148316783",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "8d141aab-3e83-4b64-96a4-ce7f94d4969f"
     },
     {
@@ -8684,7 +8684,7 @@
         "title": "Building a load balancer in Go part 2",
         "url": "https://substack.com/home/post/p-148347428",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "1c710e13-a299-44f8-8f6e-245210b0fc07"
     },
     {
@@ -8702,7 +8702,7 @@
         "title": "Building a load balancer in Go part 3",
         "url": "https://substack.com/home/post/p-148375153",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "1bd7b16d-220e-4549-8888-b77f16aee14d"
     },
     {
@@ -8719,7 +8719,7 @@
         "title": "Spotify",
         "url": "https://blog.algomaster.io/p/design-spotify-system-design-interview",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "3848aedd-01ea-4710-a752-f7dff524aa8c"
     },
     {
@@ -8736,7 +8736,7 @@
         "title": "Design a Scalable Notification Service",
         "url": "https://blog.algomaster.io/p/design-a-scalable-notification-service",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "7a28a0b6-d1ab-4e04-9eb9-a42e42053532"
     },
     {
@@ -8754,7 +8754,7 @@
         "title": "Live Comment System Design",
         "url": "https://systemdesign.one/live-comment-system-design/",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "f0c513fc-2ccd-4d0f-a701-37faee02cd1e"
     },
     {
@@ -8771,7 +8771,7 @@
         "title": "Leaderboard System Design",
         "url": "https://systemdesign.one/leaderboard-system-design/",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "aef468a4-e2d0-4a0f-b3d9-b87e6dc0981e"
     },
     {
@@ -8788,7 +8788,7 @@
         "title": "Distributed Counter System Design",
         "url": "https://systemdesign.one/distributed-counter-system-design/",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "5b9c8ddb-21ad-444b-a041-627f05ecb523"
     },
     {
@@ -8806,7 +8806,7 @@
         "title": "URL Shortening System Design",
         "url": "https://systemdesign.one/url-shortening-system-design/",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "89e55242-5c52-4cbc-9875-a358d6215793"
     },
     {
@@ -8824,7 +8824,7 @@
         "title": "80 Million Photos Daily : How Instagram Achieves Real Time Photo Sharing",
         "url": "https://naina0405.substack.com/p/system-design-tech-case-study-pulse-ed6",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "55d0bab2-e209-45e8-a9ef-884f4d19c452"
     },
     {
@@ -8843,7 +8843,7 @@
         "title": "The Trillion Message Kafka setup at Walmart",
         "url": "https://substack.com/home/post/p-149639785",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "8ec133db-3477-4097-9e4d-07306680a838"
     },
     {
@@ -8862,7 +8862,7 @@
         "title": "How Amazon S3 Achieves 99.999999999% Durability",
         "url": "https://newsletter.systemdesign.one/p/amazon-s3-durability",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "fb36d7c3-13d1-402d-988f-12be9c646a5c"
     },
     {
@@ -8881,7 +8881,7 @@
         "title": "How YouTube Was Able to Support 2.49 Billion Users With MySQL",
         "url": "https://newsletter.systemdesign.one/p/vitess-mysql",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "3fd2f8cd-3d77-48e4-b287-ca17101fb857"
     },
     {
@@ -8900,7 +8900,7 @@
         "title": "How Cloudflare Was Able to Support 55 Million Requests per Second With Only 15 Postgres Clusters",
         "url": "https://newsletter.systemdesign.one/p/postgresql-scalability",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "6910aff8-407b-43fa-868c-ddce0d6d0e84"
     },
     {
@@ -8918,7 +8918,7 @@
         "title": "How Uber Computes ETA at Half a Million Requests per Second",
         "url": "https://newsletter.systemdesign.one/p/uber-eta",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "7e23280a-8ce1-44f4-b288-a35e300a3d52"
     },
     {
@@ -8938,7 +8938,7 @@
         "title": "How Stripe Prevents Double Payment Using Idempotent API",
         "url": "https://newsletter.systemdesign.one/p/idempotent-api",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "aee1e33d-772a-4831-8ea6-f604eeeb1ea2"
     },
     {
@@ -8957,7 +8957,7 @@
         "title": "How Uber Finds Nearby Drivers at 1 Million Requests per Second",
         "url": "https://newsletter.systemdesign.one/p/how-does-uber-find-nearby-drivers",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "f467605a-24de-4c19-af46-5d22957d5400"
     },
     {
@@ -8976,7 +8976,7 @@
         "title": "How Amazon Lambda Works",
         "url": "https://newsletter.systemdesign.one/p/how-does-aws-lambda-work",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "bef3fc58-5aab-43a1-b257-2ffe1ed9775c"
     },
     {
@@ -8994,7 +8994,7 @@
         "title": "How to Scale an App to 10 Million Users on AWS",
         "url": "https://newsletter.systemdesign.one/p/aws-scale",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "8f0d59e0-3440-4681-9d56-36c198642937"
     },
     {
@@ -9012,7 +9012,7 @@
         "title": "How Tinder Scaled to 1.6 Billion Swipes per Day",
         "url": "https://newsletter.systemdesign.one/p/tinder-architecture",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "b59120ec-ca87-4c12-90f8-e8452a8dc5c8"
     },
     {
@@ -9031,7 +9031,7 @@
         "title": "How Google Search Works",
         "url": "https://newsletter.systemdesign.one/p/search-engine-architecture",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "d0f7b553-dcd9-40a2-ab67-00cf336f2ef1"
     },
     {
@@ -9050,7 +9050,7 @@
         "title": "How Meta Achieves 99.99999999% Cache Consistency",
         "url": "https://newsletter.systemdesign.one/p/cache-consistency",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "3d34b553-c920-4e51-8bdd-21d7bf7acaef"
     },
     {
@@ -9067,7 +9067,7 @@
         "title": "Avoiding if-else Hell: The Functional Style",
         "url": "https://lackofimagination.org/2024/09/avoiding-if-else-hell-the-functional-style",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "898e9904-2d35-419e-89e3-5bbd1925e49c"
     },
     {
@@ -9084,7 +9084,7 @@
         "title": "Optimizing Postgres table layout for maximum efficiency",
         "url": "https://r.ena.to/blog/optimizing-postgres-table-layout-for-maximum-efficiency/",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "a77859c4-41f8-4c1f-ad72-6d6a3569b010"
     },
     {
@@ -9100,7 +9100,7 @@
         "title": "Bloom Filters Explained",
         "url": "https://systemdesign.one/bloom-filters-explained/",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "8d908f2e-1700-4f2d-bc52-611a7d3c3c9f"
     },
     {
@@ -9119,7 +9119,7 @@
         "title": "How LinkedIn Adopted Protocol Buffers to Reduce Latency by 60%",
         "url": "https://newsletter.systemdesign.one/p/protocol-buffers-vs-json",
         "language": "english",
-        "type": "article",
+        "type": "Article",
         "id": "97719e01-a536-43e7-a40b-bc9ada737714"
     }
 ]

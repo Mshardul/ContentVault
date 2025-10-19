@@ -1,8 +1,5 @@
 // React Imports
-import React, { useCallback, useEffect, useState } from 'react';
-
-// External Library Imports
-import axios from 'axios';
+import { useCallback, useEffect, useState } from 'react';
 
 // Internal Project Imports
 import ArticleList from '../components/ArticleList';
@@ -64,8 +61,6 @@ const HomePage = () => {
           onClick={loadMoreArticles}
           disabled={!hasMore || loading}
           className={`button-primary ${!hasMore || loading ? 'button-disabled' : ''}`}
-          // className={`w-full max-w-md px-4 py-2 font-semibold text-white rounded-md transition-all
-          //   ${hasMore ? 'bg-blue-600 hover:bg-blue-700' : 'bg-gray-400 cursor-not-allowed'}`}
         >
           {hasMore ? (loading ? "Loading..." : "Load More Content") : "That's all we have"}
         </button>

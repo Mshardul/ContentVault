@@ -1,7 +1,7 @@
-// ArticleList.jsx
-
-import React from 'react';
+// External Library Imports
 import Masonry from 'react-masonry-css';
+
+// Internal Project Imports
 import ArticleCard from './ArticleCard';
 
 // Breakpoints for Masonry layout
