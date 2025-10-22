@@ -1,5 +1,158 @@
 [
     {
+        "added_on": "21 Oct 2025",
+        "authors": [
+            "Daria Krasovskaya"
+        ],
+        "publication": "UX Tweak",
+        "published_on": "03 Oct 2025",
+        "read": false,
+        "is_paid": false,
+        "rating": null,
+        "tags": [
+            "User Experience (UX)",
+            "Usability",
+            "Userfulness"
+        ],
+        "thumbnail": "",
+        "title": "Usability vs Usefulness: Key Aspects of a Product's UX",
+        "url": "https://blog.uxtweak.com/usability-vs-usefulness/",
+        "language": "English",
+        "type": "Article",
+        "id": "eac36672-6b50-4230-9723-b94b8fe0fadd"
+    },
+    {
+        "added_on": "20 Oct 2025",
+        "authors": [
+            "Peter Mbanugo"
+        ],
+        "publication": "Peter Mbanugo",
+        "published_on": "01 Oct 2025",
+        "read": false,
+        "is_paid": false,
+        "rating": null,
+        "tags": [
+            "Node.js",
+            "Buffer Optimization",
+            "Large File Processing"
+        ],
+        "thumbnail": "https://cdn.hashnode.com/res/hashnode/image/upload/v1759324954726/9176ddc9-e5d2-4431-8ea0-2c9f8c9068a4.png",
+        "title": "Node.js Performance: Processing 14GB Files 78% Faster with Buffer Optimization",
+        "url": "https://pmbanugo.me/blog/nodejs-1brc",
+        "language": "English",
+        "type": "Article",
+        "id": "a532a13c-420a-4b6b-9ed3-5946c6538e7c"
+    },
+    {
+        "added_on": "20 Oct 2025",
+        "authors": [
+            "Jono Alderson"
+        ],
+        "publication": "Jono Alderson",
+        "published_on": "29 Aug 2025",
+        "read": false,
+        "is_paid": false,
+        "rating": null,
+        "tags": [
+            "Web Development",
+            "Caching",
+            "HTTP Caching"
+        ],
+        "thumbnail": "https://www.jonoalderson.com/acd-cgi/img/v1/wp-content/uploads/caching.png",
+        "title": "A complete guide to HTTP caching",
+        "url": "https://www.jonoalderson.com/performance/http-caching/",
+        "language": "English",
+        "type": "Article",
+        "id": "1c41f150-ce33-4692-9cbe-e8c63e4f6064"
+    },
+    {
+        "added_on": "20 Oct 2025",
+        "authors": [
+            "Neo Kim",
+            "Hayk"
+        ],
+        "publication": "The System Design Newsletter",
+        "published_on": "06 Oct 2025",
+        "read": false,
+        "is_paid": false,
+        "rating": null,
+        "tags": [
+            "System Design",
+            "System Design Case Study",
+            "Spotify",
+            "Spotify Design"
+        ],
+        "thumbnail": "",
+        "title": "System Design Interview Question: Design Spotify",
+        "url": "https://newsletter.systemdesign.one/p/spotify-system-design",
+        "language": "English",
+        "type": "Article",
+        "id": "2c648e9c-67bd-44ff-866e-d24f8f834387"
+    },
+    {
+        "added_on": "20 Oct 2025",
+        "authors": [
+            "Terence Eden"
+        ],
+        "publication": "Terence Eden's Blog",
+        "published_on": "07 Oct 2025",
+        "read": false,
+        "is_paid": false,
+        "rating": null,
+        "tags": [
+            "Readme"
+        ],
+        "thumbnail": "https://shkspr.mobi/blog/wp-content/uploads/2025/07/OS-Selection.webp",
+        "title": "How to actually test your readme",
+        "url": "https://shkspr.mobi/blog/2025/10/how-to-actually-test-your-readme/",
+        "language": "English",
+        "type": "Article",
+        "id": "74091176-34dc-47ff-bc51-4d59dde087bf"
+    },
+    {
+        "added_on": "20 Oct 2025",
+        "authors": [
+            "Bui App"
+        ],
+        "publication": "Bui App",
+        "published_on": "05 Oct 2025",
+        "read": false,
+        "is_paid": false,
+        "rating": null,
+        "tags": [
+            "Python",
+            "Reactive Programming",
+            "Signals"
+        ],
+        "thumbnail": "https://bui.app/content/images/2025/10/Gemini_Generated_Image_oyyccwoyyccwoyyc.png",
+        "title": "Why Reactive Programming Hasn't Taken Off in Python (And How Signals Can Change That)",
+        "url": "https://bui.app/why-reactive-programming-hasnt-taken-off-in-python-and-how-signals-can-change-that/",
+        "language": "English",
+        "type": "Article",
+        "id": "e104d93c-a5cd-4156-8c18-022d71201834"
+    },
+    {
+        "added_on": "20 Oct 2025",
+        "authors": [
+            "Den Odell"
+        ],
+        "publication": "Den Odell",
+        "published_on": "01 Oct 2025",
+        "read": false,
+        "is_paid": false,
+        "rating": null,
+        "tags": [
+            "HTML",
+            "Frontend"
+        ],
+        "thumbnail": "https://denodell.com/_astro/html-best-kept-secret-output-tag.DudwjXl0_2a2Dh2.jpg",
+        "title": "HTML's Best Kept Secret: The <output> Tag",
+        "url": "https://denodell.com/blog/html-best-kept-secret-output-tag",
+        "language": "English",
+        "type": "Article",
+        "id": "7a188f57-ef17-4078-9a09-9420be3e5c91"
+    },
+    {
         "added_on": "21st Sep 2025",
         "authors": [
             "Dev Tips"
@@ -109,7 +262,7 @@
             "Docker",
             "Kubernetes"
         ],
-        "thumbnail": "",
+        "thumbnail": "https://miro.medium.com/v2/resize:fit:1200/1*UIBrk_046qAl9Jp-yNxKUQ.jpeg",
         "title": "How I Finally Understood Docker and Kubernetes",
         "url": "https://medium.com/javarevisited/how-i-finally-understood-docker-and-kubernetes-5debb13cacfe",
         "language": "english",
@@ -267,7 +420,7 @@
             "Golang",
             "Go Pointers"
         ],
-        "thumbnail": "",
+        "thumbnail": "https://miro.medium.com/v2/resize:fit:1200/1*zKKl38aoLOU0wNHnDF3K3w.jpeg",
         "title": "Most People Don't Understand Why Go Uses Pointers Instead of References",
         "url": "https://blog.cubed.run/most-people-dont-understand-why-go-uses-pointers-instead-of-references-bad755dea39f",
         "language": "english",
@@ -1703,26 +1856,6 @@
     {
         "added_on": "18th Feb 2025",
         "authors": [
-            "Shashank Mishra"
-        ],
-        "publication": "Shashank's Substack",
-        "published_on": "30th Dec 2024",
-        "read": false,
-        "tags": [
-            "System Design",
-            "Database (DB)",
-            "Connection Pooling"
-        ],
-        "thumbnail": "",
-        "title": "Connection Pooling in databases and it's advantage",
-        "url": "https://programmingappliedai.substack.com/p/connection-pooling-in-databases-and",
-        "language": "english",
-        "type": "Article",
-        "id": "24eb6f42-727a-468d-80b6-68168c98233c"
-    },
-    {
-        "added_on": "18th Feb 2025",
-        "authors": [
             "Arpit Gupta"
         ],
         "publication": "dev.to",
@@ -2571,7 +2704,7 @@
             "Gitlab",
             "Gitlab CI/CD"
         ],
-        "thumbnail": "",
+        "thumbnail": "https://res.cloudinary.com/about-gitlab-com/image/upload/v1749660151/Blog/Hero%20Images/blog-image-template-1800x945__26_.png",
         "title": "Building a GitLab CI/CD pipeline for a monorepo the easy way",
         "url": "https://about.gitlab.com/blog/2024/07/30/building-a-gitlab-ci-cd-pipeline-for-a-monorepo-the-easy-way/",
         "language": "english",
@@ -3372,7 +3505,7 @@
             "Stripe",
             "DocDB"
         ],
-        "thumbnail": "",
+        "thumbnail": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/fcdd51ce-ee8c-49a9-93ce-3472f0ef459c/Untitled_Diagram.gif",
         "title": "The Architecture of Stripe's Document Database",
         "url": "https://blog.quastor.org/p/the-architecture-of-stripe-s-document-database",
         "language": "english",
@@ -3647,7 +3780,7 @@
             "Javascript",
             "Axios"
         ],
-        "thumbnail": "",
+        "thumbnail": "https://jignect.tech/wp-content/uploads/2024/12/BannerImg-2.png",
         "title": "Mastering Axios: The Ultimate JavaScript Guide to Simplifying API Calls",
         "url": "https://jignect.tech/mastering-axios-the-ultimate-javascript-guide-to-simplifying-api-calls/",
         "language": "english",
@@ -3850,7 +3983,7 @@
             "Scalability",
             "Elastic Search"
         ],
-        "thumbnail": "",
+        "thumbnail": "https://miro.medium.com/v2/resize:fit:751/1*LzF141XeJtPV-NJw0ST2iw.png",
         "title": "Scaling Elasticsearch For Multi-Million Writes and Reads",
         "url": "https://medium.com/@jeevansathisocial/scaling-elasticsearch-for-multi-million-writes-and-reads-05c7144a5e40",
         "language": "english",
@@ -3957,7 +4090,7 @@
             "Elastic Search",
             "Kabana"
         ],
-        "thumbnail": "",
+        "thumbnail": "https://miro.medium.com/v2/resize:fit:730/1*n5eGsT_ODZDYd7z3XUWQWA.png",
         "title": "System Design Interview : Elastic Logstash Kibana/ Monitoring/Observability Basics",
         "url": "https://medium.com/@priyasrivastava18official/system-design-interview-elastic-logstash-kibana-monitoring-observability-basics-41d232fd730f",
         "language": "english",
@@ -4534,7 +4667,7 @@
             "Grafana",
             "Jenkins"
         ],
-        "thumbnail": "",
+        "thumbnail": "https://miro.medium.com/v2/da:true/resize:fit:810/1*yy-REEUGhUP6828ftFD93g.gif",
         "title": "Advanced End-to-End DevSecOps Kubernetes Three-Tier Project using AWS EKS, ArgoCD, Prometheus, Grafana, and Jenkins",
         "url": "https://blog.stackademic.com/advanced-end-to-end-devsecops-kubernetes-three-tier-project-using-aws-eks-argocd-prometheus-fbbfdb956d1a",
         "language": "english",
@@ -5938,7 +6071,7 @@
             "Data Analytics",
             "Inverted Index"
         ],
-        "thumbnail": "",
+        "thumbnail": "https://miro.medium.com/v2/resize:fit:464/1*_PaHjiHvg2_qZ8uJ0eSy1Q.png",
         "title": "Full spectrum of Elasticsearch features and capabilities",
         "url": "https://medium.com/@aditimishra_541/full-spectrum-of-elasticsearch-features-and-capabilities-3d4342fb8631",
         "language": "english",
@@ -6311,7 +6444,7 @@
             "PostgreSQL",
             "Data Lake"
         ],
-        "thumbnail": "",
+        "thumbnail": "https://miro.medium.com/v2/resize:fit:1080/1*HtZXPy85bDrTZm9tMXi6aQ.png",
         "title": "How does Notion handle 200 billion data entities?",
         "url": "https://blog.det.life/how-does-notion-handle-200-billion-data-entities-919b238c2846",
         "language": "english",
@@ -6437,7 +6570,7 @@
             "Microservice",
             "Interview Questions"
         ],
-        "thumbnail": "",
+        "thumbnail": "https://miro.medium.com/v2/resize:fit:480/1*qMCUFN3sirTUg_sCY-xZyg.png",
         "title": "36 Most Asked Microservice Interview Questions",
         "url": "https://medium.com/@akashnagpal112/36-most-asked-microservice-interview-questions-3dcffe9bf97f",
         "language": "english",
@@ -6537,9 +6670,10 @@
         "read": false,
         "tags": [
             "System Design",
-            "Elastic Search"
+            "Elastic Search",
+            "Cheat Sheet"
         ],
-        "thumbnail": "",
+        "thumbnail": "https://towardsdatascience.com/wp-content/uploads/2023/11/0MLNYX-GyxZwzEiYO.jpg",
         "title": "System Design Cheatsheets: ElasticSearch",
         "url": "https://towardsdatascience.com/system-design-cheatsheets-elasticsearch-673b98eebfff",
         "language": "english",
@@ -6559,7 +6693,7 @@
             "Microservice",
             "Monolithic"
         ],
-        "thumbnail": "",
+        "thumbnail": "https://miro.medium.com/v2/da:true/resize:fit:463/0*SgM6dch6RiXBFKV3",
         "title": "Why you should never default to Microservices",
         "url": "https://levelup.gitconnected.com/why-you-should-never-default-to-microservices-c952903fbcb6",
         "language": "english",
@@ -7110,7 +7244,7 @@
             "Distributed System",
             "Authorization"
         ],
-        "thumbnail": "",
+        "thumbnail": "https://miro.medium.com/v2/resize:fit:1024/0*LD5JQuNpW5rVFvNS.png",
         "title": "How To Build Centralized Authorization System",
         "url": "https://medium.com/permify-tech-blog/how-to-build-centralized-authorization-system-c6b180912aeb",
         "language": "english",
@@ -7191,7 +7325,7 @@
             "Spotify",
             "Build from Scratch"
         ],
-        "thumbnail": "",
+        "thumbnail": "https://miro.medium.com/v2/resize:fit:1200/1*ZkFKCpyI6fXb_aw50OW1DQ.png",
         "title": "System Design Interview Question: Design Spotify",
         "url": "https://levelup.gitconnected.com/system-design-interview-question-design-spotify-4a8a79697dda",
         "language": "english",
@@ -7582,7 +7716,7 @@
             "Javascript",
             "Typescript"
         ],
-        "thumbnail": "",
+        "thumbnail": "https://www.robinwieruch.de/static/429d2358f197239bbc72194a7b7170f3/14b42/banner.jpg",
         "title": "How to roll your own auth in JavaScript & TypeScript",
         "url": "https://www.robinwieruch.de/how-to-roll-your-own-auth/",
         "language": "english",

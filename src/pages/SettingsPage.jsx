@@ -34,7 +34,7 @@ const SettingsPage = () => {
         <select
           value={selectedTheme}
           onChange={(e) => setSelectedTheme(e.target.value)}
-          className="p-2 border rounded"
+          className="p-2 border rounded cv-input"
         >
           {themes.map((themeOption) => (
             <option key={themeOption} value={themeOption}>
@@ -50,7 +50,7 @@ const SettingsPage = () => {
         <select
           value={selectedFont}
           onChange={(e) => setSelectedFont(e.target.value)}
-          className="p-2 border rounded"
+          className="p-2 border rounded cv-input"
         >
           {fonts.map((fontOption) => (
             <option key={fontOption} value={fontOption}>

@@ -6,9 +6,9 @@ import Footer from './Footer';
 
 const Layout = ({ children, tags, onSearch }) => {
   return (
-    <div>
+    <div className="app-shell">
       <Header tags={tags} onSearch={onSearch} />
-      <main className="p-6">{children}</main> {/* Main content area */}
+      <main className="p-6 app-content">{children}</main> {/* Main content area */}
       <Footer />
     </div>
   );

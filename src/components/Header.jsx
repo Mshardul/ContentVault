@@ -1,15 +1,13 @@
 import React, { useContext } from "react";
 import { Link, useNavigate } from "react-router-dom";
 import { AppContext } from "../context/AppContext";
-import TagDropdownSearch from "./TagDropdownSearch";
-import { FaTags, FaInfoCircle, FaCog, FaSun, FaMoon } from "react-icons/fa";
-import { useThumbnailCache } from "../cache/ThumbnailCacheContext";
+import TagMultiSelect from "./TagMultiSelect";
+import { FaTags, FaInfoCircle, FaCog, FaSun, FaMoon, FaPlusCircle } from "react-icons/fa";
 import ThemeContext from "../context/ThemeContext";
 
 const Header = () => {
-  const { tags, thumbnailCache } = useContext(AppContext);
+  const { tags } = useContext(AppContext);
   const navigate = useNavigate();
-  const { cache } = useThumbnailCache();
   const { theme, setTheme } = useContext(ThemeContext);
 
   const handleThemeToggle = () => {
@@ -21,10 +19,7 @@ const Header = () => {
     navigate("/tags/filter", { state: { selectedTagNames: selectedTags.map((tag) => tag.name) } });
   };
 
-  const handlePrintCache = () => {
-    console.log("Thumbnail Cache Data:", cache);
-    console.log("thumbnailCache: ", JSON.stringify(thumbnailCache, null, 2));
-  };
+  // debug helper removed (not used)
 
   return (
     <header className="header flex items-center justify-between px-6 py-4 bg-white shadow-md">
@@ -38,12 +33,12 @@ const Header = () => {
 
         {/* Search Component */}
         <div className="w-full max-w-md">
-          <TagDropdownSearch tags={tags} onSearch={handleSearch} />
+          <TagMultiSelect variant="search" allTags={tags} onSearch={handleSearch} overlay />
         </div>
       </div>
 
       {/* Right Side: Navigation Icons */}
-      <div className="flex items-center space-x-4">
+      <div className="flex items-center space-x-2">
         {/* Theme Toggle Button */}
         <button
           onClick={handleThemeToggle}
@@ -56,6 +51,11 @@ const Header = () => {
         {/* Tags */}
         <Link to="/tags/all" className="header-icon">
           <FaTags size={24} />
+        </Link>
+
+        {/* Add new Entry */}
+        <Link to="/new" className="header-icon">
+          <FaPlusCircle size={24} />
         </Link>
 
         {/* About Us */}

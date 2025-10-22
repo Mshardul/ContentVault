@@ -6,3 +6,18 @@ export const shuffleArray = (array) => {
   }
   return shuffled;
 };
+
+export const getTagsCount = (array) => {
+  let tagsCount = {};
+  array.forEach(element => {
+    const tags = element.tags;
+    tags.forEach(tag => {
+      if (tag in tagsCount) {
+        tagsCount[tag] += 1;
+      } else {
+        tagsCount[tag] = 1;
+      }
+    });
+  });
+  return tagsCount;
+}

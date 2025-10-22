@@ -57,7 +57,11 @@ const ArticleCard = ({ title, url, tags = [], thumbnail = "", statusIndicators =
           const fetchedThumbnailUrl = ogImage ? ogImage.content : null;
 
           if (fetchedThumbnailUrl) {
-            console.log("thumbnail_url", url, fetchedThumbnailUrl);
+            const thumbnail_url_obtained = {
+              "url": url,
+              "thumbnail_url": fetchedThumbnailUrl
+            }
+            console.log("thumbnail_url", thumbnail_url_obtained);
             setThumbnailUrl(fetchedThumbnailUrl);
 
             // Update cache safely using ref

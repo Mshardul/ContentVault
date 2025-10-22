@@ -17,6 +17,7 @@ import HomePage from './pages/HomePage';
 import SettingsPage from './pages/SettingsPage';
 import TagContentPage from './pages/TagContentPage';
 import TagListPage from './pages/TagListPage';
+import NewArticlePage from './pages/NewArticlePage';
 
 // Internal Imports - Components
 import Layout from './components/Layout';
@@ -34,6 +35,7 @@ function App() {
                   <Route path="/tags/all" element={<TagListPage />} />
                   <Route path="/tags/filter" element={<TagContentPage />} />
                   <Route path="/tags/:tag" element={<TagContentPage />} />
+                  <Route path="/new" element={<NewArticlePage />} />
                   <Route path="/about" element={<AboutPage />} />
                   <Route path="/settings" element={<SettingsPage />} />
                 </Routes>
