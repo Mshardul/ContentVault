@@ -1,11 +1,35 @@
 [
     {
-        "added_on": "21 Oct 2025",
+        "added_on": "24th Oct 2025",
+        "authors": [
+            "Vanessa Madison"
+        ],
+        "publication": "dev.to",
+        "published_on": "16th Oct 2025",
+        "read": false,
+        "is_paid": false,
+        "rating": null,
+        "tags": [
+            "Secret Management",
+            "Kubernetes",
+            "Credentials",
+            ".env File",
+            "Environment Variables"
+        ],
+        "thumbnail": "",
+        "title": "Secrets Management: Keeping API Keys and Credentials Safe",
+        "url": "https://dev.to/vanessamadison/secrets-management-keeping-api-keys-and-credentials-safe-140h",
+        "language": "English",
+        "type": "Post",
+        "id": "2567d892-90f5-49f8-a05e-0b93a2c646fb"
+    },
+    {
+        "added_on": "21st Oct 2025",
         "authors": [
             "Daria Krasovskaya"
         ],
         "publication": "UX Tweak",
-        "published_on": "03 Oct 2025",
+        "published_on": "03rd Oct 2025",
         "read": false,
         "is_paid": false,
         "rating": null,
@@ -22,12 +46,12 @@
         "id": "eac36672-6b50-4230-9723-b94b8fe0fadd"
     },
     {
-        "added_on": "20 Oct 2025",
+        "added_on": "20th Oct 2025",
         "authors": [
             "Peter Mbanugo"
         ],
         "publication": "Peter Mbanugo",
-        "published_on": "01 Oct 2025",
+        "published_on": "01st Oct 2025",
         "read": false,
         "is_paid": false,
         "rating": null,
@@ -44,12 +68,12 @@
         "id": "a532a13c-420a-4b6b-9ed3-5946c6538e7c"
     },
     {
-        "added_on": "20 Oct 2025",
+        "added_on": "20th Oct 2025",
         "authors": [
             "Jono Alderson"
         ],
         "publication": "Jono Alderson",
-        "published_on": "29 Aug 2025",
+        "published_on": "29th Aug 2025",
         "read": false,
         "is_paid": false,
         "rating": null,
@@ -66,13 +90,13 @@
         "id": "1c41f150-ce33-4692-9cbe-e8c63e4f6064"
     },
     {
-        "added_on": "20 Oct 2025",
+        "added_on": "20th Oct 2025",
         "authors": [
             "Neo Kim",
             "Hayk"
         ],
         "publication": "The System Design Newsletter",
-        "published_on": "06 Oct 2025",
+        "published_on": "06th Oct 2025",
         "read": false,
         "is_paid": false,
         "rating": null,
@@ -90,12 +114,12 @@
         "id": "2c648e9c-67bd-44ff-866e-d24f8f834387"
     },
     {
-        "added_on": "20 Oct 2025",
+        "added_on": "20th Oct 2025",
         "authors": [
             "Terence Eden"
         ],
         "publication": "Terence Eden's Blog",
-        "published_on": "07 Oct 2025",
+        "published_on": "07th Oct 2025",
         "read": false,
         "is_paid": false,
         "rating": null,
@@ -110,12 +134,12 @@
         "id": "74091176-34dc-47ff-bc51-4d59dde087bf"
     },
     {
-        "added_on": "20 Oct 2025",
+        "added_on": "20th Oct 2025",
         "authors": [
             "Bui App"
         ],
         "publication": "Bui App",
-        "published_on": "05 Oct 2025",
+        "published_on": "05th Oct 2025",
         "read": false,
         "is_paid": false,
         "rating": null,
@@ -132,12 +156,12 @@
         "id": "e104d93c-a5cd-4156-8c18-022d71201834"
     },
     {
-        "added_on": "20 Oct 2025",
+        "added_on": "20th Oct 2025",
         "authors": [
             "Den Odell"
         ],
         "publication": "Den Odell",
-        "published_on": "01 Oct 2025",
+        "published_on": "01st Oct 2025",
         "read": false,
         "is_paid": false,
         "rating": null,

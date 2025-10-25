@@ -1,5 +1,45 @@
 [
     {
+        "added_on": "25th Oct 2025",
+        "id": "8ebd6286-3645-439b-beb6-7970254cf07a",
+        "title": "Color Mate",
+        "about": "Design & Dev Tools For Creators",
+        "url": "The Ultimate Color Tool for Designers & Developers",
+        "thumbnail": "",
+        "tags": ["Frontend Development", "UI", "UX", "Color Palette", "Gradients", "Color Picker", "Color Mate"],
+        "description": "Generate palettes, create gradients, extract colors from images, and preview them in real-time — all in one free toolkit."
+    },
+    {
+        "added_on": "25th Oct 2025",
+        "id": "a9c4246c-b20f-4e0d-ae74-5f673e5051cb",
+        "title": "Design Dev",
+        "about": "Design & Dev Tools For Creators",
+        "url": "https://design.dev",
+        "thumbnail": "",
+        "tags": ["Frontend Development", "UI", "UX", "Design Systems", "Components", "Icons", "Templates", "Design Dev"],
+        "description": "Code generators, cheat sheets, and resources to boost web development."
+    },
+    {
+        "added_on": "24th Oct 2025",
+        "id": "07f15454-5bfe-48de-b160-8710e19ea7ef",
+        "title": "Modul",
+        "about": "Create good-looking presentations quickly.",
+        "url": "https://www.modul.page/",
+        "thumbnail": "",
+        "tags": ["AI", "AI Tool", "Presentation", "Email Marketing", "Automation"],
+        "description": "For busy people who have something to say, no time to design."
+    },
+    {
+        "added_on": "24th Oct 2025",
+        "id": "8ccafa8e-f63f-4bca-990c-3d8abe87b3b1",
+        "title": "Mailmodo",
+        "about": "Setup Email Marketing Automations in Minutes With AI Agents",
+        "url": "https://www.getstudypal.com",
+        "thumbnail": "",
+        "tags": ["AI", "AI Tool", "Automation", "Email Marketing", "AI Agent"],
+        "description": "Win back your time by using AI to create emails, build journeys, automate campaigns, and deliver reports. No technical expertise required."
+    },
+    {
         "added_on": "19th Apr 2025",
         "id": "32e08f24-0831-4c6c-9ed1-b4567c4a5fa7",
         "title": "Study Pal",

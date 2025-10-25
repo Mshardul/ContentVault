@@ -1,0 +1,32 @@
+[
+    {
+        "added_on": "24th Oct 2025",
+        "id": "190aa558-e8d6-4356-8890-16df086a7794",
+        "title": "Data Engineer SQL Questions",
+        "about": "Data Engineer SQL Questions",
+        "url": "https://www.dataexpert.io/questions",
+        "thumbnail": "",
+        "tags": ["Interview Prep", "Quiz", "Questions", "SQL", "Data Engineer"],
+        "description": ""
+    },
+    {
+        "added_on": "24th Oct 2025",
+        "id": "2b62aeaa-5bde-43e2-98a1-cd4abef7606f",
+        "title": "SQL & Data Interview Questions",
+        "about": "SQL & Data Interview Questions",
+        "url": "https://datalemur.com/questions",
+        "thumbnail": "",
+        "tags": ["Interview Prep", "Quiz", "Questions", "SQL", "Data Engineer"],
+        "description": "Practice the most common SQL, Statistics, ML, and Python questions asked in FAANG Data Science & Data Analyst interviews!"
+    },
+    {
+        "added_on": "24th Oct 2025",
+        "id": "4dee6da0-b000-4fe8-a4b9-ea93b6d5cb75",
+        "title": "Analytical Questions",
+        "about": "SQL & Data Interview Questions",
+        "url": "https://platform.stratascratch.com/coding?code_type=1",
+        "thumbnail": "",
+        "tags": ["Interview Prep", "Quiz", "Questions", "SQL", "Data Engineer"],
+        "description": "Practice the most common SQL, Statistics, ML, and Python questions asked in FAANG Data Science & Data Analyst interviews!"
+    }
+]
