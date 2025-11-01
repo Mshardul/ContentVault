@@ -1,13 +1,13 @@
 [
     {
-        "added_on": "25th Oct 2025",
-        "id": "8ebd6286-3645-439b-beb6-7970254cf07a",
-        "title": "Color Mate",
-        "about": "Design & Dev Tools For Creators",
-        "url": "The Ultimate Color Tool for Designers & Developers",
+        "added_on": "01st Nov 2025",
+        "id": "71ebebe3-f47b-4a4b-84a8-5020eb8ac772",
+        "title": "Alai",
+        "about": "Create high quality presentations with AI",
+        "url": "https://getalai.com/",
         "thumbnail": "",
-        "tags": ["Frontend Development", "UI", "UX", "Color Palette", "Gradients", "Color Picker", "Color Mate"],
-        "description": "Generate palettes, create gradients, extract colors from images, and preview them in real-time — all in one free toolkit."
+        "tags": ["Presentation", "AI", "AI Tool", "Text to Presentation", "Alai"],
+        "description": ""
     },
     {
         "added_on": "25th Oct 2025",
@@ -128,16 +128,6 @@
         "url": "https://windsurf.com/editor",
         "thumbnail": "",
         "tags": ["IDE", "Code Editor", "Windsurf"],
-        "description": ""
-    },
-    {
-        "added_on": "19th Apr 2025",
-        "id": "f612ecf0-aa17-4cdf-bac7-c1eb0eeec6a8",
-        "title": "Prezi",
-        "about": "Create a custom presentation in seconds with Prezi AI. No design skills needed.",
-        "url": "https://prezi.com",
-        "thumbnail": "",
-        "tags": ["Presentation", "Text to Presentation", "Prezi"],
         "description": ""
     },
     {
