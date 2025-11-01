@@ -4,15 +4,7 @@ import { AppContext } from '../context/AppContext';
 import TagsList from '../components/TagsList';
 import statusIconConfig from '../config/statusIconConfig';
 import typeIconConfig from '../config/typeIconConfig';
-
-const CORS_PROXIES = [
-  "https://api.allorigins.win/raw?url=",
-  "https://cors-anywhere.herokuapp.com/",
-  "https://thingproxy.freeboard.io/fetch/",
-  "https://api.codetabs.com/v1/proxy?quest=",
-  "https://proxy.cors.sh/",
-  "https://corsproxy.io/?"
-];
+import fetchThumbnailFromPage from '../utils/thumbnailUtils';
 
 const ArticleCard = ({ title, url, tags = [], thumbnail = "", statusIndicators = [], type = "" }) => {
   const { thumbnailCache, setThumbnailCache } = useContext(AppContext);
@@ -47,34 +39,18 @@ const ArticleCard = ({ title, url, tags = [], thumbnail = "", statusIndicators =
 
     const fetchThumbnail = async () => {
       setLoading(true);
-      for (let proxy of CORS_PROXIES) {
-        try {
-          const response = await fetch(`${proxy}${url}`);
-          const text = await response.text();
-          const parser = new DOMParser();
-          const doc = parser.parseFromString(text, "text/html");
-          const ogImage = doc.querySelector('meta[property="og:image"]');
-          const fetchedThumbnailUrl = ogImage ? ogImage.content : null;
-
-          if (fetchedThumbnailUrl) {
-            const thumbnail_url_obtained = {
-              "url": url,
-              "thumbnail_url": fetchedThumbnailUrl
-            }
-            console.log("thumbnail_url", thumbnail_url_obtained);
-            setThumbnailUrl(fetchedThumbnailUrl);
-
-            // Update cache safely using ref
-            setThumbnailCacheRef.current(prev => ({ ...prev, [url]: fetchedThumbnailUrl }));
-
-            break;
-          }
-        } catch (error) {
-          console.warn(`Failed to fetch thumbnail via proxy ${proxy}`, error);
-          continue;  // try next proxy on error
+      try {
+        const fetched = await fetchThumbnailFromPage(url);
+        if (fetched) {
+          console.log('thumbnail_url', { url, thumbnail_url: fetched });
+          setThumbnailUrl(fetched);
+          setThumbnailCacheRef.current(prev => ({ ...prev, [url]: fetched }));
         }
+      } catch (err) {
+        console.warn('Failed to fetch thumbnail', err);
+      } finally {
+        setLoading(false);
       }
-      setLoading(false);
     };
 
     fetchThumbnail();
