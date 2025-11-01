@@ -1,6 +1,86 @@
 [
     {
         "added_on": "01st Nov 2025",
+        "id": "fe07d990-b00e-4647-b628-fb1fdea62387",
+        "title": "Exemplary AI",
+        "about": "Instant Content Creation & Repurpose Video with AI",
+        "url": "https://exemplary.ai",
+        "thumbnail": "",
+        "tags": ["Generative AI", "AI Tool", "Marketing", "Content Creation", "Video Repurposing", "Short Clips", "Automation", "Transcription", "Subtitles generation", "Exemplary AI"],
+        "description": ""
+    },
+    {
+        "added_on": "01st Nov 2025",
+        "id": "421044b0-6b32-4aa7-9318-4db9a5cc74b0",
+        "title": "Choppity",
+        "about": "Generate engaging short clips with AI",
+        "url": "https://www.choppity.com/",
+        "thumbnail": "",
+        "tags": ["Generative AI", "AI Tool", "Videos", "Short Clips", "Choppity"],
+        "description": ""
+    },
+    {
+        "added_on": "01st Nov 2025",
+        "id": "481ec3db-49fb-47d7-b13e-a13fb64b390f",
+        "title": "Rezi AI Resume Builder",
+        "about": "The Best Free AI Resume Builder",
+        "url": "https://www.rezi.ai/ai-resume-builder",
+        "thumbnail": "",
+        "tags": ["Generative AI", "AI Tool", "Resume Builder", "Rezi AI Resume Builder", "Free"],
+        "description": ""
+    },
+    {
+        "added_on": "01st Nov 2025",
+        "id": "9d6989b5-14fc-43bf-a9cd-d18e77715404",
+        "title": "vidnoz",
+        "about": "Create Engaging AI Videos, 10x Faster & Free",
+        "url": "https://www.vidnoz.com",
+        "thumbnail": "",
+        "tags": ["Generative AI", "AI Tool", "Text to Video", "vidnoz", "Free"],
+        "description": ""
+    },
+    {
+        "added_on": "01st Nov 2025",
+        "id": "f1afe24c-1502-4671-9845-2963bee56883",
+        "title": "Dr Fonts",
+        "about": "Search, build & find any font",
+        "url": "https://drfonts.com/",
+        "thumbnail": "",
+        "tags": ["Fonts", "Font Search", "Font Combinations", "Dr Fonts"],
+        "description": ""
+    },
+    {
+        "added_on": "01st Nov 2025",
+        "id": "3c6bc18e-b846-4f29-8ae0-9a8b78959117",
+        "title": "Grokipedia",
+        "about": "",
+        "url": "https://grokipedia.com",
+        "thumbnail": "",
+        "tags": ["Wikipedia", "Knowledge Base", "Grokipedia", "X", "Generative AI", "AI Tool"],
+        "description": ""
+    },
+    {
+        "added_on": "01st Nov 2025",
+        "id": "f1afe24c-1502-4671-9845-2963bee56883",
+        "title": "Mockup Labs",
+        "about": "Free Mockup Generator to Create Any Product Mockup",
+        "url": "https://www.mockuplabs.ai",
+        "thumbnail": "",
+        "tags": ["Dropshipping", "Ecommerce", "Mockup Generator", "Product Mockup", "Mockup Labs"],
+        "description": ""
+    },
+    {
+        "added_on": "01st Nov 2025",
+        "id": "52e0c3a1-5e30-4a50-8666-6a5fab2124b5",
+        "title": "JSON Query",
+        "about": "A small, flexible, and expandable JSON query language.",
+        "url": "https://jsonquerylang.org/",
+        "thumbnail": "",
+        "tags": ["JSON", "JSON Query", "Data Query Language"],
+        "description": ""
+    },
+    {
+        "added_on": "01st Nov 2025",
         "id": "71ebebe3-f47b-4a4b-84a8-5020eb8ac772",
         "title": "Alai",
         "about": "Create high quality presentations with AI",

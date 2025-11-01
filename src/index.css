@@ -159,7 +159,6 @@ form label {
 input[type="text"],
 input[type="url"],
 input[type="date"],
-input[type="checkbox"],
 select[multiple],
 select {
   padding: 0.5rem 0.75rem;
@@ -381,6 +380,10 @@ pre {
   background: #f8fafc; /* gray-50 */
 }
 
+.tag-multiselect__item--focused {
+  background: color-mix(in srgb, var(--primary-color) 8%, transparent);
+}
+
 .tag-multiselect__item-count {
   color: #6b7280; /* gray-500 */
   font-size: 0.8rem;
@@ -389,7 +392,7 @@ pre {
 /* Create new tag row */
 .tag-multiselect__create {
   padding: 0.5rem 0.75rem;
-  color: #10b981; /* green-500 */
+  color: var(--primary-color);
   cursor: pointer;
 }
 

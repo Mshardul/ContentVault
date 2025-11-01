@@ -36,6 +36,7 @@ const TagMultiSelect = ({
   const [searchText, setSearchText] = useState("");
   const [filteredTags, setFilteredTags] = useState([]);
   const [isOpen, setIsOpen] = useState(false);
+  const [focusedIndex, setFocusedIndex] = useState(-1);
   const containerRef = useRef(null);
   const inputRef = useRef(null);
   
@@ -134,28 +135,52 @@ const TagMultiSelect = ({
 
   // Logic for handling 'Enter' key press in 'add' variant
   const handleKeyDown = (e) => {
-    if (e.key === 'Enter') {
-      e.preventDefault();
-      const trimmedText = searchText.trim();
-      
-      if (!isSearchVariant && trimmedText.length > 0) {
-        const isAlreadySelected = selectedTagNames.includes(trimmedText.toLowerCase());
+    // Build displayed options for navigation
+    const trimmed = searchText.trim();
+    const options = (filteredTags || []).map((t) => ({
+      name: isSearchVariant ? t.name : t,
+      original: t,
+    }));
+    const hasExactMatch = (allTags || []).some((t) => {
+      const n = isSearchVariant ? t.name : t;
+      return n && n.toLowerCase() === trimmed.toLowerCase();
+    });
+    const canCreate = !isSearchVariant && trimmed.length > 0 && !hasExactMatch && !selectedTagNames.includes(trimmed.toLowerCase());
+    if (canCreate) options.push({ name: trimmed, __create: true });
 
-        if (filteredTags.length === 1) {
-          // If only 1 suggestion, select it
+    if (e.key === 'ArrowDown') {
+      e.preventDefault();
+      setIsOpen(true);
+      setFocusedIndex((prev) => Math.min(prev + 1, Math.max(0, options.length - 1)));
+      return;
+    } else if (e.key === 'ArrowUp') {
+      e.preventDefault();
+      setFocusedIndex((prev) => Math.max(prev - 1, 0));
+      return;
+    } else if (e.key === 'Enter') {
+      e.preventDefault();
+      if (!isSearchVariant && trimmed.length > 0) {
+        // If user has navigated with arrows, choose that option
+        if (focusedIndex >= 0 && options[focusedIndex]) {
+          const opt = options[focusedIndex];
+          if (opt.__create) {
+            handleTagSelect({ name: opt.name });
+          } else {
+            handleTagSelect(isSearchVariant ? opt.original : opt.original.name || opt.original);
+          }
+        } else if (filteredTags.length === 1) {
           const tagToSelect = filteredTags[0];
           handleTagSelect(isSearchVariant ? tagToSelect : tagToSelect.name || tagToSelect);
-        } else if (!isAlreadySelected) {
-          // Create new tag if not already selected (only in 'add' variant)
-          handleTagSelect({ name: trimmedText });
+        } else if (!selectedTagNames.includes(trimmed.toLowerCase())) {
+          handleTagSelect({ name: trimmed });
         }
-      } 
-      
+      }
+
       // Clear suggestions after attempting to add/select
       setFilteredTags([]);
       setSearchText("");
-    }
-    else if (e.key === 'Backspace' && !searchText) {
+      setFocusedIndex(-1);
+    } else if (e.key === 'Backspace' && !searchText) {
       // remove last tag when input is empty
       setSelectedTags((prev) => prev.slice(0, Math.max(0, prev.length - 1)));
     }
@@ -228,49 +253,45 @@ const TagMultiSelect = ({
       {/* Dropdown with Selected Tags and Filtered Tags */}
       {showDropdown && (
         <div className="tag-multiselect__dropdown">
-          {/* Display selected tags within the dropdown area (with clear all) */}
-          <div className="tag-multiselect__selected">
-            <div className="tag-multiselect__selected-list">
-              {selectedTags.map((tag) => (
-                <span key={tag.name} className="tag-multiselect__tag">
-                  {tag.name}
-                  <button onClick={() => handleTagRemove(tag)} className="tag-multiselect__tag-remove" title={`Remove ${tag.name}`}>
-                    &times;
-                  </button>
-                </span>
-              ))}
-            </div>
-            {selectedTags.length > 0 && (
-              <button onClick={clearAllTags} className="tag-multiselect__clear-all">Clear all</button>
-            )}
-          </div>
+          {/* Selected tags are shown in the chips area; do not repeat them inside the dropdown */}
 
           {/* Display filtered tags based on search input */}
           <div className="tag-multiselect__list">
-            {filteredTags.length > 0 ? (
-              filteredTags.map((tag) => {
-                const tagName = isSearchVariant ? tag.name : tag;
-                const tagCount = isSearchVariant ? tag.count : null;
-                return (
-                  <div key={tagName} onClick={() => handleTagSelect(tag)} className="tag-multiselect__item">
-                    <span className="tag-multiselect__item-name">{tagName}</span>
-                    {tagCount !== null && (<span className="tag-multiselect__item-count">({tagCount})</span>)}
+            {
+              (() => {
+                const trimmed = searchText.trim();
+                const options = (filteredTags || []).map((t) => ({ name: isSearchVariant ? t.name : t, original: t }));
+                const hasExactMatch = (allTags || []).some((t) => {
+                  const n = isSearchVariant ? t.name : t;
+                  return n && n.toLowerCase() === trimmed.toLowerCase();
+                });
+                const canCreate = !isSearchVariant && trimmed.length > 0 && !hasExactMatch && !selectedTagNames.includes(trimmed.toLowerCase());
+                if (canCreate) options.push({ name: trimmed, __create: true });
+
+                  // options built for rendering and keyboard nav
+
+                if (options.length === 0) {
+                  return (!isSearchVariant && trimmed.length > 0) ? null : (
+                    <div className="tag-multiselect__empty">No tags</div>
+                  );
+                }
+
+                return options.map((opt, idx) => (
+                  <div
+                    key={opt.__create ? `create-${opt.name}` : opt.name}
+                    onClick={() => opt.__create ? handleTagSelect({ name: opt.name }) : handleTagSelect(opt.original)}
+                    onMouseEnter={() => setFocusedIndex(idx)}
+                    className={`tag-multiselect__item ${focusedIndex === idx ? 'tag-multiselect__item--focused' : ''}`}
+                  >
+                    <span className="tag-multiselect__item-name">{opt.name}</span>
+                    {!opt.__create && isSearchVariant && opt.original && opt.original.count ? (
+                      <span className="tag-multiselect__item-count">({opt.original.count})</span>
+                    ) : null}
+                    {opt.__create && <span className="tag-multiselect__create-label">+ Create new tag</span>}
                   </div>
-                );
-              })
-            ) : (
-                // Option to create a new tag in 'add' mode
-                (!isSearchVariant && searchText.trim().length > 0 && !selectedTagNames.includes(searchText.trim().toLowerCase())) && (
-                  <div onClick={() => handleTagSelect({ name: searchText.trim() })} className="tag-multiselect__create">
-                    + Create new tag: <strong>{searchText.trim()}</strong>
-                  </div>
-                )
-            )}
-            
-            {/* Show no tags found message if needed */}
-            {(isSearchVariant && searchText.length >= 3 && filteredTags.length === 0) && (
-              <p className="tag-multiselect__empty">No tags found matching search.</p>
-            )}
+                ));
+              })()
+            }
           </div>
         </div>
       )}

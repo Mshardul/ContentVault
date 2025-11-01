@@ -1,5 +1,342 @@
 [
     {
+        "added_on": "01 Nov 2025",
+        "authors": [
+            "Jannis"
+        ],
+        "publication": "Medium",
+        "published_on": "20 Jun 2025",
+        "read": false,
+        "is_paid": true,
+        "rating": null,
+        "tags": ["DevOps", "Git", "Google", "Jujutsu (jj)"],
+        "thumbnail": "",
+        "title": "If You Use Git Daily, Google's Jujutsu (JJ) Might Change Everything",
+        "url": "https://medium.com/@PowerUpSkills/if-you-use-git-daily-googles-jujutsu-jj-might-change-everything-0daf3d21087e",
+        "language": "English",
+        "type": "Article",
+        "id": "dbf82831-48f1-447e-87b8-1550418acdd7"
+    },
+    {
+        "added_on": "01 Nov 2025",
+        "authors": [
+            "Saurabh Dashora"
+        ],
+        "publication": "System Design Codex",
+        "published_on": "",
+        "read": false,
+        "is_paid": false,
+        "rating": null,
+        "tags": [
+            "System Design",
+            "Load Balancer",
+            "Availability",
+            "Scalability",
+            "System Design Concepts"
+        ],
+        "thumbnail": "",
+        "title": "What All Can A Load Balancer Do?",
+        "url": "https://newsletter.systemdesigncodex.com/p/what-all-can-a-load-balancer-do",
+        "language": "English",
+        "type": "Article",
+        "id": "954c6e85-8576-42ff-8aa0-550c587f12bc"
+    },
+    {
+        "added_on": "01 Nov 2025",
+        "authors": ["Ashish Pratap Singh"],
+        "publication": "Algomaster Newsletter",
+        "published_on": "28 Sep 2025",
+        "read": false,
+        "is_paid": false,
+        "rating": null,
+        "tags": ["Database (DB)", "RDBMS", "Distributed System", "Distributed Database", "Database Indexing"],
+        "thumbnail": "",
+        "title": "How Indexing Works in Distributed Databases",
+        "url": "https://blog.algomaster.io/p/indexing-in-distributed-databases",
+        "language": "English",
+        "type": "Article",
+        "id": "c77afc6a-03f8-4ce8-95e6-fc5ec3182c09"
+    },
+    {
+        "added_on": "01 Nov 2025",
+        "authors": ["Byte Byte Go"],
+        "publication": "Byte Byte Go",
+        "published_on": "25 Sep 2025",
+        "read": false,
+        "is_paid": false,
+        "rating": null,
+        "tags": ["API", "GraphQL", "REST"],
+        "thumbnail": "",
+        "title": "GraphQL 101: API Approach Beyond REST",
+        "url": "https://blog.bytebytego.com/p/graphql-101-api-approach-beyond-rest",
+        "language": "English",
+        "type": "Article",
+        "id": "c1c8d320-fbfe-4b21-b10c-daf6c04b8dd9"
+},
+    {
+        "added_on": "01 Nov 2025",
+        "authors": [
+            "The Latency Gambler"
+        ],
+        "publication": "Medium",
+        "published_on": "",
+        "read": false,
+        "is_paid": false,
+        "rating": null,
+        "tags": [
+            "System Design",
+            "System Design Case Study",
+            "Scalability",
+            "Message Brokers",
+            "Kafka"
+        ],
+        "thumbnail": "",
+        "title": "Kafka Secrets: The Confluent Engineers Don't Want You to Know",
+        "url": "https://medium.com/@kanishks772/kafka-secrets-the-confluent-engineers-dont-want-you-to-know-7d145c7f8fbc",
+        "language": "English",
+        "type": "Article",
+        "id": "6986f672-bb09-4851-bf8b-186260a3d41a"
+    },
+    {
+        "added_on": "01 Nov 2025",
+        "authors": [
+            "Himanshu Singour"
+        ],
+        "publication": "Medium",
+        "published_on": "23 Sep 2025",
+        "read": false,
+        "is_paid": false,
+        "rating": null,
+        "tags": [
+            "System Design",
+            "System Design Case Study",
+            "Scalability",
+            "E-commerce"
+        ],
+        "thumbnail": "",
+        "title": "Big Billion Sale 2025: System Design",
+        "url": "https://medium.com/@himanshusingour7/big-billion-sale-2025-system-design-282f84d28e8f",
+        "language": "English",
+        "type": "Article",
+        "id": "dc6f0451-29b1-4f5f-9542-e5c38563b04c"
+    },
+    {
+        "added_on": "01 Nov 2025",
+        "authors": [
+            "Liu Zuo Lin"
+        ],
+        "publication": "Level Up Conding",
+        "published_on": "19 Jul 2025",
+        "read": false,
+        "is_paid": false,
+        "rating": null,
+        "tags": [
+            "Programming language Concepts",
+            "Python",
+            "Type Hints"
+        ],
+        "thumbnail": "",
+        "title": "4 Python Type Hint Things I Should've Known Earlier",
+        "url": "https://levelup.gitconnected.com/4-python-type-hint-things-i-shouldve-known-earlier-26b52d034733",
+        "language": "English",
+        "type": "Article",
+        "id": "b912d82d-29b1-433d-b17d-e4d9ea932894"
+    },
+    {
+        "added_on": "01 Nov 2025",
+        "authors": ["Jess Ramos"],
+        "publication": "Substack",
+        "published_on": "23 Sep 2025",
+        "read": false,
+        "is_paid": false,
+        "rating": null,
+        "tags": ["Database (DB)", "Structured Query Language (SQL)", "Database Concepts"],
+        "thumbnail": "",
+        "title": "Row_Number() vs. Rank() vs. Dense_Rank() Easily Explained!",
+        "url": "https://jessramosdata.substack.com/p/row_number-vs-rank-vs-dense_rank-d3c",
+        "language": "English",
+        "type": "Article",
+        "id": "8e4c75bc-7db3-44f3-9725-70103a933d1e"
+    },
+    {
+        "added_on": "01 Nov 2025",
+        "authors": ["The CS Engineer"],
+        "publication": "Medium",
+        "published_on": "",
+        "read": false,
+        "is_paid": false,
+        "rating": null,
+        "tags": ["Database (DB)", "Structured Query Language (SQL)", "Design Pattern", "SQL Joins"],
+        "thumbnail": "",
+        "title": "Forget SQL Joins — These 4 Patterns Made My Queries 10x Faster",
+        "url": "https://medium.com/@Krishnajlathi/forget-sql-joins-these-4-patterns-made-my-queries-10x-faster-c1b052598ba0",
+        "language": "English",
+        "type": "Article",
+        "id": "cd1241ea-6427-426e-9051-4b254209091d"
+    },
+    {
+        "added_on": "01 Nov 2025",
+        "authors": ["Muhammad Raza"],
+        "publication": "Muhammad Raza",
+        "published_on": "28 Oct 2024",
+        "read": false,
+        "is_paid": false,
+        "rating": null,
+        "tags": ["DevOps", "Docker", "Python", "Linux"],
+        "thumbnail": "",
+        "title": "Understanding Docker Internals: Building a Container Runtime in Python",
+        "url": "https://muhammadraza.me/2024/building-container-runtime-python/",
+        "language": "English",
+        "type": "Article",
+        "id": "e5ddd88c-c7d9-4f87-b090-51527918d625"
+    },
+    {
+        "added_on": "01 Nov 2025",
+        "authors": [
+            "Neil Phan"
+        ],
+        "publication": "AI Fire",
+        "published_on": "",
+        "read": false,
+        "is_paid": false,
+        "rating": null,
+        "tags": [
+            "Artificial Intelligence (AI)",
+            "Generative AI",
+            "Large Language Model (LLM)",
+            "Latency Consistency Model (LCM)",
+            "Language Action Model (LAM)",
+            "Mixture of Experts (MoE)",
+            "Vision Language Model (VLM)",
+            "Small Language Model (SLM)",
+            "Masked Language Model (MLM)",
+            "Segment Anything Model (SAM)"
+        ],
+        "thumbnail": "",
+        "title": "Think AI Is Just LLMs? You're Missing These 8 Key Models",
+        "url": "https://www.aifire.co/p/think-ai-is-just-llms-you-re-missing-these-8-key-models",
+        "language": "English",
+        "type": "Article",
+        "id": "789b2523-80b2-4efa-9e06-94166db1c263"
+    },
+    {
+        "added_on": "01 Nov 2025",
+        "authors": [
+            "Josh W Comeau"
+        ],
+        "publication": "Josh W Comeau",
+        "published_on": "",
+        "read": false,
+        "is_paid": false,
+        "rating": null,
+        "tags": [
+            "Frontend",
+            "Styling",
+            "Cascading Style Sheets (CSS)",
+            "Programming language Concepts",
+            "Animations"
+        ],
+        "thumbnail": "",
+        "title": "Springs and Bounces in Native CSS",
+        "url": "https://www.joshwcomeau.com/animation/linear-timing-function/",
+        "language": "English",
+        "type": "Article",
+        "id": "dc72ecc2-9a0c-4fe9-87c8-00654d8c6468"
+    },
+    {
+        "added_on": "01 Nov 2025",
+        "authors": [
+            "Muhammad Usman"
+        ],
+        "publication": "Dev.to",
+        "published_on": "",
+        "read": false,
+        "is_paid": false,
+        "rating": null,
+        "tags": [
+            "HTML",
+            "Frontend",
+            "Accessible Rich Internet Applications (ARIA)",
+            "ARIA Attributes"
+        ],
+        "thumbnail": "",
+        "title": "99% of Developers Don’t Know These ARIA Attributes Exist",
+        "url": "https://dev.to/web_dev-usman/99-of-developers-dont-know-these-aria-attributes-exist-19j0",
+        "language": "English",
+        "type": "Article",
+        "id": "0187431e-5e29-4175-95ab-b1df1839364d"
+    },
+    {
+        "added_on": "01 Nov 2025",
+        "authors": [
+            "Khuyen Tran"
+        ],
+        "publication": "Codecut AI",
+        "published_on": "",
+        "read": false,
+        "is_paid": false,
+        "rating": null,
+        "tags": [
+            "Programming language Concepts",
+            "Python",
+            "Faker",
+            "Test Data",
+            "Testing"
+        ],
+        "thumbnail": "",
+        "title": "Faker: Generate Realistic Test Data in Python with One Line of Code",
+        "url": "https://codecut.ai/faker-python-generate-test-data/",
+        "language": "English",
+        "type": "Article",
+        "id": "66470e35-da1d-42c3-b3e5-164e34b6f310"
+    },
+    {
+        "added_on": "01 Nov 2025",
+        "authors": [
+            "Stephen Gruppetta"
+        ],
+        "publication": "Real Python",
+        "published_on": "",
+        "read": false,
+        "is_paid": false,
+        "rating": null,
+        "tags": [
+            "Programming language Concepts",
+            "Python",
+            "Dunder Methods"
+        ],
+        "thumbnail": "",
+        "title": "When Should You Use .__repr__() vs .__str__() in Python?",
+        "url": "https://realpython.com/python-repr-vs-str/",
+        "language": "English",
+        "type": "Article",
+        "id": "91420743-27f2-4a85-b1ed-06ee339d401c"
+    },
+    {
+        "added_on": "01 Nov 2025",
+        "authors": [
+            "tr_cn"
+        ],
+        "publication": "Pixels Tech",
+        "published_on": "",
+        "read": true,
+        "is_paid": false,
+        "rating": "9",
+        "tags": [
+            "Programming language Concepts",
+            "Python",
+            "Python Decorators",
+            "Design Pattern",
+            "Singleton Design Pattern"
+        ],
+        "thumbnail": "",
+        "title": "Please Stop Asking About Singleton in Python",
+        "url": "https://www.pixelstech.net/article/1754987478-please-stop-asking-about-singleton-in-python",
+        "language": "English",
+        "type": "Article",
+        "id": "363192fa-9321-4ff1-93bd-6c4ee2cdf420"
+    },
+    {
         "added_on": "24th Oct 2025",
         "authors": [
             "Vanessa Madison"
